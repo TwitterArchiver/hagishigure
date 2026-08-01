@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1982412146752586209",
+    "created_at": "2025-10-26T11:41:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T12:41:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982412146752586209"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HYuusui1999/st…",
+          "end": 120,
+          "expanded_url": "https://twitter.com/HYuusui1999/status/1982400991015424218",
+          "start": 97,
+          "url": "https://t.co/oeVYWLuBBM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982412146752586209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982400991015424218",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯嗯…其實Lumi的想法我也能理解，畢竟當初我和軟果糖吵的時候也是差不多喵（\n這種類似的我在很多人身上看見過喵，薩拉銼加，軟果糖，Melody，乃至銀喵這種沒有這么激進的其實都是同一類情感喵。 https://t.co/oeVYWLuBBM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1982400991015424218].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1982400991015424218",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1982400991015424218"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1982412146752586209",
+        "created_at": "2025-10-26T11:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T12:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982412146752586209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HYuusui1999/st…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/HYuusui1999/status/1982400991015424218",
+              "start": 97,
+              "url": "https://t.co/oeVYWLuBBM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982412146752586209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982400991015424218",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯嗯…其實Lumi的想法我也能理解，畢竟當初我和軟果糖吵的時候也是差不多喵（\n這種類似的我在很多人身上看見過喵，薩拉銼加，軟果糖，Melody，乃至銀喵這種沒有這么激進的其實都是同一類情感喵。 https://t.co/oeVYWLuBBM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 99,
+          "like_count": 5776,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 1156
+        },
+        "username": "hagishigure",
+        "verified": true
+      }
+    ]
+  }
+}

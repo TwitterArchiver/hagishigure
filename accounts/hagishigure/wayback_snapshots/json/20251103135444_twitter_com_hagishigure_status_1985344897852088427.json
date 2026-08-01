@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1985324118506660173",
+    "created_at": "2025-11-03T13:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T14:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985344897852088427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1227603655903399936",
+          "start": 0,
+          "username": "K66cheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985344897852088427",
+    "in_reply_to_user_id": "1227603655903399936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985324118506660173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K66cheng 肝：50mg一天。我沒意見。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1985324118506660173",
+        "created_at": "2025-11-03T13:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T14:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985344897852088427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1227603655903399936",
+              "start": 0,
+              "username": "K66cheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985344897852088427",
+        "in_reply_to_user_id": "1227603655903399936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985324118506660173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K66cheng 肝：50mg一天。我沒意見。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1227603655903399936",
+        "conversation_id": "1985324118506660173",
+        "created_at": "2025-11-03T12:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T13:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985324118506660173"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985324118506660173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1天色12.5mg1年需要4562.5mg\n1盒色1片50mg50片共2500mg\n1年需要1.825盒1盒350元共计638.75元\n10年6387.5元50年31937.5元\n\n1天补早晚2mg共4mg1年需要1460mg\n1盒泰补是1片2mg84片共168mg\n1年大约需要8.69盒1盒200元共计1738元\n10年17380元50年86900元\n\n10年共23767.5元\n50年共118837.5元"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 103,
+          "like_count": 7085,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 1523
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-12T14:42:44.000Z",
+        "description": "伪物空城｜\nMtX HRT 天残党｜\n厨娘女仆 | \n瑶瑶@GK98815227｜\n迪迪@Curandro｜\n皮肤饥渴症终末期患者｜\n缺爱｜\n喵喵｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "GK98815227"
+              },
+              {
+                "end": 53,
+                "start": 44,
+                "username": "Curandro"
+              }
+            ]
+          }
+        },
+        "id": "1227603655903399936",
+        "location": "北京",
+        "name": "蓝粉白糖🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1892567203943252339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1297561582734467072/wWXPtOUY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5703,
+          "following_count": 2584,
+          "like_count": 20127,
+          "listed_count": 27,
+          "media_count": 1121,
+          "tweet_count": 15829
+        },
+        "username": "K66cheng",
+        "verified": false
+      }
+    ]
+  }
+}

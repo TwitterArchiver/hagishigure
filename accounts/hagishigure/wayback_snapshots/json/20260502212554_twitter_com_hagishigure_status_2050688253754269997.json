@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Careers",
+          "id": "847544972781826048",
+          "name": "Careers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Recruitment",
+          "id": "961961812492148736",
+          "name": "Recruitment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2050688253754269997",
+    "created_at": "2026-05-02T21:25:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T22:25:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050688253754269997"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Schnee_Irene_/…",
+          "end": 154,
+          "expanded_url": "https://twitter.com/Schnee_Irene_/status/2050551186340905032",
+          "start": 131,
+          "url": "https://t.co/dhDPJhURRz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050688253754269997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050551186340905032",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "无论你看amber什么看法。我对你的看法是老顽固。\n不管你老不老，你的论点的位置对现代法国，北美，意大利学界来说已经是老顽固了，甚至没提到现代美国分析哲学界，现代德国那些德棍，也比纽约大学比较文学系派系，加州大学修辞学派系，杜克大学文学系主要吵的东西落后很远。 https://t.co/dhDPJhURRz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Careers",
+              "id": "847544972781826048",
+              "name": "Careers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Recruitment",
+              "id": "961961812492148736",
+              "name": "Recruitment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2050688253754269997",
+        "created_at": "2026-05-02T21:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T22:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050688253754269997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Schnee_Irene_/…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/Schnee_Irene_/status/2050551186340905032",
+              "start": 131,
+              "url": "https://t.co/dhDPJhURRz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050688253754269997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050551186340905032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无论你看amber什么看法。我对你的看法是老顽固。\n不管你老不老，你的论点的位置对现代法国，北美，意大利学界来说已经是老顽固了，甚至没提到现代美国分析哲学界，现代德国那些德棍，也比纽约大学比较文学系派系，加州大学修辞学派系，杜克大学文学系主要吵的东西落后很远。 https://t.co/dhDPJhURRz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1526630725851787264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Careers",
+              "id": "847544972781826048",
+              "name": "Careers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Recruitment",
+              "id": "961961812492148736",
+              "name": "Recruitment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2050551186340905032",
+        "created_at": "2026-05-02T12:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T13:12:09.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050548900059324751",
+          "2050549279333446081",
+          "2050549743416377534",
+          "2050551186340905032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "The Stanford Encyclopedia of Philosophy organizes scholars from around the world in philosophy and related disciplines to create and maintain an up-to-date reference work. Co-Principal Editors: Edward N. Zalta and Uri Nodelman The Offices of the Provost, the Dean of Humanities and Sciences, and the Dean of Research, Stanford University The SEP Library Fund: containing contributions from the National Endowment for the Humanities and the membership dues of academic libraries that have joined SEPIA. The",
+              "display_url": "plato.stanford.edu",
+              "end": 114,
+              "expanded_url": "http://plato.stanford.edu",
+              "start": 91,
+              "status": 200,
+              "title": "Stanford Encyclopedia of Philosophy",
+              "unwound_url": "https://plato.stanford.edu/",
+              "url": "https://t.co/2qGYaG5yIN"
+            },
+            {
+              "display_url": "iep.utm.edu",
+              "end": 144,
+              "expanded_url": "http://iep.utm.edu",
+              "images": [
+                {
+                  "height": 823,
+                  "url": "https://pbs.twimg.com/news_img/2049221664844435456/dllIYEr8?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049221664844435456/dllIYEr8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 121,
+              "status": 200,
+              "title": "Internet Encyclopedia of Philosophy | An encyclopedia of philosophy articles written by professional philosophers.",
+              "unwound_url": "https://iep.utm.edu/",
+              "url": "https://t.co/w2Dmy57CBP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050551186340905032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "plato.stanford.edu",
+                "end": 114,
+                "expanded_url": "http://plato.stanford.edu",
+                "start": 91,
+                "url": "https://t.co/BBWYowqRs3"
+              },
+              {
+                "display_url": "iep.utm.edu",
+                "end": 144,
+                "expanded_url": "http://iep.utm.edu",
+                "start": 121,
+                "url": "https://t.co/X89hWOKoPI"
+              },
+              {
+                "display_url": "philpapers.org",
+                "end": 180,
+                "expanded_url": "http://philpapers.org",
+                "start": 157,
+                "url": "https://t.co/j2tiWPwMTj"
+              },
+              {
+                "display_url": "philarchive.org",
+                "end": 217,
+                "expanded_url": "http://philarchive.org",
+                "start": 194,
+                "url": "https://t.co/yCGWHyEH9b"
+              },
+              {
+                "display_url": "philpapers.org/browse/philoso…",
+                "end": 736,
+                "expanded_url": "https://philpapers.org/browse/philosophy-of-gender",
+                "start": 713,
+                "url": "https://t.co/pQbtYExyJy"
+              }
+            ]
+          },
+          "text": "对amber转型的事想分享一些自己的想法：\n\n1. KOL不能做你一辈子的嘴替。\n\n求人以鱼不如求人以渔，很多很好的知识/思想资源都是免费开放的，以我了解的（分析）哲学来说，SEP（https://t.co/BBWYowqRs3）, IEP（https://t.co/X89hWOKoPI）, PhilPaper（https://t.co/j2tiWPwMTj）和PhilArchive（https://t.co/yCGWHyEH9b）都是很好用的开放资源。前两者是经过同行评议的哲学百科，后两者一个是由哲学界共同维护的哲学索引和书目数据库，一个是开放获取的文献数据库（很多哲学家会把自己的论文提前发布在上面，类似哲学界的预印本网站）。\n\n想要利用哲学知识讨论性少数话题并不需要十分深厚的哲学背景，了解话题相关的专门知识就可以了，比如伦理学/元伦理学、政治哲学，也可以顺带学习一下逻辑学，掌握理解分析和清楚表达的能力。\n\n哲学的各种领域，包括我刚提到的，都有很多初学者友好的导论读物，像我读过觉得不错的就有根斯勒的《逻辑学导论》（中文版翻译不太好，推荐读英文版，也不会很难，只要高中水平的英语就可以了）、乔纳森·沃尔夫的《道德哲学》和《政治哲学》、马克·范·罗依恩的《元伦理学》，不需要任何背景知识就可以上手。除了这些，还有公开课，比如我很推荐耶鲁大学雪莉·卡根教授的\"死亡\"专题哲学课，看完会对“好的哲学思考”有一个很直观的感受。\n\n相关话题的哲学论文也是，只需要懂英语就可以读。（不懂也没关系，可以浏览器打开用划词翻译插件，或者下载下来用谷歌翻译网页端全文翻译。）我上文提到的PhilPaper就有一个专门关于性别的分区（https://t.co/pQbtYExyJy）。\n\n对于非开放的资源，大学生可以试试用校园网访问，学校买了数据库就可以阅读和下载，如果没有买，或者是非大学生，可以复制文献的Doi号，用Sci-Hub下载，或者复制标题到Z-library, Library Genesis上搜索（三者都可以在它们的维基百科词条上找到最新网址）。\n\n2. 我不觉得性别研究对性少数问题（尤其是跨性别问题）是合适的资源。\n\n性别研究真的太杂了。想研究“性别是什么”，有性别哲学；想研究性别的规范，有规范伦理学；想研究性别的制度/政策问题，有政治哲学和政治学；想研究性别的社会功能和社会现象，有社会学…… 这样的例子还可以举很多。我想说的是，对于具体的问题，总是有比性别研究更好的学科资源，只在寻求一种全局的视角的时候，性别研究看起来才比较合适，但就我对性别研究有限的了解，我也不认为性别研究能在这点上提供一个好的答案。\n\n3. 只是觉得少了她很无聊的话，我推荐去刷剧。我爱看的几部大众口味高分剧：怪奇物语、致命女人、后翼弃兵、黑袍纠察队、性教育、Euphoria。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 2293,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "对amber转型的事想分享一些自己的想法：\n\n1. KOL不能做你一辈子的嘴替。\n\n求人以鱼不如求人以渔，很多很好的知识/思想资源都是免费开放的，以我了解的（分析）哲学来说，SEP（https://t.co/2qGYaG5yIN）, IEP（https://t.co/w2Dmy57CBP）,"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 149,
+          "like_count": 28172,
+          "listed_count": 2,
+          "media_count": 752,
+          "tweet_count": 6699
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-17T18:28:42.000Z",
+        "description": "not (entirely) a mean girl",
+        "id": "1526630725851787264",
+        "name": "Schnee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027577216964694018/TfjQGW6U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 23,
+          "like_count": 2019,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 664
+        },
+        "username": "Schnee_Irene_",
+        "verified": false
+      }
+    ]
+  }
+}

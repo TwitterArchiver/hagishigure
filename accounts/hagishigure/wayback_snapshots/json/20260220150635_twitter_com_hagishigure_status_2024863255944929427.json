@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2024852917916746037",
+    "created_at": "2026-02-20T15:06:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T16:06:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024863255944929427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1928254131782782976",
+          "start": 0,
+          "username": "8zhu9ye6qing4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024863255944929427",
+    "in_reply_to_user_id": "1928254131782782976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024862848560910555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8zhu9ye6qing4 因为它们要抓女性，那么就让女性来击倒它们。如果不这么做，它们还会觉得可以做第二次。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2024852917916746037",
+        "created_at": "2026-02-20T15:06:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T16:06:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024863255944929427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1928254131782782976",
+              "start": 0,
+              "username": "8zhu9ye6qing4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024863255944929427",
+        "in_reply_to_user_id": "1928254131782782976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024862848560910555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8zhu9ye6qing4 因为它们要抓女性，那么就让女性来击倒它们。如果不这么做，它们还会觉得可以做第二次。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928254131782782976",
+        "conversation_id": "2024852917916746037",
+        "created_at": "2026-02-20T15:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T16:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024862848560910555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024862848560910555",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024852917916746037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure 海外男华人和海外非二元华人不得参与此运动？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 134,
+          "like_count": 20821,
+          "listed_count": 0,
+          "media_count": 588,
+          "tweet_count": 5092
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-30T00:56:35.000Z",
+        "description": "我得留下点什么｜大概是日记本｜非二元｜无性恋｜代词是他｜敌人来了有蜘蛛切🕷️🚫｜毛泽东思想🚫｜🏳️‍🌈🏳️‍⚧️🏴🏴‍☠️",
+        "id": "1928254131782782976",
+        "location": "距离你89.64米",
+        "name": "竹叶青⛩️🎌",
+        "pinned_tweet_id": "2021261011123073031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940047964883353601/f3_Wd363_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 182,
+          "like_count": 4448,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 918
+        },
+        "username": "8zhu9ye6qing4",
+        "verified": false
+      }
+    ]
+  }
+}

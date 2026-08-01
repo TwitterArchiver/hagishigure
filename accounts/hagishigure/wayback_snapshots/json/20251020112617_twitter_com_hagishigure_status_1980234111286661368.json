@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1980234111286661368",
+    "created_at": "2025-10-20T11:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T12:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980234111286661368"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Melanie_Vogel_…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/Melanie_Vogel_/status/1647352302171308036",
+          "start": 50,
+          "url": "https://t.co/OeESCLOPRV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980234111286661368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1647352302171308036",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "。我始終認為科研工作者應該單獨一個地區。免得被政治影響。看到這個po文我更加認可科研工作者獨立了。 https://t.co/OeESCLOPRV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1647352291442192384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FtySLldWcAArzDL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1980234111286661368",
+        "created_at": "2025-10-20T11:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T12:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980234111286661368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Melanie_Vogel_…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/Melanie_Vogel_/status/1647352302171308036",
+              "start": 50,
+              "url": "https://t.co/OeESCLOPRV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980234111286661368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1647352302171308036",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。我始終認為科研工作者應該單獨一個地區。免得被政治影響。看到這個po文我更加認可科研工作者獨立了。 https://t.co/OeESCLOPRV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1647352291442192384"
+          ]
+        },
+        "author_id": "46107960",
+        "conversation_id": "1647352302171308036",
+        "created_at": "2023-04-15T21:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2023-04-15T22:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1647352302171308036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H06tK1IeHe",
+              "end": 128,
+              "expanded_url": "https://x.com/Melanie_Vogel_/status/1647352302171308036/photo/1",
+              "media_key": "3_1647352291442192384",
+              "start": 105,
+              "url": "https://t.co/H06tK1IeHe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1647352302171308036",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1279,
+          "impression_count": 28338696,
+          "like_count": 3560,
+          "quote_count": 8064,
+          "reply_count": 219,
+          "retweet_count": 367
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "Sex is good but have you tried having your country shutting down its last nuclear power plants in 30 mn? https://t.co/H06tK1IeHe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 95,
+          "like_count": 4503,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 802
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-10T13:13:35.000Z",
+        "description": "Sénatrice | French Senator. J'ai quitté X | I left X. Retrouvons-nous ailleurs (lien ci-dessous) | Let's meet somewhere else (link below)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/_melanie_vogel_",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/_melanie_vogel_",
+                "start": 0,
+                "url": "https://t.co/SWLSuEhBUR"
+              }
+            ]
+          }
+        },
+        "id": "46107960",
+        "location": "Marseille, Bruxelles",
+        "name": "Mélanie Vogel",
+        "pinned_tweet_id": "1881363215403381134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1466506186845523983/4qV1e-PB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48945,
+          "following_count": 1766,
+          "like_count": 15591,
+          "listed_count": 339,
+          "media_count": 1275,
+          "tweet_count": 9972
+        },
+        "url": "https://t.co/SWLSuEhBUR",
+        "username": "Melanie_Vogel_",
+        "verified": true
+      }
+    ]
+  }
+}

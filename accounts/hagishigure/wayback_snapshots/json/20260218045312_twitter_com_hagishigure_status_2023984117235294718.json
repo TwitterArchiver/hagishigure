@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023984113561272320"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "2023984117235294718",
+    "created_at": "2026-02-18T04:53:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T05:53:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023984117235294718"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/H2qmyREedm",
+          "end": 29,
+          "expanded_url": "https://x.com/hagishigure/status/2023984117235294718/photo/1",
+          "media_key": "3_2023984113561272320",
+          "start": 6,
+          "url": "https://t.co/H2qmyREedm"
+        },
+        {
+          "display_url": "x.com/hagishigure/st…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/hagishigure/status/2023782716702179710",
+          "start": 30,
+          "url": "https://t.co/7645vYB8iB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023984117235294718",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023782716702179710",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "警钟敲烂. https://t.co/H2qmyREedm https://t.co/7645vYB8iB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 225,
+        "media_key": "3_2023984113561272320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBai0-fagAAlMRt.jpg",
+        "width": 907
+      },
+      {
+        "height": 300,
+        "media_key": "3_2023782705079439360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBXrpdbW0AAZ-wb.jpg",
+        "width": 1233
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023984113561272320"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "2023984117235294718",
+        "created_at": "2026-02-18T04:53:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T05:53:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023984117235294718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H2qmyREedm",
+              "end": 29,
+              "expanded_url": "https://x.com/hagishigure/status/2023984117235294718/photo/1",
+              "media_key": "3_2023984113561272320",
+              "start": 6,
+              "url": "https://t.co/H2qmyREedm"
+            },
+            {
+              "display_url": "x.com/hagishigure/st…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/hagishigure/status/2023782716702179710",
+              "start": 30,
+              "url": "https://t.co/7645vYB8iB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023984117235294718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023782716702179710",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "警钟敲烂. https://t.co/H2qmyREedm https://t.co/7645vYB8iB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023782705079439360"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "2023782716702179710",
+        "created_at": "2026-02-17T15:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T16:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023782716702179710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pCjaqq4ewc",
+              "end": 48,
+              "expanded_url": "https://x.com/hagishigure/status/2023782716702179710/photo/1",
+              "media_key": "3_2023782705079439360",
+              "start": 25,
+              "url": "https://t.co/pCjaqq4ewc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023782716702179710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2182,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "警钟长鸣。\n男的哪有女的懂女的，当les是对的。 https://t.co/pCjaqq4ewc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 131,
+          "like_count": 20216,
+          "listed_count": 0,
+          "media_count": 575,
+          "tweet_count": 4899
+        },
+        "username": "hagishigure",
+        "verified": false
+      }
+    ]
+  }
+}

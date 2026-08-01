@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979978232712540160"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1979925977841975590",
+    "created_at": "2025-10-19T18:29:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T19:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979978235028156909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1562153864",
+          "start": 0,
+          "username": "BigMiIkBottIe"
+        },
+        {
+          "end": 21,
+          "id": "1374034349700444161",
+          "start": 15,
+          "username": "pizyj"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zuXwhc4W9L",
+          "end": 51,
+          "expanded_url": "https://x.com/hagishigure/status/1979978235028156909/photo/1",
+          "media_key": "3_1979978232712540160",
+          "start": 28,
+          "url": "https://t.co/zuXwhc4W9L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979978235028156909",
+    "in_reply_to_user_id": "1562153864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979951932589351076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BigMiIkBottIe @pizyj 這題我會🐱 https://t.co/zuXwhc4W9L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 331,
+        "media_key": "3_1979978232712540160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3pLtlfWMAAk1FF.jpg",
+        "width": 710
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979978232712540160"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1979925977841975590",
+        "created_at": "2025-10-19T18:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T19:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979978235028156909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1562153864",
+              "start": 0,
+              "username": "BigMiIkBottIe"
+            },
+            {
+              "end": 21,
+              "id": "1374034349700444161",
+              "start": 15,
+              "username": "pizyj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zuXwhc4W9L",
+              "end": 51,
+              "expanded_url": "https://x.com/hagishigure/status/1979978235028156909/photo/1",
+              "media_key": "3_1979978232712540160",
+              "start": 28,
+              "url": "https://t.co/zuXwhc4W9L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979978235028156909",
+        "in_reply_to_user_id": "1562153864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979951932589351076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BigMiIkBottIe @pizyj 這題我會🐱 https://t.co/zuXwhc4W9L"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1562153864",
+        "conversation_id": "1979925977841975590",
+        "created_at": "2025-10-19T16:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T17:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979951932589351076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1374034349700444161",
+              "start": 0,
+              "username": "pizyj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979951932589351076",
+        "in_reply_to_user_id": "1374034349700444161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979925977841975590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pizyj 貓前後"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 94,
+          "like_count": 4294,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 758
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2013-07-02T03:54:31.000Z",
+        "description": "400 mL 的大容量奶瓶｜奶牛貓貓娘｜貓咪中心主義｜National Honour ID: XXKM220803KCH55P",
+        "id": "1562153864",
+        "location": "117 公館，廚房的櫃子裏",
+        "name": "餵貓用奶瓶 🍼😺 ᠰᡠᠨ ᠰᡠᠴᡝ ᡴᡝᠰᡳᡴᡝ",
+        "pinned_tweet_id": "1678596763320729600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1570667703274450944/uIwnUF6R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 794,
+          "like_count": 124841,
+          "listed_count": 8,
+          "media_count": 825,
+          "tweet_count": 21388
+        },
+        "username": "BigMiIkBottIe",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-22T16:24:59.000Z",
+        "description": "什么猫？什么猫？猞猁猫？灵白猫？猫小白？是switch/sub/m，厌蠢，最喜欢体验新鲜东西。现在和@rollingcat0100住一起，刷新了一个主子@HzShibari86 ，一个大猫@NekomiyaKoharu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "rollingcat0100"
+              },
+              {
+                "end": 88,
+                "start": 76,
+                "username": "HzShibari86"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "NekomiyaKoharu"
+              }
+            ]
+          }
+        },
+        "id": "1374034349700444161",
+        "location": "猫罐头",
+        "name": "喵小白叫灵白猫（不是狗）",
+        "pinned_tweet_id": "1887077652684824621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899500314749030403/grMD1iNl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61885,
+          "following_count": 5445,
+          "like_count": 43740,
+          "listed_count": 81,
+          "media_count": 9906,
+          "tweet_count": 54752
+        },
+        "username": "pizyj",
+        "verified": false
+      }
+    ]
+  }
+}

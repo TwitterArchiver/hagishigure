@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "1990372599751495708",
+    "created_at": "2025-11-18T10:09:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T11:09:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990724067108720830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1673318575195717634",
+          "start": 0,
+          "username": "Chloehappy_0824"
+        },
+        {
+          "end": 26,
+          "id": "1581478431274983424",
+          "start": 17,
+          "username": "zhoynqi3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990724067108720830",
+    "in_reply_to_user_id": "1673318575195717634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990718459693457502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloehappy_0824 @zhoynqi3 但是中國很多人喜歡vocaloid，vocaloid常見的和絃進行很多都和Math-rock融合j-pop有關🙌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1990372599751495708",
+        "created_at": "2025-11-18T10:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T11:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990724067108720830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1673318575195717634",
+              "start": 0,
+              "username": "Chloehappy_0824"
+            },
+            {
+              "end": 26,
+              "id": "1581478431274983424",
+              "start": 17,
+              "username": "zhoynqi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990724067108720830",
+        "in_reply_to_user_id": "1673318575195717634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990718459693457502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloehappy_0824 @zhoynqi3 但是中國很多人喜歡vocaloid，vocaloid常見的和絃進行很多都和Math-rock融合j-pop有關🙌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1673318575195717634",
+        "conversation_id": "1990372599751495708",
+        "created_at": "2025-11-18T09:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T10:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990718459693457502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            },
+            {
+              "end": 22,
+              "id": "1581478431274983424",
+              "start": 13,
+              "username": "zhoynqi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990718459693457502",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990591145018339471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure @zhoynqi3 基本不可能了我感觉。。音乐在国内都算副科中的副科。。。重视程度低的吓人，至少我一路上学上过来根本没多少人在意音乐课学了什么，我还算是一路上的发达地区的重点学校了。只会学那几门要考试的主课。。。但是这样的艺术普及真的是亟待进行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 109,
+          "like_count": 9505,
+          "listed_count": 0,
+          "media_count": 319,
+          "tweet_count": 2204
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-26T13:13:45.000Z",
+        "description": "可以叫我淡淡鱼 我是一条鱼/除了小女孩们 我不聊骚也不加别的联系方式 希望推特和现生分开谢谢理解！如果你长的像基努里维斯或者克里斯海当我没说 允许私信",
+        "id": "1673318575195717634",
+        "location": "Night City",
+        "name": "电子鱼",
+        "pinned_tweet_id": "1978178918910718373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988565926044913664/r6wZfYoo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 593,
+          "like_count": 6130,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 977
+        },
+        "username": "Chloehappy_0824",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "悠悠的信",
+        "pinned_tweet_id": "1976511377679487385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990676879624572928/JaJp2kTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3486,
+          "following_count": 182,
+          "like_count": 26249,
+          "listed_count": 16,
+          "media_count": 254,
+          "tweet_count": 6198
+        },
+        "username": "zhoynqi3",
+        "verified": false
+      }
+    ]
+  }
+}

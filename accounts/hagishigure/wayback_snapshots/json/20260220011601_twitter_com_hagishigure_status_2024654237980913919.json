@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024654224458420224"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "2024654237980913919",
+    "created_at": "2026-02-20T01:16:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T02:16:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024654237980913919"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OWFjpdAqcc",
+          "end": 38,
+          "expanded_url": "https://x.com/hagishigure/status/2024654237980913919/photo/1",
+          "media_key": "3_2024654224458420224",
+          "start": 15,
+          "url": "https://t.co/OWFjpdAqcc"
+        },
+        {
+          "display_url": "x.com/amber_toffee/s…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/amber_toffee/status/2024633492861046891",
+          "start": 39,
+          "url": "https://t.co/1lpxsghBaY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024654237980913919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024633492861046891",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "預料之中的百分百專偶，唉唉。 https://t.co/OWFjpdAqcc https://t.co/1lpxsghBaY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_2024654224458420224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBkESkHWkAAN71o.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1206,
+        "media_key": "3_2024633478923390976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBjxbA-XkAA5PY3.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024654224458420224"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "2024654237980913919",
+        "created_at": "2026-02-20T01:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T02:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024654237980913919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OWFjpdAqcc",
+              "end": 38,
+              "expanded_url": "https://x.com/hagishigure/status/2024654237980913919/photo/1",
+              "media_key": "3_2024654224458420224",
+              "start": 15,
+              "url": "https://t.co/OWFjpdAqcc"
+            },
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/amber_toffee/status/2024633492861046891",
+              "start": 39,
+              "url": "https://t.co/1lpxsghBaY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024654237980913919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024633492861046891",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "預料之中的百分百專偶，唉唉。 https://t.co/OWFjpdAqcc https://t.co/1lpxsghBaY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024633478923390976"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "conversation_id": "2024633492861046891",
+        "created_at": "2026-02-19T23:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T00:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024633492861046891"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d5D2TOniDN",
+              "end": 31,
+              "expanded_url": "https://x.com/amber_toffee/status/2024633492861046891/photo/1",
+              "media_key": "3_2024633478923390976",
+              "start": 8,
+              "url": "https://t.co/d5D2TOniDN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024633492861046891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 616,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "意料之中的结果 https://t.co/d5D2TOniDN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 133,
+          "like_count": 20658,
+          "listed_count": 0,
+          "media_count": 586,
+          "tweet_count": 5031
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "phd @wgsi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "☭ 🏳️‍⚧️",
+        "name": "amber",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22171,
+          "following_count": 2582,
+          "like_count": 36508,
+          "listed_count": 7,
+          "media_count": 450,
+          "tweet_count": 19181
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

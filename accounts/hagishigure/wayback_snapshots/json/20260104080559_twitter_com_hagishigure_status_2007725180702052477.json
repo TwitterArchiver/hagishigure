@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2007688789423276071",
+    "created_at": "2026-01-04T08:05:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T09:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007725180702052477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1578886311141777408",
+          "start": 0,
+          "username": "niyonkyu"
+        },
+        {
+          "end": 22,
+          "id": "3012350599",
+          "start": 10,
+          "username": "__Ju___Ju__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007725180702052477",
+    "in_reply_to_user_id": "1578886311141777408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007724218612625895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niyonkyu @__Ju___Ju__ 你永遠是中國人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2007688789423276071",
+        "created_at": "2026-01-04T08:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T09:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007725180702052477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1578886311141777408",
+              "start": 0,
+              "username": "niyonkyu"
+            },
+            {
+              "end": 22,
+              "id": "3012350599",
+              "start": 10,
+              "username": "__Ju___Ju__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007725180702052477",
+        "in_reply_to_user_id": "1578886311141777408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007724218612625895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niyonkyu @__Ju___Ju__ 你永遠是中國人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1578886311141777408",
+        "conversation_id": "2007688789423276071",
+        "created_at": "2026-01-04T08:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T09:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007724218612625895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            },
+            {
+              "end": 25,
+              "id": "3012350599",
+              "start": 13,
+              "username": "__Ju___Ju__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007724218612625895",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007723560010428815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure @__Ju___Ju__ 零人在意。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 119,
+          "like_count": 14360,
+          "listed_count": 0,
+          "media_count": 400,
+          "tweet_count": 3317
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-08T23:13:34.000Z",
+        "description": "🚪12t右 /会在铁轨上看见单脚阿伯吗 /報 互fo请私信 /反驳型人格",
+        "id": "1578886311141777408",
+        "location": "きさらぎ駅",
+        "name": "鲭鱼🐟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774361627334410240/Hft50uFu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1752,
+          "following_count": 1245,
+          "like_count": 81285,
+          "listed_count": 4,
+          "media_count": 1461,
+          "tweet_count": 18009
+        },
+        "username": "niyonkyu",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-07T12:20:03.000Z",
+        "description": "收集毛绒娃娃🐰🍊/#すこ部 推し /恋人玖玖@GiveProofToLove 好诡秘@mukdengise ALL YOU NEED IS LOVE🌷",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 9,
+                "tag": "すこ部"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "GiveProofToLove"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "mukdengise"
+              }
+            ]
+          }
+        },
+        "id": "3012350599",
+        "location": "Vorkuta-5, USSR ",
+        "name": "小学桔🎄",
+        "pinned_tweet_id": "1571850748140621824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003151995713310720/nNr9Pub7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4180,
+          "following_count": 476,
+          "like_count": 39901,
+          "listed_count": 18,
+          "media_count": 2954,
+          "tweet_count": 41187
+        },
+        "username": "__Ju___Ju__",
+        "verified": true
+      }
+    ]
+  }
+}

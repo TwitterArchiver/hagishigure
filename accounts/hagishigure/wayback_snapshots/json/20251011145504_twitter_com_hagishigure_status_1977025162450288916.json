@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1976933499530887576",
+    "created_at": "2025-10-11T14:55:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T15:55:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977025162450288916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1703297947121901568",
+          "start": 0,
+          "username": "xue_zhi2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977025162450288916",
+    "in_reply_to_user_id": "1703297947121901568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976933499530887576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xue_zhi2008 我也想被打🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1205,
+        "media_key": "3_1976933493251936256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G296ibHakAAzIM3.jpg",
+        "width": 1080
+      },
+      {
+        "height": 987,
+        "media_key": "3_1976933493696610306",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G296icxbwAIRv9W.jpg",
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1976933499530887576",
+        "created_at": "2025-10-11T14:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T15:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977025162450288916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1703297947121901568",
+              "start": 0,
+              "username": "xue_zhi2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977025162450288916",
+        "in_reply_to_user_id": "1703297947121901568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976933499530887576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xue_zhi2008 我也想被打🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976933493251936256",
+            "3_1976933493696610306"
+          ]
+        },
+        "author_id": "1703297947121901568",
+        "conversation_id": "1976933499530887576",
+        "created_at": "2025-10-11T08:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T09:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976933499530887576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kx0Xyz5ZP2",
+              "end": 23,
+              "expanded_url": "https://x.com/xue_zhi2008/status/1976933499530887576/photo/1",
+              "media_key": "3_1976933493251936256",
+              "start": 0,
+              "url": "https://t.co/Kx0Xyz5ZP2"
+            },
+            {
+              "display_url": "pic.x.com/Kx0Xyz5ZP2",
+              "end": 23,
+              "expanded_url": "https://x.com/xue_zhi2008/status/1976933499530887576/photo/1",
+              "media_key": "3_1976933493696610306",
+              "start": 0,
+              "url": "https://t.co/Kx0Xyz5ZP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976933499530887576",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 958,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Kx0Xyz5ZP2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 89,
+          "like_count": 2598,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 403
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-17T06:41:15.000Z",
+        "description": "member of @MtFwiki ||\n在读物化生高三牲📝/🏳️‍⚧️⚧/退役CChOer🧪||\n目标是临床医学🏥||比较擅长药理学💊，有机化学🧬\n爱好声乐🎙️，粥p，舞萌萌新玩家\n🤗期待与你相逢ヾ(◍°∇°◍)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "MtFwiki"
+              }
+            ]
+          }
+        },
+        "id": "1703297947121901568",
+        "location": "重庆市",
+        "name": "织不唧",
+        "pinned_tweet_id": "1907327813289730421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964162737019506692/5MTHUnFm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1935,
+          "following_count": 514,
+          "like_count": 7575,
+          "listed_count": 6,
+          "media_count": 700,
+          "tweet_count": 2446
+        },
+        "username": "xue_zhi2008",
+        "verified": false
+      }
+    ]
+  }
+}

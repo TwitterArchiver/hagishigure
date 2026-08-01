@@ -1,0 +1,497 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A movie genre like Action",
+          "id": "87",
+          "name": "Movie Genre"
+        },
+        "entity": {
+          "description": "Documentary",
+          "id": "856976742166048769",
+          "name": "Documentary films"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Documentary",
+          "id": "856976742166048769",
+          "name": "Documentary films"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Movies",
+          "id": "1072936713134071808",
+          "name": "Movies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      }
+    ],
+    "conversation_id": "2021940325930115277",
+    "created_at": "2026-02-12T13:31:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T14:31:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021940325930115277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 23,
+          "id": "1424779836938022913",
+          "start": 10,
+          "username": "amber_toffee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/nakayan0911/st…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/nakayan0911/status/2021616121980547138",
+          "start": 24,
+          "url": "https://t.co/cSXmXXtszL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021940325930115277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021616121980547138",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这才是我上网想看的。@amber_toffee https://t.co/cSXmXXtszL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 564,
+        "media_key": "3_2021616117404635136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA45JdYbkAAP4b4.jpg",
+        "width": 423
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "description": "Documentary",
+              "id": "856976742166048769",
+              "name": "Documentary films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Documentary",
+              "id": "856976742166048769",
+              "name": "Documentary films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Movies",
+              "id": "1072936713134071808",
+              "name": "Movies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          }
+        ],
+        "conversation_id": "2021940325930115277",
+        "created_at": "2026-02-12T13:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T14:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021940325930115277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1424779836938022913",
+              "start": 10,
+              "username": "amber_toffee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/nakayan0911/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/nakayan0911/status/2021616121980547138",
+              "start": 24,
+              "url": "https://t.co/cSXmXXtszL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021940325930115277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021616121980547138",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这才是我上网想看的。@amber_toffee https://t.co/cSXmXXtszL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021616117404635136"
+          ]
+        },
+        "author_id": "2664796897",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "description": "Documentary",
+              "id": "856976742166048769",
+              "name": "Documentary films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Documentary",
+              "id": "856976742166048769",
+              "name": "Documentary films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Movies",
+              "id": "1072936713134071808",
+              "name": "Movies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          }
+        ],
+        "conversation_id": "2021616121980547138",
+        "created_at": "2026-02-11T16:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T17:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021616121980547138"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 131,
+              "start": 126,
+              "tag": "女になる"
+            },
+            {
+              "end": 141,
+              "start": 132,
+              "tag": "ブルーボーイ事件"
+            },
+            {
+              "end": 147,
+              "start": 142,
+              "tag": "となとら"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EdtimoyATn",
+              "end": 171,
+              "expanded_url": "https://x.com/nakayan0911/status/2021616121980547138/photo/1",
+              "media_key": "3_2021616117404635136",
+              "start": 148,
+              "url": "https://t.co/EdtimoyATn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021616121980547138",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 12123,
+          "like_count": 367,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "昨日で性別適合手術を受けて10年が経ちました☺️\nドキュメンタリー映画を撮影していました。\n10年前は映画に出たり、命の恩人のはるな愛さんと共演できる日が来るなんて夢にも思っていませんでした。\n辛いことがあっても、笑顔を絶やさずにこれからも私らしく💕\n#女になる #ブルーボーイ事件 #となとら https://t.co/EdtimoyATn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 130,
+          "like_count": 19395,
+          "listed_count": 0,
+          "media_count": 559,
+          "tweet_count": 4614
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "☭ ♀︎",
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20281,
+          "following_count": 2565,
+          "like_count": 36000,
+          "listed_count": 0,
+          "media_count": 429,
+          "tweet_count": 18764
+        },
+        "username": "amber_toffee",
+        "verified": true
+      },
+      {
+        "created_at": "2014-07-21T03:16:12.000Z",
+        "description": "(🩵) 2025年 秋 映画「ブルーボーイ事件」 (🏳️‍⚧️) 2026年 秋 映画「となりのとらんす少女ちゃん」 (💛) 2017年 ドキュメンタリー映画 「女になる」 (🏳️‍🌈) 学校・企業講師 / 非常勤講師 / 絵本・漫画監修",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nakachin0911?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/nakachin0911?igsh=YnhmeW45a29sc2po&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/EGt3WTjQMt"
+              }
+            ]
+          }
+        },
+        "id": "2664796897",
+        "name": "中川 未悠 Miyu Nakagawa",
+        "pinned_tweet_id": "1989907978770915749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965847286766084097/55WTChS8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2465,
+          "following_count": 118,
+          "like_count": 5662,
+          "listed_count": 12,
+          "media_count": 117,
+          "tweet_count": 3143
+        },
+        "url": "https://t.co/EGt3WTjQMt",
+        "username": "nakayan0911",
+        "verified": false
+      }
+    ]
+  }
+}

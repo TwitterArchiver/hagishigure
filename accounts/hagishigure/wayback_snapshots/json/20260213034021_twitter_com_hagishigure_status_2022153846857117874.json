@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2022152515157217403",
+    "created_at": "2026-02-13T03:40:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T04:40:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022153846857117874"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022153846857117874",
+    "in_reply_to_user_id": "1965393379224944645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022152515157217403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "再来点斯宾诺莎，南茜乔多罗，温尼科特，克里普克，奎因卢梭阿伦特，我的天啊，你就是最酷的弄潮儿。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2022152515157217403",
+        "created_at": "2026-02-13T03:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022153846857117874"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022153846857117874",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022152515157217403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再来点斯宾诺莎，南茜乔多罗，温尼科特，克里普克，奎因卢梭阿伦特，我的天啊，你就是最酷的弄潮儿。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2022152515157217403",
+        "created_at": "2026-02-13T03:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022152515157217403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youy1qwq/statu…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/youy1qwq/status/2021844300384907473",
+              "start": 65,
+              "url": "https://t.co/XI5eqErs0t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022152515157217403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021844300384907473",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不学王阳明不看陆九渊不观察克里希纳缪提不学布洛赫不提朗西埃不来点伯兰特没有哈博斯塔姆也不模仿艾克哈特也不领会龙树的后果就是这样。 https://t.co/XI5eqErs0t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 130,
+          "like_count": 19434,
+          "listed_count": 0,
+          "media_count": 559,
+          "tweet_count": 4625
+        },
+        "username": "hagishigure",
+        "verified": false
+      }
+    ]
+  }
+}

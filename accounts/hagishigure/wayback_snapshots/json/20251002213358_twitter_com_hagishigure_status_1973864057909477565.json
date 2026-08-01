@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973864052138139648"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1973659155409019131",
+    "created_at": "2025-10-02T21:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T22:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973864057909477565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1903701047589343232",
+          "start": 0,
+          "username": "ceobrus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J1nC4LC6nS",
+          "end": 52,
+          "expanded_url": "https://x.com/hagishigure/status/1973864057909477565/photo/1",
+          "media_key": "3_1973864052138139648",
+          "start": 29,
+          "url": "https://t.co/J1nC4LC6nS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973864057909477565",
+    "in_reply_to_user_id": "1903701047589343232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973659155409019131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ceobrus 我也寄了😭因為mask覺得我是機器人😭 https://t.co/J1nC4LC6nS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1208,
+        "media_key": "3_1973864052138139648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2SS5b6bYAAKteR.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1973659152892436485",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2PYiuvaIAUPsAE.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973864052138139648"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1973659155409019131",
+        "created_at": "2025-10-02T21:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T22:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973864057909477565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1903701047589343232",
+              "start": 0,
+              "username": "ceobrus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J1nC4LC6nS",
+              "end": 52,
+              "expanded_url": "https://x.com/hagishigure/status/1973864057909477565/photo/1",
+              "media_key": "3_1973864052138139648",
+              "start": 29,
+              "url": "https://t.co/J1nC4LC6nS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973864057909477565",
+        "in_reply_to_user_id": "1903701047589343232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973659155409019131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ceobrus 我也寄了😭因為mask覺得我是機器人😭 https://t.co/J1nC4LC6nS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973659152892436485"
+          ]
+        },
+        "author_id": "1903701047589343232",
+        "conversation_id": "1973659155409019131",
+        "created_at": "2025-10-02T07:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T08:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973659155409019131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LyUKdnxYKM",
+              "end": 37,
+              "expanded_url": "https://x.com/ceobrus/status/1973659155409019131/photo/1",
+              "media_key": "3_1973659152892436485",
+              "start": 14,
+              "url": "https://t.co/LyUKdnxYKM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973659155409019131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8258,
+          "like_count": 62,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唐毓文换号了啊\n\n全网首b https://t.co/LyUKdnxYKM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n||宣誓人——🪼諾諾||🪼沒有標籤，也不需要定義自己||正因神愛世人，世人才予以神的敬稱||",
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "萩時雨🍥🌈",
+        "pinned_tweet_id": "1965421455061254216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965395319631572992/1JnrHCO3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 1,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-23T06:51:21.000Z",
+        "description": "femboy丨天残党丨bmi18.2丨一米八+天空树丨可互fo丨成分复杂负面碎碎念@ceoberus",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "ceoberus"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ceobrus",
+                "end": 23,
+                "expanded_url": "https://t.me/ceobrus",
+                "start": 0,
+                "url": "https://t.co/jjy2nziSM9"
+              }
+            ]
+          }
+        },
+        "id": "1903701047589343232",
+        "name": "xiaofang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970098823126192129/wLmmXOnS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3445,
+          "following_count": 1639,
+          "like_count": 7883,
+          "listed_count": 6,
+          "media_count": 93,
+          "tweet_count": 1672
+        },
+        "url": "https://t.co/jjy2nziSM9",
+        "username": "ceobrus",
+        "verified": false
+      }
+    ]
+  }
+}

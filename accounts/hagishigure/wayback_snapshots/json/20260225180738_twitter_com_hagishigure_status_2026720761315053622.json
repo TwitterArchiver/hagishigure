@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026720745129115649"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10029055813",
+          "name": "Charmed"
+        }
+      }
+    ],
+    "conversation_id": "2026651308254507120",
+    "created_at": "2026-02-25T18:07:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T19:07:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026720761315053622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1540698144429596673",
+          "start": 0,
+          "username": "Y2D80355"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gKzbzn5H18",
+          "end": 74,
+          "expanded_url": "https://x.com/hagishigure/status/2026720761315053622/photo/1",
+          "media_key": "3_2026720745129115649",
+          "start": 51,
+          "url": "https://t.co/gKzbzn5H18"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026720761315053622",
+    "in_reply_to_user_id": "1540698144429596673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026651308254507120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y2D80355 没事宝宝，能悄无声息的把我ban了的至少是charmed circle的一份子。 https://t.co/gKzbzn5H18"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 807,
+        "media_key": "3_2026720745129115649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCBbx5hWAAEsax5.jpg",
+        "width": 1258
+      },
+      {
+        "height": 832,
+        "media_key": "3_2026651301166108672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCAcnumW0AAL01Z.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026720745129115649"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10029055813",
+              "name": "Charmed"
+            }
+          }
+        ],
+        "conversation_id": "2026651308254507120",
+        "created_at": "2026-02-25T18:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T19:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026720761315053622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1540698144429596673",
+              "start": 0,
+              "username": "Y2D80355"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gKzbzn5H18",
+              "end": 74,
+              "expanded_url": "https://x.com/hagishigure/status/2026720761315053622/photo/1",
+              "media_key": "3_2026720745129115649",
+              "start": 51,
+              "url": "https://t.co/gKzbzn5H18"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026720761315053622",
+        "in_reply_to_user_id": "1540698144429596673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026651308254507120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y2D80355 没事宝宝，能悄无声息的把我ban了的至少是charmed circle的一份子。 https://t.co/gKzbzn5H18"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026651301166108672"
+          ]
+        },
+        "author_id": "1540698144429596673",
+        "conversation_id": "2026651308254507120",
+        "created_at": "2026-02-25T13:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T14:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026651308254507120"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KNKBEIRwgX",
+              "end": 29,
+              "expanded_url": "https://x.com/Y2D80355/status/2026651308254507120/photo/1",
+              "media_key": "3_2026651301166108672",
+              "start": 6,
+              "url": "https://t.co/KNKBEIRwgX"
+            },
+            {
+              "display_url": "x.com/y2d80355/statu…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/y2d80355/status/2025926962166796302",
+              "start": 30,
+              "url": "https://t.co/xPcanzTtT3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026651308254507120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 322,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025926962166796302",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "流汗黄豆了 https://t.co/KNKBEIRwgX https://t.co/xPcanzTtT3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 137,
+          "like_count": 22222,
+          "listed_count": 2,
+          "media_count": 631,
+          "tweet_count": 5469
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-25T14:07:33.000Z",
+        "description": "写点啥好",
+        "id": "1540698144429596673",
+        "name": "Bundesamt für Berliner und Weißwürste",
+        "pinned_tweet_id": "2025228865304506394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009372240891019264/_Es0_6UF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 564,
+          "like_count": 3572,
+          "listed_count": 1,
+          "media_count": 239,
+          "tweet_count": 4415
+        },
+        "username": "Y2D80355",
+        "verified": false
+      }
+    ]
+  }
+}

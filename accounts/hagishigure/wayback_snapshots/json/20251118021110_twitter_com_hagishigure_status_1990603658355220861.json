@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1990603658355220861",
+    "created_at": "2025-11-18T02:11:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T03:11:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990603658355220861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1827005936608710656",
+          "start": 3,
+          "username": "Petals_of_Gloom"
+        },
+        {
+          "end": 32,
+          "id": "50434933",
+          "start": 21,
+          "username": "LifeNewsHQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990603658355220861",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 196
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989791311436943634",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Petals_of_Gloom: @LifeNewsHQ Women do not owe you their autonomy.\nWomen do not owe you their autonomy.\nWomen do not owe you their auton…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1990603658355220861",
+        "created_at": "2025-11-18T02:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T03:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990603658355220861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1827005936608710656",
+              "start": 3,
+              "username": "Petals_of_Gloom"
+            },
+            {
+              "end": 32,
+              "id": "50434933",
+              "start": 21,
+              "username": "LifeNewsHQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990603658355220861",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 196
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989791311436943634",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Petals_of_Gloom: @LifeNewsHQ Women do not owe you their autonomy.\nWomen do not owe you their autonomy.\nWomen do not owe you their auton…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827005936608710656",
+        "conversation_id": "1989476687420289222",
+        "created_at": "2025-11-15T20:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T21:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989791311436943634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "50434933",
+              "start": 0,
+              "username": "LifeNewsHQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989791311436943634",
+        "in_reply_to_user_id": "50434933",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 34866,
+          "like_count": 4265,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 196
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989476687420289222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LifeNewsHQ Women do not owe you their autonomy.\nWomen do not owe you their autonomy.\nWomen do not owe you their autonomy.\nWomen do not owe you their autonomy.\nWomen do not owe you their autonomy.\nWomen do not owe you their autonomy.\nWomen do not owe you their autonomy."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 109,
+          "like_count": 9405,
+          "listed_count": 0,
+          "media_count": 319,
+          "tweet_count": 2179
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-23T15:32:24.000Z",
+        "description": "Two flames entwine within my breast— their warmth sincere, yet chaste of carnal fire. A wanderer of dusk, I linger where devotion outlasts desire. Evermore 🖤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petalsofgloom.straw.page",
+                "end": 23,
+                "expanded_url": "https://petalsofgloom.straw.page/",
+                "start": 0,
+                "url": "https://t.co/KdxGulx9dD"
+              }
+            ]
+          }
+        },
+        "id": "1827005936608710656",
+        "location": "Lost in amethyst whispers",
+        "name": "🔥ᙃᥲᖾꙆɩᥲ, ᙁᥲρᥲꙆຕ ᙓɾᥲ🔥",
+        "pinned_tweet_id": "1987021438176366754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984738739466223617/8QsBUWO1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 344,
+          "like_count": 17874,
+          "listed_count": 4,
+          "media_count": 403,
+          "tweet_count": 6182
+        },
+        "url": "https://t.co/KdxGulx9dD",
+        "username": "Petals_of_Gloom",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-24T20:52:42.000Z",
+        "description": "https://t.co/0D2kd9rG5j is a pro-life news outlet fighting abortion. Also https://t.co/FScDnc47W8 and https://t.co/epcTdZRUKw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "LifeNews.com",
+                "end": 23,
+                "expanded_url": "http://LifeNews.com",
+                "start": 0,
+                "url": "https://t.co/0D2kd9rG5j"
+              },
+              {
+                "display_url": "Instagram.com/lifenewspics/",
+                "end": 97,
+                "expanded_url": "https://Instagram.com/lifenewspics/",
+                "start": 74,
+                "url": "https://t.co/FScDnc47W8"
+              },
+              {
+                "display_url": "FaceBook.com/LifeNews",
+                "end": 125,
+                "expanded_url": "http://FaceBook.com/LifeNews",
+                "start": 102,
+                "url": "https://t.co/epcTdZRUKw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "LifeNews.com",
+                "end": 23,
+                "expanded_url": "http://www.LifeNews.com",
+                "start": 0,
+                "url": "https://t.co/1MsJ5zb8Qw"
+              }
+            ]
+          }
+        },
+        "id": "50434933",
+        "location": "USA",
+        "name": "LifeNews.com",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2237744050/lifenewsfb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384873,
+          "following_count": 184606,
+          "like_count": 100758,
+          "listed_count": 2859,
+          "media_count": 81902,
+          "tweet_count": 294532
+        },
+        "url": "https://t.co/1MsJ5zb8Qw",
+        "username": "LifeNewsHQ",
+        "verified": true
+      }
+    ]
+  }
+}

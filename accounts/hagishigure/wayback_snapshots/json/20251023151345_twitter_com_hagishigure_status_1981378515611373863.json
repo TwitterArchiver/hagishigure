@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1981278771295719551",
+    "created_at": "2025-10-23T15:13:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T16:13:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981378515611373863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "826519520",
+          "start": 0,
+          "username": "hello_yunshu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981378515611373863",
+    "in_reply_to_user_id": "826519520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981278771295719551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hello_yunshu 這句話能解構兩方面的事情\n一 你意識到女性屬於弱勢群體\n二 你原先不認為女性屬於弱勢群體"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1981278771295719551",
+        "created_at": "2025-10-23T15:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T16:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981378515611373863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "826519520",
+              "start": 0,
+              "username": "hello_yunshu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981378515611373863",
+        "in_reply_to_user_id": "826519520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981278771295719551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hello_yunshu 這句話能解構兩方面的事情\n一 你意識到女性屬於弱勢群體\n二 你原先不認為女性屬於弱勢群體"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "826519520",
+        "conversation_id": "1981278771295719551",
+        "created_at": "2025-10-23T08:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T09:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981278771295719551"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981278771295719551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1718,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到一位跨女生活好艰难，我下意识来了句：“这做女的有什么好的啊。”然后我突然意识到了什么，就特想抽自己一巴掌…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 98,
+          "like_count": 5078,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 976
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2012-09-16T05:05:18.000Z",
+        "description": "减不下肥我不活了 | 听妈妈👉 @zcy1224 的话把子宫切了，这辈子最大的梦想是所有在乎我的人都不要离开我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zcy1224"
+              }
+            ]
+          }
+        },
+        "id": "826519520",
+        "name": "云云朮🐽",
+        "pinned_tweet_id": "1949393105385595201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896231971954814976/sNEnmLma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20497,
+          "following_count": 1,
+          "like_count": 4076,
+          "listed_count": 55,
+          "media_count": 606,
+          "tweet_count": 2000
+        },
+        "username": "hello_yunshu",
+        "verified": false
+      }
+    ]
+  }
+}

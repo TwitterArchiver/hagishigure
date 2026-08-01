@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2058137977188954112"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "2058136688996622404",
+    "created_at": "2026-05-23T10:48:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T11:48:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058137979776909668"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058137979776909668",
+    "in_reply_to_user_id": "1965393379224944645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058136688996622404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "您是否同意：跨女们会每周注射庚酸睾酮。🙀"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-05-24T10:48:26.000Z",
+        "id": "2058137977188954112",
+        "options": [
+          {
+            "label": "意大利面拌42号混凝土🐱",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "宇宙的终极答案是史尔特尔😺",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "全麦面包再次尖叫🙀",
+            "position": 3,
+            "votes": 0
+          },
+          {
+            "label": "我同意B_cat是B_dog😽",
+            "position": 4,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2058137977188954112"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "2058136688996622404",
+        "created_at": "2026-05-23T10:48:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:48:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058137979776909668"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058137979776909668",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058136688996622404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "您是否同意：跨女们会每周注射庚酸睾酮。🙀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2058136686563921920"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "2058136688996622404",
+        "created_at": "2026-05-23T10:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058136688996622404"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058136688996622404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只喜欢跨女的是chaser顺直"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 150,
+          "like_count": 29467,
+          "listed_count": 3,
+          "media_count": 770,
+          "tweet_count": 7051
+        },
+        "username": "hagishigure",
+        "verified": true
+      }
+    ]
+  }
+}

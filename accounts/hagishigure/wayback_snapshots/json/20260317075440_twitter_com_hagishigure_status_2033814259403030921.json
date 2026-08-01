@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2033814259403030921",
+    "created_at": "2026-03-17T07:54:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T08:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033814259403030921"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Techbruneth/st…",
+          "end": 155,
+          "expanded_url": "https://twitter.com/Techbruneth/status/2033364889868304484",
+          "start": 132,
+          "url": "https://t.co/YE56Ms4iF2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033814259403030921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033364889868304484",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Ai小作文差不多得了。。\n博士领域要研究的东西Ai理解得如果比青年学者更多那要青年学者研究什么。\n随便找两个领域写过东西的都知道论文不可能这么写：学哲学不去故意解构原作者的理论反而按照作者原意的你是这个👍，学纯数Ai能指出你的公式哪里偏离了原作者的Ai是这个👍。 https://t.co/YE56Ms4iF2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2033364881525936128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDf2liYbkAA0gAK.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2033814259403030921",
+        "created_at": "2026-03-17T07:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T08:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033814259403030921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Techbruneth/st…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/Techbruneth/status/2033364889868304484",
+              "start": 132,
+              "url": "https://t.co/YE56Ms4iF2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033814259403030921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033364889868304484",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Ai小作文差不多得了。。\n博士领域要研究的东西Ai理解得如果比青年学者更多那要青年学者研究什么。\n随便找两个领域写过东西的都知道论文不可能这么写：学哲学不去故意解构原作者的理论反而按照作者原意的你是这个👍，学纯数Ai能指出你的公式哪里偏离了原作者的Ai是这个👍。 https://t.co/YE56Ms4iF2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033364881525936128"
+          ]
+        },
+        "author_id": "569189962",
+        "conversation_id": "2033364889868304484",
+        "created_at": "2026-03-16T02:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T03:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033364889868304484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XOnhqqKDr4",
+              "end": 166,
+              "expanded_url": "https://x.com/Techbruneth/status/2033364889868304484/photo/1",
+              "media_key": "3_2033364881525936128",
+              "start": 143,
+              "url": "https://t.co/XOnhqqKDr4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033364889868304484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "牛津大学一名博士生，\n因为提交的论文“太像 AI 写的”，差点被抓。\n\n但真相是：\n\n他根本没让 AI 替他写。\n他只是用 AI，逼自己想得更深。\n\n这套流程，后来被导师评价为：\n\n“我20年来见过最复杂、最严谨的研究工作流之一。”\n\n他每次写论文，不是先让 Claude 帮他润色，\n而是先把自己的粗糙论证丢进去，直接问：\n\n“这套推理里最弱的 3 个逻辑跳跃是什么？”\n“一个敌对的考官，最先会攻击哪里？”\n\nAI 不负责替他写论文。\nAI 负责先把他的草稿摧毁一遍。\n\n然后，他再自己重建。\n\n但真正把他和大多数“用 AI 生成段落”的学生拉开差距的，\n是下一步：\n\n他会上传这个领域最关键的 5 篇论文，接着问：\n\n“我的哪些主张，和这些作者的真实发现相冲突？”\n“我哪里在过度简化，或者误读了他们的结论？”\n\n很多学生是在“引用自己大概看过的论文”。\n而他是在用 AI 逼自己真正理解文献。\n\n最后一步，更狠。\n\n提交前，\n他会把自己的结论单独贴进去，再问一句：\n\n“如果一个科学哲学家来挑刺，这个论证缺了什么？”\n“我有哪些未经辩护的前提假设？”\n\n最后，这篇论文收到的评价是：\n\n“异常严谨”\n“展现出罕见的批判深度”\n\n所以问题从来不是：\n你有没有用 AI。\n\n真正的问题是：\n\n你是用 AI 替你思考，\n还是用 AI 逼你更深地思考？\n\n工具没变。\n变的是工作流。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2089,
+          "impression_count": 274157,
+          "like_count": 2466,
+          "quote_count": 18,
+          "reply_count": 45,
+          "retweet_count": 440
+        },
+        "reply_settings": "everyone",
+        "text": "牛津大学一名博士生，\n因为提交的论文“太像 AI 写的”，差点被抓。\n\n但真相是：\n\n他根本没让 AI 替他写。\n他只是用 AI，逼自己想得更深。\n\n这套流程，后来被导师评价为：\n\n“我20年来见过最复杂、最严谨的研究工作流之一。”\n\n他每次写论文，不是先让 Claude 帮他润色， https://t.co/XOnhqqKDr4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 143,
+          "like_count": 25822,
+          "listed_count": 2,
+          "media_count": 689,
+          "tweet_count": 6160
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2012-05-02T15:25:03.000Z",
+        "description": "跨领域知识分享者🎓 \n\n英语学习📝｜金融思维🧠｜科技前沿🤖\n\n历史趣事📚｜冷知识｜深度思考💭\n\n让好奇心永远在线💪🏻～",
+        "id": "569189962",
+        "name": "杂学大师✨",
+        "pinned_tweet_id": "2015723139368698217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933097007503314944/1nqKDcY0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27804,
+          "following_count": 66,
+          "like_count": 12170,
+          "listed_count": 128,
+          "media_count": 1883,
+          "tweet_count": 2733
+        },
+        "username": "Techbruneth",
+        "verified": true
+      }
+    ]
+  }
+}

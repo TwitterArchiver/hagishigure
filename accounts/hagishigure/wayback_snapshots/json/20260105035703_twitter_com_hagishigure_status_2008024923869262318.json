@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2007497446172369292",
+    "created_at": "2026-01-05T03:57:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T04:57:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008024923869262318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "123617511",
+          "start": 0,
+          "username": "fexisnpc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008024923869262318",
+    "in_reply_to_user_id": "123617511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007977812024824120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fexisnpc 你怎麼知道我買回來就是當一個氛圍香薰機的🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2007497446172369292",
+        "created_at": "2026-01-05T03:57:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T04:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008024923869262318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "123617511",
+              "start": 0,
+              "username": "fexisnpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008024923869262318",
+        "in_reply_to_user_id": "123617511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007977812024824120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fexisnpc 你怎麼知道我買回來就是當一個氛圍香薰機的🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "123617511",
+        "conversation_id": "2007497446172369292",
+        "created_at": "2026-01-05T00:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T01:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007977812024824120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007977812024824120",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007708178646217019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure 滴点儿香薰精油进去还不错，相当大力出奇迹\n就是噪音太大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 119,
+          "like_count": 14471,
+          "listed_count": 0,
+          "media_count": 401,
+          "tweet_count": 3352
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-16T17:30:58.000Z",
+        "description": "OC设定来自夢夢 @Yayoi_no_yume\n本体是老年肥宅 aka. 入土二次元\n近期是班味老登，没时间玩\n学院路某校基础医学PhD，已退圈——目前不从事科研。\n老婆@Kirashmily33。\n是出版业意识形态审查制度的帮凶。\n中医黑，厌蠢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "Yayoi_no_yume"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "Kirashmily33"
+              }
+            ]
+          }
+        },
+        "id": "123617511",
+        "location": "Sanctuary",
+        "name": "MonoFevc",
+        "pinned_tweet_id": "2004123312579059745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997838446350712833/2u6pOhpt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 1161,
+          "like_count": 30407,
+          "listed_count": 7,
+          "media_count": 3167,
+          "tweet_count": 17888
+        },
+        "username": "fexisnpc",
+        "verified": false
+      }
+    ]
+  }
+}

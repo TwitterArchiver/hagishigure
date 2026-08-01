@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1982743877842018309",
+    "created_at": "2025-10-27T09:39:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T10:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982743877842018309"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/BeiyanNa3AlF6/…",
+          "end": 109,
+          "expanded_url": "https://twitter.com/BeiyanNa3AlF6/status/1982322470888882282",
+          "start": 86,
+          "url": "https://t.co/a7DQrTQ9Et"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982743877842018309",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "總的來說，這段看了修改是合理的，因為樣本數量為極少數，是必須使用「可能」這種詞彙的，修改將非客觀的敘述去除也是合理的，在詞條內添加主觀感受或「猜測」是十分不負責任的行為。\n但是直接刪詞條確實做得不好，INTP應該很清楚真實性和邏輯是非常重要乃至必要的，可以採用保留詞條但是更改顏色這樣的方式去曖昧化處理。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982322470888882282",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "總的來說，這段看了修改是合理的，因為樣本數量為極少數，是必須使用「可能」這種詞彙的，修改將非客觀的敘述去除也是合理的，在詞條內添加主觀感受或「猜測」是十分不負責任的行為。 https://t.co/a7DQrTQ9Et"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1982743877842018309",
+        "created_at": "2025-10-27T09:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T10:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982743877842018309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BeiyanNa3AlF6/…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/BeiyanNa3AlF6/status/1982322470888882282",
+              "start": 86,
+              "url": "https://t.co/a7DQrTQ9Et"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982743877842018309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "總的來說，這段看了修改是合理的，因為樣本數量為極少數，是必須使用「可能」這種詞彙的，修改將非客觀的敘述去除也是合理的，在詞條內添加主觀感受或「猜測」是十分不負責任的行為。\n但是直接刪詞條確實做得不好，INTP應該很清楚真實性和邏輯是非常重要乃至必要的，可以採用保留詞條但是更改顏色這樣的方式去曖昧化處理。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982322470888882282",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "總的來說，這段看了修改是合理的，因為樣本數量為極少數，是必須使用「可能」這種詞彙的，修改將非客觀的敘述去除也是合理的，在詞條內添加主觀感受或「猜測」是十分不負責任的行為。 https://t.co/a7DQrTQ9Et"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1071094209749417984",
+        "conversation_id": "1982322470888882282",
+        "created_at": "2025-10-26T05:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T06:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982322470888882282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Beiyan_Yunyi/s…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/Beiyan_Yunyi/status/1982081884034310508",
+              "start": 149,
+              "url": "https://t.co/p3LQPt0l1g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982322470888882282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3772,
+          "like_count": 14,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982081884034310508",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "尽管不可否认我当时的下架要求有政治因素和风险的考量，但我至今仍认为这一段是不符合RLEwiki的质量标准的。\n\n在「没有录音证据」的情况下叙述校领导的「孤证」以试图指控一个高校和扭转机构相关联，这无法在当下被认定为是适合所有学生的普适情况。而主观叙述必须加Markdown引用标记要求也被忽视了。 https://t.co/p3LQPt0l1g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 99,
+          "like_count": 6024,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 1223
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-07T17:28:54.000Z",
+        "description": "MtX-MtF振荡器，member of @MtFwiki 。我吃糖手术但我是好友跨顺男，木饭桶/INTP/Ingress/HAM/@NixOS_org memeber/中文 Vocaloid/索尼大法好。爱的人 @yifusuyi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "MtFwiki"
+              },
+              {
+                "end": 76,
+                "start": 66,
+                "username": "NixOS_org"
+              },
+              {
+                "end": 116,
+                "start": 107,
+                "username": "yifusuyi"
+              }
+            ]
+          }
+        },
+        "id": "1071094209749417984",
+        "location": "Rhineland-Palatinate, Germany",
+        "name": "北雁 Na₃AlF₆🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620498439485403137/zPt4c0Rp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2072,
+          "following_count": 1403,
+          "like_count": 114674,
+          "listed_count": 12,
+          "media_count": 281,
+          "tweet_count": 6363
+        },
+        "username": "BeiyanNa3AlF6",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974193376661811201"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1974038878597022190",
+    "created_at": "2025-10-03T19:22:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T20:22:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974193387348897995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1277411486168756231",
+          "start": 0,
+          "username": "mangoiceshake"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P01iQPnfDy",
+          "end": 42,
+          "expanded_url": "https://x.com/hagishigure/status/1974193387348897995/photo/1",
+          "media_key": "3_1974193376661811201",
+          "start": 19,
+          "url": "https://t.co/P01iQPnfDy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974193387348897995",
+    "in_reply_to_user_id": "1277411486168756231",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974038878597022190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mangoiceshake MAO https://t.co/P01iQPnfDy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1974193376661811201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2W-apXbMAEhUBT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974193376661811201"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1974038878597022190",
+        "created_at": "2025-10-03T19:22:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T20:22:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974193387348897995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1277411486168756231",
+              "start": 0,
+              "username": "mangoiceshake"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P01iQPnfDy",
+              "end": 42,
+              "expanded_url": "https://x.com/hagishigure/status/1974193387348897995/photo/1",
+              "media_key": "3_1974193376661811201",
+              "start": 19,
+              "url": "https://t.co/P01iQPnfDy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974193387348897995",
+        "in_reply_to_user_id": "1277411486168756231",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974038878597022190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mangoiceshake MAO https://t.co/P01iQPnfDy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1277411486168756231",
+        "conversation_id": "1974038878597022190",
+        "created_at": "2025-10-03T09:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T10:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974038878597022190"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974038878597022190",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 77,
+          "like_count": 689,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 114
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-29T01:20:17.000Z",
+        "description": "🥭 是一颗会自言自语的流浪神奇魔法小芒果猫猫🥭 （蹲一只主人把猫带回家）｜会心情不好乱b忍对不起｜芒果的律所接加拿大安省旅游签/工签/EE/投资移民/家庭担保/保姆移民/庇护难民",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mangoiceshake.bsky.social",
+                "end": 23,
+                "expanded_url": "http://mangoiceshake.bsky.social",
+                "start": 0,
+                "url": "https://t.co/DZKNtHGRt0"
+              }
+            ]
+          }
+        },
+        "id": "1277411486168756231",
+        "location": "加拿大有机三文鱼甜虾芒果冻干猫条",
+        "name": "🥭🐈❄️ 🍰🐙✨🍦猫猫冬眠中(´⌯ ̫⌯`)",
+        "pinned_tweet_id": "1971718069535084995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886264934683549696/hN-LO71W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 461,
+          "like_count": 4482,
+          "listed_count": 4,
+          "media_count": 937,
+          "tweet_count": 10088
+        },
+        "url": "https://t.co/DZKNtHGRt0",
+        "username": "mangoiceshake",
+        "verified": true
+      }
+    ]
+  }
+}

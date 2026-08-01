@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973898557863440389"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1973271204925677725",
+    "created_at": "2025-10-02T23:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T00:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973898563982962922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945070018905145344",
+          "start": 0,
+          "username": "DianaAnya0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/emT3HlV3Js",
+          "end": 35,
+          "expanded_url": "https://x.com/hagishigure/status/1973898563982962922/photo/1",
+          "media_key": "3_1973898557863440389",
+          "start": 12,
+          "url": "https://t.co/emT3HlV3Js"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973898563982962922",
+    "in_reply_to_user_id": "1945070018905145344",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973271204925677725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DianaAnya0 https://t.co/emT3HlV3Js"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_1973898557863440389",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2SyR7wbMAUVXIv.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973898557863440389"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1973271204925677725",
+        "created_at": "2025-10-02T23:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T00:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973898563982962922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945070018905145344",
+              "start": 0,
+              "username": "DianaAnya0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/emT3HlV3Js",
+              "end": 35,
+              "expanded_url": "https://x.com/hagishigure/status/1973898563982962922/photo/1",
+              "media_key": "3_1973898557863440389",
+              "start": 12,
+              "url": "https://t.co/emT3HlV3Js"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973898563982962922",
+        "in_reply_to_user_id": "1945070018905145344",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973271204925677725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianaAnya0 https://t.co/emT3HlV3Js"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945070018905145344",
+        "conversation_id": "1973271204925677725",
+        "created_at": "2025-10-01T06:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T07:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973271204925677725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973271204925677725",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1388,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n||宣誓人——🪼諾諾||🪼沒有標籤，也不需要定義自己||正因神愛世人，世人才予以神的敬稱||",
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 62,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 21
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T10:37:08.000Z",
+        "description": "05年身材超好的小药娘♡/ 每天会分享日常💬/ (4k.ex1音游人) (严格控制身材体重) (一只听话的小狗狗) (私信回fo,会查成分) (想永远的被囚禁) (防失联@SatouI0)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 85,
+                "username": "SatouI0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SatouNya",
+                "end": 23,
+                "expanded_url": "https://t.me/SatouNya",
+                "start": 0,
+                "url": "https://t.co/cpFUZomDKo"
+              }
+            ]
+          }
+        },
+        "id": "1945070018905145344",
+        "location": "距离您0.03mm",
+        "name": "砂糖桔🏳️‍⚧️（在校大学生",
+        "pinned_tweet_id": "1973064546123403276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948026167304581120/CphJnSlQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 163,
+          "like_count": 2131,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 356
+        },
+        "url": "https://t.co/cpFUZomDKo",
+        "username": "DianaAnya0",
+        "verified": true
+      }
+    ]
+  }
+}

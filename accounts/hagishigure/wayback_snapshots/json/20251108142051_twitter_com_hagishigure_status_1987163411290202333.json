@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1987163411290202333",
+    "created_at": "2025-11-08T14:20:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T15:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987163411290202333"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DudDuoduo/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/DudDuoduo/status/1986818132535832879",
+          "start": 9,
+          "url": "https://t.co/HRVMdUN4ur"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987163411290202333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986818132535832879",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我說這就是代碼😠 https://t.co/HRVMdUN4ur"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 462,
+        "media_key": "3_1986818124587663360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5KYjsVbAAAU-Lb.jpg",
+        "width": 367
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1987163411290202333",
+        "created_at": "2025-11-08T14:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T15:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987163411290202333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DudDuoduo/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/DudDuoduo/status/1986818132535832879",
+              "start": 9,
+              "url": "https://t.co/HRVMdUN4ur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987163411290202333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986818132535832879",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我說這就是代碼😠 https://t.co/HRVMdUN4ur"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986818124587663360"
+          ]
+        },
+        "author_id": "1261624588770762753",
+        "conversation_id": "1986818132535832879",
+        "created_at": "2025-11-07T15:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T16:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986818132535832879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1l7cV4ypS9",
+              "end": 42,
+              "expanded_url": "https://x.com/DudDuoduo/status/1986818132535832879/photo/1",
+              "media_key": "3_1986818124587663360",
+              "start": 19,
+              "url": "https://t.co/1l7cV4ypS9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986818132535832879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 17732,
+          "like_count": 172,
+          "quote_count": 4,
+          "reply_count": 21,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "逛袜子店发现的……\n\n受众是……？？ https://t.co/1l7cV4ypS9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 102,
+          "like_count": 7656,
+          "listed_count": 0,
+          "media_count": 264,
+          "tweet_count": 1722
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-16T11:48:46.000Z",
+        "description": "",
+        "id": "1261624588770762753",
+        "name": "多米诺骨排🍖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977791901643485184/74Z2Xmid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 1871,
+          "like_count": 10816,
+          "listed_count": 12,
+          "media_count": 2256,
+          "tweet_count": 13866
+        },
+        "username": "DudDuoduo",
+        "verified": false
+      }
+    ]
+  }
+}

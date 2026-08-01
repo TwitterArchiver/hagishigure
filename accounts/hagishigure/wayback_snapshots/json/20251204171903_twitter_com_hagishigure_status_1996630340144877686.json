@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996143808866922496"
+      ],
+      "media_source_tweet_id": [
+        "1996143813627347164"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1996630340144877686",
+    "created_at": "2025-12-04T17:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T18:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996630340144877686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "796514229050175488",
+          "start": 3,
+          "username": "shishamo_nanoda"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4LNGf891qb",
+          "end": 61,
+          "expanded_url": "https://x.com/shishamo_nanoda/status/1996143813627347164/photo/1",
+          "media_key": "3_1996143808866922496",
+          "start": 38,
+          "url": "https://t.co/4LNGf891qb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996630340144877686",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3965
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996143813627347164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shishamo_nanoda: おもちゃ取り上げられた子供おった https://t.co/4LNGf891qb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 848,
+        "media_key": "3_1996143808866922496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7O6N9gbsAApN8Q.jpg",
+        "width": 792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996143808866922496"
+          ],
+          "media_source_tweet_id": [
+            "1996143813627347164"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1996630340144877686",
+        "created_at": "2025-12-04T17:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T18:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996630340144877686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "796514229050175488",
+              "start": 3,
+              "username": "shishamo_nanoda"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4LNGf891qb",
+              "end": 61,
+              "expanded_url": "https://x.com/shishamo_nanoda/status/1996143813627347164/photo/1",
+              "media_key": "3_1996143808866922496",
+              "start": 38,
+              "url": "https://t.co/4LNGf891qb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996630340144877686",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3965
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996143813627347164",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shishamo_nanoda: おもちゃ取り上げられた子供おった https://t.co/4LNGf891qb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996143808866922496"
+          ]
+        },
+        "author_id": "796514229050175488",
+        "conversation_id": "1996143813627347164",
+        "created_at": "2025-12-03T09:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T10:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996143813627347164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4LNGf891qb",
+              "end": 40,
+              "expanded_url": "https://x.com/shishamo_nanoda/status/1996143813627347164/photo/1",
+              "media_key": "3_1996143808866922496",
+              "start": 17,
+              "url": "https://t.co/4LNGf891qb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996143813627347164",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1884,
+          "impression_count": 624972,
+          "like_count": 60553,
+          "quote_count": 52,
+          "reply_count": 21,
+          "retweet_count": 3965
+        },
+        "reply_settings": "everyone",
+        "text": "おもちゃ取り上げられた子供おった https://t.co/4LNGf891qb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 115,
+          "like_count": 11682,
+          "listed_count": 0,
+          "media_count": 372,
+          "tweet_count": 2733
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-10T00:46:05.000Z",
+        "description": "キンカローのししゃもです🐟 2025.1.1生まれの女の子🌸  【インスタ】https://t.co/Mxd7NMbi4L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/shishamo_nanod…",
+                "end": 61,
+                "expanded_url": "https://www.instagram.com/shishamo_nanoda?igsh=Zm9rb3R4cWw4ajAy&utm_source=qr",
+                "start": 38,
+                "url": "https://t.co/Mxd7NMbi4L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@shishamo_nano…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@shishamo_nanoda?si=FgXPzwkmOu6WH-gJ",
+                "start": 0,
+                "url": "https://t.co/XHjdU18k9P"
+              }
+            ]
+          }
+        },
+        "id": "796514229050175488",
+        "name": "キンカローのししゃも",
+        "pinned_tweet_id": "1987846005321240644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918125447059308544/ZqFzBGJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6266,
+          "following_count": 0,
+          "like_count": 593,
+          "listed_count": 50,
+          "media_count": 86,
+          "tweet_count": 137
+        },
+        "url": "https://t.co/XHjdU18k9P",
+        "username": "shishamo_nanoda",
+        "verified": false
+      }
+    ]
+  }
+}

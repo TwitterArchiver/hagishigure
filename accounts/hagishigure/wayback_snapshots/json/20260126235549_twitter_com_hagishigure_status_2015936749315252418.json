@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015936746379198464"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2015615657510105511",
+    "created_at": "2026-01-26T23:55:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T00:55:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015936749315252418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1596473224711151618",
+          "start": 0,
+          "username": "a823149315"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zqRr7pxb5B",
+          "end": 56,
+          "expanded_url": "https://x.com/hagishigure/status/2015936749315252418/photo/1",
+          "media_key": "3_2015936746379198464",
+          "start": 33,
+          "url": "https://t.co/zqRr7pxb5B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015936749315252418",
+    "in_reply_to_user_id": "1596473224711151618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015615657510105511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a823149315 大学肄业有点难。毕竟法兰克福不相信眼泪。 https://t.co/zqRr7pxb5B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 539,
+        "media_key": "3_2015936746379198464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_oLyjmWwAARdxv.jpg",
+        "width": 351
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015936746379198464"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015615657510105511",
+        "created_at": "2026-01-26T23:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T00:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015936749315252418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596473224711151618",
+              "start": 0,
+              "username": "a823149315"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zqRr7pxb5B",
+              "end": 56,
+              "expanded_url": "https://x.com/hagishigure/status/2015936749315252418/photo/1",
+              "media_key": "3_2015936746379198464",
+              "start": 33,
+              "url": "https://t.co/zqRr7pxb5B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015936749315252418",
+        "in_reply_to_user_id": "1596473224711151618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015615657510105511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a823149315 大学肄业有点难。毕竟法兰克福不相信眼泪。 https://t.co/zqRr7pxb5B"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596473224711151618",
+        "conversation_id": "2015615657510105511",
+        "created_at": "2026-01-26T02:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T03:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015615657510105511"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015615657510105511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5484,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不歧视精神疾病，但请来加我的访谈对象具备基础的逻辑能力和沟通能力，每次采访我是有80r酬劳的，不是免费，我可以接受表达能力有限，但一个半小时问不出大学读什么专业和工作岗位性质是不是有点太过分了，不是对方不想说，单纯就是逻辑缺失，我访谈技术我不算差了，每次想捋逻辑都被带跑……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 126,
+          "like_count": 16533,
+          "listed_count": 0,
+          "media_count": 451,
+          "tweet_count": 3884
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T11:57:39.000Z",
+        "description": "曾用笔名苦樱/术后三度返厂mtf/13年经验的百合推理作者/小说置顶可看/持证助理社工师/社工本科毕业/4年机构社工经验/前机构司法社工项目主管",
+        "id": "1596473224711151618",
+        "name": "王安黛（校园悬疑推理小说《西土城中学疑案》完本欢迎点击置顶阅读）",
+        "pinned_tweet_id": "1984077641243357597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980539194884726784/DIGhbGXC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34716,
+          "following_count": 160,
+          "like_count": 2528,
+          "listed_count": 90,
+          "media_count": 2132,
+          "tweet_count": 11023
+        },
+        "username": "a823149315",
+        "verified": false
+      }
+    ]
+  }
+}

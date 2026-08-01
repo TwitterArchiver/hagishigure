@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1984062828140228943",
+    "created_at": "2025-11-02T00:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T01:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984778910295564306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1540315386931204098",
+          "start": 0,
+          "username": "kyouka_charming"
+        },
+        {
+          "end": 29,
+          "id": "1340253206417272832",
+          "start": 17,
+          "username": "Shina_Kaede"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984778910295564306",
+    "in_reply_to_user_id": "1540315386931204098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984778415933694049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyouka_charming @Shina_Kaede 好的，你發這句話已經在自我關懷退化了。\n這是你的投射的焦慮型的防禦，你害怕你的泛我被他者神話打破。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "16_1984778397344485376",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G4tZb8OWUAACyLM.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G4tZb8OWUAACyLM.mp4"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1984062828140228943",
+        "created_at": "2025-11-02T00:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T01:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984778910295564306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1540315386931204098",
+              "start": 0,
+              "username": "kyouka_charming"
+            },
+            {
+              "end": 29,
+              "id": "1340253206417272832",
+              "start": 17,
+              "username": "Shina_Kaede"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984778910295564306",
+        "in_reply_to_user_id": "1540315386931204098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984778415933694049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyouka_charming @Shina_Kaede 好的，你發這句話已經在自我關懷退化了。\n這是你的投射的焦慮型的防禦，你害怕你的泛我被他者神話打破。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1984778397344485376"
+          ]
+        },
+        "author_id": "1540315386931204098",
+        "conversation_id": "1984062828140228943",
+        "created_at": "2025-11-02T00:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T01:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984778415933694049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            },
+            {
+              "end": 25,
+              "id": "1340253206417272832",
+              "start": 13,
+              "username": "Shina_Kaede"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4IeD0A6aLb",
+              "end": 82,
+              "expanded_url": "https://x.com/kyouka_charming/status/1984778415933694049/photo/1",
+              "media_key": "16_1984778397344485376",
+              "start": 59,
+              "url": "https://t.co/4IeD0A6aLb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984778415933694049",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984344355319267589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure @Shina_Kaede 拿复杂的哲学链条去包装这件事情就是在变相证明这条逻辑闭环的脆弱啊 https://t.co/4IeD0A6aLb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 101,
+          "like_count": 6901,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 1464
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-24T12:46:39.000Z",
+        "description": "物知らずの悪役令嬢です、日本語/華语OK。元日本高校生。トランス🏳️‍⚧️ジェンダー。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kyuuka129?igsh…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/kyuuka129?igshid=OGQ5ZDc2ODk2ZA==",
+                "start": 0,
+                "url": "https://t.co/RiMq5GS6Tu"
+              }
+            ]
+          }
+        },
+        "id": "1540315386931204098",
+        "location": "繭の部屋",
+        "name": "きょうか🪞",
+        "pinned_tweet_id": "1897988161843945674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984094362431844356/Tl-8iPuh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 1155,
+          "like_count": 9751,
+          "listed_count": 1,
+          "media_count": 859,
+          "tweet_count": 7721
+        },
+        "url": "https://t.co/RiMq5GS6Tu",
+        "username": "kyouka_charming",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-19T11:10:48.000Z",
+        "description": "随心而动🍁INFJ/🇯🇵/Les🏳️‍🌈/22♍️♎️/理系人文/認知神経心理学/心理言語学/医学/中文/EN/日本語/元声優/雀魂/FF14鸟区/茶道/コーヒー/雑学/和楽器/吹奏楽/弓道/愛と言う感情を知るため旅中✨文学少女育成中(^_ _^)♪ @xiwanzinya💕最可靠的妹妹@piaoyao21",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 126,
+                "username": "xiwanzinya"
+              },
+              {
+                "end": 154,
+                "start": 144,
+                "username": "piaoyao21"
+              }
+            ]
+          }
+        },
+        "id": "1340253206417272832",
+        "location": "東京 文京区",
+        "name": "椎名かえで「情欲の魔女」",
+        "pinned_tweet_id": "1464963304502312963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1508760383854718977/y9BOK3D4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1620,
+          "following_count": 3643,
+          "like_count": 18059,
+          "listed_count": 12,
+          "media_count": 593,
+          "tweet_count": 6800
+        },
+        "username": "Shina_Kaede",
+        "verified": true
+      }
+    ]
+  }
+}

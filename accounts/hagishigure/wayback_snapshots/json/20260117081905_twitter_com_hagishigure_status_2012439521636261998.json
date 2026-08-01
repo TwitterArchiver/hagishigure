@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2012439417948922232",
+    "created_at": "2026-01-17T08:19:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T09:19:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012439521636261998"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012439521636261998",
+    "in_reply_to_user_id": "1965393379224944645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012439417948922232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最后一段不学精神分析不用看。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012439398533480448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-2e-HmWwAA-E8X.jpg",
+        "width": 806
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2012439417948922232",
+        "created_at": "2026-01-17T08:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T09:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012439521636261998"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012439521636261998",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012439417948922232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最后一段不学精神分析不用看。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012439398533480448"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2012439417948922232",
+        "created_at": "2026-01-17T08:18:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T09:18:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012439417948922232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nDc9L8gD0P",
+              "end": 61,
+              "expanded_url": "https://x.com/hagishigure/status/2012439417948922232/photo/1",
+              "media_key": "3_2012439398533480448",
+              "start": 38,
+              "url": "https://t.co/nDc9L8gD0P"
+            },
+            {
+              "display_url": "x.com/forestshibari/…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/forestshibari/status/2012386381952106566",
+              "start": 62,
+              "url": "https://t.co/uPipbEoq2h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012439417948922232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012386381952106566",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的观点是，这是通过可控的报复性逆转获得的快感，逆转的是被规训的自我场域。 https://t.co/nDc9L8gD0P https://t.co/uPipbEoq2h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 120,
+          "like_count": 15205,
+          "listed_count": 1,
+          "media_count": 417,
+          "tweet_count": 3534
+        },
+        "username": "hagishigure",
+        "verified": false
+      }
+    ]
+  }
+}

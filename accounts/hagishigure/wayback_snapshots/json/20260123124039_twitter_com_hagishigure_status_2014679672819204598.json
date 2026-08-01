@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2014679672819204598",
+    "created_at": "2026-01-23T12:40:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T13:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014679672819204598"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/willa_citrus/s…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/willa_citrus/status/2014602575396696514",
+          "start": 24,
+          "url": "https://t.co/di8sM0vNqH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014679672819204598",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014602575396696514",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "完了，我其实是amber的秘密被王柠檬发现了。 https://t.co/di8sM0vNqH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2014679672819204598",
+        "created_at": "2026-01-23T12:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T13:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014679672819204598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/willa_citrus/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/willa_citrus/status/2014602575396696514",
+              "start": 24,
+              "url": "https://t.co/di8sM0vNqH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014679672819204598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014602575396696514",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完了，我其实是amber的秘密被王柠檬发现了。 https://t.co/di8sM0vNqH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767161673566359552",
+        "conversation_id": "2014402115138154999",
+        "created_at": "2026-01-23T07:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T08:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014602575396696514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014602575396696514",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014403114510778874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure 我开始怀疑你是amber的小号了\n这个在真的没人的场合抒发自己的才智学识之后 俏皮地留下一点破绽然后回收 写完后看着这段话想到 之后的某个读者会读完一拍额头懊恼地想：“我怎么就没注意到呢” 的场景就忍不住得意地轻哼起来 的状态太经典了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 122,
+          "like_count": 15920,
+          "listed_count": 0,
+          "media_count": 428,
+          "tweet_count": 3705
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T12:12:39.000Z",
+        "description": "想当个可爱的孩子 / 杭州三本工科PhD在读 / 怪猎&魂 / 漫宿研习者 / 彻夜飞旋，直至甜美的生诞 / 多给我点赞啊！/ 碰到漂亮或者说话好玩的孩子就会试图交朋友 / 如果空下来一定要做个播客节目 / 甜甜同居快六年 @rat_miyari",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "rat_miyari"
+              }
+            ]
+          }
+        },
+        "id": "1767161673566359552",
+        "location": "杭州",
+        "name": "王小檬𝖂𝖎𝖑𝖑𝖆🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978691032192782336/2rH_jGCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11848,
+          "following_count": 199,
+          "like_count": 5170,
+          "listed_count": 33,
+          "media_count": 280,
+          "tweet_count": 6607
+        },
+        "username": "willa_citrus",
+        "verified": false
+      }
+    ]
+  }
+}

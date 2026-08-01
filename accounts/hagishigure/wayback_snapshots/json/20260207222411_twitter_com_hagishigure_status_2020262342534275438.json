@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2020249546681430463",
+    "created_at": "2026-02-07T22:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T23:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020262342534275438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "NagiExpress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020262342534275438",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020249546681430463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NagiExpress 滾過來和我学西班牙語和德語。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2020249537902776320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAleQEBXkAAo3FK.jpg",
+        "width": 828
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2020249537881772032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAleQD8XEAABTO0.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2020249546681430463",
+        "created_at": "2026-02-07T22:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T23:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020262342534275438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "NagiExpress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020262342534275438",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020249546681430463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NagiExpress 滾過來和我学西班牙語和德語。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020249537902776320",
+            "3_2020249537881772032"
+          ]
+        },
+        "author_id": "1754494415152766976",
+        "conversation_id": "2020249546681430463",
+        "created_at": "2026-02-07T21:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T22:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020249546681430463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/njr1CMbUYB",
+              "end": 57,
+              "expanded_url": "https://x.com/NagiExpress/status/2020249546681430463/photo/1",
+              "media_key": "3_2020249537902776320",
+              "start": 34,
+              "url": "https://t.co/njr1CMbUYB"
+            },
+            {
+              "display_url": "pic.x.com/njr1CMbUYB",
+              "end": 57,
+              "expanded_url": "https://x.com/NagiExpress/status/2020249546681430463/photo/1",
+              "media_key": "3_2020249537881772032",
+              "start": 34,
+              "url": "https://t.co/njr1CMbUYB"
+            },
+            {
+              "display_url": "x.com/nagiexpress/st…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/nagiexpress/status/2020243988696248812",
+              "start": 58,
+              "url": "https://t.co/FatjwVFUlf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020249546681430463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1430,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020243988696248812",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吓哭了\n到最后真的问我要不要做情人\n我还以为开玩笑的\n不是这也太… https://t.co/njr1CMbUYB https://t.co/FatjwVFUlf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 128,
+          "like_count": 18691,
+          "listed_count": 0,
+          "media_count": 535,
+          "tweet_count": 4405
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "不许草我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/O8fBywpcGi"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "精神Nagi🥥",
+        "pinned_tweet_id": "2013260482921017577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018463315022774273/QUHBbrKC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4816,
+          "following_count": 2159,
+          "like_count": 21717,
+          "listed_count": 7,
+          "media_count": 1897,
+          "tweet_count": 18599
+        },
+        "url": "https://t.co/O8fBywpcGi",
+        "username": "NagiExpress",
+        "verified": false
+      }
+    ]
+  }
+}

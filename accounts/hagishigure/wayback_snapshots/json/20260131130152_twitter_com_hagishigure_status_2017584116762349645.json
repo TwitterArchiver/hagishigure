@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2017568793359233469",
+    "created_at": "2026-01-31T13:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T14:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017584116762349645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1905258429821898752",
+          "start": 0,
+          "username": "MisakaBit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017584116762349645",
+    "in_reply_to_user_id": "1905258429821898752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017568793359233469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MisakaBit 让它用连续可微和离散微分两种形式为代码构建微流水线两种形式互相迭代100次。🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2017568793359233469",
+        "created_at": "2026-01-31T13:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T14:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017584116762349645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1905258429821898752",
+              "start": 0,
+              "username": "MisakaBit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017584116762349645",
+        "in_reply_to_user_id": "1905258429821898752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017568793359233469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MisakaBit 让它用连续可微和离散微分两种形式为代码构建微流水线两种形式互相迭代100次。🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905258429821898752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          }
+        ],
+        "conversation_id": "2017568793359233469",
+        "created_at": "2026-01-31T12:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T13:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017568793359233469"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017568793359233469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 137,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去\nCopilot 还剩 800 次高级请求\n明早8点重置了\n我该干点啥🥹🥹🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 127,
+          "like_count": 17260,
+          "listed_count": 0,
+          "media_count": 465,
+          "tweet_count": 4062
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T14:00:02.000Z",
+        "description": "接受3年正规HRT治疗计划手术中的顺男并且友跨🍥 | 心理学苦手 | 真人会回fo | 社恐重度，不熟悉之前不私聊不面基 | INFJ | 双極性II型・重度うつ・不安・BPD・ADHD・地雷注意 | 已失去夢想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StarNekOvO",
+                "end": 23,
+                "expanded_url": "https://t.me/StarNekOvO",
+                "start": 0,
+                "url": "https://t.co/AU3CBDyMuO"
+              }
+            ]
+          }
+        },
+        "id": "1905258429821898752",
+        "location": "🌕",
+        "name": "御坂晚🍥",
+        "pinned_tweet_id": "1974208245377233378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015693279015116800/fx2rpsly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 584,
+          "like_count": 5076,
+          "listed_count": 3,
+          "media_count": 140,
+          "tweet_count": 1412
+        },
+        "url": "https://t.co/AU3CBDyMuO",
+        "username": "MisakaBit",
+        "verified": false
+      }
+    ]
+  }
+}

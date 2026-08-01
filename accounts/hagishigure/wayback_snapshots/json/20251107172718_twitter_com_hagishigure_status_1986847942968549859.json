@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986847897368092672"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1986847942968549859",
+    "created_at": "2025-11-07T17:27:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T18:27:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986847942968549859"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/N52gcxDaAr",
+          "end": 52,
+          "expanded_url": "https://x.com/hagishigure/status/1986847942968549859/photo/1",
+          "media_key": "3_1986847897368092672",
+          "start": 29,
+          "url": "https://t.co/N52gcxDaAr"
+        },
+        {
+          "display_url": "x.com/SalviaSWC/stat…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/SalviaSWC/status/1986691883599311250",
+          "start": 53,
+          "url": "https://t.co/iiyt6FOQfZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986847942968549859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986691883599311250",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我們用抑制劑阻斷DXM代謝為DXO增強MOR抗抑鬱效應。 https://t.co/N52gcxDaAr https://t.co/iiyt6FOQfZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1003,
+        "media_key": "3_1986847897368092672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5KzoslbYAAoHP3.jpg",
+        "width": 1277
+      },
+      {
+        "height": 809,
+        "media_key": "3_1986691838653140992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Ils4kWkAACgmK.jpg",
+        "width": 1016
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986847897368092672"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1986847942968549859",
+        "created_at": "2025-11-07T17:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T18:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986847942968549859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N52gcxDaAr",
+              "end": 52,
+              "expanded_url": "https://x.com/hagishigure/status/1986847942968549859/photo/1",
+              "media_key": "3_1986847897368092672",
+              "start": 29,
+              "url": "https://t.co/N52gcxDaAr"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/1986691883599311250",
+              "start": 53,
+              "url": "https://t.co/iiyt6FOQfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986847942968549859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986691883599311250",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我們用抑制劑阻斷DXM代謝為DXO增強MOR抗抑鬱效應。 https://t.co/N52gcxDaAr https://t.co/iiyt6FOQfZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986691838653140992"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "1986691883599311250",
+        "created_at": "2025-11-07T07:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T08:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986691883599311250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZDsP2KCPwr",
+              "end": 177,
+              "expanded_url": "https://x.com/SalviaSWC/status/1986691883599311250/photo/1",
+              "media_key": "3_1986691838653140992",
+              "start": 154,
+              "url": "https://t.co/ZDsP2KCPwr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986691883599311250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 3361,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我宣布右美沙酚(DXO)是最完美的解离剂!🤤\n药效完美:轻度镇静，强力解离，心理内省，中度内幻😋\n副作用完美:没有呕吐等副作用，且它的副作用是右美沙芬的真子集。后者的副作用已被充分研究，无需担忧大脑空泡化😙\n来源完美:自己动手，丰衣足食，有成就感，更不需被药贩或毒贩宰🤓\n⬇️DXOvsDXMvsRC解离剂 https://t.co/ZDsP2KCPwr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 101,
+          "like_count": 7520,
+          "listed_count": 0,
+          "media_count": 263,
+          "tweet_count": 1698
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1676,
+          "following_count": 666,
+          "like_count": 10637,
+          "listed_count": 7,
+          "media_count": 155,
+          "tweet_count": 3351
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1990307572411474243",
+    "created_at": "2025-11-17T06:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T07:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990307572411474243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1741993395910811648",
+          "start": 0,
+          "username": "AnIncandescence"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Ortho_FL/statu…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/Ortho_FL/status/1989906759998476706",
+          "start": 20,
+          "url": "https://t.co/7lMnH6BxHq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990307572411474243",
+    "in_reply_to_user_id": "1741993395910811648",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989906759998476706",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnIncandescence  🙀 https://t.co/7lMnH6BxHq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 574,
+        "media_key": "3_1989906754227073024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G52RpmXa8AAC0rQ.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1990307572411474243",
+        "created_at": "2025-11-17T06:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T07:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990307572411474243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1741993395910811648",
+              "start": 0,
+              "username": "AnIncandescence"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Ortho_FL/statu…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Ortho_FL/status/1989906759998476706",
+              "start": 20,
+              "url": "https://t.co/7lMnH6BxHq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990307572411474243",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989906759998476706",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence  🙀 https://t.co/7lMnH6BxHq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989906754227073024"
+          ]
+        },
+        "author_id": "1035020933369487360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fruits",
+              "id": "841969352828112896",
+              "name": "Fruits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1989906759998476706",
+        "created_at": "2025-11-16T04:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T05:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989906759998476706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zC5izoPKem",
+              "end": 178,
+              "expanded_url": "https://x.com/Ortho_FL/status/1989906759998476706/photo/1",
+              "media_key": "3_1989906754227073024",
+              "start": 155,
+              "url": "https://t.co/zC5izoPKem"
+            },
+            {
+              "display_url": "x.com/ortho_fl/statu…",
+              "end": 202,
+              "expanded_url": "https://twitter.com/ortho_fl/status/1989837435266859484",
+              "start": 179,
+              "url": "https://t.co/QVjKIDSqRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989906759998476706",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3846,
+          "impression_count": 9000184,
+          "like_count": 61707,
+          "quote_count": 415,
+          "reply_count": 197,
+          "retweet_count": 6365
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989837435266859484",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "こちらはMDMAとは異なり合法のブツですが、見た目だけならもはや見分けがつきませんよね\n\n幻覚や精神錯乱などはなく、もも、みかん、ぶどう、りんごの味などが楽しめます\n\n＿人人人人人人人人人＿\n＞　ｱﾝﾊﾟﾝﾏﾝﾐﾆﾐﾆﾗﾑﾈ　＜\n＞　A     M    M     R　＜\n￣Y^Y^Y^Y^Y^Y^Y^￣ https://t.co/zC5izoPKem https://t.co/QVjKIDSqRC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 109,
+          "like_count": 9255,
+          "listed_count": 0,
+          "media_count": 315,
+          "tweet_count": 2118
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anincandescenc…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "start": 0,
+                "url": "https://t.co/iO6MRJNm9j"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1976277813784457417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967287311504465922/Z7d-hW5p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1281,
+          "following_count": 212,
+          "like_count": 11340,
+          "listed_count": 3,
+          "media_count": 848,
+          "tweet_count": 4371
+        },
+        "url": "https://t.co/iO6MRJNm9j",
+        "username": "AnIncandescence",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-30T04:26:35.000Z",
+        "description": "整形外科専門医/ 認定医複数/ フリーランス/ ブロガー/ 医師転職のセミプロ/ 著書複数・Amazon1位/ 雑誌・web連載複数/ 仕事依頼・医師キャリア相談はDM📩/ 正しくわかりやすく面白く！医療・医療ニュース解説・ライフハック系・SNS運用ポストします/ 病気相談×/ プロダイバー/ 筋トレ/ アニメ好き",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "free-doc.hatenablog.com",
+                "end": 23,
+                "expanded_url": "https://free-doc.hatenablog.com/",
+                "start": 0,
+                "url": "https://t.co/XlWWJSNGw6"
+              }
+            ]
+          }
+        },
+        "id": "1035020933369487360",
+        "location": "医師転職・バイト・フリーランスについてのブログ「フリドク」",
+        "name": "おると🦴整形外科医@筋トレ",
+        "pinned_tweet_id": "1934521569801601135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1207640864714964994/Lj-YaH6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138631,
+          "following_count": 284,
+          "like_count": 58874,
+          "listed_count": 1821,
+          "media_count": 2497,
+          "tweet_count": 48344
+        },
+        "url": "https://t.co/XlWWJSNGw6",
+        "username": "Ortho_FL",
+        "verified": true
+      }
+    ]
+  }
+}

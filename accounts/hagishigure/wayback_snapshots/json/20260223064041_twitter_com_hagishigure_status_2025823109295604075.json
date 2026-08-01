@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2025819249919635651",
+    "created_at": "2026-02-23T06:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T07:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025823109295604075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1740188738469367808",
+          "start": 0,
+          "username": "HJS_2403_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025823109295604075",
+    "in_reply_to_user_id": "1740188738469367808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025819249919635651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HJS_2403_0 小朋友。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 767,
+        "media_key": "3_2025819083372195840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB0nuRubcAAnTfw.png",
+        "width": 568
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2025819249919635651",
+        "created_at": "2026-02-23T06:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T07:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025823109295604075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1740188738469367808",
+              "start": 0,
+              "username": "HJS_2403_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025823109295604075",
+        "in_reply_to_user_id": "1740188738469367808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025819249919635651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HJS_2403_0 小朋友。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025819083372195840"
+          ]
+        },
+        "author_id": "1740188738469367808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025819249919635651",
+        "created_at": "2026-02-23T06:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T07:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025819249919635651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IJlyZnsGWS",
+              "end": 40,
+              "expanded_url": "https://x.com/HJS_2403_0/status/2025819249919635651/photo/1",
+              "media_key": "3_2025819083372195840",
+              "start": 17,
+              "url": "https://t.co/IJlyZnsGWS"
+            },
+            {
+              "display_url": "x.com/StarNekOvO/sta…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/StarNekOvO/status/2025813113178845205",
+              "start": 41,
+              "url": "https://t.co/79IXMYyOpw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025819249919635651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025813113178845205",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥺🥺🥺👉👈👉👈👉👈\n这 这不对吧 https://t.co/IJlyZnsGWS https://t.co/79IXMYyOpw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 135,
+          "like_count": 21532,
+          "listed_count": 0,
+          "media_count": 608,
+          "tweet_count": 5305
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-28T01:51:56.000Z",
+        "description": "我是一些些  \n荒景肆(Arakei Shi)\n繁花園礼肆\n⚠️精神疾患 | 繁花園 | 文學向@HJS_2403_2\n勘測統系 | INFP-A |🩵🩶心裏建設供給\n虛無的理想 主義患者\n無政治立場 無參與圈子\nEx2403 程式 寫作 繪畫 願你幸福\n🏳️‍🌈 🏳️‍⚧️ 🦋 🦴 ❤️ ‍🩹 ✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 48,
+                "username": "HJS_2403_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bio.site/AraiShi",
+                "end": 23,
+                "expanded_url": "https://bio.site/AraiShi",
+                "start": 0,
+                "url": "https://t.co/Z3lsqQxLtB"
+              }
+            ]
+          }
+        },
+        "id": "1740188738469367808",
+        "location": "꒰ঌ♫*'✟:｡-願你退此苦海以至願山-｡.:*♡'*♪໒꒱",
+        "name": "閃閃亮 毛茸茸 可可愛愛的一些些",
+        "pinned_tweet_id": "1991772859178610921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005998532231311361/Sk5ocZC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2281,
+          "following_count": 309,
+          "like_count": 46296,
+          "listed_count": 6,
+          "media_count": 930,
+          "tweet_count": 4316
+        },
+        "url": "https://t.co/Z3lsqQxLtB",
+        "username": "HJS_2403_0",
+        "verified": true
+      }
+    ]
+  }
+}

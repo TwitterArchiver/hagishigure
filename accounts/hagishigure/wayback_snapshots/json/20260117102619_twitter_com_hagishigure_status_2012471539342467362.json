@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2012471539342467362",
+    "created_at": "2026-01-17T10:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T11:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012471539342467362"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pxwwu_chan/sta…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/pxwwu_chan/status/2012435478574735864",
+          "start": 33,
+          "url": "https://t.co/v0HfB7Aeba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012471539342467362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012435478574735864",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "何意味啊？把air阉割成去全球化之后给国产垃圾加个全球化做噱头？ https://t.co/v0HfB7Aeba"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2105,
+        "media_key": "3_2012435470530355200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-2bZepboAA8em2.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2012471539342467362",
+        "created_at": "2026-01-17T10:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T11:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012471539342467362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pxwwu_chan/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/pxwwu_chan/status/2012435478574735864",
+              "start": 33,
+              "url": "https://t.co/v0HfB7Aeba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012471539342467362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012435478574735864",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "何意味啊？把air阉割成去全球化之后给国产垃圾加个全球化做噱头？ https://t.co/v0HfB7Aeba"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012435470530355200"
+          ]
+        },
+        "author_id": "940931345001299970",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2012435478574735864",
+        "created_at": "2026-01-17T08:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T09:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012435478574735864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JA2nGxdlZm",
+              "end": 53,
+              "expanded_url": "https://x.com/pxwwu_chan/status/2012435478574735864/photo/1",
+              "media_key": "3_2012435470530355200",
+              "start": 30,
+              "url": "https://t.co/JA2nGxdlZm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012435478574735864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道正式发布后会不会通过更新/云控加上esim地理围栏🤔 https://t.co/JA2nGxdlZm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 120,
+          "like_count": 15227,
+          "listed_count": 1,
+          "media_count": 417,
+          "tweet_count": 3541
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-13T13:08:09.000Z",
+        "description": "🦋：@pxwwu.com|已摆烂の02年老阿姨|176cm|伪音摆烂中|🩷：MoeDreamAria（已销号）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "pxwwu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pxwwu.com",
+                "end": 23,
+                "expanded_url": "http://pxwwu.com",
+                "start": 0,
+                "url": "https://t.co/kiprkGLP3Z"
+              }
+            ]
+          }
+        },
+        "id": "940931345001299970",
+        "location": "阿莉亚的被窝",
+        "name": "pxwwu🦀🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011275549809975297/b_0xZEp8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12632,
+          "following_count": 3151,
+          "like_count": 176403,
+          "listed_count": 44,
+          "media_count": 3690,
+          "tweet_count": 18087
+        },
+        "url": "https://t.co/kiprkGLP3Z",
+        "username": "pxwwu_chan",
+        "verified": false
+      }
+    ]
+  }
+}

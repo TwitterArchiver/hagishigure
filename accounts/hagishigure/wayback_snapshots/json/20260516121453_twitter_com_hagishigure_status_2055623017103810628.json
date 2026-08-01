@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2055623017103810628",
+    "created_at": "2026-05-16T12:14:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055623017103810628"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sheriyuo/statu…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/sheriyuo/status/2055560930319335799",
+          "start": 81,
+          "url": "https://t.co/CrD5iefCIY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055623017103810628",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055560930319335799",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我来高仿一下☝️😋。\n全世界博士生年薪百万人数最少大致估计：\n1.形而上学/分析哲学。能拿到百万以上的一千个人大概5个左右？对硕导博士后来说应该是努力下就可以。 https://t.co/CrD5iefCIY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2055623017103810628",
+        "created_at": "2026-05-16T12:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055623017103810628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sheriyuo/statu…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/sheriyuo/status/2055560930319335799",
+              "start": 81,
+              "url": "https://t.co/CrD5iefCIY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055623017103810628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055560930319335799",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我来高仿一下☝️😋。\n全世界博士生年薪百万人数最少大致估计：\n1.形而上学/分析哲学。能拿到百万以上的一千个人大概5个左右？对硕导博士后来说应该是努力下就可以。 https://t.co/CrD5iefCIY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018976131849039872",
+        "conversation_id": "2055552627866521603",
+        "created_at": "2026-05-16T08:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T09:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055560930319335799"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055560930319335799",
+        "in_reply_to_user_id": "2018976131849039872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有效池子内约 20% 可以达到本科毕业百万年薪\n贵校本科百万年薪路径和人数大致估计：\n1. llm/算法，最近很火。能拿到百万以上的一个年级段大概 20-40 人左右（不算硕博）？对 xk 应该是努力下就可以\n2. 量化/quant，传统高薪路径，最近有点被 llm 后来居上的感觉。一个年级段拿到百万以上 offer 的估计有 20 人左右，不仅 xk，还有 sms/gsm 和其他理工院系\n3. 教培，可能是对贵校学生最简单的路径。具体人数不清，但竞赛相关的应该也很容易做到这个数字\n4. 创业等一系列冷门路径，难以统计\n综上，本科毕业就能拿到百万以上年薪的可能有100-150人，约占贵校本科生的 3-5%（？）。不过如果只看有效的院系和候选人池子（大概 500 人左右，不考虑难度比较大的人文/社科/商科/冷门理工科，也不考虑深造的人数），其实 20% 左右的人能拿到这个数字"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2114,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055552627866521603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有效池子内约 20% 可以达到本科毕业百万年薪\n贵校本科百万年薪路径和人数大致估计：\n1. llm/算法，最近很火。能拿到百万以上的一个年级段大概 20-40 人左右（不算硕博）？对 xk 应该是努力下就可以\n2. 量化/quant，传统高薪路径，最近有点被 llm 后来居上的感觉。一个年级段拿到百万以上 offer"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 148,
+          "like_count": 28941,
+          "listed_count": 3,
+          "media_count": 765,
+          "tweet_count": 6954
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-04T09:13:26.000Z",
+        "description": "Undergrad @RUC1937 | RL, Optimization, dLLM | Intern @JD_Corporate | Friend @dviolettchan | Applying for Fall 27 PhD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "RUC1937"
+              },
+              {
+                "end": 66,
+                "start": 53,
+                "username": "JD_Corporate"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "dviolettchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sheriyuo.github.io",
+                "end": 23,
+                "expanded_url": "http://sheriyuo.github.io",
+                "start": 0,
+                "url": "https://t.co/7yHglOnlhA"
+              }
+            ]
+          }
+        },
+        "id": "2018976131849039872",
+        "location": "Beijing, China",
+        "name": "Xiuyu Li",
+        "pinned_tweet_id": "2042072816712085577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018976441795502081/bpw974ir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6341,
+          "following_count": 1059,
+          "like_count": 7615,
+          "listed_count": 46,
+          "media_count": 148,
+          "tweet_count": 1433
+        },
+        "url": "https://t.co/7yHglOnlhA",
+        "username": "sheriyuo",
+        "verified": true
+      }
+    ]
+  }
+}

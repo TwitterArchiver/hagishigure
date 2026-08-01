@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2014021667320668267",
+    "created_at": "2026-01-21T17:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T18:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014021667320668267"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yeahwu404/stat…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/yeahwu404/status/2013769680331383272",
+          "start": 53,
+          "url": "https://t.co/Cw8E42tIDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014021667320668267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013769680331383272",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你就测吧，你的基带一点都不会在蜂窝网络广播你的位置，你的设备一点都不会容易因为RRC协议栈的漏洞被攻击。 https://t.co/Cw8E42tIDF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2014021667320668267",
+        "created_at": "2026-01-21T17:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T18:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014021667320668267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yeahwu404/stat…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/yeahwu404/status/2013769680331383272",
+              "start": 53,
+              "url": "https://t.co/Cw8E42tIDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014021667320668267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013769680331383272",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你就测吧，你的基带一点都不会在蜂窝网络广播你的位置，你的设备一点都不会容易因为RRC协议栈的漏洞被攻击。 https://t.co/Cw8E42tIDF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3645622759",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2013769680331383272",
+        "created_at": "2026-01-21T00:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T01:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013769680331383272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Use Speedtest on all your devices with our free desktop and mobile apps.",
+              "display_url": "speedtest.net",
+              "end": 41,
+              "expanded_url": "https://www.speedtest.net",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/2012422026930126848/LlUIwsvV?format=png&name=orig",
+                  "width": 382
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2012422026930126848/LlUIwsvV?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 18,
+              "status": 200,
+              "title": "Speedtest by Ookla - The Global Broadband Speed Test",
+              "unwound_url": "https://www.speedtest.net",
+              "url": "https://t.co/10PegUnn5y"
+            },
+            {
+              "description": "Test your Internet connection. Check your network performance with our Internet speed test. Powered by Cloudflare's global edge network.",
+              "display_url": "speed.cloudflare.com",
+              "end": 80,
+              "expanded_url": "https://speed.cloudflare.com",
+              "images": [
+                {
+                  "height": 1322,
+                  "url": "https://pbs.twimg.com/news_img/2007134650691661824/iUQj-sfy?format=jpg&name=orig",
+                  "width": 2294
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2007134650691661824/iUQj-sfy?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 57,
+              "status": 200,
+              "title": "Internet Speed Test - Measure Network Performance | Cloudflare",
+              "unwound_url": "https://speed.cloudflare.com",
+              "url": "https://t.co/M25TZQxn89"
+            },
+            {
+              "description": "Test your current internet speed, and find out how fast your broadband wi-fi handles uploads and downloads. See Google Fiber plan options for faster internet.",
+              "display_url": "gfiber.com/speedtest/",
+              "end": 115,
+              "expanded_url": "https://gfiber.com/speedtest/",
+              "start": 92,
+              "status": 200,
+              "title": "Internet Speed Test | Check Broadband Speed | Google Fiber",
+              "unwound_url": "https://fiber.google.com/speedtest/",
+              "url": "https://t.co/4XIIu7GE1C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013769680331383272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 16893,
+          "like_count": 152,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "各大测速网站：\n\nOokla测速：\nhttps://t.co/10PegUnn5y\n\nCloudflare测速：\nhttps://t.co/M25TZQxn89\n\nGoogle测速：\nhttps://t.co/4XIIu7GE1C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 122,
+          "like_count": 15740,
+          "listed_count": 0,
+          "media_count": 426,
+          "tweet_count": 3648
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-22T05:50:09.000Z",
+        "description": "TG频道：https://t.co/XecRtYVXfl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Hello_1024",
+                "end": 28,
+                "expanded_url": "http://t.me/Hello_1024",
+                "start": 5,
+                "url": "https://t.co/XecRtYVXfl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "1024.day",
+                "end": 23,
+                "expanded_url": "https://1024.day",
+                "start": 0,
+                "url": "https://t.co/CWwF31aaRR"
+              }
+            ]
+          }
+        },
+        "id": "3645622759",
+        "name": "七舅姥爷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/758615102564163584/BRWfouwv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14368,
+          "following_count": 396,
+          "like_count": 1761,
+          "listed_count": 149,
+          "media_count": 282,
+          "tweet_count": 2877
+        },
+        "url": "https://t.co/CWwF31aaRR",
+        "username": "yeahwu404",
+        "verified": true
+      }
+    ]
+  }
+}

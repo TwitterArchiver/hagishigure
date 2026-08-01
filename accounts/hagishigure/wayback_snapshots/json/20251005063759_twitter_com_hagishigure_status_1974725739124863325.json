@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974725733697335296"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1974703755863212194",
+    "created_at": "2025-10-05T06:37:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T07:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974725739124863325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainEngine2024"
+        },
+        {
+          "end": 25,
+          "id": "1472111867036594179",
+          "start": 16,
+          "username": "SeimoDev"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TzPBbuSRib",
+          "end": 59,
+          "expanded_url": "https://x.com/hagishigure/status/1974725739124863325/photo/1",
+          "media_key": "3_1974725733697335296",
+          "start": 36,
+          "url": "https://t.co/TzPBbuSRib"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974725739124863325",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974703755863212194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024 @SeimoDev 觀光黨的結局是…😋 https://t.co/TzPBbuSRib"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_1974725733697335296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2eil53aMAAO2pu.jpg",
+        "width": 864
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974703718911119360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2eOkeZXEAAsrlc.jpg",
+        "width": 1390
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974725733697335296"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1974703755863212194",
+        "created_at": "2025-10-05T06:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T07:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974725739124863325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            },
+            {
+              "end": 25,
+              "id": "1472111867036594179",
+              "start": 16,
+              "username": "SeimoDev"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TzPBbuSRib",
+              "end": 59,
+              "expanded_url": "https://x.com/hagishigure/status/1974725739124863325/photo/1",
+              "media_key": "3_1974725733697335296",
+              "start": 36,
+              "url": "https://t.co/TzPBbuSRib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974725739124863325",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974703755863212194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 @SeimoDev 觀光黨的結局是…😋 https://t.co/TzPBbuSRib"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974703718911119360"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1974703755863212194",
+        "created_at": "2025-10-05T05:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T06:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974703755863212194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g1CZ6PTDN7",
+              "end": 25,
+              "expanded_url": "https://x.com/RainEngine2024/status/1974703755863212194/photo/1",
+              "media_key": "3_1974703718911119360",
+              "start": 2,
+              "url": "https://t.co/g1CZ6PTDN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974703755863212194",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 968,
+          "like_count": 41,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "绷 https://t.co/g1CZ6PTDN7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 83,
+          "like_count": 1072,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 175
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "07年小朋友/貌似不是学生/小米合作伙伴/雨擎项目组/爱好拍照记录生活/喜欢折腾数码产品/目前在学习u3d引擎/HRT:2025.09.05/永远相信美好的事情即将发生",
+        "id": "1810873766119100416",
+        "name": "雨晴今天睡了吗",
+        "pinned_tweet_id": "1973728167132344688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971612173811232768/q54JKFhX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1331,
+          "following_count": 437,
+          "like_count": 14709,
+          "listed_count": 2,
+          "media_count": 400,
+          "tweet_count": 2515
+        },
+        "username": "RainEngine2024",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T07:50:10.000Z",
+        "description": "BI6PCR丨音游壬丨Web3丨Co-Founder of HNUBA丨WorkWork!丨Spark Lab丨 Android Dev丨简中丨繁中丨English丨21歲丨大三丨https://t.co/Pikc5r4ELF丨友跨顺男丨面基Bot丨本人言论不构成任何投资建议丨@workworkorg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 139,
+                "username": "workworkorg"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/seimoSFW",
+                "end": 113,
+                "expanded_url": "https://t.me/seimoSFW",
+                "start": 90,
+                "url": "https://t.co/Pikc5r4ELF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "seimo.cn",
+                "end": 23,
+                "expanded_url": "https://seimo.cn",
+                "start": 0,
+                "url": "https://t.co/aegqvv8Y3G"
+              }
+            ]
+          }
+        },
+        "id": "1472111867036594179",
+        "location": "Earth",
+        "name": "Seimo（全🌏🉑✈️）",
+        "pinned_tweet_id": "1675708739998056449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912362795879809025/HbzzOBdl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 674,
+          "like_count": 7778,
+          "listed_count": 2,
+          "media_count": 1154,
+          "tweet_count": 4776
+        },
+        "url": "https://t.co/aegqvv8Y3G",
+        "username": "SeimoDev",
+        "verified": false
+      }
+    ]
+  }
+}

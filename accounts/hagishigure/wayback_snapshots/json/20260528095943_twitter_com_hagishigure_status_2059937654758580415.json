@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2059937654758580415",
+    "created_at": "2026-05-28T09:59:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T10:59:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059937654758580415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1016230045449314304",
+          "start": 3,
+          "username": "FINI96348395"
+        },
+        {
+          "end": 27,
+          "id": "1163406492831084544",
+          "start": 18,
+          "username": "SyluahWB"
+        },
+        {
+          "end": 36,
+          "id": "265866439",
+          "start": 28,
+          "username": "taiwata"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059937654758580415",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032084559672865055",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FINI96348395: @SyluahWB @taiwata 中国とは国交断絶して欲しい。\n世界中でこれほど傲慢な国は中国だけ。\n国交しても害悪しかない。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2059937654758580415",
+        "created_at": "2026-05-28T09:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T10:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059937654758580415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1016230045449314304",
+              "start": 3,
+              "username": "FINI96348395"
+            },
+            {
+              "end": 27,
+              "id": "1163406492831084544",
+              "start": 18,
+              "username": "SyluahWB"
+            },
+            {
+              "end": 36,
+              "id": "265866439",
+              "start": 28,
+              "username": "taiwata"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059937654758580415",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032084559672865055",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FINI96348395: @SyluahWB @taiwata 中国とは国交断絶して欲しい。\n世界中でこれほど傲慢な国は中国だけ。\n国交しても害悪しかない。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1016230045449314304",
+        "conversation_id": "2032009801136574795",
+        "created_at": "2026-03-12T13:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T14:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032084559672865055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1163406492831084544",
+              "start": 0,
+              "username": "SyluahWB"
+            },
+            {
+              "end": 18,
+              "id": "265866439",
+              "start": 10,
+              "username": "taiwata"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032084559672865055",
+        "in_reply_to_user_id": "1163406492831084544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 37033,
+          "like_count": 607,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032009801136574795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SyluahWB @taiwata 中国とは国交断絶して欲しい。\n世界中でこれほど傲慢な国は中国だけ。\n国交しても害悪しかない。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 154,
+          "like_count": 29940,
+          "listed_count": 3,
+          "media_count": 780,
+          "tweet_count": 7178
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2018-07-09T07:58:18.000Z",
+        "description": "たまに鬱憤晴らしにボソッと独り言 猫はどんな時も可愛い",
+        "id": "1016230045449314304",
+        "location": "日本 京都",
+        "name": "FINI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998518487778734082/bzX-wu6-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 435,
+          "like_count": 44588,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 3784
+        },
+        "username": "FINI96348395",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-19T11:05:06.000Z",
+        "description": "アニメ・映画・ゲーム系のオタク。ふせったーとかnoteにハマった作品の考察を投稿するタイプ。政治経済軍事からネタツイまで、雑多にRTしたり言及するので苦手なら注意。\n\nツールで一括ブロックをしていた時期があるので、巻き添えブロックになってたらごめんね。",
+        "id": "1163406492831084544",
+        "location": "コインいっこいれるとこ",
+        "name": "春夏秋冬巡",
+        "pinned_tweet_id": "2038493027686396130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1163407557018304512/mV2pXT18_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 3218,
+          "like_count": 297129,
+          "listed_count": 8,
+          "media_count": 1973,
+          "tweet_count": 330946
+        },
+        "username": "SyluahWB",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-14T08:02:05.000Z",
+        "description": "All those moments ... will be lost ... in time ... like tears ... in rain ... it's time ... to die. 初見タメ口はブロックな",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/zhongwen/simp/…",
+                "end": 23,
+                "expanded_url": "https://www.bbc.com/zhongwen/simp/chinese-news-48465191",
+                "start": 0,
+                "url": "https://t.co/kAzduLs0xR"
+              }
+            ]
+          }
+        },
+        "id": "265866439",
+        "location": "犯罪とアスベストの街",
+        "name": "taiwata@カレー味(๑•̀д•́๑)ｷﾘｯ",
+        "pinned_tweet_id": "665854071643897857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496124023536644103/fWS8MsI5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7263,
+          "following_count": 1366,
+          "like_count": 123506,
+          "listed_count": 218,
+          "media_count": 5414,
+          "tweet_count": 111179
+        },
+        "url": "https://t.co/kAzduLs0xR",
+        "username": "taiwata",
+        "verified": true
+      }
+    ]
+  }
+}

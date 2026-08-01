@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975913815620591616"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1975766863033573704",
+    "created_at": "2025-10-08T13:19:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T14:19:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975913825556938817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1684572167860801536",
+          "start": 0,
+          "username": "kukmoon97"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rM2QHFpKht",
+          "end": 134,
+          "expanded_url": "https://x.com/hagishigure/status/1975913825556938817/photo/1",
+          "media_key": "3_1975913815620591616",
+          "start": 111,
+          "url": "https://t.co/rM2QHFpKht"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975913825556938817",
+    "in_reply_to_user_id": "1684572167860801536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975909231057662192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kukmoon97 但基本上如果打到地方法院當地都會支持“大事化小”這樣的非法理條例的意志\n輿論方面可能會需要“事實定義權”和“性質定義權”的搶先，如果這兩點都沒有可以放棄了（（\n然後中國ai給的建議是：建議壓力當事人 https://t.co/rM2QHFpKht"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1011,
+        "media_key": "3_1975913815620591616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2vbJX7aIAAcZKo.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975913815620591616"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1975766863033573704",
+        "created_at": "2025-10-08T13:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T14:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975913825556938817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1684572167860801536",
+              "start": 0,
+              "username": "kukmoon97"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rM2QHFpKht",
+              "end": 134,
+              "expanded_url": "https://x.com/hagishigure/status/1975913825556938817/photo/1",
+              "media_key": "3_1975913815620591616",
+              "start": 111,
+              "url": "https://t.co/rM2QHFpKht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975913825556938817",
+        "in_reply_to_user_id": "1684572167860801536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975909231057662192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kukmoon97 但基本上如果打到地方法院當地都會支持“大事化小”這樣的非法理條例的意志\n輿論方面可能會需要“事實定義權”和“性質定義權”的搶先，如果這兩點都沒有可以放棄了（（\n然後中國ai給的建議是：建議壓力當事人 https://t.co/rM2QHFpKht"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684572167860801536",
+        "conversation_id": "1975766863033573704",
+        "created_at": "2025-10-08T13:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T14:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975909231057662192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975909231057662192",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975908242740908215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure 所以我一度好奇为什么警方站在未成年药娘的父母立场。\n现在看来，还是因为《预防未成年人犯罪法》有相关法条，使得警方将离家出走的未成年药娘送归家庭。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 86,
+          "like_count": 1998,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 340
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-27T14:32:20.000Z",
+        "description": "🌸 Former #crossdresser #CD｜now #MtF #transgender #TS｜Finding back friends 🌸 前 #伪娘｜现 #跨性别 女｜找回以前的好友中 🌸 元 #女装子｜今や #ニューハーフ｜かつての友逹を探して 🌸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 9,
+                "tag": "crossdresser"
+              },
+              {
+                "end": 26,
+                "start": 23,
+                "tag": "CD"
+              },
+              {
+                "end": 35,
+                "start": 31,
+                "tag": "MtF"
+              },
+              {
+                "end": 48,
+                "start": 36,
+                "tag": "transgender"
+              },
+              {
+                "end": 52,
+                "start": 49,
+                "tag": "TS"
+              },
+              {
+                "end": 81,
+                "start": 78,
+                "tag": "伪娘"
+              },
+              {
+                "end": 88,
+                "start": 84,
+                "tag": "跨性别"
+              },
+              {
+                "end": 108,
+                "start": 104,
+                "tag": "女装子"
+              },
+              {
+                "end": 119,
+                "start": 112,
+                "tag": "ニューハーフ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/kukmoon",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/kukmoon",
+                "start": 0,
+                "url": "https://t.co/RJj82hjUIU"
+              }
+            ]
+          }
+        },
+        "id": "1684572167860801536",
+        "location": "距离你 0.15 km",
+        "name": "神楽坂谷月（Kagurazaka Tanituki）（找回以前的好友中）",
+        "pinned_tweet_id": "1975832587030683800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907686329288437760/qxwXzNcR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1931,
+          "following_count": 1816,
+          "like_count": 66848,
+          "listed_count": 1,
+          "media_count": 1166,
+          "tweet_count": 7441
+        },
+        "url": "https://t.co/RJj82hjUIU",
+        "username": "kukmoon97",
+        "verified": false
+      }
+    ]
+  }
+}

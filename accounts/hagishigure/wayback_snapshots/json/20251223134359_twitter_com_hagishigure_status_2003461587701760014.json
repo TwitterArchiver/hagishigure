@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2003379643009892762",
+    "created_at": "2025-12-23T13:43:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T14:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003461587701760014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1600208165269741570",
+          "start": 0,
+          "username": "MeowCatherina"
+        },
+        {
+          "end": 23,
+          "id": "1552918719440924672",
+          "start": 15,
+          "username": "sprLumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003461587701760014",
+    "in_reply_to_user_id": "1600208165269741570",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003381870206288381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeowCatherina @sprLumi 👀"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2003381870206288381].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2003381870206288381",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2003381870206288381"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2003379643009892762",
+        "created_at": "2025-12-23T13:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T14:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003461587701760014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "MeowCatherina"
+            },
+            {
+              "end": 23,
+              "id": "1552918719440924672",
+              "start": 15,
+              "username": "sprLumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003461587701760014",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003381870206288381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeowCatherina @sprLumi 👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 117,
+          "like_count": 13522,
+          "listed_count": 0,
+          "media_count": 390,
+          "tweet_count": 3171
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21INTP｜⚠️不会说话和社交的AuDHD｜🏫Monash｜🐈/🏹/🚴/💻｜某司高管(逃)｜意面神教牧师｜BA4R**｜GPG: C1D9 84F0 BBA1 B3B9｜持证嗓音训练师｜做教育学科研还能画图的经济学生是好的计科人｜PPL猫主子@Ted_Yeet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 122,
+                "username": "Ted_Yeet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "service.cntt.uk",
+                "end": 23,
+                "expanded_url": "https://service.cntt.uk",
+                "start": 0,
+                "url": "https://t.co/8NIDYwDlph"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫窝",
+        "name": "凯瑟琳奈（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998254411685195777/4fVQC6uA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 6701,
+          "following_count": 1084,
+          "like_count": 78665,
+          "listed_count": 19,
+          "media_count": 2031,
+          "tweet_count": 24038
+        },
+        "url": "https://t.co/8NIDYwDlph",
+        "username": "MeowCatherina",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@HobartR6 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "HobartR6"
+              },
+              {
+                "end": 21,
+                "start": 10,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "🌃",
+        "name": "虾仁芹菜馅猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002750425846743040/o_4juNXT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3273,
+          "following_count": 912,
+          "like_count": 1420,
+          "listed_count": 6,
+          "media_count": 56,
+          "tweet_count": 685
+        },
+        "username": "sprLumi",
+        "verified": true
+      }
+    ]
+  }
+}

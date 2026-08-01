@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2061802869959827755",
+    "created_at": "2026-06-02T13:31:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T14:31:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061802869959827755"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Matthardy_BR/s…",
+          "end": 280,
+          "expanded_url": "https://twitter.com/Matthardy_BR/status/2061075625033490703",
+          "start": 257,
+          "url": "https://t.co/YM14uofFRw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061802869959827755",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061075625033490703",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "La terf anglaise a photographié un homme qui n'a pas fait de geste suspect d'un vestiaire fermé d'une chambre simple, puis a essayé de prétendre que c'était une femme trans qui voyait des femmes sexuelles, mais personne n'a pu prouver qu'elle l'avait fait. https://t.co/YM14uofFRw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2061075620633698311",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJppW18W4AcI7Nx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2061802869959827755",
+        "created_at": "2026-06-02T13:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061802869959827755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Matthardy_BR/s…",
+              "end": 280,
+              "expanded_url": "https://twitter.com/Matthardy_BR/status/2061075625033490703",
+              "start": 257,
+              "url": "https://t.co/YM14uofFRw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061802869959827755",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061075625033490703",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "La terf anglaise a photographié un homme qui n'a pas fait de geste suspect d'un vestiaire fermé d'une chambre simple, puis a essayé de prétendre que c'était une femme trans qui voyait des femmes sexuelles, mais personne n'a pu prouver qu'elle l'avait fait. https://t.co/YM14uofFRw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061075620633698311"
+          ]
+        },
+        "author_id": "1791826125800226816",
+        "conversation_id": "2061075374251905029",
+        "created_at": "2026-05-31T13:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061075625033490703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8b9qbDHJ24",
+              "end": 57,
+              "expanded_url": "https://x.com/Matthardy_BR/status/2061075625033490703/photo/1",
+              "media_key": "3_2061075620633698311",
+              "start": 34,
+              "url": "https://t.co/8b9qbDHJ24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061075625033490703",
+        "in_reply_to_user_id": "1791826125800226816",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 1777627,
+          "like_count": 464,
+          "quote_count": 43,
+          "reply_count": 100,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061075374251905029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Photo taken by one of the victims https://t.co/8b9qbDHJ24"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 154,
+          "like_count": 30442,
+          "listed_count": 3,
+          "media_count": 785,
+          "tweet_count": 7276
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-18T13:40:26.000Z",
+        "description": "Bladerunners in town 💪🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+        "id": "1791826125800226816",
+        "location": "London, England",
+        "name": "Matthardybladerunner",
+        "pinned_tweet_id": "1918354813504635097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863334838469562368/DKJlxorn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67289,
+          "following_count": 1113,
+          "like_count": 1212,
+          "listed_count": 91,
+          "media_count": 1617,
+          "tweet_count": 2750
+        },
+        "username": "Matthardy_BR",
+        "verified": true
+      }
+    ]
+  }
+}

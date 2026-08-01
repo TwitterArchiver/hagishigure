@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2023990206202888312",
+    "created_at": "2026-02-18T05:17:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T06:17:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023990206202888312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1462419807173677059",
+          "start": 3,
+          "username": "Jane_S_Eye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023990206202888312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023746551877955903",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jane_S_Eye: 只可惜花路生错了年代，世界上没有第二个萨特，她也没法当第二个波伏娃。\n当然谁知道21世纪的让·保罗·萨特会不会变性？嘿，那毕竟只是个自由的选择罢了。\n他一定会说服自己的很多女朋友同意的吧（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2023990206202888312",
+        "created_at": "2026-02-18T05:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T06:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023990206202888312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1462419807173677059",
+              "start": 3,
+              "username": "Jane_S_Eye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023990206202888312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023746551877955903",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jane_S_Eye: 只可惜花路生错了年代，世界上没有第二个萨特，她也没法当第二个波伏娃。\n当然谁知道21世纪的让·保罗·萨特会不会变性？嘿，那毕竟只是个自由的选择罢了。\n他一定会说服自己的很多女朋友同意的吧（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462419807173677059",
+        "conversation_id": "2023746551877955903",
+        "created_at": "2026-02-17T13:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T14:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023746551877955903"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023746551877955903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2492,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "只可惜花路生错了年代，世界上没有第二个萨特，她也没法当第二个波伏娃。\n当然谁知道21世纪的让·保罗·萨特会不会变性？嘿，那毕竟只是个自由的选择罢了。\n他一定会说服自己的很多女朋友同意的吧（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 131,
+          "like_count": 20229,
+          "listed_count": 0,
+          "media_count": 575,
+          "tweet_count": 4902
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T13:58:25.000Z",
+        "description": "she/her but Not a whore.",
+        "id": "1462419807173677059",
+        "name": "Véronique",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014887084780355584/8FhBKtzU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11090,
+          "following_count": 3135,
+          "like_count": 12353,
+          "listed_count": 21,
+          "media_count": 456,
+          "tweet_count": 7957
+        },
+        "username": "Jane_S_Eye",
+        "verified": false
+      }
+    ]
+  }
+}

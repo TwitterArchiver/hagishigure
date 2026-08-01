@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2012752320338051494",
+    "created_at": "2026-01-18T05:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T06:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012753392452485189"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012753392452485189",
+    "in_reply_to_user_id": "1965393379224944645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012752320338051494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只吃过东亚饺子没吃过波兰草莓饺子的人我想是没资格评价欧盟食物的，连草莓饺子这么好吃到东西都接受不了我认为你根本就不懂欧盟美食美在什么地方。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2012752320338051494",
+        "created_at": "2026-01-18T05:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T06:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012753392452485189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012753392452485189",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012752320338051494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只吃过东亚饺子没吃过波兰草莓饺子的人我想是没资格评价欧盟食物的，连草莓饺子这么好吃到东西都接受不了我认为你根本就不懂欧盟美食美在什么地方。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2012752320338051494",
+        "created_at": "2026-01-18T05:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T06:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012752320338051494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ChenWeiChen49/…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/ChenWeiChen49/status/2012551095969616086",
+              "start": 150,
+              "url": "https://t.co/hq70Zr8NQL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012752320338051494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012551095969616086",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "欧盟美食沙漠？你是穷到没钱吃\n爱尔兰黑啤酱汁立陶宛黑麦面包希腊烤章鱼意大利油封番茄英国Crumpet荷兰Edam奶酪巴西Moqueca比利时菊苣沙拉奥地利萨赫蛋糕波兰野生树莓酱捷克香草奶油西班牙塔帕斯意大利布拉塔奶酪希腊橄榄法国可丽饼卷德国香肠奥地利酸菜波兰饺子罗马尼亚肉卷瑞典肉丸丹麦开放三明治？ https://t.co/hq70Zr8NQL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 120,
+          "like_count": 15266,
+          "listed_count": 0,
+          "media_count": 418,
+          "tweet_count": 3550
+        },
+        "username": "hagishigure",
+        "verified": false
+      }
+    ]
+  }
+}

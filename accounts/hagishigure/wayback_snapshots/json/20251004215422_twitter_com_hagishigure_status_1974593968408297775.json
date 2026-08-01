@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974593959860248577"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1974141566123163974",
+    "created_at": "2025-10-04T21:54:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T22:54:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974593968408297775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1953386942198079488",
+          "start": 0,
+          "username": "yizhixiaoxun520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/drrdIYFjoI",
+          "end": 69,
+          "expanded_url": "https://x.com/hagishigure/status/1974593968408297775/photo/1",
+          "media_key": "3_1974593959860248577",
+          "start": 46,
+          "url": "https://t.co/drrdIYFjoI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974593968408297775",
+    "in_reply_to_user_id": "1953386942198079488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974141566123163974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yizhixiaoxun520 什麼原因👀\n我是因為隨便找了个真實性當理由給我ban了👀 https://t.co/drrdIYFjoI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974593959860248577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2cqvqEaIAE6-Q_.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974141547630505992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2WPRzLbMAgHpED.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974593959860248577"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1974141566123163974",
+        "created_at": "2025-10-04T21:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T22:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974593968408297775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1953386942198079488",
+              "start": 0,
+              "username": "yizhixiaoxun520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/drrdIYFjoI",
+              "end": 69,
+              "expanded_url": "https://x.com/hagishigure/status/1974593968408297775/photo/1",
+              "media_key": "3_1974593959860248577",
+              "start": 46,
+              "url": "https://t.co/drrdIYFjoI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974593968408297775",
+        "in_reply_to_user_id": "1953386942198079488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974141566123163974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yizhixiaoxun520 什麼原因👀\n我是因為隨便找了个真實性當理由給我ban了👀 https://t.co/drrdIYFjoI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974141547630505992"
+          ]
+        },
+        "author_id": "1953386942198079488",
+        "conversation_id": "1974141566123163974",
+        "created_at": "2025-10-03T15:56:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T16:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974141566123163974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l5Z9XUGrBf",
+              "end": 31,
+              "expanded_url": "https://x.com/yizhixiaoxun520/status/1974141566123163974/photo/1",
+              "media_key": "3_1974141547630505992",
+              "start": 8,
+              "url": "https://t.co/l5Z9XUGrBf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974141566123163974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 17625,
+          "like_count": 109,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "我这号没了哇😭 https://t.co/l5Z9XUGrBf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 81,
+          "like_count": 917,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 148
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-07T09:25:22.000Z",
+        "description": "笨蛋小寻@xiaoxunjiang520的小号😸😸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "xiaoxunjiang520"
+              }
+            ]
+          }
+        },
+        "id": "1953386942198079488",
+        "name": "一只小寻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953395373583794176/7_p1NAPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 83,
+          "like_count": 19,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 87
+        },
+        "username": "yizhixiaoxun520",
+        "verified": false
+      }
+    ]
+  }
+}

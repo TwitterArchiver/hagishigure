@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2020957954824884279",
+    "created_at": "2026-02-09T20:28:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T21:28:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020957954824884279"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Khazix0918/sta…",
+          "end": 132,
+          "expanded_url": "https://twitter.com/Khazix0918/status/2020814967600242706",
+          "start": 109,
+          "url": "https://t.co/BtaBEZIquL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020957954824884279",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020814967600242706",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我上次就说什么来着🤭，昨天发claude杀死程序员，今天发openclaw代替员工，明天打算发什么🤭。\n这不，又开始了🤭。\n概念是要炒的，顶会是连影子都看不到的，IEEE的papers是连一篇都没review过的🤭。 https://t.co/BtaBEZIquL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2020957954824884279",
+        "created_at": "2026-02-09T20:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T21:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020957954824884279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Khazix0918/sta…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/Khazix0918/status/2020814967600242706",
+              "start": 109,
+              "url": "https://t.co/BtaBEZIquL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020957954824884279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020814967600242706",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我上次就说什么来着🤭，昨天发claude杀死程序员，今天发openclaw代替员工，明天打算发什么🤭。\n这不，又开始了🤭。\n概念是要炒的，顶会是连影子都看不到的，IEEE的papers是连一篇都没review过的🤭。 https://t.co/BtaBEZIquL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492195583699951620",
+        "conversation_id": "2020814967600242706",
+        "created_at": "2026-02-09T11:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T12:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020814967600242706"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020814967600242706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "聊聊关于Seedance 2.0的风波。\n\nSeedance 2.0全网爆了。 \n此时此刻，你在X上看，铺天盖地的全部都是Seedance 2.0。 \n \n周六晚上，我把它发给了一些影视圈的朋友和剧组，我说这次可能是真的变天了。我也很焦虑，因为我们所谓的AI影视工业化，在顷刻间，灰飞烟灭。 \n \n另一方面，更多的其实是担忧，因为这个模型太强了，强到他就是世界第一，强到很多人已经完全无法分辨是不是AI生成的了，强到他必然会破圈必然会引起很多讨论和风波。 \n \n但是我没想到风波来的会如此之快。 \n \n就在刚刚，豆包和即梦的内测上，我发现已经全面禁止任何真人人脸上传了，你没办法用任何带真人人脸的图片和视频进行参考。 \n\n其实当今天凌晨影视飓风发了他们的关于Seedance2.0的视频，我就猜到会这样了，只不过没想到，舆论引发的过于迅猛，如此之快，直接给全面ban了。 \n \n大概就是Tim发现，他可以只用他自己的照片，没有任何声音参考，就可以生成他带自己的声音的视频，因为模型知道他是谁。 \n \n所以也有很多人在说，字节肯定拿抖音的数据直接灌进去全部训了一遍，所以才能这么强。 \n \n但是其实反了，这里我正好也有一些小的关于行业的潜规则给大家分享一下，就是这些大厂，用自己家的数据，会比全网扒别人家更麻烦。 \n \n最经典的案例就是Google，Youtube的数据，其实是不会给你训模型用的，因为内部隐私安全合规问题太严了，你要走流程走报备，等特么批下来，Sora都出到4代了。 \n \n但是没有数据又没法训模型，所以大家一致的做法的，就是全网扒以及买数据。\n就像OpenAI，直接把TikTok扒了个底朝天，但是TikTok和抖音的数据，字节自己却完全没有办法用，因为内部合规过不去，这也就是AI行业才有的独特现象了。 \n \n另一方面就是隐私问题，其实模型也不是谁都认识，Tim其实属实是个特例，因为他实在太有名产能又太恐怖了，全网的素材太多，但是又属于传统名人屏蔽集之外，所以还原的还比较好。 \n \n你像何同学其实就还原的一般，当然这里不是说何同学不如tim有名，但确实是产出和产能比影视飓风差很多，素材量没那么大。 \n \n不过整体来说，确实是个很大的风险。在这方面，OpenAI考虑的确实好一些，估计字节未来也会像Sora一样，你的人脸使用，需要你自己授权才可以，ban掉所有真人。 \n \n路上碎碎念说了这些，其实还是有点感慨。 \nAI发展的太快了，快到我们很多的人、很多政策、很多伦理都反应不过来。 \n但那又能怎么办呢，已经是这个时代了。 \n \n我们只能。 \n向前走，别回头。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 61200,
+          "like_count": 234,
+          "quote_count": 2,
+          "reply_count": 43,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "聊聊关于Seedance 2.0的风波。\n\nSeedance 2.0全网爆了。 \n此时此刻，你在X上看，铺天盖地的全部都是Seedance 2.0。 \n \n周六晚上，我把它发给了一些影视圈的朋友和剧组，我说这次可能是真的变天了。我也很焦虑，因为我们所谓的AI影视工业化，在顷刻间，灰飞烟灭。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 129,
+          "like_count": 19088,
+          "listed_count": 0,
+          "media_count": 550,
+          "tweet_count": 4537
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-11T17:55:38.000Z",
+        "description": "愿我们永远对世界保持好奇。\n公众号：数字生命卡兹克",
+        "id": "1492195583699951620",
+        "name": "数字生命卡兹克",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756592360367259648/GXJ4Kl6w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22521,
+          "following_count": 191,
+          "like_count": 164,
+          "listed_count": 242,
+          "media_count": 10,
+          "tweet_count": 110
+        },
+        "username": "Khazix0918",
+        "verified": true
+      }
+    ]
+  }
+}

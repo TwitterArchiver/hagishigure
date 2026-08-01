@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1990222312994640110",
+    "created_at": "2025-11-17T00:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T01:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990222312994640110"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TaroLeohearts/…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/TaroLeohearts/status/1990059282335973784",
+          "start": 36,
+          "url": "https://t.co/NtPBHGHLj0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990222312994640110",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990059282335973784",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "「人無法選擇，去渴望。」「人衹能要自己，要Ta的命運。」——《德米安》 https://t.co/NtPBHGHLj0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1990222312994640110",
+        "created_at": "2025-11-17T00:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T01:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990222312994640110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TaroLeohearts/…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/TaroLeohearts/status/1990059282335973784",
+              "start": 36,
+              "url": "https://t.co/NtPBHGHLj0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990222312994640110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990059282335973784",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「人無法選擇，去渴望。」「人衹能要自己，要Ta的命運。」——《德米安》 https://t.co/NtPBHGHLj0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3692606353",
+        "conversation_id": "1990035046481498622",
+        "created_at": "2025-11-16T14:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T15:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990059282335973784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1420205241404772352",
+              "start": 0,
+              "username": "YanboOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990059282335973784",
+        "in_reply_to_user_id": "1420205241404772352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 916,
+          "like_count": 9,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990035046481498622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YanboOfficial 人是救不了其他人的，人只能自己救自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 109,
+          "like_count": 9175,
+          "listed_count": 0,
+          "media_count": 311,
+          "tweet_count": 2083
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2015-09-26T12:33:30.000Z",
+        "description": "我会一直和人们站在一起。\n芋头/She/They, 💱crypto native, ✈️Freelancer, \n🚩CTF player\n🏳️‍⚧️non-bi 友顺跨女 有一颗温柔而坚强的心 缺德魔女的爱与魔法🪄\n🐘: https://t.co/9WLRdjl3iB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nightcord.de/@Leohearts",
+                "end": 134,
+                "expanded_url": "http://nightcord.de/@Leohearts",
+                "start": 111,
+                "url": "https://t.co/9WLRdjl3iB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "leohearts.com",
+                "end": 23,
+                "expanded_url": "https://leohearts.com",
+                "start": 0,
+                "url": "https://t.co/pg3LvnjcTC"
+              }
+            ]
+          }
+        },
+        "id": "3692606353",
+        "location": "this",
+        "name": "芋头 Leohearts🔮",
+        "pinned_tweet_id": "1428309568019341315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750708467122552832/6GxsOViL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3049,
+          "following_count": 161,
+          "like_count": 5524,
+          "listed_count": 11,
+          "media_count": 1270,
+          "tweet_count": 6221
+        },
+        "url": "https://t.co/pg3LvnjcTC",
+        "username": "TaroLeohearts",
+        "verified": false
+      }
+    ]
+  }
+}

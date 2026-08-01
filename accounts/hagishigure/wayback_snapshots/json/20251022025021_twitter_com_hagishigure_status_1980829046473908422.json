@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1980511875046731972",
+    "created_at": "2025-10-22T02:50:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T03:50:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980829046473908422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1903701047589343232",
+          "start": 0,
+          "username": "ceobrus"
+        },
+        {
+          "end": 22,
+          "id": "1756909109788753920",
+          "start": 9,
+          "username": "BaoZheFanQie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980829046473908422",
+    "in_reply_to_user_id": "1903701047589343232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980604208484348346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ceobrus @BaoZheFanQie 因為我很愛看花路和amber以及水川還有谷月還有王小檬的辯論😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1980511875046731972",
+        "created_at": "2025-10-22T02:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T03:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980829046473908422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1903701047589343232",
+              "start": 0,
+              "username": "ceobrus"
+            },
+            {
+              "end": 22,
+              "id": "1756909109788753920",
+              "start": 9,
+              "username": "BaoZheFanQie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980829046473908422",
+        "in_reply_to_user_id": "1903701047589343232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980604208484348346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ceobrus @BaoZheFanQie 因為我很愛看花路和amber以及水川還有谷月還有王小檬的辯論😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903701047589343232",
+        "conversation_id": "1980511875046731972",
+        "created_at": "2025-10-21T11:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T12:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980604208484348346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1756909109788753920",
+              "start": 0,
+              "username": "BaoZheFanQie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980604208484348346",
+        "in_reply_to_user_id": "1756909109788753920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1257,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980511875046731972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaoZheFanQie x老给我推这个，这是什么新时尚吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 98,
+          "like_count": 4853,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 914
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-23T06:51:21.000Z",
+        "description": "",
+        "id": "1903701047589343232",
+        "name": "ceobrus",
+        "pinned_tweet_id": "1980531661558452472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980176433822502912/KnM85Kuh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3800,
+          "following_count": 1704,
+          "like_count": 8846,
+          "listed_count": 6,
+          "media_count": 108,
+          "tweet_count": 2139
+        },
+        "username": "ceobrus",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄(˘▽˘)っ🍅\nage20 理性交流。友跨友双友同，偶尔发癫\n推内包含 大a/美股/币圈/跨子/🌈/涩涩🥵/抽象🐘/对线/可互 fo\n若感到生理不适可随时取关，本人投资仅供参考，盈亏自负",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+urAuBM8Y6J8zM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+urAuBM8Y6J8zMzVl",
+                "start": 0,
+                "url": "https://t.co/R2tlnuzVJI"
+              }
+            ]
+          }
+        },
+        "id": "1756909109788753920",
+        "location": "大牛牛/88r🚪",
+        "name": "不包西红柿的西红柿",
+        "pinned_tweet_id": "1980311361348595911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977324843269033984/gAl4FWvW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 2557,
+          "like_count": 1263,
+          "listed_count": 0,
+          "media_count": 434,
+          "tweet_count": 5628
+        },
+        "url": "https://t.co/R2tlnuzVJI",
+        "username": "BaoZheFanQie",
+        "verified": true
+      }
+    ]
+  }
+}

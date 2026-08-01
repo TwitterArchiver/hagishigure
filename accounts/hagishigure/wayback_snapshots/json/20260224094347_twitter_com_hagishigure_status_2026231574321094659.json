@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026231551038525440"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "2026231574321094659",
+    "created_at": "2026-02-24T09:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T10:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026231574321094659"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/p02aTUXnn4",
+          "end": 66,
+          "expanded_url": "https://x.com/hagishigure/status/2026231574321094659/photo/1",
+          "media_key": "3_2026231551038525440",
+          "start": 43,
+          "url": "https://t.co/p02aTUXnn4"
+        },
+        {
+          "display_url": "x.com/TeamTransmtf/s…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/TeamTransmtf/status/2025604652461588819",
+          "start": 67,
+          "url": "https://t.co/8lhQolTMD6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026231574321094659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025604652461588819",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我随便提的东西真做了啊。\n我自己做的都还在草稿本里还没写到备忘录。看来是我太懒了。🤨 https://t.co/p02aTUXnn4 https://t.co/8lhQolTMD6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026231551038525440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB6e3DhXEAAwwfU.jpg",
+        "width": 1090
+      },
+      {
+        "height": 415,
+        "media_key": "3_2025604644244996096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxksRuawAAvP1E.jpg",
+        "width": 750
+      },
+      {
+        "height": 924,
+        "media_key": "3_2025604644173729792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxksRdbUAAT5Hz.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026231551038525440"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "2026231574321094659",
+        "created_at": "2026-02-24T09:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T10:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026231574321094659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p02aTUXnn4",
+              "end": 66,
+              "expanded_url": "https://x.com/hagishigure/status/2026231574321094659/photo/1",
+              "media_key": "3_2026231551038525440",
+              "start": 43,
+              "url": "https://t.co/p02aTUXnn4"
+            },
+            {
+              "display_url": "x.com/TeamTransmtf/s…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/TeamTransmtf/status/2025604652461588819",
+              "start": 67,
+              "url": "https://t.co/8lhQolTMD6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026231574321094659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025604652461588819",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我随便提的东西真做了啊。\n我自己做的都还在草稿本里还没写到备忘录。看来是我太懒了。🤨 https://t.co/p02aTUXnn4 https://t.co/8lhQolTMD6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025604644244996096",
+            "3_2025604644173729792"
+          ]
+        },
+        "author_id": "2012914101987762177",
+        "conversation_id": "2025604652461588819",
+        "created_at": "2026-02-22T16:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T17:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025604652461588819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JpaiIX82BO",
+              "end": 160,
+              "expanded_url": "https://x.com/TeamTransmtf/status/2025604652461588819/photo/1",
+              "media_key": "3_2025604644244996096",
+              "start": 137,
+              "url": "https://t.co/JpaiIX82BO"
+            },
+            {
+              "display_url": "pic.x.com/JpaiIX82BO",
+              "end": 160,
+              "expanded_url": "https://x.com/TeamTransmtf/status/2025604652461588819/photo/1",
+              "media_key": "3_2025604644173729792",
+              "start": 137,
+              "url": "https://t.co/JpaiIX82BO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025604652461588819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 821,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们给HRT-Trackrt配备了个体化学习模型，让它更精准预测\n根据你每次的使用动态调整，借用“知识追踪”和“贝叶斯更新”，进行越多的校准，估测越准确\n我们建议至少在给药前及峰谷值浓度区各去医院检测一次获得更准确的测算\n功能仍在测试中（我没真实数据🥹），有问题随时反馈哦 https://t.co/JpaiIX82BO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 137,
+          "like_count": 21890,
+          "listed_count": 2,
+          "media_count": 619,
+          "tweet_count": 5389
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-18T15:45:10.000Z",
+        "description": "transmtf官方团队账号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "transmtf.com",
+                "end": 23,
+                "expanded_url": "https://www.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/MDakkR20rn"
+              }
+            ]
+          }
+        },
+        "id": "2012914101987762177",
+        "name": "Team Transmtf",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025586370111287296/QzZE8mTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 9,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "url": "https://t.co/MDakkR20rn",
+        "username": "TeamTransmtf",
+        "verified": false
+      }
+    ]
+  }
+}

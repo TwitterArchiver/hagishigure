@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1989020846825042022",
+    "created_at": "2025-11-14T04:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T05:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989188141752938778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "LumiCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989188141752938778",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989020846825042022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LumiCatRoll 我倒是曾經在未成年的時候為了放鬆身心讓主治給我開住院條子了。\n我認為我住院的時候確實很令我放鬆，除了會不讓我經常用手機以外。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1989020846825042022",
+        "created_at": "2025-11-14T04:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T05:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989188141752938778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "LumiCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989188141752938778",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989020846825042022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LumiCatRoll 我倒是曾經在未成年的時候為了放鬆身心讓主治給我開住院條子了。\n我認為我住院的時候確實很令我放鬆，除了會不讓我經常用手機以外。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "1989020846825042022",
+        "created_at": "2025-11-13T17:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T18:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989020846825042022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshinemu123/s…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/hoshinemu123/status/1988962919439282564",
+              "start": 31,
+              "url": "https://t.co/iv38AujP61"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989020846825042022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2695,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988962919439282564",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "回龙观的精神病房住院设施挺恐怖的，希望你们不要有机会体验（） https://t.co/iv38AujP61"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 104,
+          "like_count": 8661,
+          "listed_count": 0,
+          "media_count": 286,
+          "tweet_count": 1972
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "虾仁芹菜馅猫卷 可能是MtF 前SWE 前FinTech 技术转型 法系车主 休假在日本工作在新加坡 @NTUsg → @NUSingapore",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 51,
+                "username": "NTUsg"
+              },
+              {
+                "end": 72,
+                "start": 60,
+                "username": "NUSingapore"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "Lumi & 猫卷 Co.",
+        "pinned_tweet_id": "1988993587619721259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987241584170311681/z73T6Iii_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2488,
+          "following_count": 880,
+          "like_count": 1046,
+          "listed_count": 4,
+          "media_count": 21,
+          "tweet_count": 220
+        },
+        "username": "LumiCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

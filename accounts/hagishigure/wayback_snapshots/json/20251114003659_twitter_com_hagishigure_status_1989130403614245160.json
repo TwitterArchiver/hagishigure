@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "1989130403614245160",
+    "created_at": "2025-11-14T00:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T01:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989130403614245160"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dungeon_lab_to…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/dungeon_lab_toy/status/1988968420537430260",
+          "start": 26,
+          "url": "https://t.co/hbEUbUPH9Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989130403614245160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988968420537430260",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "安全什麼的沒關係。但是能不能把我276強度還我。😡 https://t.co/hbEUbUPH9Q"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1989130403614245160",
+        "created_at": "2025-11-14T00:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T01:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989130403614245160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dungeon_lab_to…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/dungeon_lab_toy/status/1988968420537430260",
+              "start": 26,
+              "url": "https://t.co/hbEUbUPH9Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989130403614245160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988968420537430260",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "安全什麼的沒關係。但是能不能把我276強度還我。😡 https://t.co/hbEUbUPH9Q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "866092386694217728",
+        "conversation_id": "1988968420537430260",
+        "created_at": "2025-11-13T13:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T14:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988968420537430260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "郊狼3.0已经发售一年半了，一直有小伙伴好奇它是否安全。本期视频就来好好聊聊郊狼的输出标准，以及实测一下其在安全方面的表现。如果您还有什么想看的内容，欢迎在评论区留言。, 视频播放量 9254、弹幕量 9、点赞数 348、投硬币枚数 57、收藏人数 427、转发人数 330, 视频作者 DG-LAB, 作者简介 实现你最狂野的幻想，我们是DG-LAB，相关视频：用充电宝给椅子充个电，弟弟被郊狼电颤抖了，郊狼这类产品到底能不能在上半身使用？你必须要知道的安全知识！，郊狼也不过如此♡，上衣之下，大有乾坤～，郊狼惩罚姬 V3.1，转发给你使用郊狼的朋友并什么也不说，郊狼3.0拆机评测，郊狼，启动……，酷态科希望你好好掂量掂量 别给自己玩塌房了。",
+              "display_url": "bilibili.com/video/BV1pb2uB…",
+              "end": 128,
+              "expanded_url": "https://www.bilibili.com/video/BV1pb2uB7EdK",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/1988811789879144448/pmm4gpRx?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/1988811789879144448/pmm4gpRx?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 105,
+              "status": 200,
+              "title": "【DG-LAB】一个视频讲清郊狼的输出安全标准（补档）_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1pb2uB7EdK/",
+              "url": "https://t.co/2KgFShnI7A"
+            },
+            {
+              "description": "郊狼3.0已经发售一年半了，一直有小伙伴好奇它是否安全。本期视频就来好好聊聊郊狼的输出标准，以及实测一下其在安全方面的表现。如果您还有什么想看的内容，欢迎在评论区留言。",
+              "display_url": "youtu.be/UxurXNTRzec?si…",
+              "end": 160,
+              "expanded_url": "https://youtu.be/UxurXNTRzec?si=SqgsUdMpNcOL5x_8",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1988811400224149504/U7qyGRir?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1988811400224149504/U7qyGRir?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 137,
+              "status": 200,
+              "title": "【DG-LAB】一个视频讲清郊狼的输出安全标准",
+              "unwound_url": "https://www.youtube.com/watch?si=SqgsUdMpNcOL5x_8&v=UxurXNTRzec&feature=youtu.be",
+              "url": "https://t.co/sIl1TsDp0k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988968420537430260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 10985,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我们做了一期介绍郊狼安全性的视频，感兴趣的话可以点击以下链接观看哦🫡\n如果你还有什么想了解或者感兴趣的内容，请留言或私信告诉我们😊\n【【DG-LAB】一个视频讲清郊狼的输出安全标准（补档）】 Bilibili:https://t.co/2KgFShnI7A\nYoutube:https://t.co/sIl1TsDp0k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 104,
+          "like_count": 8587,
+          "listed_count": 0,
+          "media_count": 284,
+          "tweet_count": 1966
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2017-05-21T00:44:51.000Z",
+        "description": "Realise your wildest fantasies     \n                          \nContact Email：service@dungeon-lab.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dungeon-lab.com",
+                "end": 23,
+                "expanded_url": "http://dungeon-lab.com",
+                "start": 0,
+                "url": "https://t.co/iTHP4GErdz"
+              }
+            ]
+          }
+        },
+        "id": "866092386694217728",
+        "name": "DG-LAB 地牢实验室",
+        "pinned_tweet_id": "1907350617581899778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1271694986044518403/z3pTfOsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15389,
+          "following_count": 159,
+          "like_count": 17,
+          "listed_count": 19,
+          "media_count": 18,
+          "tweet_count": 258
+        },
+        "url": "https://t.co/iTHP4GErdz",
+        "username": "dungeon_lab_toy",
+        "verified": false
+      }
+    ]
+  }
+}

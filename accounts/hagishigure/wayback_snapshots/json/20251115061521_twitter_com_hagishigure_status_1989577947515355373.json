@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989577940565389313"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1989174947214967103",
+    "created_at": "2025-11-15T06:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T07:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989577947515355373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1350616739848073220",
+          "start": 0,
+          "username": "Kagetsu2004"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UEFU7siLo0",
+          "end": 36,
+          "expanded_url": "https://x.com/hagishigure/status/1989577947515355373/photo/1",
+          "media_key": "3_1989577940565389313",
+          "start": 13,
+          "url": "https://t.co/UEFU7siLo0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989577947515355373",
+    "in_reply_to_user_id": "1350616739848073220",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989174947214967103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kagetsu2004 https://t.co/UEFU7siLo0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1165,
+        "media_key": "3_1989577940565389313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5xmmIBacAEF3r-.jpg",
+        "width": 906
+      },
+      {
+        "height": 592,
+        "media_key": "3_1989174944601894914",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5r4ErEacAIrdWH.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989577940565389313"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1989174947214967103",
+        "created_at": "2025-11-15T06:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T07:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989577947515355373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1350616739848073220",
+              "start": 0,
+              "username": "Kagetsu2004"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UEFU7siLo0",
+              "end": 36,
+              "expanded_url": "https://x.com/hagishigure/status/1989577947515355373/photo/1",
+              "media_key": "3_1989577940565389313",
+              "start": 13,
+              "url": "https://t.co/UEFU7siLo0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989577947515355373",
+        "in_reply_to_user_id": "1350616739848073220",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989174947214967103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagetsu2004 https://t.co/UEFU7siLo0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989174944601894914"
+          ]
+        },
+        "author_id": "1350616739848073220",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1989174947214967103",
+        "created_at": "2025-11-14T03:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T04:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989174947214967103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yG127BsGlv",
+              "end": 56,
+              "expanded_url": "https://x.com/Kagetsu2004/status/1989174947214967103/photo/1",
+              "media_key": "3_1989174944601894914",
+              "start": 33,
+              "url": "https://t.co/yG127BsGlv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989174947214967103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 11632,
+          "like_count": 146,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "推特被认识的发现的次数太多了\n导致我不敢乱发什么乱七八糟的东西了 https://t.co/yG127BsGlv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 106,
+          "like_count": 8849,
+          "listed_count": 0,
+          "media_count": 296,
+          "tweet_count": 2014
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-17T01:31:53.000Z",
+        "description": "You can call me Child Cafe☕️🌙！\nINFP-T/I like FPS and VRchat/Coffee lover/Touhou Music author/正在使用的机场：https://t.co/GnkmfmIwOZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cpdd.one/?r=21027",
+                "end": 124,
+                "expanded_url": "https://cpdd.one/?r=21027",
+                "start": 101,
+                "url": "https://t.co/GnkmfmIwOZ"
+              }
+            ]
+          }
+        },
+        "id": "1350616739848073220",
+        "location": "Corner of magical forest",
+        "name": "Child Cafe☕️🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988825087940993024/hNiZJCdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7121,
+          "following_count": 1985,
+          "like_count": 10086,
+          "listed_count": 26,
+          "media_count": 622,
+          "tweet_count": 2965
+        },
+        "username": "Kagetsu2004",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990992288550694913"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1990992291624808635",
+    "created_at": "2025-11-19T03:55:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T04:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990992291624808635"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1UgUbmtz7F",
+          "end": 29,
+          "expanded_url": "https://x.com/hagishigure/status/1990992291624808635/photo/1",
+          "media_key": "3_1990992288550694913",
+          "start": 6,
+          "url": "https://t.co/1UgUbmtz7F"
+        },
+        {
+          "display_url": "x.com/XUEQIUxka/stat…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/XUEQIUxka/status/1990718434393325832",
+          "start": 30,
+          "url": "https://t.co/QibQu6q9Rv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990992291624808635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990718434393325832",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "添加圖片… https://t.co/1UgUbmtz7F https://t.co/QibQu6q9Rv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 265,
+        "media_key": "3_1990992288550694913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Fs8A2bMAEz9vL.jpg",
+        "width": 859
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990992288550694913"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1990992291624808635",
+        "created_at": "2025-11-19T03:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T04:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990992291624808635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1UgUbmtz7F",
+              "end": 29,
+              "expanded_url": "https://x.com/hagishigure/status/1990992291624808635/photo/1",
+              "media_key": "3_1990992288550694913",
+              "start": 6,
+              "url": "https://t.co/1UgUbmtz7F"
+            },
+            {
+              "display_url": "x.com/XUEQIUxka/stat…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/XUEQIUxka/status/1990718434393325832",
+              "start": 30,
+              "url": "https://t.co/QibQu6q9Rv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990992291624808635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990718434393325832",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "添加圖片… https://t.co/1UgUbmtz7F https://t.co/QibQu6q9Rv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1368897611672018953",
+        "conversation_id": "1990718434393325832",
+        "created_at": "2025-11-18T09:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T10:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990718434393325832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cldeop/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Cldeop/status/1989894105670021315",
+              "start": 8,
+              "url": "https://t.co/HxhmkpL1mt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990718434393325832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 265,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989894105670021315",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "emmm 没死 https://t.co/HxhmkpL1mt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 108,
+          "like_count": 9575,
+          "listed_count": 0,
+          "media_count": 327,
+          "tweet_count": 2226
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "淡圈&淡推 ，准备25~26年SRS，目前在排期，减重，感谢大家一直以来的陪伴\n我永远爱的  @shi_yumiaoya\n老婆  @QianYue_XQ \n（和平分开）\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n#持证家长党，#MTF，#HRT，#双相，#持证残疾人（bushi）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 123,
+                "start": 117,
+                "tag": "持证家长党"
+              },
+              {
+                "end": 128,
+                "start": 124,
+                "tag": "MTF"
+              },
+              {
+                "end": 133,
+                "start": 129,
+                "tag": "HRT"
+              },
+              {
+                "end": 137,
+                "start": 134,
+                "tag": "双相"
+              },
+              {
+                "end": 144,
+                "start": 138,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 47,
+                "username": "shi_yumiaoya"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "QianYue_XQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4753,
+          "following_count": 1442,
+          "like_count": 18447,
+          "listed_count": 22,
+          "media_count": 300,
+          "tweet_count": 1657
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1978674479954850122",
+    "created_at": "2025-10-16T12:53:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T13:53:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978806544755016002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1702316313472081921",
+          "start": 0,
+          "username": "k49ur473"
+        },
+        {
+          "end": 21,
+          "id": "1753293214826848256",
+          "start": 10,
+          "username": "tatanakots"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978806544755016002",
+    "in_reply_to_user_id": "1702316313472081921",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978674479954850122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k49ur473 @tatanakots"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1888,
+        "media_key": "3_1978674403354558464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Wp4uobQAAkjDg.jpg",
+        "width": 1670
+      },
+      {
+        "height": 2222,
+        "media_key": "3_1978674403362893824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Wp4uqacAAmmMF.jpg",
+        "width": 1670
+      },
+      {
+        "height": 2111,
+        "media_key": "3_1978674403367100417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Wp4uraoAEVl3V.jpg",
+        "width": 1670
+      },
+      {
+        "height": 1922,
+        "media_key": "3_1978674403358744576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Wp4upbIAA9Hqh.jpg",
+        "width": 1670
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1978674479954850122",
+        "created_at": "2025-10-16T12:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T13:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978806544755016002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1702316313472081921",
+              "start": 0,
+              "username": "k49ur473"
+            },
+            {
+              "end": 21,
+              "id": "1753293214826848256",
+              "start": 10,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978806544755016002",
+        "in_reply_to_user_id": "1702316313472081921",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978674479954850122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k49ur473 @tatanakots"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978674403354558464",
+            "3_1978674403362893824",
+            "3_1978674403367100417",
+            "3_1978674403358744576"
+          ]
+        },
+        "author_id": "1702316313472081921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1978674479954850122",
+        "created_at": "2025-10-16T04:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T05:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978674479954850122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nYCUC5TF1o",
+              "end": 85,
+              "expanded_url": "https://x.com/k49ur473/status/1978674479954850122/photo/1",
+              "media_key": "3_1978674403354558464",
+              "start": 62,
+              "url": "https://t.co/nYCUC5TF1o"
+            },
+            {
+              "display_url": "pic.x.com/nYCUC5TF1o",
+              "end": 85,
+              "expanded_url": "https://x.com/k49ur473/status/1978674479954850122/photo/1",
+              "media_key": "3_1978674403362893824",
+              "start": 62,
+              "url": "https://t.co/nYCUC5TF1o"
+            },
+            {
+              "display_url": "pic.x.com/nYCUC5TF1o",
+              "end": 85,
+              "expanded_url": "https://x.com/k49ur473/status/1978674479954850122/photo/1",
+              "media_key": "3_1978674403367100417",
+              "start": 62,
+              "url": "https://t.co/nYCUC5TF1o"
+            },
+            {
+              "display_url": "pic.x.com/nYCUC5TF1o",
+              "end": 85,
+              "expanded_url": "https://x.com/k49ur473/status/1978674479954850122/photo/1",
+              "media_key": "3_1978674403358744576",
+              "start": 62,
+              "url": "https://t.co/nYCUC5TF1o"
+            },
+            {
+              "display_url": "x.com/k49ur473/statu…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/k49ur473/status/1978662554801938908",
+              "start": 86,
+              "url": "https://t.co/VWjM0pTdm8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978674479954850122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1992,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978662554801938908",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他干过的事情包括但不限于：买的手台自己补焊焊坏了找我朋友返修，脚本小子，买个aime读卡器问如何连舞萌dx国际服(3/?) https://t.co/nYCUC5TF1o https://t.co/VWjM0pTdm8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 91,
+          "like_count": 3731,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 597
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-14T13:40:28.000Z",
+        "description": "中文 /English/日本語 OK！| Rust和Kotlin高度黑子 | 舞萌樱将持有 | GoLang和TypeScript享受者 | 好用的代理：https://t.co/HmIg4t7tjK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miaona.org/#/register?cod…",
+                "end": 100,
+                "expanded_url": "https://miaona.org/#/register?code=amRzwRzt",
+                "start": 77,
+                "url": "https://t.co/HmIg4t7tjK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "akich.io",
+                "end": 23,
+                "expanded_url": "https://akich.io/",
+                "start": 0,
+                "url": "https://t.co/fl14H01veE"
+              }
+            ]
+          }
+        },
+        "id": "1702316313472081921",
+        "location": "茨城 鹿嶋市",
+        "name": "AkiChan",
+        "pinned_tweet_id": "1881620432627085501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840336006459052033/J9d3uSO2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 179,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 345
+        },
+        "url": "https://t.co/fl14H01veE",
+        "username": "k49ur473",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": " をぉー可愛い女の子になりたい～🏳️‍⚧️残酷な世界で懸命に生きる‼🏳️‍🌈 08年女子高校生 🌸 百合厨 ❌ 不涩涩哦 🍥HRT 2024/02/20 💥炸柜 24/03/02 📤出柜 24/03/24 📃大证 25/09/22 📮 t@mtf.im",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "https://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/bEYgnCV6QH"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "location": "Shanghai, PRC",
+        "name": "たたなこ🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783413612331352064/8K9I0UGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2726,
+          "following_count": 231,
+          "like_count": 23056,
+          "listed_count": 4,
+          "media_count": 1350,
+          "tweet_count": 8738
+        },
+        "url": "https://t.co/bEYgnCV6QH",
+        "username": "tatanakots",
+        "verified": true
+      }
+    ]
+  }
+}

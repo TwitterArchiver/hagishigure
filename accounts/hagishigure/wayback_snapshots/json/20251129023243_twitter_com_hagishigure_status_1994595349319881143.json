@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994595326058229760",
+        "3_1994595339236773892"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1994229381535781089",
+    "created_at": "2025-11-29T02:32:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T03:32:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994595349319881143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1401733664682102786",
+          "start": 0,
+          "username": "mukdengise"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xhRu6CyDqr",
+          "end": 97,
+          "expanded_url": "https://x.com/hagishigure/status/1994595349319881143/photo/1",
+          "media_key": "3_1994595326058229760",
+          "start": 74,
+          "url": "https://t.co/xhRu6CyDqr"
+        },
+        {
+          "display_url": "pic.x.com/xhRu6CyDqr",
+          "end": 97,
+          "expanded_url": "https://x.com/hagishigure/status/1994595349319881143/photo/1",
+          "media_key": "3_1994595339236773892",
+          "start": 74,
+          "url": "https://t.co/xhRu6CyDqr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994595349319881143",
+    "in_reply_to_user_id": "1401733664682102786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994229381535781089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mukdengise 對的，我兩個小時前的半夜一點剛寫完對伊利加雷的批判性探討。\n另外，我前兩天也探討完女性subaltren化的批判（圖二）。 https://t.co/xhRu6CyDqr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994595326058229760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6454Zha8AAs9sr.jpg",
+        "width": 1066
+      },
+      {
+        "height": 1100,
+        "media_key": "3_1994595339236773892",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6455KnbkAQSv4R.jpg",
+        "width": 1209
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994595326058229760",
+            "3_1994595339236773892"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1994229381535781089",
+        "created_at": "2025-11-29T02:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T03:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994595349319881143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1401733664682102786",
+              "start": 0,
+              "username": "mukdengise"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xhRu6CyDqr",
+              "end": 97,
+              "expanded_url": "https://x.com/hagishigure/status/1994595349319881143/photo/1",
+              "media_key": "3_1994595326058229760",
+              "start": 74,
+              "url": "https://t.co/xhRu6CyDqr"
+            },
+            {
+              "display_url": "pic.x.com/xhRu6CyDqr",
+              "end": 97,
+              "expanded_url": "https://x.com/hagishigure/status/1994595349319881143/photo/1",
+              "media_key": "3_1994595339236773892",
+              "start": 74,
+              "url": "https://t.co/xhRu6CyDqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994595349319881143",
+        "in_reply_to_user_id": "1401733664682102786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994229381535781089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mukdengise 對的，我兩個小時前的半夜一點剛寫完對伊利加雷的批判性探討。\n另外，我前兩天也探討完女性subaltren化的批判（圖二）。 https://t.co/xhRu6CyDqr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401733664682102786",
+        "conversation_id": "1994229381535781089",
+        "created_at": "2025-11-28T02:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T03:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994229381535781089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mukdengise/sta…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/mukdengise/status/1994000574816329795",
+              "start": 137,
+              "url": "https://t.co/DYeHgVKiRV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994229381535781089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 908,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994000574816329795",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "主要是几年前还比较喜欢听《海马星球》，现在已经逐渐对那种都市中产女白领的单线叙事受够了。国内所谓的激进女权说到底也只是披着激进女权外套的自由女权，一方面迷恋基层女性靠努力和脱弱役上桌的新自由主义神话，一方面又无视不同处境下女性个体的独特处境。边缘女性的声音变得完全不可见了 https://t.co/DYeHgVKiRV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 111,
+          "like_count": 11089,
+          "listed_count": 0,
+          "media_count": 364,
+          "tweet_count": 2595
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T02:52:13.000Z",
+        "description": "爱人类的探险者/IG: ilhajugvn/烹饪日常在 #花路食堂/桔：@__Ju___Ju__/里：@Lulu_ilha",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 28,
+                "tag": "花路食堂"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "__Ju___Ju__"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Lulu_ilha"
+              }
+            ]
+          }
+        },
+        "id": "1401733664682102786",
+        "name": "花路探險記",
+        "pinned_tweet_id": "1843689660666786148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960404590417076226/igUxxyXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9266,
+          "following_count": 738,
+          "like_count": 137158,
+          "listed_count": 50,
+          "media_count": 1712,
+          "tweet_count": 22793
+        },
+        "username": "mukdengise",
+        "verified": false
+      }
+    ]
+  }
+}

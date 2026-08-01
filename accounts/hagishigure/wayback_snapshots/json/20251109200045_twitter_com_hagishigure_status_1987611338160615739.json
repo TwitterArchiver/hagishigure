@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1987611338160615739",
+    "created_at": "2025-11-09T20:00:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T21:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987611338160615739"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KamiyaSara8972…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/KamiyaSara8972/status/1987606666490318872",
+          "start": 56,
+          "url": "https://t.co/BQuIDim8fe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987611338160615739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987606666490318872",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯。因為不會思考的人是無法得出自反性的結論的。\n包括我這句話也沒有自反性。\n但是我說了上一句話就存在自反性了。 https://t.co/BQuIDim8fe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1987611338160615739",
+        "created_at": "2025-11-09T20:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T21:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987611338160615739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KamiyaSara8972…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/KamiyaSara8972/status/1987606666490318872",
+              "start": 56,
+              "url": "https://t.co/BQuIDim8fe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987611338160615739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987606666490318872",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯。因為不會思考的人是無法得出自反性的結論的。\n包括我這句話也沒有自反性。\n但是我說了上一句話就存在自反性了。 https://t.co/BQuIDim8fe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504387273919401987",
+        "conversation_id": "1987606666490318872",
+        "created_at": "2025-11-09T19:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T20:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987606666490318872"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987606666490318872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能一下戳穿他人是在鬼扯实在太不容易了，要么写万字大长文要么将话题引到冒犯自己上来，而幽默感看明白了就不会再纠结了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 102,
+          "like_count": 7880,
+          "listed_count": 0,
+          "media_count": 272,
+          "tweet_count": 1780
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-17T09:21:07.000Z",
+        "description": "",
+        "id": "1504387273919401987",
+        "name": "神谷纱良🍠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981746734402277377/camrKgh5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 364,
+          "like_count": 25069,
+          "listed_count": 3,
+          "media_count": 856,
+          "tweet_count": 30785
+        },
+        "username": "KamiyaSara8972",
+        "verified": false
+      }
+    ]
+  }
+}

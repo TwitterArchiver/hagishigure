@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1985195690629447806",
+    "created_at": "2025-11-03T04:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T05:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985196806251417996"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hagishigure/st…",
+          "end": 23,
+          "expanded_url": "https://x.com/hagishigure/status/1984819862234153208",
+          "start": 0,
+          "url": "https://t.co/7PaEsgOgOX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985196806251417996",
+    "in_reply_to_user_id": "1965393379224944645",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984819862234153208",
+        "type": "quoted"
+      },
+      {
+        "id": "1985195690629447806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/7PaEsgOgOX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1985195690629447806",
+        "created_at": "2025-11-03T04:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T05:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985196806251417996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hagishigure/st…",
+              "end": 23,
+              "expanded_url": "https://x.com/hagishigure/status/1984819862234153208",
+              "start": 0,
+              "url": "https://t.co/7PaEsgOgOX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985196806251417996",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984819862234153208",
+            "type": "quoted"
+          },
+          {
+            "id": "1985195690629447806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/7PaEsgOgOX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1984798165027992056",
+        "created_at": "2025-11-02T03:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T04:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984819862234153208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984819862234153208",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "意義：你容易在社會批判中滿足。\n愛：你傾向於芳香無性戀者。\n連結：你有些認為人群是烏合之眾。\n成長：你容易追求自我進化。\n創造：你將這視為抵抗平庸的倫理。\n權利：不偏向控制但接受領導地位。\n樂趣：你偏好短暫快樂。\n安全感：你可能會質疑真實性，視標籤為恐慌源頭。\n自由：重視獨立，偏向逃避責任。\n貢獻：你疑似有些偏向泛我理論。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984798165027992056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 意義：你容易在社會批判中滿足。\n愛：你傾向於芳香無性戀者。\n連結：你有些認為人群是烏合之眾。\n成長：你容易追求自我進化。\n創造：你將這視為抵抗平庸的倫理。\n權利：不偏向控制但接受領導地位。\n樂趣：你偏好短暫快樂。\n安全感：你可能會質疑真實性，視標籤為恐慌源頭。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1985195690629447806",
+        "created_at": "2025-11-03T04:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T05:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985195690629447806"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985195690629447806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就說今天怎麼tl視奸不到amber了。\n居然雙取我=_=\n除非把我block了不然我一定会跟個女鬼一樣陰魂不散的跟著你。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 104,
+          "like_count": 6988,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 1500
+        },
+        "username": "hagishigure",
+        "verified": true
+      }
+    ]
+  }
+}

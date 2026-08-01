@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1985434630456324232",
+    "created_at": "2025-11-03T19:51:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T20:50:35.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985434450445127777",
+      "1985434630456324232"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/imxiaohu/statu…",
+          "end": 142,
+          "expanded_url": "https://twitter.com/imxiaohu/status/1985244673649340606",
+          "start": 119,
+          "url": "https://t.co/xKBojTZWFk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985434630456324232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985244673649340606",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這是對的。\n病人不可能完全清楚自己得了什麼病，衹能描述症狀，就像一個病人跟ai説自己心動過速結果十二導聯的心電圖都無法提高，誰知道是室心還是右偏呢。\n這下醫療工作者血壓可以下去了，不用在面診的時候再聽見：「可是ai告訴我應該xxx啊」。 https://t.co/xKBojTZWFk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1782,
+        "media_key": "3_1985243905810747393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G40A0GZb0AEeIey.jpg",
+        "width": 1884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1985434450445127777",
+        "created_at": "2025-11-03T19:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T20:50:35.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985434450445127777",
+          "1985434630456324232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/imxiaohu/statu…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/imxiaohu/status/1985244673649340606",
+              "start": 119,
+              "url": "https://t.co/xKBojTZWFk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985434450445127777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985244673649340606",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這是對的。\n病人不可能完全清楚自己得了什麼病，衹能描述症狀，就像一個病人跟ai説自己心動過速結果十二導聯的心電圖都無法提高，誰知道是室心還是右偏呢。\n這下醫療工作者血壓可以下去了，不用在面診的時候再聽見：「可是ai告訴我應該xxx啊」。 https://t.co/xKBojTZWFk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1985434630456324232",
+        "created_at": "2025-11-03T19:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T20:50:35.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985434450445127777",
+          "1985434630456324232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/imxiaohu/statu…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/imxiaohu/status/1985244673649340606",
+              "start": 119,
+              "url": "https://t.co/xKBojTZWFk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985434630456324232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985244673649340606",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這是對的。\n病人不可能完全清楚自己得了什麼病，衹能描述症狀，就像一個病人跟ai説自己心動過速結果十二導聯的心電圖都無法提高，誰知道是室心還是右偏呢。\n這下醫療工作者血壓可以下去了，不用在面診的時候再聽見：「可是ai告訴我應該xxx啊」。 https://t.co/xKBojTZWFk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985243905810747393"
+          ]
+        },
+        "author_id": "1764818331822182400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1985244673649340606",
+        "created_at": "2025-11-03T07:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T08:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985244673649340606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IDSOLFj4jl",
+              "end": 167,
+              "expanded_url": "https://x.com/imxiaohu/status/1985244673649340606/photo/1",
+              "media_key": "3_1985243905810747393",
+              "start": 144,
+              "url": "https://t.co/IDSOLFj4jl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985244673649340606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "📢完蛋 ！\n\n10月29日，OpenAI 更新了 ChatGPT 的使用规则\n\nChatGPT 将不再提供医疗、法律或财务建议\n\n🚫 改了哪些地方？ \n\n重点有三条：\n\n1、【不能再像医生、律师、理财师那样给你“个性化方案”】\n\n医疗：只能讲原理或常识，不能说“你该吃哪种药、怎么治”。\n\n法律：只能讲流程或概念，不能起草你的诉状或告诉你该怎么打官司。\n\n金融（虽然没在这句明写，但也被算进“高风险决策”类）：只能分析逻辑，不给“买/卖/持有”建议。\n\nChatGPT 现在不能告诉你：\n\n吃哪种药、吃多少；\n诉讼怎么打、写什么状子；\n哪只股票该买、现在该不该卖。\n\n它只能解释原理、流程、概念，然后提醒你去问专业人士。\n\n💬 那我还能问什么？\n\n✅ 可以问：\n\n“心脏是怎么工作的？”\n“股票市盈率是什么意思？”\n“民事诉讼的流程大概有哪些步骤？”\n\n❌ 不可以问：\n\n“我这病吃阿莫西林行吗？吃几天？”\n“帮我写起诉状告房东。”\n“现在该不该买英伟达？”\n\n2、【不允许“自主做高风险决策”】\n\n像金融信贷、招聘录取、教育评估、医疗诊断、法律裁定等这些领域\n\nAI不能自己决定或帮你操作，必须有人类专业人士参与。\n\n也就是说\n\n❌ AI 不能“自己决定”涉及人命、财产、权利、公平、社会安全的重要事情。\n\n3、【对隐私、青少年内容更严格】\n\n不允许生成或传播他人隐私、生物识别（比如盗用他人的人脸、声音）；\n\n不允许让未成年人接触成人、暴力、自残类内容。\n\n❌ 你不能用 AI 去“偷看、分析、监控、模仿或评判”别人，\n除非你已经获得了他们明确的同意。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 337,
+          "impression_count": 263830,
+          "like_count": 542,
+          "quote_count": 30,
+          "reply_count": 121,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "📢完蛋 ！\n\n10月29日，OpenAI 更新了 ChatGPT 的使用规则\n\nChatGPT 将不再提供医疗、法律或财务建议\n\n🚫 改了哪些地方？ \n\n重点有三条：\n\n1、【不能再像医生、律师、理财师那样给你“个性化方案”】\n\n医疗：只能讲原理或常识，不能说“你该吃哪种药、怎么治”。 https://t.co/IDSOLFj4jl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 103,
+          "like_count": 7175,
+          "listed_count": 0,
+          "media_count": 237,
+          "tweet_count": 1541
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-05T01:01:23.000Z",
+        "description": "学AI找小互，找小互，上 https://t.co/4PVaHEr5r3 ...",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xiaohu.ai",
+                "end": 36,
+                "expanded_url": "http://xiaohu.ai",
+                "start": 13,
+                "url": "https://t.co/4PVaHEr5r3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiaohu.ai",
+                "end": 23,
+                "expanded_url": "http://xiaohu.ai",
+                "start": 0,
+                "url": "https://t.co/4PVaHEr5r3"
+              }
+            ]
+          }
+        },
+        "id": "1764818331822182400",
+        "location": "Mars",
+        "name": "小互",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765404718959095808/BX7VN1hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74354,
+          "following_count": 1486,
+          "like_count": 1815,
+          "listed_count": 932,
+          "media_count": 4718,
+          "tweet_count": 7496
+        },
+        "url": "https://t.co/4PVaHEr5r3",
+        "username": "imxiaohu",
+        "verified": true
+      }
+    ]
+  }
+}

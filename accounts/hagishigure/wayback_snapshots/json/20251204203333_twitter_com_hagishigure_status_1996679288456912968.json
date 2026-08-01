@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996679278906458112"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1996402416397537589",
+    "created_at": "2025-12-04T20:33:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T21:33:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996679288456912968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1769742689514455040",
+          "start": 0,
+          "username": "HzShibari86"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0Oa06KywYF",
+          "end": 41,
+          "expanded_url": "https://x.com/hagishigure/status/1996679288456912968/photo/1",
+          "media_key": "3_1996679278906458112",
+          "start": 18,
+          "url": "https://t.co/0Oa06KywYF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996679288456912968",
+    "in_reply_to_user_id": "1769742689514455040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996402416397537589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HzShibari86 星星煲🐱 https://t.co/0Oa06KywYF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1996679278906458112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7WhOa2aQAABPA5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 934,
+        "media_key": "3_1996402408411504640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Slab4aIAA6cLw.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996679278906458112"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1996402416397537589",
+        "created_at": "2025-12-04T20:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T21:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996679288456912968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1769742689514455040",
+              "start": 0,
+              "username": "HzShibari86"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Oa06KywYF",
+              "end": 41,
+              "expanded_url": "https://x.com/hagishigure/status/1996679288456912968/photo/1",
+              "media_key": "3_1996679278906458112",
+              "start": 18,
+              "url": "https://t.co/0Oa06KywYF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996679288456912968",
+        "in_reply_to_user_id": "1769742689514455040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996402416397537589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HzShibari86 星星煲🐱 https://t.co/0Oa06KywYF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996402408411504640"
+          ]
+        },
+        "author_id": "1769742689514455040",
+        "conversation_id": "1996402416397537589",
+        "created_at": "2025-12-04T02:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T03:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996402416397537589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QdwiFFQDLh",
+              "end": 23,
+              "expanded_url": "https://x.com/HzShibari86/status/1996402416397537589/photo/1",
+              "media_key": "3_1996402408411504640",
+              "start": 0,
+              "url": "https://t.co/QdwiFFQDLh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996402416397537589",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 641,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QdwiFFQDLh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 115,
+          "like_count": 11764,
+          "listed_count": 0,
+          "media_count": 373,
+          "tweet_count": 2752
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-18T15:08:37.000Z",
+        "description": "这里是燃～\n是一只成精的家养刺猬～\n馋嘴吃货～抽象乐子人～\n记录美好生活～分享BDSM日常～\n饲养员主子: @TarsMark2 \n极品水豚: @Vincy1230 \n绝世好猫: @Pizyj \n超绝大狗: @RollingCat0100\n傲娇小羊: @Hagetsu_Sama\n绳缚号: @HzShibari",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "TarsMark2"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "Vincy1230"
+              },
+              {
+                "end": 96,
+                "start": 90,
+                "username": "Pizyj"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "RollingCat0100"
+              },
+              {
+                "end": 139,
+                "start": 126,
+                "username": "Hagetsu_Sama"
+              },
+              {
+                "end": 155,
+                "start": 145,
+                "username": "HzShibari"
+              }
+            ]
+          }
+        },
+        "id": "1769742689514455040",
+        "location": "温暖柔软的被窝里",
+        "name": "猫头狗叫大刺猬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989249661727854592/brR1bP6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5662,
+          "following_count": 416,
+          "like_count": 14902,
+          "listed_count": 12,
+          "media_count": 2202,
+          "tweet_count": 8077
+        },
+        "username": "HzShibari86",
+        "verified": false
+      }
+    ]
+  }
+}

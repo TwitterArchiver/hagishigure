@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2073221267935908018",
+    "created_at": "2026-07-04T01:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T02:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073221267935908018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1483911037028270080",
+          "start": 3,
+          "username": "hefan230"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/pzUoc5W",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/pzUoc5W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073221267935908018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072959920161648973",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hefan230: 大家非必要别选特定在留卡！\n因为这上面除了有你名字英文之外没有其他英文标注！不像在留卡那样每个项目都有英文标注，特别是对于经常出国的人来说，返回日本的时候在海关和值机可能引起不必要的麻烦，手续还又臭又长。。。 https://t.co/pzUoc5W…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1742,
+        "media_key": "3_2072959914385997824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSiDyKaAAAStum.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2073221267935908018",
+        "created_at": "2026-07-04T01:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T02:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073221267935908018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1483911037028270080",
+              "start": 3,
+              "username": "hefan230"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/pzUoc5W",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/pzUoc5W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073221267935908018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072959920161648973",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hefan230: 大家非必要别选特定在留卡！\n因为这上面除了有你名字英文之外没有其他英文标注！不像在留卡那样每个项目都有英文标注，特别是对于经常出国的人来说，返回日本的时候在海关和值机可能引起不必要的麻烦，手续还又臭又长。。。 https://t.co/pzUoc5W…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072959914385997824"
+          ]
+        },
+        "author_id": "1483911037028270080",
+        "conversation_id": "2072959920161648973",
+        "created_at": "2026-07-03T08:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T09:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072959920161648973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pzUoc5WsXC",
+              "end": 128,
+              "expanded_url": "https://x.com/hefan230/status/2072959920161648973/photo/1",
+              "media_key": "3_2072959914385997824",
+              "start": 105,
+              "url": "https://t.co/pzUoc5WsXC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072959920161648973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "大家非必要别选特定在留卡！\n因为这上面除了有你名字英文之外没有其他英文标注！不像在留卡那样每个项目都有英文标注，特别是对于经常出国的人来说，返回日本的时候在海关和值机可能引起不必要的麻烦，手续还又臭又长。。。 https://t.co/pzUoc5WsXC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 154,
+          "like_count": 30712,
+          "listed_count": 3,
+          "media_count": 794,
+          "tweet_count": 7349
+        },
+        "url": "",
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-19T21:16:04.000Z",
+        "description": "在大阪大学生混吃等死中说不定回国躺平不想上班妄想通过炒币财富自由记性不好平等忘记每个人且击打西红柿分不清前鼻音后鼻音生母韵母什么都发推最近沉迷打cs2",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "v50.hefan.me",
+                "end": 23,
+                "expanded_url": "https://v50.hefan.me",
+                "start": 0,
+                "url": "https://t.co/XpB3Y48cUa"
+              }
+            ]
+          }
+        },
+        "id": "1483911037028270080",
+        "location": "Osaka-shi Kita-ku, Osaka",
+        "name": "hefan230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996414890584788992/6pftAXjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3828,
+          "following_count": 478,
+          "like_count": 17076,
+          "listed_count": 7,
+          "media_count": 1703,
+          "tweet_count": 4308
+        },
+        "url": "https://t.co/XpB3Y48cUa",
+        "username": "hefan230",
+        "verified": true
+      }
+    ]
+  }
+}

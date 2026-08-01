@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2016659170288947266",
+    "created_at": "2026-01-29T05:42:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T06:42:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016748649821180373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1938210111992074240",
+          "start": 0,
+          "username": "FJUNNNN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016748649821180373",
+    "in_reply_to_user_id": "1938210111992074240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016659170288947266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FJUNNNN 本可最近一年里對中國境內經融市場的唯一一次判斷失誤是在金價820的時候説金價絕對要超970但是990之後就會回踩。🙄💅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016659162667896832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_yc0t_bUAAcDIk.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016659162822774784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_yc0ukWkAAZtCy.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016659162860552192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_yc0utXAAAz3iM.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2016659170288947266",
+        "created_at": "2026-01-29T05:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T06:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016748649821180373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1938210111992074240",
+              "start": 0,
+              "username": "FJUNNNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016748649821180373",
+        "in_reply_to_user_id": "1938210111992074240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016659170288947266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FJUNNNN 本可最近一年里對中國境內經融市場的唯一一次判斷失誤是在金價820的時候説金價絕對要超970但是990之後就會回踩。🙄💅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016659162667896832",
+            "3_2016659162822774784",
+            "3_2016659162860552192"
+          ]
+        },
+        "author_id": "1938210111992074240",
+        "conversation_id": "2016659170288947266",
+        "created_at": "2026-01-28T23:46:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T00:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016659170288947266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KCgEQ9QRuM",
+              "end": 155,
+              "expanded_url": "https://x.com/FJUNNNN/status/2016659170288947266/photo/1",
+              "media_key": "3_2016659162667896832",
+              "start": 132,
+              "url": "https://t.co/KCgEQ9QRuM"
+            },
+            {
+              "display_url": "pic.x.com/KCgEQ9QRuM",
+              "end": 155,
+              "expanded_url": "https://x.com/FJUNNNN/status/2016659170288947266/photo/1",
+              "media_key": "3_2016659162822774784",
+              "start": 132,
+              "url": "https://t.co/KCgEQ9QRuM"
+            },
+            {
+              "display_url": "pic.x.com/KCgEQ9QRuM",
+              "end": 155,
+              "expanded_url": "https://x.com/FJUNNNN/status/2016659170288947266/photo/1",
+              "media_key": "3_2016659162860552192",
+              "start": 132,
+              "url": "https://t.co/KCgEQ9QRuM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016659170288947266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "很高兴去年买入了一些黄金\n\n这是近几年几乎唯一\n不需要我透支性的去付出和努力\n并且有正反馈的事情\n\n除此之外\n\n我所遇到的但凡是与人类有关的事情，几乎都是一团糟\n如果将我的金钱，时间，努力与付出视作筹码，用在人类身上，胜率也许10%都不到\n\n如果我减少这部分支出\n资本市场的回馈将很快助我还清贷款和挽回一些过去的损失( ⁼̴̀ .̫ ⁼̴́ )✧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 893,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很高兴去年买入了一些黄金\n\n这是近几年几乎唯一\n不需要我透支性的去付出和努力\n并且有正反馈的事情\n\n除此之外\n\n我所遇到的但凡是与人类有关的事情，几乎都是一团糟\n如果将我的金钱，时间，努力与付出视作筹码，用在人类身上，胜率也许10%都不到\n\n如果我减少这部分支出 https://t.co/KCgEQ9QRuM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 127,
+          "like_count": 16959,
+          "listed_count": 0,
+          "media_count": 456,
+          "tweet_count": 3980
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T12:18:21.000Z",
+        "description": "「这里是二号机，一号机炸了」大龄MTF，可以叫我米糊或者芙芙（fufu）哦，宝宝们快回来和我互fo吧~",
+        "id": "1938210111992074240",
+        "name": "F菌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938242264343744512/EocErPc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 721,
+          "like_count": 1787,
+          "listed_count": 4,
+          "media_count": 186,
+          "tweet_count": 525
+        },
+        "username": "FJUNNNN",
+        "verified": true
+      }
+    ]
+  }
+}

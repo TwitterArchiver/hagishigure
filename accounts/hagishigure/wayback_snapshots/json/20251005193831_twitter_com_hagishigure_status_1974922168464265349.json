@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974922166430040065"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1974767737948758486",
+    "created_at": "2025-10-05T19:38:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T20:38:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974922168464265349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1350462273458868227",
+          "start": 0,
+          "username": "ZaindORp"
+        },
+        {
+          "end": 22,
+          "id": "1126154089216262145",
+          "start": 10,
+          "username": "ArtsSuraimu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HZofgvtvn2",
+          "end": 60,
+          "expanded_url": "https://x.com/hagishigure/status/1974922168464265349/photo/1",
+          "media_key": "3_1974922166430040065",
+          "start": 37,
+          "url": "https://t.co/HZofgvtvn2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974922168464265349",
+    "in_reply_to_user_id": "1350462273458868227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974882635781706190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZaindORp @ArtsSuraimu 我知道，這是超壞星的外殼🐱 https://t.co/HZofgvtvn2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 474,
+        "media_key": "3_1974922166430040065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2hVPy0bgAE_Drt.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974922166430040065"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1974767737948758486",
+        "created_at": "2025-10-05T19:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T20:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974922168464265349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1350462273458868227",
+              "start": 0,
+              "username": "ZaindORp"
+            },
+            {
+              "end": 22,
+              "id": "1126154089216262145",
+              "start": 10,
+              "username": "ArtsSuraimu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HZofgvtvn2",
+              "end": 60,
+              "expanded_url": "https://x.com/hagishigure/status/1974922168464265349/photo/1",
+              "media_key": "3_1974922166430040065",
+              "start": 37,
+              "url": "https://t.co/HZofgvtvn2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974922168464265349",
+        "in_reply_to_user_id": "1350462273458868227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974882635781706190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaindORp @ArtsSuraimu 我知道，這是超壞星的外殼🐱 https://t.co/HZofgvtvn2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1350462273458868227",
+        "conversation_id": "1974767737948758486",
+        "created_at": "2025-10-05T17:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T18:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974882635781706190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1126154089216262145",
+              "start": 0,
+              "username": "ArtsSuraimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974882635781706190",
+        "in_reply_to_user_id": "1126154089216262145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974767737948758486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArtsSuraimu 这是什么生物的什么部分…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 83,
+          "like_count": 1134,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 201
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-16T15:18:06.000Z",
+        "description": "清水生活推，或許有些偏負能…我會努力壓制的。\n是含糖MTF🏳‍⚧。\n願意與任何人成為朋友。\n是大貓貓@AnyNeko_ 的家養貓娘。\n想要成為溫柔的，可以幫助大家的人…\n姐姐是@BerryHotaruYuki\n哥哥是@VeraxLeeIsMe\n妹妹是@InfinRain\n還有好多好多的朋友，寫不下了呢…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 50,
+                "username": "AnyNeko_"
+              },
+              {
+                "end": 104,
+                "start": 88,
+                "username": "BerryHotaruYuki"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "VeraxLeeIsMe"
+              },
+              {
+                "end": 135,
+                "start": 125,
+                "username": "InfinRain"
+              }
+            ]
+          }
+        },
+        "id": "1350462273458868227",
+        "location": "2.50km",
+        "name": "*۫۫۫۫۫۫۫۫۫۫雨۫۫۫۫۫۫۫۫۫樱۫۫۫۫۫۫۫۫۫۫落𝗭𝗮𝗶𝗻𝗱𝗢𝗥𝗽",
+        "pinned_tweet_id": "1650829946560864256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886324430680535040/kEH7ya8r_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5151,
+          "following_count": 150,
+          "like_count": 253130,
+          "listed_count": 29,
+          "media_count": 1077,
+          "tweet_count": 32750
+        },
+        "username": "ZaindORp",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-08T15:57:12.000Z",
+        "description": "The Slime-Type vTuber. Traveller. Opinions are own. 属性鼠鹿，性别男/无性别，找不到对象，政治属性不明，喜欢鹿乃子、史莱姆（利姆露）、小埋、@ddvd233 日本語を少しい話せます Deutsch kann ich auch ein bissl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 96,
+                "username": "ddvd233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rimurosuraimu",
+                "end": 23,
+                "expanded_url": "https://t.me/rimurosuraimu",
+                "start": 0,
+                "url": "https://t.co/IDEk4qoiBq"
+              }
+            ]
+          }
+        },
+        "id": "1126154089216262145",
+        "location": "Jura Tempest Federation",
+        "name": "Schleim Slime Suraimu スライム 史莱姆",
+        "pinned_tweet_id": "1961942536651776399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973833276134400000/Y2Fmw8_L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10941,
+          "following_count": 2549,
+          "like_count": 94478,
+          "listed_count": 49,
+          "media_count": 599,
+          "tweet_count": 6018
+        },
+        "url": "https://t.co/IDEk4qoiBq",
+        "username": "ArtsSuraimu",
+        "verified": true
+      }
+    ]
+  }
+}

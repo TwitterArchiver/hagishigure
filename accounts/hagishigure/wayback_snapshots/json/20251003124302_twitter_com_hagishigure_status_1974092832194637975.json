@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1974033332275966270",
+    "created_at": "2025-10-03T12:43:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T13:43:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974092832194637975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945070018905145344",
+          "start": 0,
+          "username": "DianaAnya0"
+        },
+        {
+          "end": 20,
+          "id": "892248576591413248",
+          "start": 12,
+          "username": "xiwuaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974092832194637975",
+    "in_reply_to_user_id": "1945070018905145344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974033332275966270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DianaAnya0 @xiwuaya  你看看🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 552,
+        "media_key": "3_1974033319412006912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Us2FpWgAAOsus.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1974033332275966270",
+        "created_at": "2025-10-03T12:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T13:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974092832194637975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945070018905145344",
+              "start": 0,
+              "username": "DianaAnya0"
+            },
+            {
+              "end": 20,
+              "id": "892248576591413248",
+              "start": 12,
+              "username": "xiwuaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974092832194637975",
+        "in_reply_to_user_id": "1945070018905145344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974033332275966270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianaAnya0 @xiwuaya  你看看🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974033319412006912"
+          ]
+        },
+        "author_id": "1945070018905145344",
+        "conversation_id": "1974033332275966270",
+        "created_at": "2025-10-03T08:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T09:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974033332275966270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DMJAAWqYFP",
+              "end": 47,
+              "expanded_url": "https://x.com/DianaAnya0/status/1974033332275966270/photo/1",
+              "media_key": "3_1974033319412006912",
+              "start": 24,
+              "url": "https://t.co/DMJAAWqYFP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974033332275966270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1036,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "学习自缚，但是绳子买短了，还有比这更难受的吗🫠 https://t.co/DMJAAWqYFP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n||宣誓人——🪼諾諾||🪼沒有標籤，也不需要定義自己||正因神愛世人，世人才予以神的敬稱||",
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 76,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 74
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-15T10:37:08.000Z",
+        "description": "05年身材超好的小药娘♡/ 每天会分享日常💬/ (4k.ex1音游人) (严格控制身材体重) (一只听话的小狗狗) (私信回fo,会查成分) (想永远的被囚禁) (防失联@SatouI0)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 85,
+                "username": "SatouI0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SatouNya",
+                "end": 23,
+                "expanded_url": "https://t.me/SatouNya",
+                "start": 0,
+                "url": "https://t.co/cpFUZomDKo"
+              }
+            ]
+          }
+        },
+        "id": "1945070018905145344",
+        "location": "距离您0.03mm",
+        "name": "砂糖桔🏳️‍⚧️（在校大学生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948026167304581120/CphJnSlQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1248,
+          "following_count": 162,
+          "like_count": 2160,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 360
+        },
+        "url": "https://t.co/cpFUZomDKo",
+        "username": "DianaAnya0",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-01T05:00:12.000Z",
+        "description": "一个爱哭鬼罢了…… | 大概算是个音游人，主玩rotaeno，pjsk，偶尔会出勤maimai | 逐渐退推中…锁推审fo，没啥大问题的基本会过的…",
+        "id": "892248576591413248",
+        "location": "梦里",
+        "name": "汐雾aya🍥（逃避现实ver.）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770107790549483520/k0RbihGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1833,
+          "following_count": 3837,
+          "like_count": 65101,
+          "listed_count": 10,
+          "media_count": 184,
+          "tweet_count": 2211
+        },
+        "username": "xiwuaya",
+        "verified": false
+      }
+    ]
+  }
+}

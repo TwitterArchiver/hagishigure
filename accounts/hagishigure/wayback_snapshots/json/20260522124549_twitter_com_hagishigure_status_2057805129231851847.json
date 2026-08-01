@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2057805129231851847",
+    "created_at": "2026-05-22T12:45:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T13:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057805129231851847"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/XIAOSUSU456/st…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/XIAOSUSU456/status/2057762429329924307",
+          "start": 80,
+          "url": "https://t.co/3QZkyRXYve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057805129231851847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057762429329924307",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一个跨圈kol都不敢说「我们的圈子」😅。\n寒涟漪和amber比我更kol都不敢说「我们的圈子」。😄\n您可真给自己脸呢。😄\n别一看年龄，哟，10后玩网小登。😄 https://t.co/3QZkyRXYve"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057762425089519616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6kBeubcAA48Yc.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057762425781567488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6kBhTbQAAx5lv.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057762425810857984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6kBhaaMAAJkAe.jpg",
+        "width": 931
+      },
+      {
+        "height": 1433,
+        "media_key": "3_2057762426360311808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6kBjdaMAAxE_Y.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2057805129231851847",
+        "created_at": "2026-05-22T12:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T13:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057805129231851847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XIAOSUSU456/st…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/XIAOSUSU456/status/2057762429329924307",
+              "start": 80,
+              "url": "https://t.co/3QZkyRXYve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057805129231851847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057762429329924307",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一个跨圈kol都不敢说「我们的圈子」😅。\n寒涟漪和amber比我更kol都不敢说「我们的圈子」。😄\n您可真给自己脸呢。😄\n别一看年龄，哟，10后玩网小登。😄 https://t.co/3QZkyRXYve"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057762425089519616",
+            "3_2057762425781567488",
+            "3_2057762425810857984",
+            "3_2057762426360311808"
+          ]
+        },
+        "author_id": "1892789733287460864",
+        "conversation_id": "2057762429329924307",
+        "created_at": "2026-05-22T09:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057762429329924307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XwY78ULIe7",
+              "end": 160,
+              "expanded_url": "https://x.com/XIAOSUSU456/status/2057762429329924307/photo/1",
+              "media_key": "3_2057762425089519616",
+              "start": 137,
+              "url": "https://t.co/XwY78ULIe7"
+            },
+            {
+              "display_url": "pic.x.com/XwY78ULIe7",
+              "end": 160,
+              "expanded_url": "https://x.com/XIAOSUSU456/status/2057762429329924307/photo/1",
+              "media_key": "3_2057762425781567488",
+              "start": 137,
+              "url": "https://t.co/XwY78ULIe7"
+            },
+            {
+              "display_url": "pic.x.com/XwY78ULIe7",
+              "end": 160,
+              "expanded_url": "https://x.com/XIAOSUSU456/status/2057762429329924307/photo/1",
+              "media_key": "3_2057762425810857984",
+              "start": 137,
+              "url": "https://t.co/XwY78ULIe7"
+            },
+            {
+              "display_url": "pic.x.com/XwY78ULIe7",
+              "end": 160,
+              "expanded_url": "https://x.com/XIAOSUSU456/status/2057762429329924307/photo/1",
+              "media_key": "3_2057762426360311808",
+              "start": 137,
+              "url": "https://t.co/XwY78ULIe7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057762429329924307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 942,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "声明:首先关于我的天赋帖的帖子产生了巨大争议，导致产生了巨大的群体焦虑和恶化圈子形象。\n其次，这个帖子本来就不严谨，甚至偏大众化和筒单，只是图个乐子，没想到这还有人当真批评了\n如果你不想看甚至感觉反感，你们可以屏蔽我，没有必要干涉我们的圈子，这本身就是一种曲解和扭曲化行为 https://t.co/XwY78ULIe7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 151,
+          "like_count": 29388,
+          "listed_count": 3,
+          "media_count": 770,
+          "tweet_count": 7041
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-21T04:13:44.000Z",
+        "description": "家长不管党 年龄党 MtF/X 较社恐\n16岁，高一，不od，不自残，小证含糖\nHRT🍥:2026.04.17 | 168 cm | 58 kg | 友跨友lgbtq+文化 | INFP-T 出生日:2010.3.16\nminecraft丨异环丨铁锈战争玩家\nHTML/Gore/数码/深度二次元/AI",
+        "id": "1892789733287460864",
+        "name": "_Xiaosuda_🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2046919261994823935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052239433743949824/zVtNaMaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 100,
+          "like_count": 10,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 143
+        },
+        "username": "XIAOSUSU456",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1982604018800324863",
+    "created_at": "2025-10-27T00:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T01:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982604018800324863"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MeowCatherina/…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/MeowCatherina/status/1982452700454518909",
+          "start": 35,
+          "url": "https://t.co/pARdVvjJNK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982604018800324863",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982452700454518909",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我在中國的時候可不敢像現在這麼說話🥺\n畢竟身份證照片拍得不是很好看🥺 https://t.co/pARdVvjJNK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1982604018800324863",
+        "created_at": "2025-10-27T00:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T01:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982604018800324863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MeowCatherina/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/MeowCatherina/status/1982452700454518909",
+              "start": 35,
+              "url": "https://t.co/pARdVvjJNK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982604018800324863",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982452700454518909",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在中國的時候可不敢像現在這麼說話🥺\n畢竟身份證照片拍得不是很好看🥺 https://t.co/pARdVvjJNK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "1982444760691560548",
+        "created_at": "2025-10-26T14:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T15:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982452700454518909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1693935285577670656",
+              "start": 0,
+              "username": "MinaseAyano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982452700454518909",
+        "in_reply_to_user_id": "1693935285577670656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 463,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982444760691560548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinaseAyano 为了盒子照片好看专门重拍照片.jpg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 99,
+          "like_count": 5836,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 1164
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21INTP｜⚠️不会说话和社交的AuDHD｜🏫Monash｜🐈/🏹/🚴/💻｜AM&CS&EE｜某司高管(逃)｜意面神教牧师｜BA4R**｜GPG: C1D9 84F0 BBA1 B3B9｜持证嗓音训练师｜@Ted_yeet的宠物猫｜@MilkStarNeko｜@2196F3 @NyaCookieNeko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 103,
+                "username": "Ted_yeet"
+              },
+              {
+                "end": 130,
+                "start": 117,
+                "username": "MilkStarNeko"
+              },
+              {
+                "end": 138,
+                "start": 131,
+                "username": "2196F3"
+              },
+              {
+                "end": 153,
+                "start": 139,
+                "username": "NyaCookieNeko"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "service.cntt.uk",
+                "end": 23,
+                "expanded_url": "https://service.cntt.uk",
+                "start": 0,
+                "url": "https://t.co/8NIDYwDTeP"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫窝",
+        "name": "凯瑟琳奈（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906720680164589568/QYK6UxuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6210,
+          "following_count": 1075,
+          "like_count": 69673,
+          "listed_count": 19,
+          "media_count": 1873,
+          "tweet_count": 21973
+        },
+        "url": "https://t.co/8NIDYwDTeP",
+        "username": "MeowCatherina",
+        "verified": true
+      }
+    ]
+  }
+}

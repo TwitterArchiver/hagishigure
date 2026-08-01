@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979166541355626496"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1978803648969785707",
+    "created_at": "2025-10-17T12:44:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T13:44:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979166544455213081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1523805908156911616",
+          "start": 0,
+          "username": "yuanweiyishian1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/WZsWGeWU85",
+          "end": 55,
+          "expanded_url": "https://x.com/hagishigure/status/1979166544455213081/photo/1",
+          "media_key": "3_1979166541355626496",
+          "start": 32,
+          "url": "https://t.co/WZsWGeWU85"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979166544455213081",
+    "in_reply_to_user_id": "1523805908156911616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978803648969785707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanweiyishian1 現在不用說了。您一定是對的。 https://t.co/WZsWGeWU85"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 256,
+        "media_key": "3_1979166541355626496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3dpe7jXMAAy4RU.jpg",
+        "width": 876
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979166541355626496"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1978803648969785707",
+        "created_at": "2025-10-17T12:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T13:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979166544455213081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1523805908156911616",
+              "start": 0,
+              "username": "yuanweiyishian1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WZsWGeWU85",
+              "end": 55,
+              "expanded_url": "https://x.com/hagishigure/status/1979166544455213081/photo/1",
+              "media_key": "3_1979166541355626496",
+              "start": 32,
+              "url": "https://t.co/WZsWGeWU85"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979166544455213081",
+        "in_reply_to_user_id": "1523805908156911616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978803648969785707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanweiyishian1 現在不用說了。您一定是對的。 https://t.co/WZsWGeWU85"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1523805908156911616",
+        "conversation_id": "1978803648969785707",
+        "created_at": "2025-10-16T12:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T13:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978803648969785707"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978803648969785707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 28394,
+          "like_count": 192,
+          "quote_count": 9,
+          "reply_count": 25,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "一同学工作的社区有个在矫正的女孩，因为卖淫，15岁。\n在中推等平台搞了个小团体了，接活还有分成都算的明明白白，团队里最小的12年的，我只能叹气……而且这个团队里还有药娘，看到未成年这样很痛心\n我也接触过一些社区矫正的方法，只能说，有的人几进宫都不知悔改"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 92,
+          "like_count": 3916,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 672
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-09T23:23:41.000Z",
+        "description": "工作很忙，不怎么看私信评论见谅/一个精神男人/不正经女喘/没门槛/不接推广/不线下/不卖图/不接音频定制/只是普通人，经常碎碎念",
+        "id": "1523805908156911616",
+        "location": "不爱看请您直接拉黑，如和您观点不同，您一定是对的",
+        "name": "愿为一世安（退推版）",
+        "pinned_tweet_id": "1931516841593307176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959874323801624576/aNLHwqWF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5943,
+          "following_count": 469,
+          "like_count": 12277,
+          "listed_count": 27,
+          "media_count": 314,
+          "tweet_count": 1726
+        },
+        "username": "yuanweiyishian1",
+        "verified": false
+      }
+    ]
+  }
+}

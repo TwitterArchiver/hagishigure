@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979220555128623107"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1978885459913646126",
+    "created_at": "2025-10-17T16:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T17:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979220564544983320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1227949934655070208",
+          "start": 0,
+          "username": "ZokSwafford"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VrRTN4fKB0",
+          "end": 74,
+          "expanded_url": "https://x.com/hagishigure/status/1979220564544983320/photo/1",
+          "media_key": "3_1979220555128623107",
+          "start": 51,
+          "url": "https://t.co/VrRTN4fKB0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979220564544983320",
+    "in_reply_to_user_id": "1227949934655070208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978891854314648046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZokSwafford mzk衹是希望大家把她當成一樣的普通人來看待，mzk不希望也不想要“特殊” https://t.co/VrRTN4fKB0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_1979220555128623107",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3eam8iX0AMp4jU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979220555128623107"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1978885459913646126",
+        "created_at": "2025-10-17T16:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T17:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979220564544983320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1227949934655070208",
+              "start": 0,
+              "username": "ZokSwafford"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VrRTN4fKB0",
+              "end": 74,
+              "expanded_url": "https://x.com/hagishigure/status/1979220564544983320/photo/1",
+              "media_key": "3_1979220555128623107",
+              "start": 51,
+              "url": "https://t.co/VrRTN4fKB0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979220564544983320",
+        "in_reply_to_user_id": "1227949934655070208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978891854314648046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZokSwafford mzk衹是希望大家把她當成一樣的普通人來看待，mzk不希望也不想要“特殊” https://t.co/VrRTN4fKB0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1227949934655070208",
+        "conversation_id": "1978885459913646126",
+        "created_at": "2025-10-16T18:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T19:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978891854314648046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978891854314648046",
+        "in_reply_to_user_id": "1227949934655070208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978891098039738851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但也许我再多看点剧情（呵呵其实我没看完。）会改观呢，不知道，回头再品鉴一下，剧情还是得补"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 92,
+          "like_count": 3985,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 689
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-13T13:38:49.000Z",
+        "description": "🏳️‍⚧️ FtM He/Him 坐标北京🤔  鹿角狐身蛇尾的奇美拉😈心情不好就放蛇咬人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mastodon.social/@ZinSwafford",
+                "end": 23,
+                "expanded_url": "https://mastodon.social/@ZinSwafford",
+                "start": 0,
+                "url": "https://t.co/qdUw5NRQhB"
+              }
+            ]
+          }
+        },
+        "id": "1227949934655070208",
+        "name": "🫎+🦊=鹿角狐狸世界驻地球观察员",
+        "pinned_tweet_id": "1782813295914913806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796785467830210560/P73QYox__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 422,
+          "like_count": 16251,
+          "listed_count": 4,
+          "media_count": 1175,
+          "tweet_count": 21714
+        },
+        "url": "https://t.co/qdUw5NRQhB",
+        "username": "ZokSwafford",
+        "verified": false
+      }
+    ]
+  }
+}

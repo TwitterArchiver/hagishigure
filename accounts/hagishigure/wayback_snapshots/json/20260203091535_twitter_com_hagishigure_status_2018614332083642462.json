@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2018333570939625511",
+    "created_at": "2026-02-03T09:15:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T10:15:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018614332083642462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1740188738469367808",
+          "start": 0,
+          "username": "HJS_2403_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018614332083642462",
+    "in_reply_to_user_id": "1740188738469367808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018333570939625511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HJS_2403_0 カーレーウーどん"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2018333566737027072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAKPr3ObkAArnyu.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2018333566900576256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAKPr31bIAATmu2.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1560,
+        "media_key": "3_2018333566971879424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAKPr4GbIAABIJ1.jpg",
+        "width": 2080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2018333570939625511",
+        "created_at": "2026-02-03T09:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T10:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018614332083642462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1740188738469367808",
+              "start": 0,
+              "username": "HJS_2403_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018614332083642462",
+        "in_reply_to_user_id": "1740188738469367808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018333570939625511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HJS_2403_0 カーレーウーどん"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018333566737027072",
+            "3_2018333566900576256",
+            "3_2018333566971879424"
+          ]
+        },
+        "author_id": "1740188738469367808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2018333570939625511",
+        "created_at": "2026-02-02T14:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T15:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018333570939625511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GrCnMPxYgg",
+              "end": 86,
+              "expanded_url": "https://x.com/HJS_2403_0/status/2018333570939625511/photo/1",
+              "media_key": "3_2018333566737027072",
+              "start": 63,
+              "url": "https://t.co/GrCnMPxYgg"
+            },
+            {
+              "display_url": "pic.x.com/GrCnMPxYgg",
+              "end": 86,
+              "expanded_url": "https://x.com/HJS_2403_0/status/2018333570939625511/photo/1",
+              "media_key": "3_2018333566900576256",
+              "start": 63,
+              "url": "https://t.co/GrCnMPxYgg"
+            },
+            {
+              "display_url": "pic.x.com/GrCnMPxYgg",
+              "end": 86,
+              "expanded_url": "https://x.com/HJS_2403_0/status/2018333570939625511/photo/1",
+              "media_key": "3_2018333566971879424",
+              "start": 63,
+              "url": "https://t.co/GrCnMPxYgg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018333570939625511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "P1.  拜托！我喜欢乌冬面(*神人话语已被省略)\nP2.火锅！还有火锅！还有火锅！还有\nP3.负时间线，全是补品，有点难崩 https://t.co/GrCnMPxYgg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 128,
+          "like_count": 17720,
+          "listed_count": 0,
+          "media_count": 481,
+          "tweet_count": 4150
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-28T01:51:56.000Z",
+        "description": "我是一些些  荒景肆(Arakei Shi)\n⚠️精神疾患 | 繁花園 | 文學向@HJS_2403_2\n勘測統系 | INFP-A |🩵🩶心裏建設供給\n虛無的理想 主義患者\n無政治立場 無參與圈子\nEx2403 程式 寫作 繪畫 願你幸福\n🏳️‍🌈 🏳️‍⚧️ 🦋 🦴 ❤️ ‍🩹 ✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "HJS_2403_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bio.site/AraiShi",
+                "end": 23,
+                "expanded_url": "https://bio.site/AraiShi",
+                "start": 0,
+                "url": "https://t.co/Z3lsqQxdE3"
+              }
+            ]
+          }
+        },
+        "id": "1740188738469367808",
+        "location": "꒰ঌ♫*'✟:｡-願你退此苦海以至願山-｡.:*♡'*♪໒꒱",
+        "name": "閃閃亮 毛茸茸 可可愛愛的一些些",
+        "pinned_tweet_id": "1991772859178610921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005998532231311361/Sk5ocZC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2263,
+          "following_count": 305,
+          "like_count": 43251,
+          "listed_count": 6,
+          "media_count": 920,
+          "tweet_count": 4253
+        },
+        "url": "https://t.co/Z3lsqQxdE3",
+        "username": "HJS_2403_0",
+        "verified": true
+      }
+    ]
+  }
+}

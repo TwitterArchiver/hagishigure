@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1980987794089759096",
+    "created_at": "2025-10-22T20:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T21:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981094994724475082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1549011946871336960",
+          "start": 0,
+          "username": "Alantur57426778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981094994724475082",
+    "in_reply_to_user_id": "1549011946871336960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980991732243440019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alantur57426778 話語永遠是再現的延遲，是權力的再現。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1150,
+        "media_key": "3_1980991710407643136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G33ldwHXUAA4IS1.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980991719777701888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G33leTBXEAAY5mc.jpg",
+        "width": 950
+      },
+      {
+        "height": 893,
+        "media_key": "3_1980991710243991552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G33ldvgWMAAHrF2.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980991729487507456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G33le3MW8AABPKE.jpg",
+        "width": 951
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1980987794089759096",
+        "created_at": "2025-10-22T20:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T21:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981094994724475082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1549011946871336960",
+              "start": 0,
+              "username": "Alantur57426778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981094994724475082",
+        "in_reply_to_user_id": "1549011946871336960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980991732243440019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alantur57426778 話語永遠是再現的延遲，是權力的再現。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980991710407643136",
+            "3_1980991719777701888",
+            "3_1980991710243991552",
+            "3_1980991729487507456"
+          ]
+        },
+        "author_id": "1549011946871336960",
+        "conversation_id": "1980987794089759096",
+        "created_at": "2025-10-22T13:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T14:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980991732243440019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AoAsCF6535",
+              "end": 150,
+              "expanded_url": "https://x.com/Alantur57426778/status/1980991732243440019/photo/1",
+              "media_key": "3_1980991710407643136",
+              "start": 127,
+              "url": "https://t.co/AoAsCF6535"
+            },
+            {
+              "display_url": "pic.x.com/AoAsCF6535",
+              "end": 150,
+              "expanded_url": "https://x.com/Alantur57426778/status/1980991732243440019/photo/1",
+              "media_key": "3_1980991719777701888",
+              "start": 127,
+              "url": "https://t.co/AoAsCF6535"
+            },
+            {
+              "display_url": "pic.x.com/AoAsCF6535",
+              "end": 150,
+              "expanded_url": "https://x.com/Alantur57426778/status/1980991732243440019/photo/1",
+              "media_key": "3_1980991710243991552",
+              "start": 127,
+              "url": "https://t.co/AoAsCF6535"
+            },
+            {
+              "display_url": "pic.x.com/AoAsCF6535",
+              "end": 150,
+              "expanded_url": "https://x.com/Alantur57426778/status/1980991732243440019/photo/1",
+              "media_key": "3_1980991729487507456",
+              "start": 127,
+              "url": "https://t.co/AoAsCF6535"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980991732243440019",
+        "in_reply_to_user_id": "1549011946871336960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 602,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980987794089759096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同性恋里有烂人惹我不快了，\n所以所有性少数都该死。\n被我们同类打死烧死残害的同性恋个体都不值得同情！\n所谓的正义，\n只在异性恋内部生效。\n我们终日指控它们掌握特权，\n不让我们随意辱骂、殴打甚至是杀害他们，\n这就是特权了！\n顺顺评论的翻译be like。 https://t.co/AoAsCF6535"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 98,
+          "like_count": 4995,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 952
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-18T12:43:31.000Z",
+        "description": "沢尔请给全体酷儿道歉！",
+        "id": "1549011946871336960",
+        "location": "Hi,there!",
+        "name": "咸福宫日记",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672247087621197824/st59jOX0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1626,
+          "following_count": 154,
+          "like_count": 9410,
+          "listed_count": 5,
+          "media_count": 437,
+          "tweet_count": 1319
+        },
+        "username": "Alantur57426778",
+        "verified": false
+      }
+    ]
+  }
+}

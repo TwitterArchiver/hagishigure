@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1974843457383665687",
+    "created_at": "2025-10-05T21:17:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T22:17:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974947060937035776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1271512602145730560",
+          "start": 0,
+          "username": "TATP222"
+        },
+        {
+          "end": 17,
+          "id": "1845050264170135552",
+          "start": 9,
+          "username": "GuanZi0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974947060937035776",
+    "in_reply_to_user_id": "1271512602145730560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974935398662197550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TATP222 @GuanZi0 事實上，利他林和安非他命其在20世紀主要作用之一就是作為暴食症的靶向藥物，並非是副作用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1974843457383665687",
+        "created_at": "2025-10-05T21:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T22:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974947060937035776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1271512602145730560",
+              "start": 0,
+              "username": "TATP222"
+            },
+            {
+              "end": 17,
+              "id": "1845050264170135552",
+              "start": 9,
+              "username": "GuanZi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974947060937035776",
+        "in_reply_to_user_id": "1271512602145730560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974935398662197550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TATP222 @GuanZi0 事實上，利他林和安非他命其在20世紀主要作用之一就是作為暴食症的靶向藥物，並非是副作用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271512602145730560",
+        "conversation_id": "1974843457383665687",
+        "created_at": "2025-10-05T20:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T21:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974935398662197550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1845050264170135552",
+              "start": 0,
+              "username": "GuanZi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974935398662197550",
+        "in_reply_to_user_id": "1845050264170135552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 206,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974920236345471473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuanZi0 ？是副作用抑制食欲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 83,
+          "like_count": 1186,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 203
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-12T18:40:10.000Z",
+        "description": "这里是银离子/银喵！持证含？/友跨顺男/收破烂的/Maimai DX/摄影器材/想拍小姐姐/软件工程/一点网络工程/修电脑/二轮车/魔改硬件/SSD/拆机/LLer/火车迷/mc原版/化学已退坑/ADHD/想od/不键政!/对象(不混圈)/主人@HoshinoMako0131/妹妹@banzaixyg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 138,
+                "start": 122,
+                "username": "HoshinoMako0131"
+              },
+              {
+                "end": 151,
+                "start": 141,
+                "username": "banzaixyg"
+              }
+            ]
+          }
+        },
+        "id": "1271512602145730560",
+        "location": "Fujian",
+        "name": "可能不是银喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1627367369629929472/gMIeTm7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2399,
+          "following_count": 829,
+          "like_count": 15289,
+          "listed_count": 6,
+          "media_count": 534,
+          "tweet_count": 3084
+        },
+        "username": "TATP222",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T10:35:17.000Z",
+        "description": "🚪88/188  门槛详情请看置顶或往期业务，此人天生坏种 辱骂你等于你是畜生 谢谢，我喜欢和别人提钱，这是判断真心和减少骚扰最快捷最便利的方式",
+        "id": "1845050264170135552",
+        "location": "线下请先入门 否则已读不回",
+        "name": "瓶瓶罐罐",
+        "pinned_tweet_id": "1974903557485977826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970080883886768128/wwD3PeMT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 16,
+          "like_count": 2621,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 253
+        },
+        "username": "GuanZi0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2000400433651617969",
+    "created_at": "2025-12-15T08:09:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T09:09:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000478409873633529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1676132765098741762",
+          "start": 0,
+          "username": "luoling8192"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000478409873633529",
+    "in_reply_to_user_id": "1676132765098741762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000400433651617969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoling8192 原來是無法搜索中文，我還以為我刪了記錄😡。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2000400433651617969",
+        "created_at": "2025-12-15T08:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T09:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000478409873633529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676132765098741762",
+              "start": 0,
+              "username": "luoling8192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000478409873633529",
+        "in_reply_to_user_id": "1676132765098741762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000400433651617969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoling8192 原來是無法搜索中文，我還以為我刪了記錄😡。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676132765098741762",
+        "conversation_id": "2000400433651617969",
+        "created_at": "2025-12-15T03:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000400433651617969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "🔍 Semantic search your Telegram chat history | 语义化搜索您的 Telegram 聊天记录 - groupultra/telegram-search",
+              "display_url": "github.com/groupultra/tel…",
+              "end": 164,
+              "expanded_url": "https://github.com/groupultra/telegram-search",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/1999408344268963846/ljRsFLT6?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1999408344268963846/ljRsFLT6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 141,
+              "status": 200,
+              "title": "GitHub - groupultra/telegram-search: 🔍 Semantic search your Telegram chat history | 语义化搜索您的 Telegram 聊天记录",
+              "unwound_url": "https://github.com/groupultra/telegram-search",
+              "url": "https://t.co/8T6CXuww3B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000400433651617969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 6669,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "您是否曾因 Telegram 无法搜索中文聊天记录而苦恼？\n\n或者想查找一条重要消息，却因消息过多而难以定位？\n\n现在，使用 Telegram Search，您可以轻松查找和导出自己的 Telegram 消息。\n\n同时支持向量搜索，实现句子级别的模糊匹配，让查找更智能、更准确。\n\nhttps://t.co/8T6CXuww3B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 115,
+          "like_count": 12781,
+          "listed_count": 0,
+          "media_count": 384,
+          "tweet_count": 3022
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T07:36:21.000Z",
+        "description": "👩‍💻 数字游民 / 独立开发者 / 生活 & 技术分享 / 努力成为 Vibe code cleanup specialist 😎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/luoling8192",
+                "end": 23,
+                "expanded_url": "http://github.com/luoling8192",
+                "start": 0,
+                "url": "https://t.co/PWOvpp6inw"
+              }
+            ]
+          }
+        },
+        "id": "1676132765098741762",
+        "location": "Shanghai, China",
+        "name": "RainbowBird | 洛灵",
+        "pinned_tweet_id": "1999409289195299037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740286835249786880/DwrVM8h__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4738,
+          "following_count": 980,
+          "like_count": 8897,
+          "listed_count": 38,
+          "media_count": 428,
+          "tweet_count": 1792
+        },
+        "url": "https://t.co/PWOvpp6inw",
+        "username": "luoling8192",
+        "verified": true
+      }
+    ]
+  }
+}

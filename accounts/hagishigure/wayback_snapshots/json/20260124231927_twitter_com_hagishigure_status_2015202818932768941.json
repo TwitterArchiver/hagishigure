@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015202802621173760"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "2014931694546211244",
+    "created_at": "2026-01-24T23:19:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T00:19:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015202818932768941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1167211366761009152",
+          "start": 0,
+          "username": "2511ziyao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IfaSxkssen",
+          "end": 63,
+          "expanded_url": "https://x.com/hagishigure/status/2015202818932768941/photo/1",
+          "media_key": "3_2015202802621173760",
+          "start": 40,
+          "url": "https://t.co/IfaSxkssen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015202818932768941",
+    "in_reply_to_user_id": "1167211366761009152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014931694546211244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2511ziyao 已經寫過了。有沒有能讓我重新煥發辯經激情的社會哲學話題。 https://t.co/IfaSxkssen"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015202802621173760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_dwRaCbUAAYs8P.jpg",
+        "width": 952
+      },
+      {
+        "height": 2017,
+        "media_key": "3_2014931691777953792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Z5srcaEAACjo4.jpg",
+        "width": 1110
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015202802621173760"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "2014931694546211244",
+        "created_at": "2026-01-24T23:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T00:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015202818932768941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1167211366761009152",
+              "start": 0,
+              "username": "2511ziyao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IfaSxkssen",
+              "end": 63,
+              "expanded_url": "https://x.com/hagishigure/status/2015202818932768941/photo/1",
+              "media_key": "3_2015202802621173760",
+              "start": 40,
+              "url": "https://t.co/IfaSxkssen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015202818932768941",
+        "in_reply_to_user_id": "1167211366761009152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014931694546211244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2511ziyao 已經寫過了。有沒有能讓我重新煥發辯經激情的社會哲學話題。 https://t.co/IfaSxkssen"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014931691777953792"
+          ]
+        },
+        "author_id": "1167211366761009152",
+        "conversation_id": "2014931694546211244",
+        "created_at": "2026-01-24T05:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T06:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014931694546211244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UsEUJsX0JG",
+              "end": 23,
+              "expanded_url": "https://x.com/2511ziyao/status/2014931694546211244/photo/1",
+              "media_key": "3_2014931691777953792",
+              "start": 0,
+              "url": "https://t.co/UsEUJsX0JG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014931694546211244",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UsEUJsX0JG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 124,
+          "like_count": 16221,
+          "listed_count": 0,
+          "media_count": 444,
+          "tweet_count": 3777
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-29T23:04:28.000Z",
+        "description": "繁忙中\nAnarcha-feminism/Queer",
+        "id": "1167211366761009152",
+        "location": "😚🌈🐁",
+        "name": "怪诞艾多美M2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983473495859433472/lVsh9Zu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 325,
+          "like_count": 12418,
+          "listed_count": 2,
+          "media_count": 558,
+          "tweet_count": 4858
+        },
+        "username": "2511ziyao",
+        "verified": false
+      }
+    ]
+  }
+}

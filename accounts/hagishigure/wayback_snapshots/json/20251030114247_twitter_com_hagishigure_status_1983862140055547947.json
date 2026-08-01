@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1983862140055547947",
+    "created_at": "2025-10-30T11:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T12:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983862140055547947"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HiallouL/statu…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/HiallouL/status/1983261788725747828",
+          "start": 53,
+          "url": "https://t.co/o7ncwhzY35"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983862140055547947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983261788725747828",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "兵役本來就是法西斯主義的產物。\n評論區連「拒服兵役」拒絕的是什麼都不知道的話可以繼續渾渾噩噩的過一輩子。 https://t.co/o7ncwhzY35"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1983862140055547947",
+        "created_at": "2025-10-30T11:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T12:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983862140055547947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HiallouL/statu…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/HiallouL/status/1983261788725747828",
+              "start": 53,
+              "url": "https://t.co/o7ncwhzY35"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983862140055547947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983261788725747828",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "兵役本來就是法西斯主義的產物。\n評論區連「拒服兵役」拒絕的是什麼都不知道的話可以繼續渾渾噩噩的過一輩子。 https://t.co/o7ncwhzY35"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1048022597823164416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1983261788725747828",
+        "created_at": "2025-10-28T19:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T20:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983261788725747828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hialloul/statu…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/hialloul/status/1983259827863536106",
+              "start": 128,
+              "url": "https://t.co/iRWzgDT81U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983261788725747828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 18183,
+          "like_count": 150,
+          "quote_count": 12,
+          "reply_count": 29,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983259827863536106",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以色列跨儿因拒服兵役而入狱\n\n看了非常难受，我只是做不成手术都死去活来浑浑噩噩，ta们…都在经历什么啊\n19岁的她面带微笑，毫无惧色，坦然面对国家即将给她下达的邪恶命运\n人怎么能这么勇敢这么鲜活呢\n\n愿人性光辉解锁世间不自由\n愿世上强制义务的政权全数垮台 https://t.co/iRWzgDT81U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 100,
+          "like_count": 6418,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 1353
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2018-10-05T01:30:33.000Z",
+        "description": "🌈🏳️‍🌈🏳️‍⚧️ 🌱 📸 ☕ 💛🤍💜🖤",
+        "id": "1048022597823164416",
+        "location": "把不息的生机种在每一个旅人心里",
+        "name": "Hallo",
+        "pinned_tweet_id": "1963969849065164812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972658949611769856/_J0xXhpn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 1298,
+          "like_count": 17956,
+          "listed_count": 5,
+          "media_count": 882,
+          "tweet_count": 5074
+        },
+        "username": "HiallouL",
+        "verified": false
+      }
+    ]
+  }
+}

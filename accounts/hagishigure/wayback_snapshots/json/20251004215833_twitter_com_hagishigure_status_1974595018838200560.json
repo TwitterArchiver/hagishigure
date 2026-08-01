@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1972273159614374382",
+    "created_at": "2025-10-04T21:58:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T22:58:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974595018838200560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "892248576591413248",
+          "start": 0,
+          "username": "xiwuaya"
+        },
+        {
+          "end": 22,
+          "id": "1502654786453204994",
+          "start": 9,
+          "username": "uranus_chaos"
+        },
+        {
+          "end": 32,
+          "id": "1519673257552936961",
+          "start": 23,
+          "username": "canger_6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974595018838200560",
+    "in_reply_to_user_id": "892248576591413248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972305485643800614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiwuaya @uranus_chaos @canger_6 你怎麼知道我想要拿你充電器用😋"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [uranus_chaos].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "uranus_chaos",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "uranus_chaos"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972305482821025793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G18JYwwaQAECuIE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1972273159614374382",
+        "created_at": "2025-10-04T21:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T22:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974595018838200560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "892248576591413248",
+              "start": 0,
+              "username": "xiwuaya"
+            },
+            {
+              "end": 22,
+              "id": "1502654786453204994",
+              "start": 9,
+              "username": "uranus_chaos"
+            },
+            {
+              "end": 32,
+              "id": "1519673257552936961",
+              "start": 23,
+              "username": "canger_6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974595018838200560",
+        "in_reply_to_user_id": "892248576591413248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972305485643800614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiwuaya @uranus_chaos @canger_6 你怎麼知道我想要拿你充電器用😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972305482821025793"
+          ]
+        },
+        "author_id": "892248576591413248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1972273159614374382",
+        "created_at": "2025-09-28T14:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T15:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972305485643800614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1502654786453204994",
+              "start": 0,
+              "username": "uranus_chaos"
+            },
+            {
+              "end": 23,
+              "id": "1519673257552936961",
+              "start": 14,
+              "username": "canger_6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Ln0JdOoqf",
+              "end": 60,
+              "expanded_url": "https://x.com/xiwuaya/status/1972305485643800614/photo/1",
+              "media_key": "3_1972305482821025793",
+              "start": 37,
+              "url": "https://t.co/2Ln0JdOoqf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972305485643800614",
+        "in_reply_to_user_id": "1502654786453204994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972302482215931921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uranus_chaos @canger_6 你怎么知道我新买了这个😋 https://t.co/2Ln0JdOoqf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 81,
+          "like_count": 923,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 151
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-01T05:00:12.000Z",
+        "description": "一个爱哭鬼罢了…… | 大概算是个音游人，主玩rotaeno，pjsk，偶尔会出勤maimai | 逐渐退推中…锁推审fo，没啥大问题的基本会过的…",
+        "id": "892248576591413248",
+        "location": "梦里",
+        "name": "汐雾aya🍥（逃避现实ver.）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770107790549483520/k0RbihGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1832,
+          "following_count": 3838,
+          "like_count": 65132,
+          "listed_count": 10,
+          "media_count": 184,
+          "tweet_count": 2212
+        },
+        "username": "xiwuaya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-28T13:42:02.000Z",
+        "description": "",
+        "id": "1519673257552936961",
+        "name": "苍耳",
+        "pinned_tweet_id": "1884277251916849221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911427592407715841/rc5-mWIu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1631,
+          "following_count": 1265,
+          "like_count": 24479,
+          "listed_count": 0,
+          "media_count": 1589,
+          "tweet_count": 5773
+        },
+        "username": "canger_6",
+        "verified": false
+      }
+    ]
+  }
+}

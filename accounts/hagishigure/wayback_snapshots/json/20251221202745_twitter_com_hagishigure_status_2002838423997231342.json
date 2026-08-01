@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2002658879554113697",
+    "created_at": "2025-12-21T20:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T21:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002838423997231342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1323990790729707520",
+          "start": 0,
+          "username": "DawnSayu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002838423997231342",
+    "in_reply_to_user_id": "1323990790729707520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002658879554113697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DawnSayu 事實上別説牛頓幾乎早期到後期都符合這些，早期的高斯，中期的達爾文，伽羅瓦，這些出現在他們身上反而是成功的因素。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2002658879554113697",
+        "created_at": "2025-12-21T20:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T21:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002838423997231342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1323990790729707520",
+              "start": 0,
+              "username": "DawnSayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002838423997231342",
+        "in_reply_to_user_id": "1323990790729707520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002658879554113697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DawnSayu 事實上別説牛頓幾乎早期到後期都符合這些，早期的高斯，中期的達爾文，伽羅瓦，這些出現在他們身上反而是成功的因素。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1323990790729707520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2002658879554113697",
+        "created_at": "2025-12-21T08:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T09:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002658879554113697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhouqi2013/sta…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/zhouqi2013/status/2002559381683253273",
+              "start": 22,
+              "url": "https://t.co/4hIg2jJ5br"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002658879554113697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002559381683253273",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现象知道了，那么结论呢。\n解决方法是什么。 https://t.co/4hIg2jJ5br"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 116,
+          "like_count": 13454,
+          "listed_count": 0,
+          "media_count": 390,
+          "tweet_count": 3167
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-04T14:09:52.000Z",
+        "description": "ASD/ADHD｜混乱中立｜ゴッドファイター｜LGBTQ+｜润学成功｜理想主義者INTP｜女｜たまに不適切な発言を｜反アパルトヘイト｜ソフトウェアエンジニア｜アニメが好き｜東京都在住｜肉が嫌い｜进步派｜6b4t｜男が嫌い｜恋人募集中",
+        "id": "1323990790729707520",
+        "location": "パラディ島",
+        "name": "雪桜さゆ",
+        "pinned_tweet_id": "1516680912351920133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851934230361862144/KUQ4nqmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1281,
+          "following_count": 1034,
+          "like_count": 2683,
+          "listed_count": 6,
+          "media_count": 242,
+          "tweet_count": 14012
+        },
+        "username": "DawnSayu",
+        "verified": true
+      }
+    ]
+  }
+}

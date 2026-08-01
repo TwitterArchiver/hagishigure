@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2052316241898147928",
+    "created_at": "2026-05-07T10:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T11:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052336709707178244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1499442786453663745",
+          "start": 0,
+          "username": "Ted_yeet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052336709707178244",
+    "in_reply_to_user_id": "1499442786453663745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052316241898147928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ted_yeet 阅读理解：我应该准备28支吗啡。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2052316241898147928",
+        "created_at": "2026-05-07T10:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052336709707178244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1499442786453663745",
+              "start": 0,
+              "username": "Ted_yeet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052336709707178244",
+        "in_reply_to_user_id": "1499442786453663745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052316241898147928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ted_yeet 阅读理解：我应该准备28支吗啡。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499442786453663745",
+        "conversation_id": "2052316241898147928",
+        "created_at": "2026-05-07T09:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052316241898147928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052316241898147928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "术后第六天了\n我感觉自己可以聊一些住院和手术期间的感想和经验，大概会变成一串杂谈和碎碎念\n（1/n）虽然我知道的大部分的同类（包括我自己）都在被白幼瘦审美或多或少的规训，但是在手术期3个月左右还是需要开始囤积一些脂肪和肌肉，大概维持在21的BMI左右，并逐步转向高蛋白食品并习惯，这会在术后恢复阶段提供足量的蛋白质以供手术造成的伤口修复，额外的脂肪可以在你被动的无法进食的时候提供营养储备，这在SRS这样的择期手术还是很有必要的."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1157,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "术后第六天了\n我感觉自己可以聊一些住院和手术期间的感想和经验，大概会变成一串杂谈和碎碎念"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 149,
+          "like_count": 28376,
+          "listed_count": 2,
+          "media_count": 758,
+          "tweet_count": 6747
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️姛/brat/整点𝕄𝕒𝕥𝕙/养毛绒玩具/偶尔拍点📸/超业余贝斯手/会说LaTeX的人形编译器/我的小猫@bubblepipe42",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "bubblepipe42"
+              }
+            ]
+          }
+        },
+        "id": "1499442786453663745",
+        "name": "Ted",
+        "pinned_tweet_id": "2049987271798235301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051881082434560000/5UKqd6bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5174,
+          "following_count": 1702,
+          "like_count": 49434,
+          "listed_count": 18,
+          "media_count": 494,
+          "tweet_count": 11386
+        },
+        "username": "Ted_yeet",
+        "verified": true
+      }
+    ]
+  }
+}

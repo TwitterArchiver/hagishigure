@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2019818933709336633",
+    "created_at": "2026-02-06T17:02:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T18:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019818933709336633"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiabingqian1/s…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/xiabingqian1/status/2019698456219316436",
+          "start": 51,
+          "url": "https://t.co/tsC71SkDkX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019818933709336633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019698456219316436",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你好，请打开凯勒几何等复流形几何，虽然闭2-形式没有欧几何意义的三角形，但是你不能说边长虚数是错的。 https://t.co/tsC71SkDkX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2019818933709336633",
+        "created_at": "2026-02-06T17:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T18:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019818933709336633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiabingqian1/s…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/xiabingqian1/status/2019698456219316436",
+              "start": 51,
+              "url": "https://t.co/tsC71SkDkX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019818933709336633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019698456219316436",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你好，请打开凯勒几何等复流形几何，虽然闭2-形式没有欧几何意义的三角形，但是你不能说边长虚数是错的。 https://t.co/tsC71SkDkX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508724468742762498",
+        "conversation_id": "2019674923954778461",
+        "created_at": "2026-02-06T09:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T10:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019698456219316436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019698456219316436",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3302,
+          "like_count": 42,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019674923954778461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 边长只有实数 , i是虚数 , 定义上就错的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 128,
+          "like_count": 18359,
+          "listed_count": 0,
+          "media_count": 509,
+          "tweet_count": 4305
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-29T08:35:35.000Z",
+        "description": "平平无奇的INTJ思考者\n普通なINTJ思想家である\n人工知能探索中\n想去日本生活找工作(已有N2, 冲刺N1中~~)",
+        "id": "1508724468742762498",
+        "name": "Neo",
+        "pinned_tweet_id": "2018052380542271536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012930970924793856/tWHuuB79_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3991,
+          "following_count": 3395,
+          "like_count": 482,
+          "listed_count": 4,
+          "media_count": 45,
+          "tweet_count": 1624
+        },
+        "username": "xiabingqian1",
+        "verified": true
+      }
+    ]
+  }
+}

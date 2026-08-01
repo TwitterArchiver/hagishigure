@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Kyoto",
+          "id": "855096052789026816",
+          "name": "Kyoto"
+        }
+      }
+    ],
+    "conversation_id": "1998312245890265156",
+    "created_at": "2025-12-09T08:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T09:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998312245890265156"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/changwei1006/s…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/changwei1006/status/1998072978131812607",
+          "start": 54,
+          "url": "https://t.co/t8sLPBWGjN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998312245890265156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998072978131812607",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我們青森不是比京都還要鄉下的鄉下？\n怎麼居然有人討論我們青森？平時可是連青森的方言都沒什麼本地人能聽懂的。 https://t.co/t8sLPBWGjN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1081,
+        "media_key": "3_1998072973627121665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7qUyIRaYAEjmWg.jpg",
+        "width": 949
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "1998312245890265156",
+        "created_at": "2025-12-09T08:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T09:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998312245890265156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/changwei1006/s…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/changwei1006/status/1998072978131812607",
+              "start": 54,
+              "url": "https://t.co/t8sLPBWGjN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998312245890265156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998072978131812607",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我們青森不是比京都還要鄉下的鄉下？\n怎麼居然有人討論我們青森？平時可是連青森的方言都沒什麼本地人能聽懂的。 https://t.co/t8sLPBWGjN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998072973627121665"
+          ]
+        },
+        "author_id": "831495289441628160",
+        "conversation_id": "1998072978131812607",
+        "created_at": "2025-12-08T16:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T17:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998072978131812607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zHMJC5RCqp",
+              "end": 45,
+              "expanded_url": "https://x.com/changwei1006/status/1998072978131812607/photo/1",
+              "media_key": "3_1998072973627121665",
+              "start": 22,
+              "url": "https://t.co/zHMJC5RCqp"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "00180402799fed03"
+        },
+        "id": "1998072978131812607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 809,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚日本強震，我在臺灣都感覺到了有明顯震感 https://t.co/zHMJC5RCqp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 116,
+          "like_count": 12212,
+          "listed_count": 0,
+          "media_count": 377,
+          "tweet_count": 2867
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-14T13:28:20.000Z",
+        "description": "PhD student, Dept of Adult & Continuing Education, National Taiwan Normal University.\nFormerly studied ECE & CSIE.\nInterned at @PingCAP & @RisingWaveLabs as FE.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "PingCAP"
+              },
+              {
+                "end": 153,
+                "start": 138,
+                "username": "RisingWaveLabs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "changwei.me",
+                "end": 23,
+                "expanded_url": "https://www.changwei.me",
+                "start": 0,
+                "url": "https://t.co/d6BXAYKIG3"
+              }
+            ]
+          }
+        },
+        "id": "831495289441628160",
+        "location": "Taipei City, Taiwan",
+        "name": "Chang Wei 昌维",
+        "pinned_tweet_id": "1374569485479288833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1154149299820748800/AfDMcaKi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18479,
+          "following_count": 4945,
+          "like_count": 129153,
+          "listed_count": 137,
+          "media_count": 5662,
+          "tweet_count": 18082
+        },
+        "url": "https://t.co/d6BXAYKIG3",
+        "username": "changwei1006",
+        "verified": false
+      }
+    ]
+  }
+}

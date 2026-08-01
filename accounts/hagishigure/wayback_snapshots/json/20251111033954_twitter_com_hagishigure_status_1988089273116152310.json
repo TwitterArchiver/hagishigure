@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1987998046358290660",
+    "created_at": "2025-11-11T03:39:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T04:39:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988089273116152310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944909426596700165",
+          "start": 0,
+          "username": "Htoz1790524"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988089273116152310",
+    "in_reply_to_user_id": "1944909426596700165",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987998046358290660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Htoz1790524 我說了，曲唑酮服用大於1t最明顯的副作用就是肌無力。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987998039672500224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5bJryjaMAAavnJ.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1987998046358290660",
+        "created_at": "2025-11-11T03:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T04:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988089273116152310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944909426596700165",
+              "start": 0,
+              "username": "Htoz1790524"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988089273116152310",
+        "in_reply_to_user_id": "1944909426596700165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987998046358290660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Htoz1790524 我說了，曲唑酮服用大於1t最明顯的副作用就是肌無力。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987998039672500224"
+          ]
+        },
+        "author_id": "1944909426596700165",
+        "conversation_id": "1987998046358290660",
+        "created_at": "2025-11-10T21:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T22:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987998046358290660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NBE3f4lQmL",
+              "end": 54,
+              "expanded_url": "https://x.com/Htoz1790524/status/1987998046358290660/photo/1",
+              "media_key": "3_1987998039672500224",
+              "start": 31,
+              "url": "https://t.co/NBE3f4lQmL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987998046358290660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 530,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最开始头有点疼，然后就是呼吸困难，最后特别困，睡醒了全身无力 https://t.co/NBE3f4lQmL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 103,
+          "like_count": 8178,
+          "listed_count": 0,
+          "media_count": 276,
+          "tweet_count": 1851
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-14T23:58:56.000Z",
+        "description": "一只07年的小药娘 I  qq 1946649576/小号1579713253 I 没有门槛喜欢朋友 I 热爱轻小说 I mtf 2025.8.15 I 中度抑郁 I 无证含糖 I 高中生在校 I 已出柜 I 父亲党 I 学习塔罗ing  I紗兒小姐会善良对待所有人！爱你❤",
+        "id": "1944909426596700165",
+        "location": "中国台湾",
+        "name": "白毛少女小紗兒🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953881994003378176/d01pZiDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1712,
+          "following_count": 357,
+          "like_count": 5541,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 385
+        },
+        "username": "Htoz1790524",
+        "verified": false
+      }
+    ]
+  }
+}

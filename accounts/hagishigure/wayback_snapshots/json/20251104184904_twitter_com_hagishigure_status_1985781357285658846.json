@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985781354840408068"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1985781357285658846",
+    "created_at": "2025-11-04T18:49:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T19:49:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985781357285658846"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XJOefmRJON",
+          "end": 64,
+          "expanded_url": "https://x.com/hagishigure/status/1985781357285658846/photo/1",
+          "media_key": "3_1985781354840408068",
+          "start": 41,
+          "url": "https://t.co/XJOefmRJON"
+        },
+        {
+          "display_url": "x.com/Maxwell_SCU/st…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/Maxwell_SCU/status/1985607178615652410",
+          "start": 65,
+          "url": "https://t.co/olHJLRhwf0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985781357285658846",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985607178615652410",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "經典連MSc都沒學懂就覺得自己懂了。來告訴我這個數據耦合在哪個課本哪一頁可以背。 https://t.co/XJOefmRJON https://t.co/olHJLRhwf0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 434,
+        "media_key": "3_1985781354840408068",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G47pnwDbQAQY2J9.jpg",
+        "width": 685
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985781354840408068"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1985781357285658846",
+        "created_at": "2025-11-04T18:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T19:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985781357285658846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XJOefmRJON",
+              "end": 64,
+              "expanded_url": "https://x.com/hagishigure/status/1985781357285658846/photo/1",
+              "media_key": "3_1985781354840408068",
+              "start": 41,
+              "url": "https://t.co/XJOefmRJON"
+            },
+            {
+              "display_url": "x.com/Maxwell_SCU/st…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/Maxwell_SCU/status/1985607178615652410",
+              "start": 65,
+              "url": "https://t.co/olHJLRhwf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985781357285658846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985607178615652410",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "經典連MSc都沒學懂就覺得自己懂了。來告訴我這個數據耦合在哪個課本哪一頁可以背。 https://t.co/XJOefmRJON https://t.co/olHJLRhwf0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "807587246366859264",
+        "conversation_id": "1985569210748321926",
+        "created_at": "2025-11-04T07:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T08:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985607178615652410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1138698312431706112",
+              "start": 0,
+              "username": "ghostmee2019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985607178615652410",
+        "in_reply_to_user_id": "1138698312431706112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6182,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985606144610730420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ghostmee2019 医学不一样，背下来就完事儿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 103,
+          "like_count": 7368,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 1593
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2016-12-10T14:06:18.000Z",
+        "description": "码农，神经生物学，数学爱好者，我老婆炒股很厉害",
+        "id": "807587246366859264",
+        "location": "中国",
+        "name": "杀马特宅主",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839325136975175680/T2onDrdU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8338,
+          "following_count": 938,
+          "like_count": 1837,
+          "listed_count": 67,
+          "media_count": 2619,
+          "tweet_count": 18379
+        },
+        "username": "Maxwell_SCU",
+        "verified": false
+      }
+    ]
+  }
+}

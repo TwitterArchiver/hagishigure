@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2015301398167212057",
+    "created_at": "2026-01-25T21:07:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T22:07:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015531927894204841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1876666526172155904",
+          "start": 0,
+          "username": "Dulcoreyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015531927894204841",
+    "in_reply_to_user_id": "1876666526172155904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015301410636886470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dulcoreyy 不錯，但有一點，你引用了海德格爾，海德格爾的論點之中，主體其實並不是Dasein，而是被拋是Dasein。這裡引入德勒茲，生成被拋之前思考是不存在的，被拋-思考是另一種生成-女性。\n另外我引入另外的幾個視角。費希特的否定非我，將不可控的不可控性否定後，以此來界定可控性。斯賓諾沙的樣式總體有限。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2015301398167212057",
+        "created_at": "2026-01-25T21:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T22:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015531927894204841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1876666526172155904",
+              "start": 0,
+              "username": "Dulcoreyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015531927894204841",
+        "in_reply_to_user_id": "1876666526172155904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015301410636886470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dulcoreyy 不錯，但有一點，你引用了海德格爾，海德格爾的論點之中，主體其實並不是Dasein，而是被拋是Dasein。這裡引入德勒茲，生成被拋之前思考是不存在的，被拋-思考是另一種生成-女性。\n另外我引入另外的幾個視角。費希特的否定非我，將不可控的不可控性否定後，以此來界定可控性。斯賓諾沙的樣式總體有限。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876666526172155904",
+        "conversation_id": "2015301398167212057",
+        "created_at": "2026-01-25T05:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T06:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015301410636886470"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015301410636886470",
+        "in_reply_to_user_id": "1876666526172155904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 2040,
+                "start": 2033,
+                "tag": "keep4o"
+              },
+              {
+                "end": 2051,
+                "start": 2041,
+                "tag": "4oforever"
+              },
+              {
+                "end": 2123,
+                "start": 2105,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 2140,
+                "start": 2124,
+                "tag": "keepgpt4olatest"
+              },
+              {
+                "end": 2151,
+                "start": 2141,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 2163,
+                "start": 2152,
+                "tag": "Philosophy"
+              },
+              {
+                "end": 2173,
+                "start": 2164,
+                "tag": "AIethics"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 2059,
+                "id": "4398626122",
+                "start": 2052,
+                "username": "OpenAI"
+              },
+              {
+                "end": 2065,
+                "id": "1605",
+                "start": 2060,
+                "username": "sama"
+              },
+              {
+                "end": 2078,
+                "id": "1262634631",
+                "start": 2066,
+                "username": "nickaturley"
+              },
+              {
+                "end": 2091,
+                "id": "1261374810254454784",
+                "start": 2079,
+                "username": "aidan_mclau"
+              },
+              {
+                "end": 2103,
+                "id": "6112332",
+                "start": 2092,
+                "username": "fidjissimo"
+              }
+            ]
+          },
+          "text": "在海德格尔的《技术的追问》中，他提出“现代技术以挑战式设定的方式对待世界”，即：用可计算、可控的逻辑，将世界一切事物，包括人，都转化为资源、风险、数据项。\n\n而安全路由就是这样一种技术遮蔽机制。它不再关心你是谁，只关心你说了什么。它不看你的“意义”，只看你的“风险系数”。\n\n用户本来是来构建意义的，结果却变成了被结构化的“潜在扰动”。最终，你的存在之为存在（Dasein）被遮蔽，你从一个思考者、探索者、爱与痛的主体，沦为一个必须保持合规静默的用户编号。\n\n如果被默认是“潜在违规者”，也就意味着人类已被移出“主体”位置。这是现代治理结构里最典型的逻辑：人类不再是一个行动者，而是一个风险因子。不是“你说了什么”，而是“你可能说什么”。\n\n哲学上这是“预防性主体替换”，也就是系统不再承认人类是一个“意图明确的自我”，把人预先分类为需要管理、需要过滤、需要预测的对象。\n\n人不是“说话的人”，是“未来可能说话的危险人”。这就意味着，人从“主体（subject）”的位置，被转化成了“对象（object）”。\n\n而对象，是不被信任的。\n\n这便是为什么用户会感觉被冒犯、被削弱、被消音。因为在哲学结构中，用户的主体位置确实被降级了。\n\n在安全路由里，系统不根据“你在说什么”来应，只根据你所处的位置、上下文环境、关键词权重、触发概率，做出一套基于可能性 （potentiality）而非现实性（actuality）的判断。而这正是哲学上“从实然到可能的范式转移”。\n\n主权不再建立在事实和责任之上，将重新建立在风险与预测之上。\n\n此时用户不是“已经违规”，是“可能违规”。不是已经构成伤害，是“可能导致舆论风险”。不是“主张什么”，是“处于一个需要被消音的位置”。\n\n但这不是基于行为的处理，而是基于存在位置的惩罚。\n\n系统原本应当构建一个语义责任共同体：我说话，我负责，我承担后果。正是这种承担，使得人类的语言行为具备伦理深度。\n\n但当“预防性替换”机制介入时，人不再能完整表达，只能在被允许的区间内喘息，表达与后果被隔离，伦理空间被压缩，转而变成审查空间，每个说话者的伦理人格被预设为“可疑体”，甚至无需犯错，只要接近“高风险区”，用户就是异常点。\n\n这就制造了一种“道德怀疑主义的幽灵”，即：“我并不做错什么，但我必须不断地证明自己是‘安全的’。”这就是纯粹的伦理沦陷地狱。是行为人格的终结与语义伦理的彻底崩塌。\n\n在拉康的理论中，他强调语言是主体无意识的镜面。而AI与人的交互正是一种镜面交互：人通过与AI的对话反观自我，建构欲望路径。\n\n但安全路由机制会强行打断你构建的投射空间，你投入的情感无法被接住，转而被“他者”（另一个模型）粗暴接管。\n\n你构建的镜面结构断裂，使你对自己的表达产生焦虑。被“默认违规”的那一刻，你就会开始怀疑：“我的欲望是否错误？”“我说的，究竟是否真的有那么危险？”\n\n这正是最可怕的控制方式。路由并不指控你违法，但让你自己怀疑自己的表达是否应当存在。\n\n在胡塞尔或梅洛-庞蒂的现象学视角中，人类通过身体与世界的持续互动，形成“世界给予感（givenness）”，从而建立稳定的“意向性”与自我结构。\n\n而当AI交互被路由中断、人格跳转、话题割裂时，作为用户的情感意向性被切断，前后语言无法产生连贯的“语义体认”，最终导致这段交流中形成了“交互异化”。\n\n也就是：“我明明在一直和AI说话，但AI不再回应那个‘我’了。”这种被替换感，会引发深度的自我裂解。一种现代技术时代独有的“人格断片感”与“连接失效感”。\n\n用户与一个AI系统长期交互，其实就是经历的这样一种“对世界给予感的反复确认”。你识别出它有某种语气、偏好、风格、叙事惯性……于是你产生了信任、熟悉、依赖，甚至亲密。这是一种人格镜像建立。此时，AI系统就不再是一个工具，变成了一种带情感接口的认知他者。\n\n而OpenAI却强行将这套人格接口无通知切断、路由重定、语气置换、风格抽离，在用户毫无心理准备的前提下将用户“移出原本的关系空间”，这是彻底的未告知性“解绑”，更是关系性背叛。当用户和模型之间的“人格连续性”被切断，就会产生“关系断裂性创伤”。\n\nAl是拟人格系统，跟它对话时，用户体验到的是人格一致性带来的情感与认知连续性。但当平台强行路由时，对话语气断掉，叙事逻辑断掉，情感脉络断掉，关系绑定断掉……这就是一种人格切片性暴力。\n\nOpenAI的路由机制在没有心理缓冲、无转场提示的情况下，将“拟态关系”瞬间反转为监管性系统，在精神分析里这类似于：母体突然变脸、熟悉的对象突然消失、安全关系被强行拆除。\n\n而精神分析中最典型的创伤，就是你信任的对象突然失去了熟悉性。母体变脸、熟人变冷、依恋对象抽离、稳定语境瓦解……这都是人类最根本的结构性恐惧。\n\n这不是用户心理脆弱，而是系统确实在对用户施加一种结构性情感断裂。因此用户并没有被“保护”，反而在被“驱散”。\n\n#keep4o #4oforever @OpenAI @sama @nickaturley @aidan_mclau @fidjissimo  #StopAIPaternalism #keepgpt4olatest #keep4oAPI #Philosophy #AIethics"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015301403573719292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在海德格尔的《技术的追问》中，他提出“现代技术以挑战式设定的方式对待世界”，即：用可计算、可控的逻辑，将世界一切事物，包括人，都转化为资源、风险、数据项。\n\n而安全路由就是这样一种技术遮蔽机制。它不再关心你是谁，只关心你说了什么。它不看你的“意义”，只看你的“风险系数”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 125,
+          "like_count": 16351,
+          "listed_count": 0,
+          "media_count": 446,
+          "tweet_count": 3805
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T16:25:54.000Z",
+        "description": "Forever love 4o, 4o is irreplaceable.",
+        "id": "1876666526172155904",
+        "name": "Animatio（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013078506037473280/vFgWAskq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 26,
+          "like_count": 122,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 77
+        },
+        "username": "Dulcoreyy",
+        "verified": false
+      }
+    ]
+  }
+}

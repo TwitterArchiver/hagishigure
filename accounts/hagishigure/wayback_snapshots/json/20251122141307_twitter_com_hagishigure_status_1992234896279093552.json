@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "1991910310845067586",
+    "created_at": "2025-11-22T14:13:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T15:13:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992234896279093552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1912109703133646848",
+          "start": 0,
+          "username": "jzm1919810"
+        },
+        {
+          "end": 23,
+          "id": "1957369083042947072",
+          "start": 12,
+          "username": "hexi_hosch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992234896279093552",
+    "in_reply_to_user_id": "1912109703133646848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992147154421629103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jzm1919810 @hexi_hosch 感康硬造起碼我們急診知道應該做什麼措施。\n我在Tokyo的時候沒見過講一些少見到極點的策劃藥或者三四線用藥搶救方案的。\n東大都不講中國也不會講的，擴散是沒害你們oder，但能不能想一想某些神人家裡人會到我們急診科鬧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1991910310845067586",
+        "created_at": "2025-11-22T14:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T15:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992234896279093552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912109703133646848",
+              "start": 0,
+              "username": "jzm1919810"
+            },
+            {
+              "end": 23,
+              "id": "1957369083042947072",
+              "start": 12,
+              "username": "hexi_hosch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992234896279093552",
+        "in_reply_to_user_id": "1912109703133646848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992147154421629103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jzm1919810 @hexi_hosch 感康硬造起碼我們急診知道應該做什麼措施。\n我在Tokyo的時候沒見過講一些少見到極點的策劃藥或者三四線用藥搶救方案的。\n東大都不講中國也不會講的，擴散是沒害你們oder，但能不能想一想某些神人家裡人會到我們急診科鬧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912109703133646848",
+        "conversation_id": "1991910310845067586",
+        "created_at": "2025-11-22T08:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T09:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992147154421629103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1957369083042947072",
+              "start": 0,
+              "username": "hexi_hosch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992147154421629103",
+        "in_reply_to_user_id": "1957369083042947072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992145449562869839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hexi_hosch 我又没扩散晚安。现在问题是你不扩散新药，会有恶趣味的人在墙内扩散这些神药、或者他们自然从感冒药路线重新发明od，感康硬造。\n\n当然不扩散也能理解，因为有不扩散的好处：独享我的好药、晶哥不知道。都有自己的立场，但是别说什么害人助人了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 108,
+          "like_count": 10189,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 2424
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-15T11:44:19.000Z",
+        "description": "もしも願いが葉うなら 夜の空へとほうり投げて与えて",
+        "id": "1912109703133646848",
+        "name": "Zemin Jiang",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 95,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 414
+        },
+        "username": "jzm1919810",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T09:09:49.000Z",
+        "description": "一个幽灵 ADHD&ASD Reply in Japanese and Chinese 查成分回fo",
+        "id": "1957369083042947072",
+        "location": "Hong Kong",
+        "name": "何夕",
+        "pinned_tweet_id": "1983572012904943951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984695820915232768/7l-j61K7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 142,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 216
+        },
+        "username": "hexi_hosch",
+        "verified": false
+      }
+    ]
+  }
+}

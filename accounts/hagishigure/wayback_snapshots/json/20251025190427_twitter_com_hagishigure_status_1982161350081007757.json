@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1982161350081007757",
+    "created_at": "2025-10-25T19:04:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T20:04:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982161350081007757"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OverSpeed_Wiki…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/OverSpeed_Wiki/status/1981981612847124829",
+          "start": 44,
+          "url": "https://t.co/214KH2q4tb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982161350081007757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981981612847124829",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一邊放著詞彙中性的拉丁文不用，一邊各種批判中文xx詞彙「辱女」\n我只會評價：學術垃圾。 https://t.co/214KH2q4tb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1981981588960215040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4FpwRFWgAABACr.jpg",
+        "width": 1047
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1981981589006397440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4FpwRQXMAA3aiG.jpg",
+        "width": 1044
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1982161350081007757",
+        "created_at": "2025-10-25T19:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T20:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982161350081007757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OverSpeed_Wiki…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/OverSpeed_Wiki/status/1981981612847124829",
+              "start": 44,
+              "url": "https://t.co/214KH2q4tb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982161350081007757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981981612847124829",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一邊放著詞彙中性的拉丁文不用，一邊各種批判中文xx詞彙「辱女」\n我只會評價：學術垃圾。 https://t.co/214KH2q4tb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981981588960215040",
+            "3_1981981589006397440"
+          ]
+        },
+        "author_id": "1804587925805596672",
+        "conversation_id": "1981981612847124829",
+        "created_at": "2025-10-25T07:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T08:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981981612847124829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C5VZd7Ss1c",
+              "end": 143,
+              "expanded_url": "https://x.com/OverSpeed_Wiki/status/1981981612847124829/photo/1",
+              "media_key": "3_1981981588960215040",
+              "start": 120,
+              "url": "https://t.co/C5VZd7Ss1c"
+            },
+            {
+              "display_url": "pic.x.com/C5VZd7Ss1c",
+              "end": 143,
+              "expanded_url": "https://x.com/OverSpeed_Wiki/status/1981981612847124829/photo/1",
+              "media_key": "3_1981981589006397440",
+              "start": 120,
+              "url": "https://t.co/C5VZd7Ss1c"
+            },
+            {
+              "display_url": "x.com/zqtlovekris99/…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/zqtlovekris99/status/1981576571266973715",
+              "start": 144,
+              "url": "https://t.co/SKj9e5NMyW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981981612847124829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1626,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981576571266973715",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这条推把一群Terf引来了\n就是说每次点开中推Terf的主页，就感觉她们的语言文字体系不像是纯粹的中文，像是介于简体中文和「汉谚混写文」「万叶假名」「汉喃字」之间的感觉\n只有少数像林毛毛那种纯粹用「中文」书写的\n（谁能解释一下原因啊啊啊） https://t.co/C5VZd7Ss1c https://t.co/SKj9e5NMyW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 99,
+          "like_count": 5614,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1118
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-22T18:51:15.000Z",
+        "description": "本号为Oswiki编辑组人员多人共同使用",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 23,
+                "expanded_url": "https://overspeed.wiki/",
+                "start": 0,
+                "url": "https://t.co/YS4b5CWFxU"
+              }
+            ]
+          }
+        },
+        "id": "1804587925805596672",
+        "location": "Transhumanism Paradise",
+        "name": "OverSpeed Wiki",
+        "pinned_tweet_id": "1921226097288458568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849769703323115520/zFJO4jWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4039,
+          "following_count": 606,
+          "like_count": 18134,
+          "listed_count": 8,
+          "media_count": 328,
+          "tweet_count": 4180
+        },
+        "url": "https://t.co/YS4b5CWFxU",
+        "username": "OverSpeed_Wiki",
+        "verified": false
+      }
+    ]
+  }
+}

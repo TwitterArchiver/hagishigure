@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1973722688561774907",
+    "created_at": "2025-10-03T05:35:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T06:35:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973985218647454084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1902297181157257218",
+          "start": 0,
+          "username": "aoya_toboso_01"
+        },
+        {
+          "end": 25,
+          "id": "1048022597823164416",
+          "start": 16,
+          "username": "HiallouL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973985218647454084",
+    "in_reply_to_user_id": "1902297181157257218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973749884131188821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoya_toboso_01 @HiallouL 有的，後現代女權主義就是屬於激進並且認可非二元屬於女權的女權主義（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1973722688561774907",
+        "created_at": "2025-10-03T05:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T06:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973985218647454084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1902297181157257218",
+              "start": 0,
+              "username": "aoya_toboso_01"
+            },
+            {
+              "end": 25,
+              "id": "1048022597823164416",
+              "start": 16,
+              "username": "HiallouL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973985218647454084",
+        "in_reply_to_user_id": "1902297181157257218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973749884131188821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoya_toboso_01 @HiallouL 有的，後現代女權主義就是屬於激進並且認可非二元屬於女權的女權主義（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902297181157257218",
+        "conversation_id": "1973722688561774907",
+        "created_at": "2025-10-02T14:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T15:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973749884131188821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1048022597823164416",
+              "start": 0,
+              "username": "HiallouL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973749884131188821",
+        "in_reply_to_user_id": "1048022597823164416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 179,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973722688561774907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiallouL 有没有友跨激女？🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n||宣誓人——🪼諾諾||🪼沒有標籤，也不需要定義自己||正因神愛世人，世人才予以神的敬稱||",
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 76,
+          "like_count": 443,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 55
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-19T09:52:52.000Z",
+        "description": "谢谢你听我碎碎念/来推是因为跨性别多/不喜欢繁殖的阉男/性少数、不婚族友好/包容度较高，但是不包容看重传宗接代的劳保",
+        "id": "1902297181157257218",
+        "name": "葵矢枢🏳️‍⚧️(已自宫)",
+        "pinned_tweet_id": "1966166308657180946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960236263845605376/6CBYGXrC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 143,
+          "like_count": 5435,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 561
+        },
+        "username": "aoya_toboso_01",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-05T01:30:33.000Z",
+        "description": "🌈🏳️‍🌈🏳️‍⚧️ 🌱 📸 ☕ 💛🤍💜🖤",
+        "id": "1048022597823164416",
+        "location": "把不息的生机种在每一个旅人心里",
+        "name": "Hallo",
+        "pinned_tweet_id": "1963969849065164812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972658949611769856/_J0xXhpn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 1258,
+          "like_count": 17185,
+          "listed_count": 5,
+          "media_count": 827,
+          "tweet_count": 4800
+        },
+        "username": "HiallouL",
+        "verified": false
+      }
+    ]
+  }
+}

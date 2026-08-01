@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2018290687733571607",
+    "created_at": "2026-02-02T11:49:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T12:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018290687733571607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018290687733571607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018187651321598130",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 突发:扭转机构曝体罚虐待，学员集体抗争获自由。\n\n就在近日山东省德州市环帝教育 这所扭转机因长期存在体罚、虐待等非法管教，引发校内全体学员的集体反抗，事件逐步升级为暴力抗争，\n学员砸开宿舍防盗窗房门\n控制该校教官争取人身自由\n目前该校绝…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2018290687733571607].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2018290687733571607",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2018290687733571607"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2018186842894651392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAIKPaUaUAA1ZVT.jpg",
+        "width": 540
+      },
+      {
+        "duration_ms": 36758,
+        "height": 1280,
+        "media_key": "7_2018186896892108800",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2018186896892108800/pu/img/qtiaMzZi9--2Am1X.jpg",
+        "public_metrics": {
+          "view_count": 961
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018186896892108800/pu/vid/avc1/320x568/1LVn0bJiACoZ1MK2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018186896892108800/pu/vid/avc1/480x852/r04YpFdx70Fqpw6j.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018186896892108800/pu/vid/avc1/720x1280/SE36Zg7_9GM8jFOh.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2018186896892108800/pu/pl/fJZYvRzvqLExMegb.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 33501,
+        "height": 960,
+        "media_key": "7_2018186963799666688",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2018186963799666688/pu/img/TsVnAEOHcPp7iCbI.jpg",
+        "public_metrics": {
+          "view_count": 201
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018186963799666688/pu/vid/avc1/320x568/GedDy6kdebP4Ozeo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018186963799666688/pu/vid/avc1/480x852/mPPl1mWvKAdYfBCu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018186963799666688/pu/vid/avc1/540x960/s5ifVmiSrgyilRcm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2018186963799666688/pu/pl/6yXx1lLd3aF_FeLH.m3u8?tag=12"
+          }
+        ],
+        "width": 540
+      },
+      {
+        "duration_ms": 59060,
+        "height": 1280,
+        "media_key": "7_2018187062814613504",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2018187062814613504/pu/img/9hTOzwzvCsotytw3.jpg",
+        "public_metrics": {
+          "view_count": 138
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018187062814613504/pu/vid/avc1/320x568/P07AX8kXsK29D95O.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018187062814613504/pu/vid/avc1/480x852/abfHTBr7drZyP71o.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018187062814613504/pu/vid/avc1/720x1280/NLWNkcPzkdevZwPz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2018187062814613504/pu/pl/5AeI4WfO5uI1i0H6.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018186842894651392",
+            "7_2018186896892108800",
+            "7_2018186963799666688",
+            "7_2018187062814613504"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2018187651321598130",
+        "created_at": "2026-02-02T05:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T06:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018187651321598130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E04tfWkuxf",
+              "end": 167,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018187651321598130/video/1",
+              "media_key": "3_2018186842894651392",
+              "start": 144,
+              "url": "https://t.co/E04tfWkuxf"
+            },
+            {
+              "display_url": "pic.x.com/E04tfWkuxf",
+              "end": 167,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018187651321598130/video/1",
+              "media_key": "7_2018186896892108800",
+              "start": 144,
+              "url": "https://t.co/E04tfWkuxf"
+            },
+            {
+              "display_url": "pic.x.com/E04tfWkuxf",
+              "end": 167,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018187651321598130/video/1",
+              "media_key": "7_2018186963799666688",
+              "start": 144,
+              "url": "https://t.co/E04tfWkuxf"
+            },
+            {
+              "display_url": "pic.x.com/E04tfWkuxf",
+              "end": 167,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2018187651321598130/video/1",
+              "media_key": "7_2018187062814613504",
+              "start": 144,
+              "url": "https://t.co/E04tfWkuxf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018187651321598130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 3650,
+          "like_count": 175,
+          "quote_count": 4,
+          "reply_count": 12,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "突发:扭转机构曝体罚虐待，学员集体抗争获自由。\n\n就在近日山东省德州市环帝教育 这所扭转机因长期存在体罚、虐待等非法管教，引发校内全体学员的集体反抗，事件逐步升级为暴力抗争，\n学员砸开宿舍防盗窗房门\n控制该校教官争取人身自由\n目前该校绝大部分受害学员已通过此次抗争成功脱离机构，获得自由 https://t.co/E04tfWkuxf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 128,
+          "like_count": 17536,
+          "listed_count": 0,
+          "media_count": 473,
+          "tweet_count": 4122
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2675,
+          "following_count": 1705,
+          "like_count": 1434,
+          "listed_count": 10,
+          "media_count": 318,
+          "tweet_count": 1999
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

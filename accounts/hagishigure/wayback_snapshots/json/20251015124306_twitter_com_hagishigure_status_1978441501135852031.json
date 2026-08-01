@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978441490100817920"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1978400377595937244",
+    "created_at": "2025-10-15T12:43:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T13:43:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978441501135852031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1676500088221478912",
+          "start": 0,
+          "username": "DOGYeah3376"
+        },
+        {
+          "end": 26,
+          "id": "1879395690230738944",
+          "start": 13,
+          "username": "Psych_Angel_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SQdSwy5n6V",
+          "end": 56,
+          "expanded_url": "https://x.com/hagishigure/status/1978441501135852031/photo/1",
+          "media_key": "3_1978441490100817920",
+          "start": 33,
+          "url": "https://t.co/SQdSwy5n6V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978441501135852031",
+    "in_reply_to_user_id": "1676500088221478912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978400377595937244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DOGYeah3376 @Psych_Angel_ 药效很棒。 https://t.co/SQdSwy5n6V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 917,
+        "media_key": "3_1978441490100817920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3TWDZJakAAV1TO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1034,
+        "media_key": "3_1978400372139204608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3SwqAzboAA2A34.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978441490100817920"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1978400377595937244",
+        "created_at": "2025-10-15T12:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T13:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978441501135852031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676500088221478912",
+              "start": 0,
+              "username": "DOGYeah3376"
+            },
+            {
+              "end": 26,
+              "id": "1879395690230738944",
+              "start": 13,
+              "username": "Psych_Angel_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SQdSwy5n6V",
+              "end": 56,
+              "expanded_url": "https://x.com/hagishigure/status/1978441501135852031/photo/1",
+              "media_key": "3_1978441490100817920",
+              "start": 33,
+              "url": "https://t.co/SQdSwy5n6V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978441501135852031",
+        "in_reply_to_user_id": "1676500088221478912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978400377595937244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DOGYeah3376 @Psych_Angel_ 药效很棒。 https://t.co/SQdSwy5n6V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978400372139204608"
+          ]
+        },
+        "author_id": "1676500088221478912",
+        "conversation_id": "1978400377595937244",
+        "created_at": "2025-10-15T09:59:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T10:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978400377595937244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1879395690230738944",
+              "start": 19,
+              "username": "Psych_Angel_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xa4gYSBk7C",
+              "end": 56,
+              "expanded_url": "https://x.com/DOGYeah3376/status/1978400377595937244/photo/1",
+              "media_key": "3_1978400372139204608",
+              "start": 33,
+              "url": "https://t.co/xa4gYSBk7C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978400377595937244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 514,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我想買這個pr80\n感覺好方便\n圖來自@Psych_Angel_ https://t.co/xa4gYSBk7C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 90,
+          "like_count": 3496,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 547
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-05T07:55:57.000Z",
+        "description": "你好👋我们是水母系统｜多意识体｜我有精神病。｜无证含糖mtf｜含糖2025.6.4｜性别废除主义｜自伤od｜互fo🥰｜高冷的入😭@Yyyyy_pog｜主人❤️ @1qva0TT｜路边一条@yu_huacs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "Yyyyy_pog"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "1qva0TT"
+              },
+              {
+                "end": 102,
+                "start": 93,
+                "username": "yu_huacs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaopia",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaopia",
+                "start": 0,
+                "url": "https://t.co/FCn9Sn3G8v"
+              }
+            ]
+          }
+        },
+        "id": "1676500088221478912",
+        "location": "🚪68解锁碎碎念",
+        "name": "🪼小皮🍥",
+        "pinned_tweet_id": "1977003730294956431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942286332568711168/oiJnppyc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 994,
+          "like_count": 52273,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 3338
+        },
+        "url": "https://t.co/FCn9Sn3G8v",
+        "username": "DOGYeah3376",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T05:10:34.000Z",
+        "description": "𝓢𝓬𝓲𝓮𝓷𝓽𝓲𝓼𝓽 | 𝓟𝓱𝓲𝓵𝓸𝓼𝓸𝓹𝓱𝓮𝓻 | 𝓛𝓪𝓫 𝓡𝓪𝓽｜💊#Drugtwt｜BD/DPDR｜soulmate:@BelovedUren8964｜🍧:@Chufeinya 🍜:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "Drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "BelovedUren8964"
+              },
+              {
+                "end": 90,
+                "start": 80,
+                "username": "Chufeinya"
+              },
+              {
+                "end": 109,
+                "start": 93,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/6thcutek1tten1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/6thcutek1tten1",
+                "start": 0,
+                "url": "https://t.co/nRpYRqPkdm"
+              }
+            ]
+          }
+        },
+        "id": "1879395690230738944",
+        "location": "提问箱→",
+        "name": "Mercy",
+        "pinned_tweet_id": "1978107837193523387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971805789750022147/X3CZsxHf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 594,
+          "like_count": 15643,
+          "listed_count": 0,
+          "media_count": 388,
+          "tweet_count": 6677
+        },
+        "url": "https://t.co/nRpYRqPkdm",
+        "username": "Psych_Angel_",
+        "verified": false
+      }
+    ]
+  }
+}

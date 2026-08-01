@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2059944782429110563",
+    "created_at": "2026-05-28T11:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T12:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059953123297202469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1221562724829691905",
+          "start": 0,
+          "username": "gozZoazYckXOXcW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059953123297202469",
+    "in_reply_to_user_id": "1221562724829691905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059944782429110563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gozZoazYckXOXcW 我发现，去除永仪的方法是csn。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2059944782429110563",
+        "created_at": "2026-05-28T11:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059953123297202469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1221562724829691905",
+              "start": 0,
+              "username": "gozZoazYckXOXcW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059953123297202469",
+        "in_reply_to_user_id": "1221562724829691905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059944782429110563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gozZoazYckXOXcW 我发现，去除永仪的方法是csn。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1221562724829691905",
+        "conversation_id": "2059944782429110563",
+        "created_at": "2026-05-28T10:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059944782429110563"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059944782429110563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现 去除隐水印的一个办法是 起ai重绘一遍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867,
+          "following_count": 154,
+          "like_count": 29975,
+          "listed_count": 3,
+          "media_count": 781,
+          "tweet_count": 7186
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-26T22:37:11.000Z",
+        "description": "Amab  |公开频道：https://t.co/o7u3PzZ637 |联系方式:https://t.co/GnRL4ruaVX |点赞不代表赞同观点 |Μαsтоdоn：@yongyiwang |Βsκу：@yongyiwang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "yongyiwang"
+              },
+              {
+                "end": 116,
+                "start": 105,
+                "username": "yongyiwang"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/bakayong",
+                "end": 35,
+                "expanded_url": "https://t.me/bakayong",
+                "start": 12,
+                "url": "https://t.co/o7u3PzZ637"
+              },
+              {
+                "display_url": "t.me/Yongyi_dm_bot",
+                "end": 65,
+                "expanded_url": "http://t.me/Yongyi_dm_bot",
+                "start": 42,
+                "url": "https://t.co/GnRL4ruaVX"
+              }
+            ]
+          }
+        },
+        "id": "1221562724829691905",
+        "name": "永仪#咸鱼版",
+        "pinned_tweet_id": "1534197498281328640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862179978751684609/NWGhr4LD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26273,
+          "following_count": 3038,
+          "like_count": 32012,
+          "listed_count": 31,
+          "media_count": 767,
+          "tweet_count": 15413
+        },
+        "username": "gozZoazYckXOXcW",
+        "verified": false
+      }
+    ]
+  }
+}

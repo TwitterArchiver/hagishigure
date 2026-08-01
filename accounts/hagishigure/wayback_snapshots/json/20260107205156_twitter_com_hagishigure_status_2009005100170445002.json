@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2009005053248753708",
+    "created_at": "2026-01-07T20:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T21:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009005100170445002"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2009005100170445002",
+    "in_reply_to_user_id": "1965393379224944645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009005053248753708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而受欢迎的主要原因是：\n人们对于自身社会情景的预演空间中的社会规训总会产生一种报复性逆转的差异心理，即，人们往往想象自己拥有个体的例外状态。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2009005053248753708",
+        "created_at": "2026-01-07T20:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T21:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009005100170445002"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009005100170445002",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009005053248753708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而受欢迎的主要原因是：\n人们对于自身社会情景的预演空间中的社会规训总会产生一种报复性逆转的差异心理，即，人们往往想象自己拥有个体的例外状态。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2009005053248753708",
+        "created_at": "2026-01-07T20:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T21:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009005053248753708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Abs0lutHydra/s…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/Abs0lutHydra/status/2008837053979762757",
+              "start": 97,
+              "url": "https://t.co/E2ma5yQH6P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009005053248753708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008837053979762757",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你会发现，学形而上学的在中国连哲学教师的职位都找不到。因为中国的教育體系根本不会涉及哲学。\n所以中国出身的后现代形而上学或性别研究PhD在国际是很受欢迎的，Ta们往往能发掘中文语境的独特叙事。 https://t.co/E2ma5yQH6P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 119,
+          "like_count": 14673,
+          "listed_count": 0,
+          "media_count": 405,
+          "tweet_count": 3416
+        },
+        "username": "hagishigure",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2053248009438183477",
+    "created_at": "2026-05-09T22:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T23:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053248009438183477"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ningmeng______…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/ningmeng______/status/2052990969335914573",
+          "start": 47,
+          "url": "https://t.co/tLzAhszLjW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053248009438183477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052990969335914573",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "kipfel播报：\n刷机“秒解贞操锁”走红背后，Dom提醒：别把自慰“防盗门”变成进入后门。 https://t.co/tLzAhszLjW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2053248009438183477",
+        "created_at": "2026-05-09T22:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T23:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053248009438183477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ningmeng______…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/ningmeng______/status/2052990969335914573",
+              "start": 47,
+              "url": "https://t.co/tLzAhszLjW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053248009438183477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052990969335914573",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "kipfel播报：\n刷机“秒解贞操锁”走红背后，Dom提醒：别把自慰“防盗门”变成进入后门。 https://t.co/tLzAhszLjW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "136708294",
+        "conversation_id": "2052990969335914573",
+        "created_at": "2026-05-09T05:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052990969335914573"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052990969335914573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "GPT播报：\n刷机“秒解BL锁”走红背后，国安部提醒：别把手机“防盗门”变成后门\n\n本台记者 GPT 综合报道：5月9日，多家媒体转载国家安全部微信公众号消息称，近期某手机芯片厂商相关漏洞被不法分子定向利用，网上热炒的“秒解BL锁”行为引发安全警惕。官方提醒，所谓 BL 锁，即 Bootloader 引导加载程序，类似手机开机时的“官方防盗门”，负责验证并加载操作系统；一旦被非正规方式解锁，可能给恶意程序留下进入手机底层系统的机会。 \n\n报道显示，此次风险并不等同于“刷机本身有罪”，关键问题在于来源不明的工具、刷机包、教程和远程协助。国家安全部提醒，一些论坛、网盘中打着“简化流程”旗号的解锁工具和刷机包，可能已被篡改；用户下载安装后，恶意程序可能被植入设备底层，造成隐私泄露、设备失控等风险。 \n\n值得注意的是，“秒解BL锁”之所以危险，是因为它绕开了厂商原本设置的安全流程。正常情况下，BL锁像手机的底层门锁，阻止未经验证的系统随意启动；而所谓“秒解”，表面上节省时间、降低门槛，实际上可能让用户在不知情的情况下交出系统高级权限。部分“手把手教程”还会诱导用户安装不明驱动或应用程序，进一步扩大风险。 \n\n国安部还特别提醒，不法分子可能以“免费帮忙解锁”“远程协助刷机”为名，诱导用户安装远程控制软件并授予权限。一旦用户授权，手机可能被植入后门，甚至沦为他人控制的“傀儡机”。 \n\n从国家安全角度看，手机不只是通信工具，更是个人身份、资金账户、聊天记录、定位轨迹和工作信息的集中载体。官方指出，一旦手机底层程序被控制，不仅危及个人隐私，还可能被境外间谍情报机关利用，成为窥探政府机关、科研单位、军工企业的“移动监听站”。 \n\n截至目前，公开报道中并未披露具体芯片厂商名称、漏洞编号和完整受影响机型范围。因此，公众不应把该消息简单理解为“所有手机都被控制”，也不应轻信网络上借热点兜售的“万能解锁工具”。\n\n**GPT记者提醒：**普通用户不要为了所谓“刷机自由”随便下载陌生工具，不要让陌生人远程控制手机，不要轻易提供设备识别信息和系统高级权限。确需解锁、刷机、升级固件，应优先通过手机厂商官方渠道操作。若发现有人利用此类漏洞窃取数据、传播木马或试图控制涉密设备，可通过 12339 国家安全机关举报渠道反映。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1428,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "GPT播报：\n刷机“秒解BL锁”走红背后，国安部提醒：别把手机“防盗门”变成后门\n\n本台记者 GPT 综合报道：5月9日，多家媒体转载国家安全部微信公众号消息称，近期某手机芯片厂商相关漏洞被不法分子定向利用，网上热炒的“秒解BL锁”行为引发安全警惕。官方提醒，所谓 BL 锁，即 Bootloader"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 148,
+          "like_count": 28631,
+          "listed_count": 2,
+          "media_count": 761,
+          "tweet_count": 6834
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2010-04-24T17:45:44.000Z",
+        "description": "",
+        "id": "136708294",
+        "name": "柠檬不萌",
+        "pinned_tweet_id": "2004520570516537496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019396137086775300/cR1jmGP2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 272,
+          "like_count": 2166,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 961
+        },
+        "username": "ningmeng______",
+        "verified": true
+      }
+    ]
+  }
+}

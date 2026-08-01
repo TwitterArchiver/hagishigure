@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2008467738361225567",
+    "created_at": "2026-01-06T10:40:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T11:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008488859706028409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2840236608",
+          "start": 0,
+          "username": "StarNekOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008488859706028409",
+    "in_reply_to_user_id": "2840236608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008467738361225567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarNekOvO 我只用得起皮鞋4axl🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008467733332324354",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9-CwxwbcAIwb0P.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2008467733806280707",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9-CwzhbcAMf1LB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2008467735660163077",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9-Cw6bbcAUkVWi.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2008467738361225567",
+        "created_at": "2026-01-06T10:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T11:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008488859706028409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2840236608",
+              "start": 0,
+              "username": "StarNekOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008488859706028409",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008467738361225567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarNekOvO 我只用得起皮鞋4axl🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008467733332324354",
+            "3_2008467733806280707",
+            "3_2008467735660163077"
+          ]
+        },
+        "author_id": "2840236608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2008467738361225567",
+        "created_at": "2026-01-06T09:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T10:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008467738361225567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4UPyw72iLF",
+              "end": 91,
+              "expanded_url": "https://x.com/StarNekOvO/status/2008467738361225567/photo/1",
+              "media_key": "3_2008467733332324354",
+              "start": 68,
+              "url": "https://t.co/4UPyw72iLF"
+            },
+            {
+              "display_url": "pic.x.com/4UPyw72iLF",
+              "end": 91,
+              "expanded_url": "https://x.com/StarNekOvO/status/2008467738361225567/photo/1",
+              "media_key": "3_2008467733806280707",
+              "start": 68,
+              "url": "https://t.co/4UPyw72iLF"
+            },
+            {
+              "display_url": "pic.x.com/4UPyw72iLF",
+              "end": 91,
+              "expanded_url": "https://x.com/StarNekOvO/status/2008467738361225567/photo/1",
+              "media_key": "3_2008467735660163077",
+              "start": 68,
+              "url": "https://t.co/4UPyw72iLF"
+            },
+            {
+              "display_url": "x.com/StarNekOvO/sta…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/StarNekOvO/status/2008427033341436076",
+              "start": 92,
+              "url": "https://t.co/TL8mbU8VHE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008467738361225567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 352,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008427033341436076",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "袜 小皮鞋可以用安卓16内置的 Debian 虚拟机，和 Termux 完全不一样\n\n可惜我的三星的骁龙 8 elite 不支持这个🥹 https://t.co/4UPyw72iLF https://t.co/TL8mbU8VHE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 119,
+          "like_count": 14600,
+          "listed_count": 0,
+          "media_count": 401,
+          "tweet_count": 3391
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "🥛🐈‍⬛系統. aka starneko. System Security Hunter. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "starneko.com",
+                "end": 23,
+                "expanded_url": "https://starneko.com",
+                "start": 0,
+                "url": "https://t.co/9NEqS9sljx"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "name": "猫奶牛",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008251547163975680/m5RnHWmU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4479,
+          "following_count": 2272,
+          "like_count": 34372,
+          "listed_count": 17,
+          "media_count": 1391,
+          "tweet_count": 11780
+        },
+        "url": "https://t.co/9NEqS9sljx",
+        "username": "StarNekOvO",
+        "verified": true
+      }
+    ]
+  }
+}

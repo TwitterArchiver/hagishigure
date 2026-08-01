@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2052484976650952728",
+    "created_at": "2026-05-08T23:40:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T00:40:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052896552440430747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1689214483481452544",
+          "start": 0,
+          "username": "ZianTT_Official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052896552440430747",
+    "in_reply_to_user_id": "1689214483481452544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052484976650952728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZianTT_Official 我一个做mips架构的实在不明白怎么有人能做出在mips都是数据冒险的把物理页占据内存指向同一个命名的行为还这么久没发现问题。😾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2052484976650952728",
+        "created_at": "2026-05-08T23:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T00:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052896552440430747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1689214483481452544",
+              "start": 0,
+              "username": "ZianTT_Official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052896552440430747",
+        "in_reply_to_user_id": "1689214483481452544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052484976650952728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZianTT_Official 我一个做mips架构的实在不明白怎么有人能做出在mips都是数据冒险的把物理页占据内存指向同一个命名的行为还这么久没发现问题。😾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689214483481452544",
+        "conversation_id": "2052484976650952728",
+        "created_at": "2026-05-07T20:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T21:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052484976650952728"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Contribute to V4bel/dirtyfrag development by creating an account on GitHub.",
+              "display_url": "github.com/V4bel/dirtyfra…",
+              "end": 78,
+              "expanded_url": "https://github.com/V4bel/dirtyfrag.git",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2052478878602641408/oF1EeOKj?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2052478878602641408/oF1EeOKj?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 55,
+              "status": 200,
+              "title": "GitHub - V4bel/dirtyfrag",
+              "unwound_url": "https://github.com/V4bel/dirtyfrag",
+              "url": "https://t.co/Mr46dGqTTb"
+            },
+            {
+              "display_url": "x.com/ziantt_officia…",
+              "end": 188,
+              "expanded_url": "https://twitter.com/ziantt_official/status/2049627891491820023",
+              "start": 165,
+              "url": "https://t.co/yTJLhQKYpQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052484976650952728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 175,
+          "impression_count": 46789,
+          "like_count": 353,
+          "quote_count": 4,
+          "reply_count": 13,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049627891491820023",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一刻也没有为CopyFail的离去而感到悲伤，接下来到达战场的是：Dirty Frag！\ngit clone https://t.co/Mr46dGqTTb &amp;&amp; cd dirtyfrag &amp;&amp; gcc -O0 -Wall -o exp exp.c -lutil &amp;&amp; ./exp https://t.co/yTJLhQKYpQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 149,
+          "like_count": 28507,
+          "listed_count": 2,
+          "media_count": 759,
+          "tweet_count": 6795
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-09T09:58:21.000Z",
+        "description": "DevOps, Cyber Security,  Web Developer | Python & GoLang & JavaScript | LightXi Inc.",
+        "id": "1689214483481452544",
+        "location": "Shanghai, PRC",
+        "name": "ZianTT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019966519879573504/bNAx8h0D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1836,
+          "following_count": 470,
+          "like_count": 2844,
+          "listed_count": 8,
+          "media_count": 228,
+          "tweet_count": 3349
+        },
+        "username": "ZianTT_Official",
+        "verified": true
+      }
+    ]
+  }
+}

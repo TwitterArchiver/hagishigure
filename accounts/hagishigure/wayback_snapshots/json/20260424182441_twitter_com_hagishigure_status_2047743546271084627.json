@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2047685758941794402",
+    "created_at": "2026-04-24T18:24:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T19:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047743546271084627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1466197749636890626",
+          "start": 0,
+          "username": "LostAttractor"
+        },
+        {
+          "end": 21,
+          "id": "15339596",
+          "start": 15,
+          "username": "nihui"
+        },
+        {
+          "end": 31,
+          "id": "1484457641090842630",
+          "start": 22,
+          "username": "Ziyao233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047743546271084627",
+    "in_reply_to_user_id": "1466197749636890626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047685758941794402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LostAttractor @nihui @Ziyao233 太好了，握手，我超喜欢用的。但现在我要对你的大脑进行li $t0, 0x30。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047685751710892032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrXV5JbQAAI5g8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2047685758941794402",
+        "created_at": "2026-04-24T18:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T19:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047743546271084627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1466197749636890626",
+              "start": 0,
+              "username": "LostAttractor"
+            },
+            {
+              "end": 21,
+              "id": "15339596",
+              "start": 15,
+              "username": "nihui"
+            },
+            {
+              "end": 31,
+              "id": "1484457641090842630",
+              "start": 22,
+              "username": "Ziyao233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047743546271084627",
+        "in_reply_to_user_id": "1466197749636890626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047685758941794402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LostAttractor @nihui @Ziyao233 太好了，握手，我超喜欢用的。但现在我要对你的大脑进行li $t0, 0x30。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047685751710892032"
+          ]
+        },
+        "author_id": "1466197749636890626",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047685758941794402",
+        "created_at": "2026-04-24T14:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047685758941794402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n2MpyqGrZd",
+              "end": 60,
+              "expanded_url": "https://x.com/LostAttractor/status/2047685758941794402/photo/1",
+              "media_key": "3_2047685751710892032",
+              "start": 37,
+              "url": "https://t.co/n2MpyqGrZd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047685758941794402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "：如果你喜欢切手手的话，那你应该去使用mips，这样也可以自己带来痛苦（ https://t.co/n2MpyqGrZd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 149,
+          "like_count": 27662,
+          "listed_count": 2,
+          "media_count": 739,
+          "tweet_count": 6577
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-02T00:09:49.000Z",
+        "description": "脆弱的人，但并不甘心 | 双相/阿斯伯格 | OS/Network/DevOps | Maintainer at https://t.co/eoXL4xY4p0 | Non-Binary & HRT Since 2022.1.15",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "NixOS.org",
+                "end": 80,
+                "expanded_url": "http://NixOS.org",
+                "start": 57,
+                "url": "https://t.co/eoXL4xY4p0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lostattractor.net",
+                "end": 23,
+                "expanded_url": "https://lostattractor.net",
+                "start": 0,
+                "url": "https://t.co/igivDCe3sq"
+              }
+            ]
+          }
+        },
+        "id": "1466197749636890626",
+        "location": "Shanghai, ROC",
+        "name": "ChaosAttractor (Additional Lifecycle Maintenance)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554426397183344641/xwZtGX0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2499,
+          "following_count": 550,
+          "like_count": 9863,
+          "listed_count": 7,
+          "media_count": 715,
+          "tweet_count": 2804
+        },
+        "url": "https://t.co/igivDCe3sq",
+        "username": "LostAttractor",
+        "verified": false
+      },
+      {
+        "created_at": "2008-07-07T06:56:13.000Z",
+        "description": "春雨为观，香月为邻 | 喜欢玩游戏时看风景 | 想成为优秀的程序员 | 看上去是女装大佬实际并不是（ | 上海老阿姨 | qwqwqwq",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/nihui",
+                "end": 23,
+                "expanded_url": "https://github.com/nihui",
+                "start": 0,
+                "url": "https://t.co/iyObHraRrK"
+              }
+            ]
+          }
+        },
+        "id": "15339596",
+        "location": "Shanghai",
+        "name": "nihui",
+        "pinned_tweet_id": "1298862529750249472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1081943284312727557/uQup2iDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43114,
+          "following_count": 931,
+          "like_count": 12203,
+          "listed_count": 133,
+          "media_count": 1160,
+          "tweet_count": 6109
+        },
+        "url": "https://t.co/iyObHraRrK",
+        "username": "nihui",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-21T09:27:46.000Z",
+        "description": "She & Kernel/U-Boot & eweOS dev & beloved loongarch. Reach me through me@ziyao.cc",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ziyao233.github.io",
+                "end": 23,
+                "expanded_url": "https://ziyao233.github.io",
+                "start": 0,
+                "url": "https://t.co/N9nAq8JQJO"
+              }
+            ]
+          }
+        },
+        "id": "1484457641090842630",
+        "name": "梓瑶酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794084630150385664/WzLnlvVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 140,
+          "like_count": 4541,
+          "listed_count": 4,
+          "media_count": 193,
+          "tweet_count": 3213
+        },
+        "url": "https://t.co/N9nAq8JQJO",
+        "username": "Ziyao233",
+        "verified": false
+      }
+    ]
+  }
+}

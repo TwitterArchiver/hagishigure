@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2013635176920744045",
+    "created_at": "2026-01-21T14:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T15:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013983747205464430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1516058815652777989",
+          "start": 0,
+          "username": "PaulKochakin"
+        },
+        {
+          "end": 30,
+          "id": "1843201902550634496",
+          "start": 14,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013983747205464430",
+    "in_reply_to_user_id": "1516058815652777989",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013981297593475072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaulKochakin @LwrDHYyuxR22499 Make America Great Again!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2013635176920744045",
+        "created_at": "2026-01-21T14:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T15:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013983747205464430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1516058815652777989",
+              "start": 0,
+              "username": "PaulKochakin"
+            },
+            {
+              "end": 30,
+              "id": "1843201902550634496",
+              "start": 14,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013983747205464430",
+        "in_reply_to_user_id": "1516058815652777989",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013981297593475072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaulKochakin @LwrDHYyuxR22499 Make America Great Again!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516058815652777989",
+        "conversation_id": "2013635176920744045",
+        "created_at": "2026-01-21T14:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T15:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013981297593475072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            },
+            {
+              "end": 29,
+              "id": "1843201902550634496",
+              "start": 13,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013981297593475072",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013660942320406929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure @LwrDHYyuxR22499 这位更是城堡法护体"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 121,
+          "like_count": 15667,
+          "listed_count": 0,
+          "media_count": 423,
+          "tweet_count": 3632
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-18T14:19:37.000Z",
+        "description": "你好啊，恭喜你找到了一具尸体（很普通的摄影师，核生化防护研究中）｜C(化学)B(生物)R(放射性物质)N(核)N(麻醉物)E(爆炸物) |NATO Rd40 40mm |SCBA/PAPR/APR |摄影/NVG微光管 |LGBTQ+/MTF |整点薯条先 |Gas Mask爱好者，Military enthusias",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "militarykit.com",
+                "end": 23,
+                "expanded_url": "https://www.militarykit.com/",
+                "start": 0,
+                "url": "https://t.co/NGAYH5taxB"
+              }
+            ]
+          }
+        },
+        "id": "1516058815652777989",
+        "location": "「向日葵花開滿的地方」",
+        "name": "超级神奇白皮书书 #​9-12A",
+        "pinned_tweet_id": "1766872326799294882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861784087079587840/IS606ZqE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 1101,
+          "like_count": 38581,
+          "listed_count": 4,
+          "media_count": 1957,
+          "tweet_count": 10880
+        },
+        "url": "https://t.co/NGAYH5taxB",
+        "username": "PaulKochakin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1973200474477306270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011452921763000321/hR0Dmp8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2609,
+          "following_count": 1634,
+          "like_count": 1382,
+          "listed_count": 10,
+          "media_count": 315,
+          "tweet_count": 1937
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1977548954381459627",
+    "created_at": "2025-10-13T14:21:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T15:21:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977741366567338183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1269442820580016129",
+          "start": 0,
+          "username": "Hikari_Ciallo"
+        },
+        {
+          "end": 23,
+          "id": "1433678976564662273",
+          "start": 15,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "description": "歌曲名《浪子心声》，别名《电影《半斤八两》插曲》，由 许冠杰 演唱，收录于《钜片名曲选》专辑中，《浪子心声》下载，《浪子心声》在线试听，更多浪子心声相关歌曲推荐，尽在网易云音乐",
+          "display_url": "163cn.tv/LCsHFtL",
+          "end": 80,
+          "expanded_url": "https://163cn.tv/LCsHFtL",
+          "start": 57,
+          "status": 200,
+          "title": "浪子心声（电影《半斤八两》插曲） - 许冠杰 - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?id=171530&uct2=QCcJ%2BbmB%2B0c%2Fr%2BtSLDYaQg%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=76001&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.3.50&sc=wm&tn=",
+          "url": "https://t.co/j6jG8atDrn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977741366567338183",
+    "in_reply_to_user_id": "1269442820580016129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977688408966467971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hikari_Ciallo @hsn8086 那就得：分享许冠杰的单曲《浪子心声 (电影《半斤八两》插曲)》: https://t.co/j6jG8atDrn (来自@网易云音乐)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1977548954381459627",
+        "created_at": "2025-10-13T14:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T15:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977741366567338183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1269442820580016129",
+              "start": 0,
+              "username": "Hikari_Ciallo"
+            },
+            {
+              "end": 23,
+              "id": "1433678976564662273",
+              "start": 15,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "description": "歌曲名《浪子心声》，别名《电影《半斤八两》插曲》，由 许冠杰 演唱，收录于《钜片名曲选》专辑中，《浪子心声》下载，《浪子心声》在线试听，更多浪子心声相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/LCsHFtL",
+              "end": 80,
+              "expanded_url": "https://163cn.tv/LCsHFtL",
+              "start": 57,
+              "status": 200,
+              "title": "浪子心声（电影《半斤八两》插曲） - 许冠杰 - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=171530&uct2=QCcJ%2BbmB%2B0c%2Fr%2BtSLDYaQg%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=76001&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.3.50&sc=wm&tn=",
+              "url": "https://t.co/j6jG8atDrn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977741366567338183",
+        "in_reply_to_user_id": "1269442820580016129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977688408966467971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hikari_Ciallo @hsn8086 那就得：分享许冠杰的单曲《浪子心声 (电影《半斤八两》插曲)》: https://t.co/j6jG8atDrn (来自@网易云音乐)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1269442820580016129",
+        "conversation_id": "1977548954381459627",
+        "created_at": "2025-10-13T10:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T11:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977688408966467971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977688408966467971",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977548954381459627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 那还有20%怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 90,
+          "like_count": 3013,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 455
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-07T01:35:53.000Z",
+        "description": "这里是Hikari-QAQ 喜欢玩音游、碧蓝档案-国际服、听歌、看番、推gal｜互联网重度依赖｜社恐，不太会说话，但希望和大家交朋友，如果说错什么非常抱歉qwq｜会回fo对得上电波的人｜黄推/无推文/bio/长期锁推/粉丝极少且关注多的会b｜想要变可爱｜友跨｜欢迎贴贴｜请和我交流｜自家笨蛋 @kithiumR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 146,
+                "username": "kithiumR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hikariqaq.montaigne.io/hikari",
+                "end": 23,
+                "expanded_url": "https://hikariqaq.montaigne.io/hikari",
+                "start": 0,
+                "url": "https://t.co/YZa16a7Nl4"
+              }
+            ]
+          }
+        },
+        "id": "1269442820580016129",
+        "location": "天津市同跨科技有限公司",
+        "name": " Hikari.deb 🏳️‍⚧️ #音游小夜猫",
+        "pinned_tweet_id": "1775437822209691813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636665337042341889/sZKJv1ty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2755,
+          "following_count": 671,
+          "like_count": 274751,
+          "listed_count": 10,
+          "media_count": 2258,
+          "tweet_count": 54689
+        },
+        "url": "https://t.co/YZa16a7Nl4",
+        "username": "Hikari_Ciallo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1951960618015076751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967874771443650562/Dp0kz42r_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99689,
+          "following_count": 988,
+          "like_count": 45279,
+          "listed_count": 227,
+          "media_count": 16432,
+          "tweet_count": 24276
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1985129727770988666",
+    "created_at": "2025-11-03T07:47:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T08:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985252362857136427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1864739862697644032",
+          "start": 0,
+          "username": "2196F3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985252362857136427",
+    "in_reply_to_user_id": "1864739862697644032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985129727770988666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2196F3 折射率1.34，浊度0.12NTU，确实达到了阿戈尔级饮用水标准。如果你打算跳下去游泳，建议先完成14项免疫预处理。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12913,
+        "height": 720,
+        "media_key": "7_1985129704870010880",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1985129704870010880/pu/img/ESsbMMVpg0RyM-qC.jpg",
+        "public_metrics": {
+          "view_count": 82
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1985129704870010880/pu/vid/avc1/360x270/gwpZw2PDEZ437fvS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1985129704870010880/pu/vid/avc1/480x360/ZyDYzuEbZMLhZEdS.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1985129704870010880/pu/vid/avc1/960x720/2iXm-o6LHtObVJ-g.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1985129704870010880/pu/pl/4ss4Zvfpy4Vsa6oV.m3u8?tag=12"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1985129727770988666",
+        "created_at": "2025-11-03T07:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T08:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985252362857136427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1864739862697644032",
+              "start": 0,
+              "username": "2196F3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985252362857136427",
+        "in_reply_to_user_id": "1864739862697644032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985129727770988666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2196F3 折射率1.34，浊度0.12NTU，确实达到了阿戈尔级饮用水标准。如果你打算跳下去游泳，建议先完成14项免疫预处理。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1985129704870010880"
+          ]
+        },
+        "author_id": "1864739862697644032",
+        "conversation_id": "1985129727770988666",
+        "created_at": "2025-11-02T23:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T00:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985129727770988666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C98SHmBSQg",
+              "end": 29,
+              "expanded_url": "https://x.com/2196F3/status/1985129727770988666/video/1",
+              "media_key": "7_1985129704870010880",
+              "start": 6,
+              "url": "https://t.co/C98SHmBSQg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985129727770988666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "水味的水🐱 https://t.co/C98SHmBSQg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 103,
+          "like_count": 7031,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 1512
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-05T18:33:59.000Z",
+        "description": "本体是香香软软没有攻击性的INTP猞猁！有Candidacy，是explorer，coser和Les. 想做大家的好朋友给人们带来快乐。不太喜欢zs话题也不会主动传播负能量，刷到相关推文会点not interested. 看到做得不好的实验会整个炸掉(然后亲自上手) 。😿 私信话题：源石会诱导Casp蛋白表达上升吗？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "prts.eterea.uk/?quickacc=bull…",
+                "end": 23,
+                "expanded_url": "http://prts.eterea.uk/?quickacc=bulletin",
+                "start": 0,
+                "url": "https://t.co/fVFEeZUeRA"
+              }
+            ]
+          }
+        },
+        "id": "1864739862697644032",
+        "location": "California, USA",
+        "name": "凯尔希是猫猫",
+        "pinned_tweet_id": "1949626289104802165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952307711271735297/Kt15yKo2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 778,
+          "like_count": 4754,
+          "listed_count": 5,
+          "media_count": 498,
+          "tweet_count": 3982
+        },
+        "url": "https://t.co/fVFEeZUeRA",
+        "username": "2196F3",
+        "verified": true
+      }
+    ]
+  }
+}

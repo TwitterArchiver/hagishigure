@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1979293233864937619",
+    "created_at": "2025-10-19T01:59:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T02:59:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979729173385269555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1634559545975664640",
+          "start": 0,
+          "username": "MisterYang88137"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979729173385269555",
+    "in_reply_to_user_id": "1634559545975664640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979293233864937619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MisterYang88137 のなんのって"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1962,
+        "media_key": "3_1979293227611021312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3fctCoXYAAQ_99.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1979293233864937619",
+        "created_at": "2025-10-19T01:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T02:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979729173385269555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1634559545975664640",
+              "start": 0,
+              "username": "MisterYang88137"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979729173385269555",
+        "in_reply_to_user_id": "1634559545975664640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979293233864937619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MisterYang88137 のなんのって"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979293227611021312"
+          ]
+        },
+        "author_id": "1634559545975664640",
+        "conversation_id": "1979293233864937619",
+        "created_at": "2025-10-17T21:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T22:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979293233864937619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oc2Y0ApYZi",
+              "end": 25,
+              "expanded_url": "https://x.com/MisterYang88137/status/1979293233864937619/photo/1",
+              "media_key": "3_1979293227611021312",
+              "start": 2,
+              "url": "https://t.co/oc2Y0ApYZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979293233864937619",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 70770,
+          "like_count": 420,
+          "quote_count": 8,
+          "reply_count": 218,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "🥹 https://t.co/oc2Y0ApYZi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 94,
+          "like_count": 4244,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 748
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-11T14:19:14.000Z",
+        "description": "Tôi là Tiểu Mã, người gốc Hoa tại Nhật Bản. Yêu văn hoá Việt và đang học tiếng Việt. Tôi là nghệ sĩ, một nghệ sĩ trình diễn.",
+        "id": "1634559545975664640",
+        "location": "Nhật Bản",
+        "name": "大种马（Tiểu Mã）🆇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963211999053266945/vz7yrMeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16786,
+          "following_count": 993,
+          "like_count": 101524,
+          "listed_count": 52,
+          "media_count": 7542,
+          "tweet_count": 30977
+        },
+        "username": "MisterYang88137",
+        "verified": false
+      }
+    ]
+  }
+}

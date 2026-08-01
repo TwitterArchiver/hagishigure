@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1993261710204108954",
+    "created_at": "2025-11-25T21:52:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T22:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993437714935693825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1969030119181455360",
+          "start": 0,
+          "username": "YouXi57930"
+        },
+        {
+          "end": 24,
+          "id": "1780369819310981120",
+          "start": 12,
+          "username": "520illusion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993437714935693825",
+    "in_reply_to_user_id": "1969030119181455360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993316686066598071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YouXi57930 @520illusion 為什麼呢，這點可以閱讀《可見者与不可見者》。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1993261710204108954",
+        "created_at": "2025-11-25T21:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T22:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993437714935693825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1969030119181455360",
+              "start": 0,
+              "username": "YouXi57930"
+            },
+            {
+              "end": 24,
+              "id": "1780369819310981120",
+              "start": 12,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993437714935693825",
+        "in_reply_to_user_id": "1969030119181455360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993316686066598071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YouXi57930 @520illusion 為什麼呢，這點可以閱讀《可見者与不可見者》。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969030119181455360",
+        "conversation_id": "1993261710204108954",
+        "created_at": "2025-11-25T13:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993316686066598071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780369819310981120",
+              "start": 0,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993316686066598071",
+        "in_reply_to_user_id": "1969030119181455360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1185,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993312801088323683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520illusion 還有個問題，被數據庫登記在冊以後，感覺很膈應"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 111,
+          "like_count": 10665,
+          "listed_count": 0,
+          "media_count": 355,
+          "tweet_count": 2512
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-19T13:26:26.000Z",
+        "description": "Uneducated;Goth;Misassembled-queer;Inland refugee&survivor;non-binary-like;moody-lullaby;throttled libera;informal guardian;lonely;年上控;含糖時間過長。理性克制但活得撕心裂肺驚心動魄的動物",
+        "id": "1969030119181455360",
+        "location": "Pripyat",
+        "name": "Luduswalker🏳️‍🌈",
+        "pinned_tweet_id": "1987215877553455243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992910195044069376/XwL15cdm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 260,
+          "like_count": 4962,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 1097
+        },
+        "username": "YouXi57930",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "Binance OKX  bitget | All in crypto | 08年 | 币圈小小韭菜 | 杂鱼交易员 | 坐标南京 同类贴贴 | illusion | 抑郁向 | 坠落星空 | 梦幻主义|幻象丛生 |  蓝  | 终将成为你 | 清水 | 🚫 od 色情 花刀 政治 🚫",
+        "id": "1780369819310981120",
+        "location": "江苏省南京市南京禄口国际机场",
+        "name": "ill🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993403526383648774/FvyQegqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1908,
+          "following_count": 229,
+          "like_count": 3146,
+          "listed_count": 5,
+          "media_count": 203,
+          "tweet_count": 1878
+        },
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

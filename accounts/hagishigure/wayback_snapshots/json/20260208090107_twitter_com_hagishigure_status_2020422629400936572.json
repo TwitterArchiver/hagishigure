@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2020422629400936572",
+    "created_at": "2026-02-08T09:01:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T10:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020422629400936572"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YamabukiOrca/s…",
+          "end": 163,
+          "expanded_url": "https://twitter.com/YamabukiOrca/status/2020274671720227086",
+          "start": 140,
+          "url": "https://t.co/N6W3wQcwxD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020422629400936572",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020274671720227086",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "厳密な科学はわかりませんが、科学の三要素の一つにトレーサビリティがありますが、なぜ異常値があるのですか？もし異常値が遡及され、再現できれば、それは正しいデータであり、統計学を科学としないでください。データがどんなにおかしいとしても、再現できればトポロジー的な意味を持っています。 https://t.co/N6W3wQcwxD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020274665302994944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAl1Gq4bMAArBOy.jpg",
+        "width": 1650
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2020422629400936572",
+        "created_at": "2026-02-08T09:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T10:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020422629400936572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YamabukiOrca/s…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/YamabukiOrca/status/2020274671720227086",
+              "start": 140,
+              "url": "https://t.co/N6W3wQcwxD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020422629400936572",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020274671720227086",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "厳密な科学はわかりませんが、科学の三要素の一つにトレーサビリティがありますが、なぜ異常値があるのですか？もし異常値が遡及され、再現できれば、それは正しいデータであり、統計学を科学としないでください。データがどんなにおかしいとしても、再現できればトポロジー的な意味を持っています。 https://t.co/N6W3wQcwxD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020274665302994944"
+          ]
+        },
+        "author_id": "4753361593",
+        "conversation_id": "2020274671720227086",
+        "created_at": "2026-02-07T23:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T00:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020274671720227086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8roVgc5QHe",
+              "end": 23,
+              "expanded_url": "https://x.com/YamabukiOrca/status/2020274671720227086/photo/1",
+              "media_key": "3_2020274665302994944",
+              "start": 0,
+              "url": "https://t.co/8roVgc5QHe"
+            },
+            {
+              "display_url": "x.com/sleepy_devo/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/sleepy_devo/status/2020198504157827081",
+              "start": 24,
+              "url": "https://t.co/4kvs2TvZbI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020274671720227086",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1500,
+          "impression_count": 2045637,
+          "like_count": 32498,
+          "quote_count": 175,
+          "reply_count": 111,
+          "retweet_count": 4437
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020198504157827081",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/8roVgc5QHe https://t.co/4kvs2TvZbI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 128,
+          "like_count": 18728,
+          "listed_count": 0,
+          "media_count": 536,
+          "tweet_count": 4412
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T13:32:06.000Z",
+        "description": "バーチャルオタク医師の山吹オルカです。｜いわゆる町のお医者さん｜整形外科と内科の観点から、時々YouTubeで医学解説配信しています｜FAタグ：#オルカのレントゲン｜宝鐘海賊団船医｜我那覇響担当P｜好きなもの→スプラ・MTG・爬虫類・植物｜真面目な医療ツイートと限界キモオタツイートが混在していますのでご注意ください。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 72,
+                "tag": "オルカのレントゲン"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/shorts/e8HN7Yt…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/shorts/e8HN7YtI1po",
+                "start": 0,
+                "url": "https://t.co/9Y88z5k6Y1"
+              }
+            ]
+          }
+        },
+        "id": "4753361593",
+        "location": "第二診察室",
+        "name": "山吹オルカ🅨オタク医師時々VTuber",
+        "pinned_tweet_id": "2017380253904343082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775673506543632384/wKYfoh3i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18824,
+          "following_count": 5364,
+          "like_count": 391496,
+          "listed_count": 414,
+          "media_count": 5160,
+          "tweet_count": 184799
+        },
+        "url": "https://t.co/9Y88z5k6Y1",
+        "username": "YamabukiOrca",
+        "verified": true
+      }
+    ]
+  }
+}

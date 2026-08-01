@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Author\n",
+          "id": "808408440301232128",
+          "name": "JK Rowling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Author\n",
+          "id": "808408440301232128",
+          "name": "JK Rowling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166408461485101056",
+          "name": "Authors"
+        }
+      }
+    ],
+    "conversation_id": "2019306559021731975",
+    "created_at": "2026-02-05T07:06:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T08:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019306559021731975"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 84,
+          "normalized_text": "JK Rowling",
+          "probability": 0.9277,
+          "start": 75,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1343637013",
+          "start": 3,
+          "username": "sfollett7"
+        },
+        {
+          "end": 28,
+          "id": "1206162596669181953",
+          "start": 15,
+          "username": "StrewthQueen"
+        },
+        {
+          "end": 45,
+          "id": "845743333",
+          "start": 29,
+          "username": "JoyceCarolOates"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019306559021731975",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018396480885956905",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sfollett7: @StrewthQueen @JoyceCarolOates Nobody hates women more than JK Rowling."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "2019306559021731975",
+        "created_at": "2026-02-05T07:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T08:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019306559021731975"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 84,
+              "normalized_text": "JK Rowling",
+              "probability": 0.9277,
+              "start": 75,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1343637013",
+              "start": 3,
+              "username": "sfollett7"
+            },
+            {
+              "end": 28,
+              "id": "1206162596669181953",
+              "start": 15,
+              "username": "StrewthQueen"
+            },
+            {
+              "end": 45,
+              "id": "845743333",
+              "start": 29,
+              "username": "JoyceCarolOates"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019306559021731975",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018396480885956905",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sfollett7: @StrewthQueen @JoyceCarolOates Nobody hates women more than JK Rowling."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1343637013",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "2018108637416468902",
+        "created_at": "2026-02-02T18:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T19:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018396480885956905"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 69,
+              "normalized_text": "JK Rowling",
+              "probability": 0.9357,
+              "start": 60,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1206162596669181953",
+              "start": 0,
+              "username": "StrewthQueen"
+            },
+            {
+              "end": 30,
+              "id": "845743333",
+              "start": 14,
+              "username": "JoyceCarolOates"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018396480885956905",
+        "in_reply_to_user_id": "1206162596669181953",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 329066,
+          "like_count": 3119,
+          "quote_count": 6,
+          "reply_count": 114,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018108637416468902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StrewthQueen @JoyceCarolOates Nobody hates women more than JK Rowling."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 128,
+          "like_count": 18174,
+          "listed_count": 0,
+          "media_count": 501,
+          "tweet_count": 4248
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-11T05:52:19.000Z",
+        "description": "🗽 🌊🌊🌊🌊 🇺🇸 🇸🇪 Pain in the ass. Grateful Meemaw. 420 friendly. Dyed in the wool Dem. Fuck MAGA",
+        "id": "1343637013",
+        "location": "USA",
+        "name": "Susanne Follett",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846707242915004416/wbfbv-Di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 945,
+          "like_count": 31537,
+          "listed_count": 3,
+          "media_count": 377,
+          "tweet_count": 13207
+        },
+        "username": "sfollett7",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-15T10:42:35.000Z",
+        "description": "she/they 💕 piss-elegant bogan queen, singer, ventriloquist & organiser, producer of DRAG AID the fundraiser 💕 as seen on Snopes 💕",
+        "id": "1206162596669181953",
+        "location": "stolen Wurundjeri land",
+        "name": "Strewth! 🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1996122391932797152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009519928492347392/f30aSX-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12178,
+          "following_count": 4947,
+          "like_count": 371455,
+          "listed_count": 51,
+          "media_count": 6604,
+          "tweet_count": 89745
+        },
+        "username": "StrewthQueen",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-25T15:36:17.000Z",
+        "description": "Author (https://t.co/K4rCiX57wo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "joycecaroloates.substack.com",
+                "end": 31,
+                "expanded_url": "https://joycecaroloates.substack.com",
+                "start": 8,
+                "url": "https://t.co/K4rCiX57wo"
+              }
+            ]
+          }
+        },
+        "id": "845743333",
+        "name": "Joyce Carol Oates",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2683616680/ca8aa195d2ccc38da6800678a9d2ae8a_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273315,
+          "following_count": 748,
+          "like_count": 266,
+          "listed_count": 2940,
+          "media_count": 11497,
+          "tweet_count": 186452
+        },
+        "username": "JoyceCarolOates",
+        "verified": true
+      }
+    ]
+  }
+}

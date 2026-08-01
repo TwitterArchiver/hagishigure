@@ -1,0 +1,612 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1435403922835841029",
+          "name": "Ghost in the Shell"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1435403922835841029",
+          "name": "Ghost in the Shell"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2016295180002066849",
+    "created_at": "2026-01-27T23:40:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T00:40:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016295180002066849"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Tz_2022/status…",
+          "end": 150,
+          "expanded_url": "https://twitter.com/Tz_2022/status/2015887355568156720",
+          "start": 127,
+          "url": "https://t.co/jBqMS4myDq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016295180002066849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015887355568156720",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "知道是暴论就别发，发了就是让我骂你：弱智。\n底层架构是不懂的，热度是要蹭的，脑子昨天是AIGC今天是AGI的。github一看比地铁的马赛克上色都少的，代码全是ai注释的，优化是没有的，乱序是不会的，连几个世纪前的基于分析机的循环概念都是没搞懂架构的。 https://t.co/jBqMS4myDq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1714,
+        "media_key": "3_2015875710196297728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_nURyGWsAAkVCh.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1435403922835841029",
+              "name": "Ghost in the Shell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1435403922835841029",
+              "name": "Ghost in the Shell"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2016295180002066849",
+        "created_at": "2026-01-27T23:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T00:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016295180002066849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Tz_2022/status…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/Tz_2022/status/2015887355568156720",
+              "start": 127,
+              "url": "https://t.co/jBqMS4myDq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016295180002066849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015887355568156720",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "知道是暴论就别发，发了就是让我骂你：弱智。\n底层架构是不懂的，热度是要蹭的，脑子昨天是AIGC今天是AGI的。github一看比地铁的马赛克上色都少的，代码全是ai注释的，优化是没有的，乱序是不会的，连几个世纪前的基于分析机的循环概念都是没搞懂架构的。 https://t.co/jBqMS4myDq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015875710196297728"
+          ]
+        },
+        "author_id": "100399047",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1435403922835841029",
+              "name": "Ghost in the Shell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1435403922835841029",
+              "name": "Ghost in the Shell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2015887355568156720",
+        "created_at": "2026-01-26T20:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T21:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015887355568156720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NEgNvIfSIf",
+              "end": 170,
+              "expanded_url": "https://x.com/Tz_2022/status/2015887355568156720/photo/1",
+              "media_key": "3_2015875710196297728",
+              "start": 147,
+              "url": "https://t.co/NEgNvIfSIf"
+            },
+            {
+              "display_url": "x.com/dotey/status/2…",
+              "end": 194,
+              "expanded_url": "https://twitter.com/dotey/status/2015335057741996521",
+              "start": 171,
+              "url": "https://t.co/HEB6Y0gDL7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015887355568156720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我要暴论了。。。\n\n我不是针对你，而是说在座的诸位，都大大低估了 clawdbot 的现实意义：\n\n这是人类历史上第一次，把一个非人的灵魂装进一个壳子\nGhost in the Shell\n\nclawdbot \n- 将是通向 AGI 的一条可能通路\n- 也是杀鸡用的那把牛刀\n- 还是在 AI 超音速海啸上漂浮的一艘小船，巨浪有多高，它就能浮起多高，同时也带着它的掌舵人走向浪潮之巅\n\n这里的 clawdbot 不仅是指现在的 clawdbot 这个形式，也在说它所代表的 AI 与这个世界交互的方式，以及它未来的各种变异体。\n\n还是拿 Logo 积木来做解析：\n\n第一层 散落的积木 —— 人类知识经验之海 (The Sea of Knowledge)\n\nAI 的预训练数据就来源于此，它包含了互联网上的文本、代码、物理世界的常识、人类的历史经验。\n\n第二层 分类堆放 —— 专业领域分类 (Domain Classification)\n\n我们将知识分门别类：医学知识、Python 编程知识、法律条文、机械控制原理等。此时，系统开始有了“学科”的概念，但还只是静态的知识库。\n\n第三层 堆叠整齐 —— 原子技能（Atomic Skills）\n\n原子技能是 AI 从 Know-what 到 Know-how 的关键转变，它不再单纯的拥有知识，而是一种能力。\n\n第四层 形成功能模块 —— 对 Skills 调用的封装\n\n从技能变成了模块，意味着封装完成，可以即插即用（Plug & Play）。AI 拥有了使用某一项或某几项技能 Skills 来达成某个任务目标的能力。\n\n第五层最终形态 —— 随需而变的多态智能体 (Polymorphic Agents)\n\nclawdbot 不再是一个单一用途的机器，而是一个“超级底座”。它能根据任务场景的不同，动态调用第4阶段封装好的功能模块，瞬间“变身”，成为高达，成为战车，成为房屋，成为火箭，成为游乐场。\n\n最重要的是，这个灵魂终于了一套能够干涉物理/数字世界的躯壳。\n\nGhost in the Shell"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 187,
+          "impression_count": 42121,
+          "like_count": 209,
+          "quote_count": 5,
+          "reply_count": 23,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015335057741996521",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要暴论了。。。\n\n我不是针对你，而是说在座的诸位，都大大低估了 clawdbot 的现实意义：\n\n这是人类历史上第一次，把一个非人的灵魂装进一个壳子\nGhost in the Shell\n\nclawdbot \n- 将是通向 AGI 的一条可能通路\n- 也是杀鸡用的那把牛刀\n- 还是在 AI https://t.co/NEgNvIfSIf https://t.co/HEB6Y0gDL7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 126,
+          "like_count": 16695,
+          "listed_count": 0,
+          "media_count": 454,
+          "tweet_count": 3927
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-30T04:06:23.000Z",
+        "description": "AI is the steam engine of the mind. AI是心灵的蒸汽机。\n科幻是现实的有效坍塌。加速正在被加速。\n看，那千尺海啸正扑面而来，而我们还在海滩上捡垃圾。\n念念不忘，必有回响。",
+        "id": "100399047",
+        "location": "Edinburgh, UK",
+        "name": "Tz",
+        "pinned_tweet_id": "1989145573434474625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579478276287905794/7-2NGiY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14724,
+          "following_count": 1467,
+          "like_count": 9796,
+          "listed_count": 200,
+          "media_count": 1321,
+          "tweet_count": 6761
+        },
+        "username": "Tz_2022",
+        "verified": true
+      }
+    ]
+  }
+}

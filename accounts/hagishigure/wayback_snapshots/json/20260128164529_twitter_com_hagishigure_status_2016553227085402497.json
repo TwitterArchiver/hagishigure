@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2016455030921220149",
+    "created_at": "2026-01-28T16:45:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T17:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016553227085402497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1763381254035251200",
+          "start": 0,
+          "username": "yowamushi120720"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016553227085402497",
+    "in_reply_to_user_id": "1763381254035251200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016455030921220149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yowamushi120720 我看未必，也可能类似n55。🥴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016455018036199424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vjJ7-aAAAcKO8.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016455018027859968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vjJ78awAAa4-0.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016455018027831297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vjJ78aUAEHCRW.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016455018027900928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vjJ78bYAA248b.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2016455030921220149",
+        "created_at": "2026-01-28T16:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T17:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016553227085402497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1763381254035251200",
+              "start": 0,
+              "username": "yowamushi120720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016553227085402497",
+        "in_reply_to_user_id": "1763381254035251200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016455030921220149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yowamushi120720 我看未必，也可能类似n55。🥴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016455018036199424",
+            "3_2016455018027859968",
+            "3_2016455018027831297",
+            "3_2016455018027900928"
+          ]
+        },
+        "author_id": "1763381254035251200",
+        "conversation_id": "2016455030921220149",
+        "created_at": "2026-01-28T10:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T11:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016455030921220149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WYbl8p0m1d",
+              "end": 33,
+              "expanded_url": "https://x.com/yowamushi120720/status/2016455030921220149/photo/1",
+              "media_key": "3_2016455018036199424",
+              "start": 10,
+              "url": "https://t.co/WYbl8p0m1d"
+            },
+            {
+              "display_url": "pic.x.com/WYbl8p0m1d",
+              "end": 33,
+              "expanded_url": "https://x.com/yowamushi120720/status/2016455030921220149/photo/1",
+              "media_key": "3_2016455018027859968",
+              "start": 10,
+              "url": "https://t.co/WYbl8p0m1d"
+            },
+            {
+              "display_url": "pic.x.com/WYbl8p0m1d",
+              "end": 33,
+              "expanded_url": "https://x.com/yowamushi120720/status/2016455030921220149/photo/1",
+              "media_key": "3_2016455018027831297",
+              "start": 10,
+              "url": "https://t.co/WYbl8p0m1d"
+            },
+            {
+              "display_url": "pic.x.com/WYbl8p0m1d",
+              "end": 33,
+              "expanded_url": "https://x.com/yowamushi120720/status/2016455030921220149/photo/1",
+              "media_key": "3_2016455018027900928",
+              "start": 10,
+              "url": "https://t.co/WYbl8p0m1d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016455030921220149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7854,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有无毒贩来现身说法 https://t.co/WYbl8p0m1d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 127,
+          "like_count": 16801,
+          "listed_count": 0,
+          "media_count": 453,
+          "tweet_count": 3952
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T01:50:39.000Z",
+        "description": "若要通行，必须通过创口｜奋斗百年，我是禁毒宣传大使🤓️ ｜社交问题见谅，如无意冒犯请多多包容不用当真 enby 恐惧型依恋请关照｜不负弱虫之名！*无心之过淹没了你",
+        "id": "1763381254035251200",
+        "location": "掌声存在之地",
+        "name": "弱虫モンブラン",
+        "pinned_tweet_id": "2007974697464647846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004604089381072896/T83RMACH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 589,
+          "like_count": 42020,
+          "listed_count": 2,
+          "media_count": 164,
+          "tweet_count": 3952
+        },
+        "username": "yowamushi120720",
+        "verified": false
+      }
+    ]
+  }
+}

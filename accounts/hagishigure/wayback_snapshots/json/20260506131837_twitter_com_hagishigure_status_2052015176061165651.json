@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2051982943589957742",
+    "created_at": "2026-05-06T13:18:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T14:18:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052015176061165651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2018976131849039872",
+          "start": 0,
+          "username": "sheriyuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052015176061165651",
+    "in_reply_to_user_id": "2018976131849039872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051982943589957742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sheriyuo 不投IEEE S&amp;P、USENIX Security、CCS、NDSS不是很认可。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2051982943589957742",
+        "created_at": "2026-05-06T13:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052015176061165651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2018976131849039872",
+              "start": 0,
+              "username": "sheriyuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052015176061165651",
+        "in_reply_to_user_id": "2018976131849039872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051982943589957742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sheriyuo 不投IEEE S&amp;P、USENIX Security、CCS、NDSS不是很认可。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018976131849039872",
+        "conversation_id": "2051982943589957742",
+        "created_at": "2026-05-06T11:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:08:43.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051982488445354417",
+          "2051982943589957742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MisakaMou/stat…",
+              "end": 228,
+              "expanded_url": "https://twitter.com/MisakaMou/status/2051669092227338692",
+              "start": 205,
+              "url": "https://t.co/4WYSThS5Hj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051982943589957742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "AI/ML ccf-a 批发 “焚决”：\n1. 进一个有 paper pipeline 的大组 / 跟一个 idea 多到要批发的 young AP 读他的前一两届学生\n2. 记住 idea 一定要优先占坑，能早 arxiv 就早 arxiv\n3. 你的目标是三小会（AAAI、ACL、MM），你的转投区间应该是 ACL -> EMNLP/MM -> AAAI -> ACL，注意 rebt 稍有不好就直接转投，这样你极限一年可以 rebt 四次，A 门是你永远的家\n4. 凭借关系去蹭卡，做的方向要么新、要么别卷，不要做 CV，多找师兄师姐蹭共一第二/三\n5. 脸皮一定要厚，要懂得炒作\n6. 如果以上你在某一步断掉了，你可以去投 CHI\n根据个人体质不同和资源不同，你能在 3 个月内水一篇烂大街的 ccfa 为合格条件\n\n“焚决”纯代表个人意见，仅供参考"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 6364,
+          "like_count": 71,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051669092227338692",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "AI/ML ccf-a 批发 “焚决”：\n1. 进一个有 paper pipeline 的大组 / 跟一个 idea 多到要批发的 young AP 读他的前一两届学生\n2. 记住 idea 一定要优先占坑，能早 arxiv 就早 arxiv\n3. 你的目标是三小会（AAAI、ACL、MM），你的转投区间应该是 ACL -&gt; EMNLP/MM -&gt; AAAI -&gt; ACL，注意 rebt https://t.co/4WYSThS5Hj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 149,
+          "like_count": 28354,
+          "listed_count": 2,
+          "media_count": 758,
+          "tweet_count": 6742
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-04T09:13:26.000Z",
+        "description": "Incoming PhD @RUC1937 | RL & Optimization | Intern @JD_Corporate | Friend @dviolettchan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "RUC1937"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "JD_Corporate"
+              },
+              {
+                "end": 87,
+                "start": 74,
+                "username": "dviolettchan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sheriyuo.github.io",
+                "end": 23,
+                "expanded_url": "http://sheriyuo.github.io",
+                "start": 0,
+                "url": "https://t.co/7yHglOnlhA"
+              }
+            ]
+          }
+        },
+        "id": "2018976131849039872",
+        "location": "Beijing, China",
+        "name": "Xiuyu Li",
+        "pinned_tweet_id": "2042072816712085577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018976441795502081/bpw974ir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4733,
+          "following_count": 933,
+          "like_count": 5949,
+          "listed_count": 39,
+          "media_count": 97,
+          "tweet_count": 1137
+        },
+        "url": "https://t.co/7yHglOnlhA",
+        "username": "sheriyuo",
+        "verified": true
+      }
+    ]
+  }
+}

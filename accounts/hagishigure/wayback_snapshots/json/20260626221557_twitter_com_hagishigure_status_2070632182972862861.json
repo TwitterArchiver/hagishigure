@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2070100786848428396",
+    "created_at": "2026-06-26T22:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T23:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070632182972862861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1724630965551865856",
+          "start": 0,
+          "username": "mizu_bai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070632182972862861",
+    "in_reply_to_user_id": "1724630965551865856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070100786848428396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizu_bai 你是mizu-bai？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2070100786848428396",
+        "created_at": "2026-06-26T22:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T23:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070632182972862861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1724630965551865856",
+              "start": 0,
+              "username": "mizu_bai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070632182972862861",
+        "in_reply_to_user_id": "1724630965551865856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070100786848428396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizu_bai 你是mizu-bai？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724630965551865856",
+        "conversation_id": "2070100786848428396",
+        "created_at": "2026-06-25T11:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070100786848428396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070100786848428396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 14721,
+          "like_count": 90,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么今天公司开会， 有个人看到了我终端，来了一句，你是 mizu-bai？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 153,
+          "like_count": 30719,
+          "listed_count": 3,
+          "media_count": 793,
+          "tweet_count": 7342
+        },
+        "url": "",
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-15T03:30:55.000Z",
+        "description": "Theoretical Chemistry Ph. D. Student/AI for Science",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/mizu-bai",
+                "end": 23,
+                "expanded_url": "https://github.com/mizu-bai",
+                "start": 0,
+                "url": "https://t.co/N7irDlk8Gg"
+              }
+            ]
+          }
+        },
+        "id": "1724630965551865856",
+        "name": "mizu-bai",
+        "pinned_tweet_id": "2006359072699019432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009525486503043073/_-DBU265_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 795,
+          "following_count": 828,
+          "like_count": 9317,
+          "listed_count": 2,
+          "media_count": 226,
+          "tweet_count": 4239
+        },
+        "url": "https://t.co/N7irDlk8Gg",
+        "username": "mizu_bai",
+        "verified": false
+      }
+    ]
+  }
+}

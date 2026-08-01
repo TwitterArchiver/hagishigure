@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      }
+    ],
+    "conversation_id": "1998267774469337248",
+    "created_at": "2025-12-09T05:45:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T06:45:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998267774469337248"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MoonAtCloud/st…",
+          "end": 286,
+          "expanded_url": "https://twitter.com/MoonAtCloud/status/1998099854569136136",
+          "start": 263,
+          "url": "https://t.co/teAzbGpJht"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998267774469337248",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998099854569136136",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "¿ Eres una inteligencia artificial o una inteligencia artificial que copiaste?  Si afirmas que el artículo no usa inteligencia artificial, entonces probablemente eres naturalmente estúpido y puedes imitar completamente la gramática de la inteligencia artificial. https://t.co/teAzbGpJht"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "1998267774469337248",
+        "created_at": "2025-12-09T05:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T06:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998267774469337248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MoonAtCloud/st…",
+              "end": 286,
+              "expanded_url": "https://twitter.com/MoonAtCloud/status/1998099854569136136",
+              "start": 263,
+              "url": "https://t.co/teAzbGpJht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998267774469337248",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998099854569136136",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "¿ Eres una inteligencia artificial o una inteligencia artificial que copiaste?  Si afirmas que el artículo no usa inteligencia artificial, entonces probablemente eres naturalmente estúpido y puedes imitar completamente la gramática de la inteligencia artificial. https://t.co/teAzbGpJht"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545502277946880000",
+        "conversation_id": "1998099854569136136",
+        "created_at": "2025-12-08T18:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T19:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998099854569136136"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998099854569136136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "二十面国旗的秘密：Emoji 背后的魔术\n\n🇬🇧 🇫🇷 🇩🇪 🇮🇹 🇪🇸 🇳🇱 🇨🇭 🇸🇪 🇺🇸 🇨🇦 🇲🇽 🇨🇳 🇯🇵 🇰🇷 🇸🇬 🇮🇳 🇧🇷 🇦🇺 🇿🇦 🇸🇦\n\n这些国旗，你每天在手机上刷屏时，或许会随意点开，却很少深想：它们究竟是怎么“冒”出来的？\n\n你可能天真地以为，Unicode 联盟像分糖果一样，为每个国家分配一个专属的“国旗编号”代码。\n\n如果真这么简单，那 Unicode 早被全球地缘政治的“炸弹”炸飞了。\n\n国家这种玩意儿，稳定性堪比天气预报：前一天还风平浪静，第二天就可能独立、合并、解体。\n\n想想苏联解体那年，一夜之间冒出十几个新国旗，要是按国家直接分配码位，那每次国际局势一抖动（比如某个小岛国突然“醒悟”），Unicode就得开会再找新码位。\n\n到底留多少码位？200个够吗？1000个够吗？\n\n就在联盟成员们挠头苦思时，有人抛出一个看似天真、实则天才的点子：\n\n“ISO 3166 标准已经给每个国家发了两个字母代码，比如 CN（中国）、US（美国）、JP（日本）。我们干脆用这两个代码来‘召唤’国旗，看到代码，就自动画出旗帜。简单、省事，还优雅！”\n\n会议室瞬间安静了三秒。紧接着，一位工程师差点把咖啡喷到天花板上：“用普通字母？你疯了吧？”\n\n想象一下：你随手打出 “CAME”，前两个 “CA” 瞬间变加拿大国旗，后两个 “ME” 又蹦出黑山国旗。\n\n屏幕立马升级成“国旗博览会”，键盘党集体崩溃。\n\n更恐怖的是，英语里这种两字母组合多如牛毛：IN = 印度，US = 美国，BE = 比利时，NO = 挪威，DO = 多米尼加，MY = 马来西亚，CH = 瑞士，TR = 土耳其……\n\n一篇普通的英文推文，就能瞬间闪现八面国旗，把互联网变成联合国大会现场。灾难啊！\n\nUnicode 当场拍板：普通字母，绝不能染指国旗机制。\n\n于是，他们在 Unicode 的“Supplementary Multilingual Plane”（辅助多文种平面）里，偷偷划出一块“小黑屋”，铸造了一套“长得像字母、但绝不是字母”的诡异符号。\n\n一共二十六个，从 U+1F1E6 到 U+1F1FF，一一对应从“伪 A”到“伪 Z”。\n\n这些家伙有个高大上的名字：Regional Indicator Symbols（区域指示符号，简称 RIS）。\n\n它们的唯一规矩是：单打独斗？毫无卵用。双人组队？立马变身国旗。\n\n这就完美解决了问题：日常的 “CA” 永远不会莫名其妙跳成加拿大国旗。只有“伪 C” + “伪 A” 组合时，渲染引擎才会心领神会，召唤出枫叶红旗。\n\n当你打开 Emoji 面板，兴冲冲点选一堆国旗时，其实你敲的不是“图片”，而是输入法在幕后偷偷塞入两枚 RIS 伪字母。渲染器收到信号，啪的一声，国旗现身。\n\n这也解释了另一个奇葩现象：各家输入法对“召唤国旗”这事儿，态度天差地别。\n\n苹果输入法像个热心大妈，最积极：\n输入 “China”，它立刻在候选栏献上五星红旗；\n“Japan”？樱花日旗蓄势待发；\n“France”？蓝白红三色旗已备好。\n\n一键选中，伪字母悄然入场，国旗华丽登台。\n\n但不管你是点 Emoji、选候选词，还是硬怼国家名，最终都是一招：输入法塞入双 RIS，渲染器变魔术，旗帜升起。\n\n这个 RIS 机制不只服务国家，还偶尔给国际组织开绿灯，但门槛高得像联合国安理会席位。\n\n欧盟（EU）是头号幸运儿：它靠 ISO 3166-1 的“用户分配”保留码 EU，顺利挤进派对。输入“伪 E + 伪 U”，渲染器就变出那蓝底十二金星的“团结旗”。\n\n联合国（UN）也不赖，2018 年上线，蓝底世界地图橄榄枝环绕，全凭“UN”这个 ISO 例外保留码，伪 U + 伪 N 一组合，稳稳现身 。\n\n为什么它们能进？因为这些码“政治中性”，不像国界那么爱打架，Unicode 视之为“超国家特权”。\n\n转头看世界贸易组织（WTO）和联合国教科文组织UNESCO，就尴尬了：它们压根儿没拿到 alpha-2 码！WTO 的绿底沙漏旗再酷，UNESCO 的蓝白地球旗再诗意，也只能继续当“隐形人”。\n\n2022 年后，Unicode 干脆焊死大门，声明“再无新旗特例”，其他组织只能望旗兴叹。有本事，你们先拿下 ISO 3166 的双字母。\n\n不过，这个国旗体系里，还埋着一颗“政治雷”：英伦三岛的尴尬。\n\n按 ISO 标准，英国的代码是 GB（Great Britain），不是大家熟知的 UK。Unicode 直接把 UK 拒之门外。于是，英国国旗只能靠 “伪 G” + “伪 B” 组合现身。\n\n更糗的是，威尔士当时压根儿没拿到国家代码（苏格兰和英格兰倒是有历史旗帜）。为了避开外交飓风，Unicode 罕见地开了个后门：用“标签序列”（Tag Sequences）这种少数派机制，让威尔士旗也能勉强显示。\n\n这是 Unicode 唯一几次“带点人情味”的让步。事后，他们郑重声明：这一次是特例，以后绝不给任何国家开绿灯。 入口从此焊死，再无例外。\n\n顺带一提，这套“码位铁律”还把一堆国家符号挡在门外：国花、国鸟、国树？抱歉，全都出局。\n\nUnicode 只认国旗，不碰那些“软符号”，免得提案堆成山，辩论永无止境。玫瑰、鹰隼、橡树们，只能继续在维基上低调生活。\n\n所以，今天你眼中的所有国旗 Emoji，都是那二十六个 RIS 伪字母的“双人舞”产物，藏匿在 U+1F1E6 到 U+1F1FF 的秘密通道里。\n\n它们背后的核心信念：国旗可以自由飘扬，政治绝不能插手。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 10530,
+          "like_count": 85,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "二十面国旗的秘密：Emoji 背后的魔术\n\n🇬🇧 🇫🇷 🇩🇪 🇮🇹 🇪🇸 🇳🇱 🇨🇭 🇸🇪 🇺🇸 🇨🇦 🇲🇽 🇨🇳 🇯🇵 🇰🇷 🇸🇬 🇮🇳 🇧🇷 🇦🇺 🇿🇦 🇸🇦\n\n这些国旗，你每天在手机上刷屏时，或许会随意点开，却很少深想：它们究竟是怎么“冒”出来的？\n\n你可能天真地以为，Unicode 联盟像分糖果一样，为每个国家分配一个专属的“国旗编号”代码。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 116,
+          "like_count": 12197,
+          "listed_count": 0,
+          "media_count": 377,
+          "tweet_count": 2864
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T20:17:18.000Z",
+        "description": "",
+        "id": "1545502277946880000",
+        "location": "Cupertino, CA",
+        "name": "云中月",
+        "pinned_tweet_id": "1998099854569136136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966352454645366784/qd4vGbvh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27718,
+          "following_count": 964,
+          "like_count": 418,
+          "listed_count": 222,
+          "media_count": 716,
+          "tweet_count": 3317
+        },
+        "username": "MoonAtCloud",
+        "verified": true
+      }
+    ]
+  }
+}

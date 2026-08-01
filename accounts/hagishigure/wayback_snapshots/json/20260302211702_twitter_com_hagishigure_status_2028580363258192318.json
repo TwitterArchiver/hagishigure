@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028434421825818624"
+      ],
+      "media_source_tweet_id": [
+        "2028434427697910011"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "2028580363258192318",
+    "created_at": "2026-03-02T21:17:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T22:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028580363258192318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1942218631267639296",
+          "start": 3,
+          "username": "Shiho_MtF_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9h74BSyFpX",
+          "end": 52,
+          "expanded_url": "https://x.com/Shiho_MtF_/status/2028434427697910011/photo/1",
+          "media_key": "3_2028434421825818624",
+          "start": 29,
+          "url": "https://t.co/9h74BSyFpX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028580363258192318",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028434427697910011",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shiho_MtF_: 世界で1番嫌いな欄です。 https://t.co/9h74BSyFpX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1394,
+        "media_key": "3_2028434421825818624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCZyXAsaUAAsz_H.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028434421825818624"
+          ],
+          "media_source_tweet_id": [
+            "2028434427697910011"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "2028580363258192318",
+        "created_at": "2026-03-02T21:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T22:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028580363258192318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1942218631267639296",
+              "start": 3,
+              "username": "Shiho_MtF_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9h74BSyFpX",
+              "end": 52,
+              "expanded_url": "https://x.com/Shiho_MtF_/status/2028434427697910011/photo/1",
+              "media_key": "3_2028434421825818624",
+              "start": 29,
+              "url": "https://t.co/9h74BSyFpX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028580363258192318",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028434427697910011",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shiho_MtF_: 世界で1番嫌いな欄です。 https://t.co/9h74BSyFpX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028434421825818624"
+          ]
+        },
+        "author_id": "1942218631267639296",
+        "conversation_id": "2028434427697910011",
+        "created_at": "2026-03-02T11:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T12:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028434427697910011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9h74BSyFpX",
+              "end": 36,
+              "expanded_url": "https://x.com/Shiho_MtF_/status/2028434427697910011/photo/1",
+              "media_key": "3_2028434421825818624",
+              "start": 13,
+              "url": "https://t.co/9h74BSyFpX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028434427697910011",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 14821,
+          "like_count": 348,
+          "quote_count": 15,
+          "reply_count": 12,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "世界で1番嫌いな欄です。 https://t.co/9h74BSyFpX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 140,
+          "like_count": 23235,
+          "listed_count": 2,
+          "media_count": 653,
+          "tweet_count": 5688
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-07T13:46:30.000Z",
+        "description": "￤中3(10)￤レズ&パンセク￤MtF￤ピアニスト￤作曲家・作詞家￤サブ垢@Shiho_MtF_Sub￤音楽活動垢🎧@Shiho_music_ ￤ 私の詳細は《さらに表示》をタップ！￤何かあったら相談いつでもお待ちしております￤救急？迷ったら#7119へ！￤相談受付中！￤💍@naqu_0￤🔗必見！￤ミセス好き￤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 37,
+                "username": "Shiho_MtF_Sub"
+              },
+              {
+                "end": 71,
+                "start": 58,
+                "username": "Shiho_music_"
+              },
+              {
+                "end": 144,
+                "start": 137,
+                "username": "naqu_0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/shiho_MtF_",
+                "end": 23,
+                "expanded_url": "https://lit.link/shiho_MtF_",
+                "start": 0,
+                "url": "https://t.co/U9gdg63t5H"
+              }
+            ]
+          }
+        },
+        "id": "1942218631267639296",
+        "location": "東京🗼￤パキ中‼️￤看護師目指してるよ🩺￤",
+        "name": "しほ໒꒱꒰ ྀི ∩⸝⸝∩ ꒱ෆ˚*",
+        "pinned_tweet_id": "2026247675407196311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017941653869502464/PYtMjCCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 349,
+          "like_count": 10030,
+          "listed_count": 5,
+          "media_count": 59,
+          "tweet_count": 1847
+        },
+        "url": "https://t.co/U9gdg63t5H",
+        "username": "Shiho_MtF_",
+        "verified": true
+      }
+    ]
+  }
+}

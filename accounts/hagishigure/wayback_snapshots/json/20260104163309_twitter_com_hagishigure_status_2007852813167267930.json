@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2007852154212798817",
+    "created_at": "2026-01-04T16:33:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T17:33:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007852813167267930"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2007852813167267930",
+    "in_reply_to_user_id": "1965393379224944645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007852154212798817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "整個推特可能祇有我習慣把subaltern寫成subaltren。但我覺得這很有我的風格，於是我從未糾正過。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2007852154212798817",
+        "created_at": "2026-01-04T16:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T17:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007852813167267930"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007852813167267930",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007852154212798817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "整個推特可能祇有我習慣把subaltern寫成subaltren。但我覺得這很有我的風格，於是我從未糾正過。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2007852154212798817",
+        "created_at": "2026-01-04T16:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T17:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007852154212798817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BeiyanNa3AlF6/…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/BeiyanNa3AlF6/status/1860540826998501678",
+              "start": 150,
+              "url": "https://t.co/emq6zyNlZe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007852154212798817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860540826998501678",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "将符號看作內化的產物，从倫理學角度講，是把承認他者外在不可知的謙卑subaltren化為一種對他者匱乏的表現的利他性將愛与倫理本身具有的創生性和流動性，原初內在他異性的一種本真的慾望流動產生母性抹除，使其同一化為菲勒斯中心的subaltren。\n簡單來說，「是」不是「是」，「不是」不是「不是的是」 https://t.co/emq6zyNlZe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 119,
+          "like_count": 14444,
+          "listed_count": 0,
+          "media_count": 401,
+          "tweet_count": 3345
+        },
+        "username": "hagishigure",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026590210079817728"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "2026590220020257047",
+    "created_at": "2026-02-25T09:28:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T10:28:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026590220020257047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1483911037028270080",
+          "start": 3,
+          "username": "Shigure230"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x9uZtHkqAK",
+          "end": 40,
+          "expanded_url": "https://x.com/hagishigure/status/2026590220020257047/photo/1",
+          "media_key": "3_2026590210079817728",
+          "start": 17,
+          "url": "https://t.co/x9uZtHkqAK"
+        },
+        {
+          "display_url": "x.com/miaomiaoxxia/s…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/miaomiaoxxia/status/2026326840139559244",
+          "start": 41,
+          "url": "https://t.co/LoDOx0IBnO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026590220020257047",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026326840139559244",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想起了@Shigure230 。 https://t.co/x9uZtHkqAK https://t.co/LoDOx0IBnO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 581,
+        "media_key": "3_2026590210079817728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB_lDwkXgAAbI-D.jpg",
+        "width": 1191
+      },
+      {
+        "duration_ms": 12891,
+        "height": 1280,
+        "media_key": "13_2026326761206870016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026326761206870016/img/74QfeUH0UnYAr6Rt.jpg",
+        "public_metrics": {
+          "view_count": 46671
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026326761206870016/vid/avc1/320x568/JUZoFhJ37f9X5Ds1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026326761206870016/vid/avc1/480x852/MIGTTn0mfVWl7V_X.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026326761206870016/vid/avc1/720x1280/xhrotWMX4_R0T2mL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026326761206870016/pl/GwPOD3odjp6d47es.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026590210079817728"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "2026590220020257047",
+        "created_at": "2026-02-25T09:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T10:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026590220020257047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1483911037028270080",
+              "start": 3,
+              "username": "Shigure230"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x9uZtHkqAK",
+              "end": 40,
+              "expanded_url": "https://x.com/hagishigure/status/2026590220020257047/photo/1",
+              "media_key": "3_2026590210079817728",
+              "start": 17,
+              "url": "https://t.co/x9uZtHkqAK"
+            },
+            {
+              "display_url": "x.com/miaomiaoxxia/s…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/miaomiaoxxia/status/2026326840139559244",
+              "start": 41,
+              "url": "https://t.co/LoDOx0IBnO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026590220020257047",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026326840139559244",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想起了@Shigure230 。 https://t.co/x9uZtHkqAK https://t.co/LoDOx0IBnO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026326761206870016"
+          ]
+        },
+        "author_id": "1526938197951131648",
+        "conversation_id": "2026326840139559244",
+        "created_at": "2026-02-24T16:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T17:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026326840139559244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ftY3XLpvWe",
+              "end": 31,
+              "expanded_url": "https://x.com/miaomiaoxxia/status/2026326840139559244/video/1",
+              "media_key": "13_2026326761206870016",
+              "start": 8,
+              "url": "https://t.co/ftY3XLpvWe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026326840139559244",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 92287,
+          "like_count": 472,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "灌牛奶好色情喵 https://t.co/ftY3XLpvWe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 137,
+          "like_count": 22106,
+          "listed_count": 2,
+          "media_count": 626,
+          "tweet_count": 5434
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-19T21:16:04.000Z",
+        "description": "在日底层留学生",
+        "id": "1483911037028270080",
+        "location": "Osaka",
+        "name": "Shigure230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996414890584788992/6pftAXjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3842,
+          "following_count": 440,
+          "like_count": 17528,
+          "listed_count": 7,
+          "media_count": 1657,
+          "tweet_count": 4184
+        },
+        "username": "Shigure230",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-18T14:50:21.000Z",
+        "description": "2007.8.18🐣/身高165/INFP/持证含糖mtf😺/第二次HRT：23.9.10/推文当日记发📝（一些和对象的日常）/想跟xyn互fo贴贴🥺（没回fo可能是没看见)/最好的姐姐兼恋人: @Starrynightwglf 🥰🥰🥰/🚪30",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 98,
+                "username": "Starrynightwglf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xinxia90268",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xinxia90268",
+                "start": 0,
+                "url": "https://t.co/vMsqLwqjNV"
+              }
+            ]
+          }
+        },
+        "id": "1526938197951131648",
+        "location": "小风怀里",
+        "name": "麦当劳🍔小夏",
+        "pinned_tweet_id": "1871838248030671333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977363575770587136/np85AWKH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7036,
+          "following_count": 1901,
+          "like_count": 9135,
+          "listed_count": 21,
+          "media_count": 376,
+          "tweet_count": 3338
+        },
+        "url": "https://t.co/vMsqLwqjNV",
+        "username": "miaomiaoxxia",
+        "verified": false
+      }
+    ]
+  }
+}

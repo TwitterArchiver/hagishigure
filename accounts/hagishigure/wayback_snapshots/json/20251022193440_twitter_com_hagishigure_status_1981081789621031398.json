@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1980971088789315876",
+    "created_at": "2025-10-22T19:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T20:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981081789621031398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1665019483474530311",
+          "start": 0,
+          "username": "yuqkchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981081789621031398",
+    "in_reply_to_user_id": "1665019483474530311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980971088789315876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuqkchan 无调味的烤鸡腿肉（用清水或少量盐烤制）或者纯白水煮鸡胸肉和煮玉米（用水煮，不加黄油以外的东西）。这能提供碳水、蛋白质和一些甜味（玉米天然微甜），口感更丰富。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1980971088789315876",
+        "created_at": "2025-10-22T19:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T20:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981081789621031398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1665019483474530311",
+              "start": 0,
+              "username": "yuqkchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981081789621031398",
+        "in_reply_to_user_id": "1665019483474530311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980971088789315876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuqkchan 无调味的烤鸡腿肉（用清水或少量盐烤制）或者纯白水煮鸡胸肉和煮玉米（用水煮，不加黄油以外的东西）。这能提供碳水、蛋白质和一些甜味（玉米天然微甜），口感更丰富。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1665019483474530311",
+        "conversation_id": "1980971088789315876",
+        "created_at": "2025-10-22T12:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T13:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980971088789315876"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980971088789315876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 541,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊感觉现在我吃饭有个问题就是\n吃的东西都没什么热量但是会想吃到撑(\n虽然吃七分饱也就可以了, 也不会饿, 但是到这种程度之后食欲就还在, 还是很想吃, 要吃到感觉有点撑才肯停下(\n有什么解决方案吗(x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 98,
+          "like_count": 4946,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 939
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-03T15:36:06.000Z",
+        "description": "春の中に 君と落ちていく。\nCallsign BD6IBL\n纯透明低质量kiger\nApex Legends / WOWS / osu! 成瘾(\nManaged democracy is the true path.\n精神极度不稳定会掉落奇怪的东西⚠️\n🏳️‍🌈🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/33752668",
+                "end": 23,
+                "expanded_url": "https://osu.ppy.sh/users/33752668",
+                "start": 0,
+                "url": "https://t.co/Dggz99pwa8"
+              }
+            ]
+          }
+        },
+        "id": "1665019483474530311",
+        "location": "DSS, Super Earth",
+        "name": "雨卿喵不是😺",
+        "pinned_tweet_id": "1971537810034393152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949918404498116609/uf0xoe2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2863,
+          "following_count": 1194,
+          "like_count": 8720,
+          "listed_count": 7,
+          "media_count": 1044,
+          "tweet_count": 7143
+        },
+        "url": "https://t.co/Dggz99pwa8",
+        "username": "yuqkchan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1978803648969785707",
+    "created_at": "2025-10-25T22:29:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T23:29:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982212851793092810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1509822664998731780",
+          "start": 0,
+          "username": "mysml44"
+        },
+        {
+          "end": 25,
+          "id": "1523805908156911616",
+          "start": 9,
+          "username": "yuanweiyishian1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982212851793092810",
+    "in_reply_to_user_id": "1509822664998731780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982209486220849475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mysml44 @yuanweiyishian1 帶點腦子，不要在我的話下面回復完全無關的東西，我厭蠢。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1301,
+        "media_key": "3_1982209478041743360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4I5BKEXMAADgEi.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1978803648969785707",
+        "created_at": "2025-10-25T22:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T23:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982212851793092810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1509822664998731780",
+              "start": 0,
+              "username": "mysml44"
+            },
+            {
+              "end": 25,
+              "id": "1523805908156911616",
+              "start": 9,
+              "username": "yuanweiyishian1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982212851793092810",
+        "in_reply_to_user_id": "1509822664998731780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982209486220849475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mysml44 @yuanweiyishian1 帶點腦子，不要在我的話下面回復完全無關的東西，我厭蠢。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982209478041743360"
+          ]
+        },
+        "author_id": "1509822664998731780",
+        "conversation_id": "1978803648969785707",
+        "created_at": "2025-10-25T22:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T23:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982209486220849475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            },
+            {
+              "end": 29,
+              "id": "1523805908156911616",
+              "start": 13,
+              "username": "yuanweiyishian1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P91BwhITRE",
+              "end": 56,
+              "expanded_url": "https://x.com/mysml44/status/1982209486220849475/photo/1",
+              "media_key": "3_1982209478041743360",
+              "start": 33,
+              "url": "https://t.co/P91BwhITRE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982209486220849475",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979166544455213081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure @yuanweiyishian1 hh https://t.co/P91BwhITRE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 99,
+          "like_count": 5674,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1131
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-01T09:19:21.000Z",
+        "description": "真正的地狱之人",
+        "id": "1509822664998731780",
+        "location": "Hong Kong",
+        "name": "贝利亚奥特曼",
+        "pinned_tweet_id": "1913879802429505765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981758104321597441/UMo6JKBw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 144,
+          "like_count": 601,
+          "listed_count": 1,
+          "media_count": 586,
+          "tweet_count": 4002
+        },
+        "username": "mysml44",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-09T23:23:41.000Z",
+        "description": "工作很忙，不怎么看私信评论见谅/一个精神男人/不正经女喘/没门槛/不接推广/不线下/不卖图/不接音频定制/只是普通人，经常碎碎念",
+        "id": "1523805908156911616",
+        "location": "不爱看请您直接拉黑，如和您观点不同，您一定是对的",
+        "name": "愿为一世安（退推版）",
+        "pinned_tweet_id": "1931516841593307176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959874323801624576/aNLHwqWF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5948,
+          "following_count": 480,
+          "like_count": 12613,
+          "listed_count": 28,
+          "media_count": 318,
+          "tweet_count": 1743
+        },
+        "username": "yuanweiyishian1",
+        "verified": false
+      }
+    ]
+  }
+}

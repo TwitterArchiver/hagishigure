@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2026258859732643988",
+    "created_at": "2026-02-24T12:52:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T13:52:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026279126793953774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "985370178929045504",
+          "start": 0,
+          "username": "jYiCHRgvKnDVz0G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026279126793953774",
+    "in_reply_to_user_id": "985370178929045504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026258859732643988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jYiCHRgvKnDVz0G 13500mgpr80都够急性中毒了，20000mg是怎么还没急性中毒还能打架的。🤨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2026258859732643988",
+        "created_at": "2026-02-24T12:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T13:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026279126793953774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "985370178929045504",
+              "start": 0,
+              "username": "jYiCHRgvKnDVz0G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026279126793953774",
+        "in_reply_to_user_id": "985370178929045504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026258859732643988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jYiCHRgvKnDVz0G 13500mgpr80都够急性中毒了，20000mg是怎么还没急性中毒还能打架的。🤨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "985370178929045504",
+        "conversation_id": "2026258859732643988",
+        "created_at": "2026-02-24T11:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T12:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026258859732643988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiechengmadoka…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/jiechengmadoka/status/2025842980125581807",
+              "start": 154,
+              "url": "https://t.co/XIXzYMcdvW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026258859732643988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025842980125581807",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "20000mg如果这个数字准确的话，举个例子，一盒200mg阿斯利康的喹硫平有20颗，一盒就有4000mg，她这个数换算喹硫平就是5盒，一盒喹硫平吃完最快醒过来是16个小时，5盒吃下去最快也要80小时，这个量足够吃死3个人，当然这一切只是我的猜想，我并没有冒犯任何人的想法，我只是举例子告诉你这一切有多可怕 https://t.co/XIXzYMcdvW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 137,
+          "like_count": 21946,
+          "listed_count": 2,
+          "media_count": 620,
+          "tweet_count": 5402
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2018-04-15T04:12:12.000Z",
+        "description": "东西没了说明另一个我跑出来了",
+        "id": "985370178929045504",
+        "name": "卖橘子的小埋",
+        "pinned_tweet_id": "2012924635449270450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012417463535964160/tDPQizBP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 252,
+          "like_count": 49,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 19
+        },
+        "username": "jYiCHRgvKnDVz0G",
+        "verified": false
+      }
+    ]
+  }
+}

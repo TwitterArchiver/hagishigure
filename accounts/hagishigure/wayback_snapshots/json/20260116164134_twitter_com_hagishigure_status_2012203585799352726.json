@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2012203585799352726",
+    "created_at": "2026-01-16T16:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T17:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012203585799352726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1829592979704803328",
+          "start": 3,
+          "username": "Kitt252588"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012203585799352726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012118691849326882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kitt252588: 我这辈子不会放过中国人，我闺蜜她非常爱研究性别学还有酷儿主义，她的存在就是这个世界的一抹光，我经常和她讨论一些男女性少数之间的话题。她是一个坚定的酷儿主义后来被中国人带走了，喝亚硝酸钠自杀了，我闺蜜去世前她朋友圈置顶的还是我闺蜜写的酷儿文章，她死…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012118644625645568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-x7PyLaIAAhmke.jpg",
+        "width": 1278
+      },
+      {
+        "height": 1976,
+        "media_key": "3_2012118644629921793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-x7PyMbYAE8EU2.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2012203585799352726",
+        "created_at": "2026-01-16T16:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T17:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012203585799352726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1829592979704803328",
+              "start": 3,
+              "username": "Kitt252588"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012203585799352726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012118691849326882",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kitt252588: 我这辈子不会放过中国人，我闺蜜她非常爱研究性别学还有酷儿主义，她的存在就是这个世界的一抹光，我经常和她讨论一些男女性少数之间的话题。她是一个坚定的酷儿主义后来被中国人带走了，喝亚硝酸钠自杀了，我闺蜜去世前她朋友圈置顶的还是我闺蜜写的酷儿文章，她死…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012118644625645568",
+            "3_2012118644629921793"
+          ]
+        },
+        "author_id": "1829592979704803328",
+        "conversation_id": "2012118691849326882",
+        "created_at": "2026-01-16T11:04:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T12:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012118691849326882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4gh7hiRdpc",
+              "end": 159,
+              "expanded_url": "https://x.com/Kitt252588/status/2012118691849326882/photo/1",
+              "media_key": "3_2012118644625645568",
+              "start": 136,
+              "url": "https://t.co/4gh7hiRdpc"
+            },
+            {
+              "display_url": "pic.x.com/4gh7hiRdpc",
+              "end": 159,
+              "expanded_url": "https://x.com/Kitt252588/status/2012118691849326882/photo/1",
+              "media_key": "3_2012118644629921793",
+              "start": 136,
+              "url": "https://t.co/4gh7hiRdpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012118691849326882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4119,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我这辈子不会放过中国人，我闺蜜她非常爱研究性别学还有酷儿主义，她的存在就是这个世界的一抹光，我经常和她讨论一些男女性少数之间的话题。她是一个坚定的酷儿主义后来被中国人带走了，喝亚硝酸钠自杀了，我闺蜜去世前她朋友圈置顶的还是我闺蜜写的酷儿文章，她死后我读完了她推荐的所有书 https://t.co/4gh7hiRdpc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 120,
+          "like_count": 15123,
+          "listed_count": 1,
+          "media_count": 416,
+          "tweet_count": 3519
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T18:52:25.000Z",
+        "description": "我告诉你我根本就是对的 我永远不会忘记我闺蜜衣柏睿",
+        "id": "1829592979704803328",
+        "location": "河南东北混血女",
+        "name": "佳美美（厌女版）",
+        "pinned_tweet_id": "2010863675058635146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010522929470324737/bHibF54g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 262,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 283
+        },
+        "username": "Kitt252588",
+        "verified": false
+      }
+    ]
+  }
+}

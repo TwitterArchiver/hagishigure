@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1990392594489032919",
+    "created_at": "2025-11-18T02:16:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T03:16:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990605071785296329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "866092386694217728",
+          "start": 0,
+          "username": "dungeon_lab_toy"
+        },
+        {
+          "end": 24,
+          "id": "1545277694325116928",
+          "start": 17,
+          "username": "BI3BXI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990605071785296329",
+    "in_reply_to_user_id": "866092386694217728",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990392594489032919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dungeon_lab_toy @BI3BXI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1443,
+        "media_key": "3_1990392552625942528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G59LeybaMAACUsy.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1467,
+        "media_key": "3_1990392552638623744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G59LeyebsAAX-wF.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1990392594489032919",
+        "created_at": "2025-11-18T02:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T03:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990605071785296329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "866092386694217728",
+              "start": 0,
+              "username": "dungeon_lab_toy"
+            },
+            {
+              "end": 24,
+              "id": "1545277694325116928",
+              "start": 17,
+              "username": "BI3BXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990605071785296329",
+        "in_reply_to_user_id": "866092386694217728",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990392594489032919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dungeon_lab_toy @BI3BXI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990392552625942528",
+            "3_1990392552638623744"
+          ]
+        },
+        "author_id": "866092386694217728",
+        "conversation_id": "1990392594489032919",
+        "created_at": "2025-11-17T12:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T13:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990392594489032919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X4dR5O8xSz",
+              "end": 82,
+              "expanded_url": "https://x.com/dungeon_lab_toy/status/1990392594489032919/photo/1",
+              "media_key": "3_1990392552625942528",
+              "start": 59,
+              "url": "https://t.co/X4dR5O8xSz"
+            },
+            {
+              "display_url": "pic.x.com/X4dR5O8xSz",
+              "end": 82,
+              "expanded_url": "https://x.com/dungeon_lab_toy/status/1990392594489032919/photo/1",
+              "media_key": "3_1990392552638623744",
+              "start": 59,
+              "url": "https://t.co/X4dR5O8xSz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990392594489032919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 34663,
+          "like_count": 147,
+          "quote_count": 4,
+          "reply_count": 13,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "【DG-LAB】招人啦，工作地点在深圳南山区，有意向的小伙伴可以发送简历到邮箱：hr@dungeon-lab.com https://t.co/X4dR5O8xSz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 109,
+          "like_count": 9411,
+          "listed_count": 0,
+          "media_count": 319,
+          "tweet_count": 2181
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2017-05-21T00:44:51.000Z",
+        "description": "Realise your wildest fantasies     \n                          \nContact Email：service@dungeon-lab.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dungeon-lab.com",
+                "end": 23,
+                "expanded_url": "http://dungeon-lab.com",
+                "start": 0,
+                "url": "https://t.co/iTHP4GErdz"
+              }
+            ]
+          }
+        },
+        "id": "866092386694217728",
+        "name": "DG-LAB 地牢实验室",
+        "pinned_tweet_id": "1907350617581899778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1271694986044518403/z3pTfOsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15603,
+          "following_count": 161,
+          "like_count": 17,
+          "listed_count": 19,
+          "media_count": 20,
+          "tweet_count": 261
+        },
+        "url": "https://t.co/iTHP4GErdz",
+        "username": "dungeon_lab_toy",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Student at law｜Inherited from @ryq59｜Enby.｜#Worlds2025",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 43,
+                "tag": "Worlds2025"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 36,
+                "start": 30,
+                "username": "ryq59"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/xPmuGPt",
+                "end": 23,
+                "expanded_url": "https://b23.tv/xPmuGPt",
+                "start": 0,
+                "url": "https://t.co/HOju3R3g8T"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津市第300号邮政信箱",
+        "name": "你是要气死铨酱么🍥（互fo寻回中）",
+        "pinned_tweet_id": "1975487873429459064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958486481359745024/uwWD92j4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3559,
+          "following_count": 2660,
+          "like_count": 25669,
+          "listed_count": 11,
+          "media_count": 659,
+          "tweet_count": 4130
+        },
+        "url": "https://t.co/HOju3R3g8T",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

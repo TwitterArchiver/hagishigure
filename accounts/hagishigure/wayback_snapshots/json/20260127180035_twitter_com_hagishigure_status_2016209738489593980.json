@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2015943504304996555",
+    "created_at": "2026-01-27T18:00:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T19:00:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016209738489593980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1924674517588443138",
+          "start": 0,
+          "username": "clover19932025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016209738489593980",
+    "in_reply_to_user_id": "1924674517588443138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015943504304996555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@clover19932025 这点你最应该和早期尤其是22年的中推药娘探讨…22年的那些就没有没玩过磁针贴的…那个时候男娘大学，sissy轮盘，夏花，bambi催眠这些大多数基本都玩过…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 709,
+        "media_key": "3_2015943500211036161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_oR7rlWIAESnYN.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1177,
+        "media_key": "3_2015943501222182912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_oR7vWbAAAVQhg.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2015943504304996555",
+        "created_at": "2026-01-27T18:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T19:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016209738489593980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1924674517588443138",
+              "start": 0,
+              "username": "clover19932025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016209738489593980",
+        "in_reply_to_user_id": "1924674517588443138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015943504304996555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clover19932025 这点你最应该和早期尤其是22年的中推药娘探讨…22年的那些就没有没玩过磁针贴的…那个时候男娘大学，sissy轮盘，夏花，bambi催眠这些大多数基本都玩过…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015943500211036161",
+            "3_2015943501222182912"
+          ]
+        },
+        "author_id": "1924674517588443138",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015943504304996555",
+        "created_at": "2026-01-27T00:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T01:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015943504304996555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/msDNudCHls",
+              "end": 32,
+              "expanded_url": "https://x.com/clover19932025/status/2015943504304996555/photo/1",
+              "media_key": "3_2015943500211036161",
+              "start": 9,
+              "url": "https://t.co/msDNudCHls"
+            },
+            {
+              "display_url": "pic.x.com/msDNudCHls",
+              "end": 32,
+              "expanded_url": "https://x.com/clover19932025/status/2015943504304996555/photo/1",
+              "media_key": "3_2015943501222182912",
+              "start": 9,
+              "url": "https://t.co/msDNudCHls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015943504304996555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 191490,
+          "like_count": 241,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "开发——进阶测试 https://t.co/msDNudCHls"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 126,
+          "like_count": 16585,
+          "listed_count": 0,
+          "media_count": 452,
+          "tweet_count": 3902
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-20T03:52:27.000Z",
+        "description": "先制定计划，再步步为营📌\n一次没设终点的探索之旅\n唯一飞机频道：https://t.co/CpehrxFuKI\n偶尔接广，自行分辨",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/clover19932025",
+                "end": 55,
+                "expanded_url": "https://t.me/clover19932025",
+                "start": 32,
+                "url": "https://t.co/CpehrxFuKI"
+              }
+            ]
+          }
+        },
+        "id": "1924674517588443138",
+        "location": "转贴置顶关评，推广自辨哦",
+        "name": "clover开发日记",
+        "pinned_tweet_id": "1971185162743685204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924679025274028032/iYUrxbJq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19738,
+          "following_count": 439,
+          "like_count": 1926,
+          "listed_count": 57,
+          "media_count": 162,
+          "tweet_count": 909
+        },
+        "username": "clover19932025",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2008379154404708735",
+    "created_at": "2026-01-06T07:26:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T08:26:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008440051416633790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2840236608",
+          "start": 0,
+          "username": "StarNekOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008440051416633790",
+    "in_reply_to_user_id": "2840236608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008379154404708735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarNekOvO 愛因斯坦的後代也沒提出四大力大一統理論。很難明白那些説基因的人是不是沒學過基因生物學。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1159,
+        "media_key": "3_2008379151300890625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G98yMn-XEAEIyB0.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1653,
+        "media_key": "3_2008379151015723008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G98yMm6XwAAnrrz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2008379151049261056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G98yMnCXgAAf-ne.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2008379154404708735",
+        "created_at": "2026-01-06T07:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T08:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008440051416633790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2840236608",
+              "start": 0,
+              "username": "StarNekOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008440051416633790",
+        "in_reply_to_user_id": "2840236608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008379154404708735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarNekOvO 愛因斯坦的後代也沒提出四大力大一統理論。很難明白那些説基因的人是不是沒學過基因生物學。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008379151300890625",
+            "3_2008379151015723008",
+            "3_2008379151049261056"
+          ]
+        },
+        "author_id": "2840236608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Biology",
+              "id": "847896837532995585",
+              "name": "Biology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Chemistry",
+              "id": "847896929698668544",
+              "name": "Chemistry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2008379154404708735",
+        "created_at": "2026-01-06T03:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T04:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008379154404708735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XyWy7ynr0w",
+              "end": 159,
+              "expanded_url": "https://x.com/StarNekOvO/status/2008379154404708735/photo/1",
+              "media_key": "3_2008379151300890625",
+              "start": 136,
+              "url": "https://t.co/XyWy7ynr0w"
+            },
+            {
+              "display_url": "pic.x.com/XyWy7ynr0w",
+              "end": 159,
+              "expanded_url": "https://x.com/StarNekOvO/status/2008379154404708735/photo/1",
+              "media_key": "3_2008379151015723008",
+              "start": 136,
+              "url": "https://t.co/XyWy7ynr0w"
+            },
+            {
+              "display_url": "pic.x.com/XyWy7ynr0w",
+              "end": 159,
+              "expanded_url": "https://x.com/StarNekOvO/status/2008379154404708735/photo/1",
+              "media_key": "3_2008379151049261056",
+              "start": 136,
+              "url": "https://t.co/XyWy7ynr0w"
+            },
+            {
+              "display_url": "x.com/Alexius_Jashin…",
+              "end": 183,
+              "expanded_url": "https://twitter.com/Alexius_Jashin/status/2008368047363424313",
+              "start": 160,
+              "url": "https://t.co/KouWn3F8TA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008379154404708735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "猫挠头了，原来一些人类是那样想的，没道理，还是觉得 llm 更有道理一点\n（以下均为 AI 生成如有不适请 Mute）\n  - ​生命力的定义： 信息的抗熵增传递\n  - ​媒介的进化： 2026 年的今天，数字载体和产品的传递效率已在数量级上碾压了生物化学载体\n  - 个体：打破常规和创造产品是一种更高效、影响力更持久的生命延续方式\n  - 物种：只要群体整体的繁衍能维持载体存在，部分个体的非繁衍式探索不是损失，是人类这种物种最顶层的进化溢价"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 438,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008368047363424313",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "猫挠头了，原来一些人类是那样想的，没道理，还是觉得 llm 更有道理一点\n（以下均为 AI 生成如有不适请 Mute）\n  - ​生命力的定义： 信息的抗熵增传递\n  - ​媒介的进化： 2026 年的今天，数字载体和产品的传递效率已在数量级上碾压了生物化学载体\n  - https://t.co/XyWy7ynr0w https://t.co/KouWn3F8TA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 119,
+          "like_count": 14590,
+          "listed_count": 0,
+          "media_count": 401,
+          "tweet_count": 3387
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "🥛🐈‍⬛系統. aka starneko. System Security Hunter. Python/Go/Rust. MSCS at CU Boulder. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "starneko.com",
+                "end": 23,
+                "expanded_url": "https://starneko.com",
+                "start": 0,
+                "url": "https://t.co/9NEqS9sljx"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "name": "猫奶牛",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008251547163975680/m5RnHWmU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4476,
+          "following_count": 2270,
+          "like_count": 34334,
+          "listed_count": 17,
+          "media_count": 1389,
+          "tweet_count": 11762
+        },
+        "url": "https://t.co/9NEqS9sljx",
+        "username": "StarNekOvO",
+        "verified": true
+      }
+    ]
+  }
+}

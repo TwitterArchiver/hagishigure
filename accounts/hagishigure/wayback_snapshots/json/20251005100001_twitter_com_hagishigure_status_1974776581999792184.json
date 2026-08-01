@@ -1,0 +1,552 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Chemistry",
+          "id": "847896929698668544",
+          "name": "Chemistry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370148339665145858",
+          "name": "Organic chemistry"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "1974776581999792184",
+    "created_at": "2025-10-05T10:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T11:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974776581999792184"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "YouTube",
+          "probability": 0.7272,
+          "start": 13,
+          "type": "Product"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "909688118634102784",
+          "start": 3,
+          "username": "morop_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974776581999792184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974414692941434954",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @morop_: 【YouTube動画更新！】今回は有機化学者ならだれもが出くわす\"あの問題\"を解決した論文を紹介します。2017年に発表されてからずっと読み続けられている超名論文といえるでしょう。\n\n研究者を長年悩ませた悪夢を解決！元大学教員の文系でもわかる名論文解説【…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1974225617093820416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2XbvSVagAAJMM2.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Chemistry",
+              "id": "847896929698668544",
+              "name": "Chemistry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370148339665145858",
+              "name": "Organic chemistry"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1974776581999792184",
+        "created_at": "2025-10-05T10:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974776581999792184"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "YouTube",
+              "probability": 0.7272,
+              "start": 13,
+              "type": "Product"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "909688118634102784",
+              "start": 3,
+              "username": "morop_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974776581999792184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974414692941434954",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @morop_: 【YouTube動画更新！】今回は有機化学者ならだれもが出くわす\"あの問題\"を解決した論文を紹介します。2017年に発表されてからずっと読み続けられている超名論文といえるでしょう。\n\n研究者を長年悩ませた悪夢を解決！元大学教員の文系でもわかる名論文解説【…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974225617093820416"
+          ]
+        },
+        "author_id": "909688118634102784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Chemistry",
+              "id": "847896929698668544",
+              "name": "Chemistry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370148339665145858",
+              "name": "Organic chemistry"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1974414692941434954",
+        "created_at": "2025-10-04T10:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T11:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974414692941434954"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "YouTube",
+              "probability": 0.7073,
+              "start": 1,
+              "type": "Product"
+            }
+          ],
+          "urls": [
+            {
+              "description": "有機化学の最新論文をわかりやすく解説します。今回はJornal of Organic Chemistry (JOC) 誌に掲載されたトリフェニルホスフィンオキシド(TPPO)の効率的な除去方法を報告した論文を紹介します。劇的に新しい成果ではありませんが、有機化学の研究者ならだれもが一度は出くわすあの問題をエレガン...",
+              "display_url": "youtu.be/wMWX9wHinKw",
+              "end": 161,
+              "expanded_url": "https://youtu.be/wMWX9wHinKw",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1974414696271802368/bS_qrEAL?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1974414696271802368/bS_qrEAL?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 138,
+              "status": 200,
+              "title": "研究者を長年悩ませた悪夢を解決！元大学教員の文系でもわかる名論文解説【JOC誌/有機化学】",
+              "unwound_url": "https://www.youtube.com/watch?v=wMWX9wHinKw&feature=youtu.be",
+              "url": "https://t.co/qNhX1ghNEV"
+            },
+            {
+              "display_url": "pic.x.com/1VLxZyyAlQ",
+              "end": 185,
+              "expanded_url": "https://x.com/morop_/status/1974414692941434954/photo/1",
+              "media_key": "3_1974225617093820416",
+              "start": 162,
+              "url": "https://t.co/1VLxZyyAlQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974414692941434954",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 17886,
+          "like_count": 114,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "【YouTube動画更新！】今回は有機化学者ならだれもが出くわす\"あの問題\"を解決した論文を紹介します。2017年に発表されてからずっと読み続けられている超名論文といえるでしょう。\n\n研究者を長年悩ませた悪夢を解決！元大学教員の文系でもわかる名論文解説【JOC誌/有機化学】\nhttps://t.co/qNhX1ghNEV https://t.co/1VLxZyyAlQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 83,
+          "like_count": 1132,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 199
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-18T07:58:43.000Z",
+        "description": "諸藤達也。有機化学論文研究所所長、教育系youtuber、花王＞学習院大助教＞化学メーカー　ブログ(https://t.co/pcYzVVFhIU)！ YouTube(https://t.co/1zRxrhzAlm)フォローお願いします！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "moro-chemistry.org",
+                "end": 73,
+                "expanded_url": "http://moro-chemistry.org",
+                "start": 50,
+                "url": "https://t.co/pcYzVVFhIU"
+              },
+              {
+                "display_url": "youtube.com/channel/UCVdqf…",
+                "end": 107,
+                "expanded_url": "https://www.youtube.com/channel/UCVdqfcGIhXFEe4JDV97X1ig",
+                "start": 84,
+                "url": "https://t.co/1zRxrhzAlm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "moro-chemistry.org",
+                "end": 23,
+                "expanded_url": "https://moro-chemistry.org/",
+                "start": 0,
+                "url": "https://t.co/sVtX5jWvmz"
+              }
+            ]
+          }
+        },
+        "id": "909688118634102784",
+        "location": "日本",
+        "name": "もろぴー@書籍『超有機化学入門』買ってね☆",
+        "pinned_tweet_id": "1880889710111047768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/931755986376843264/z-8Sy5aK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11402,
+          "following_count": 555,
+          "like_count": 2456,
+          "listed_count": 71,
+          "media_count": 634,
+          "tweet_count": 3003
+        },
+        "url": "https://t.co/sVtX5jWvmz",
+        "username": "morop_",
+        "verified": false
+      }
+    ]
+  }
+}

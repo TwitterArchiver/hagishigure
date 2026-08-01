@@ -1,0 +1,405 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      }
+    ],
+    "conversation_id": "2046741973239804115",
+    "created_at": "2026-04-22T00:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T01:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046741973239804115"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CoderDaMing/st…",
+          "end": 96,
+          "expanded_url": "https://twitter.com/CoderDaMing/status/2046423184057241781",
+          "start": 73,
+          "url": "https://t.co/vv1OS3sGT8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046741973239804115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046423184057241781",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "打谷歌服务器和随便发个侧信道打你的设备之间我选择让你的设备试试时序和电压毛刺。🤣\n你的设备连红队脚本小子都顶不住还相信自己设备安全你是这个👍。😆 https://t.co/vv1OS3sGT8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1570,
+        "media_key": "3_2046423175081381888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZbCQraUAAUqfX.jpg",
+        "width": 1210
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          }
+        ],
+        "conversation_id": "2046741973239804115",
+        "created_at": "2026-04-22T00:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T01:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046741973239804115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CoderDaMing/st…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/CoderDaMing/status/2046423184057241781",
+              "start": 73,
+              "url": "https://t.co/vv1OS3sGT8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046741973239804115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046423184057241781",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "打谷歌服务器和随便发个侧信道打你的设备之间我选择让你的设备试试时序和电压毛刺。🤣\n你的设备连红队脚本小子都顶不住还相信自己设备安全你是这个👍。😆 https://t.co/vv1OS3sGT8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046423175081381888"
+          ]
+        },
+        "author_id": "950327911",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          }
+        ],
+        "conversation_id": "2046423184057241781",
+        "created_at": "2026-04-21T02:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T03:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046423184057241781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zhMuWDOwAC",
+              "end": 202,
+              "expanded_url": "https://x.com/CoderDaMing/status/2046423184057241781/photo/1",
+              "media_key": "3_2046423175081381888",
+              "start": 179,
+              "url": "https://t.co/zhMuWDOwAC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046423184057241781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你每月付Google 10美元存储文件。在Google服务器上。Google可以读取它们。\n\n你每月付Dropbox 12美元。在Dropbox服务器上。Dropbox可以读取它们。\n\n你每月付Apple 10美元。在Apple服务器上。Apple可以读取它们。\n\nDropbox在2024年被攻击。用户邮箱、密码哈希值、API密钥和OAuth令牌被泄露。\n\n有个工具可在你自己的设备间直接同步文件。无云。无服务器。无中介。永远。\n\n它叫Syncthing。GitHub上81,900+星。\n\n文件直接在你的设备间传输。点对点。永远不接触第三方服务器。甚至不接触Syncthing的。\n\n它的功能:\n\n→ 实时在任意数量设备间同步文件\n→ 点对点。无中央服务器。文件直接在'你的'设备间传输\n→ 每条连接都有TLS加密和完美前向保密\n→ 每台设备通过强密码学证书认证\n→ 在局域网和互联网工作。无需端口转发\n→ 选择性文件夹共享。与不同人同步不同文件夹\n→ 文件版本控制。删除或更改了什么？回滚\n→ 运行在Windows、Mac、Linux、Android、FreeBSD、Solaris等\n→ 网页仪表板从浏览器监控一切\n→ 无账户。无注册。安装。分享设备ID。完成。\n\n最疯狂的部分：\n\n没有Syncthing服务器。没有Syncthing云。没有公司存储你的数据。协议开放且有文档。除了加密隧道，你的设备间没有其他东西。\n\nGoogle关闭了293个产品。Dropbox被攻击过。iCloud照片泄露过。每个云服务都可能随时改变政策扫描你的所有数据。\n\nSyncthing永远无法关闭你的文件。因为你的文件从未在它们的服务器上。\n\nDropbox Plus: 12美元/月。144美元/年。\nGoogle One 2TB: 10美元/月。120美元/年。\niCloud+ 2TB: 10美元/月。120美元/年。\n\nSyncthing: 0美元。无限设备。无限存储。你的硬件。你的文件。永远。\n\n349名贡献者。464次发布。5000+分支。自2013年起经过实战检验。\n\n由Syncthing基金会运营。瑞典非营利组织。\n\nMPL-2.0许可。开放协议。点对点。永远免费。\n\n100%开源。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 270,
+          "impression_count": 21523,
+          "like_count": 167,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "你每月付Google 10美元存储文件。在Google服务器上。Google可以读取它们。\n\n你每月付Dropbox 12美元。在Dropbox服务器上。Dropbox可以读取它们。\n\n你每月付Apple 10美元。在Apple服务器上。Apple可以读取它们。\n\nDropbox在2024年被攻击。用户邮箱、密码哈希值、API密钥和OAuth令牌被泄露。 https://t.co/zhMuWDOwAC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 147,
+          "like_count": 27369,
+          "listed_count": 2,
+          "media_count": 733,
+          "tweet_count": 6514
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2012-11-15T19:21:50.000Z",
+        "description": "不成器的码农🧱 | 资深数码📷韭菜\n🌴用副业的心态做主业，用主业的钱买数码\nAI时代的摸鱼🐠专家\n座右铭：买买买是第一生产力",
+        "id": "950327911",
+        "name": "半吊子程序猿大铭",
+        "pinned_tweet_id": "1992817217776554346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933019008061878273/V01gCRoq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23906,
+          "following_count": 27,
+          "like_count": 11368,
+          "listed_count": 120,
+          "media_count": 2031,
+          "tweet_count": 3062
+        },
+        "username": "CoderDaMing",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2023782716702179710",
+    "created_at": "2026-02-17T18:42:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T19:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023830429124661746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "745607352355721217",
+          "start": 0,
+          "username": "WilliamPAIvanov"
+        },
+        {
+          "end": 33,
+          "id": "1739915785441861632",
+          "start": 17,
+          "username": "Lem_PackageMain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023830429124661746",
+    "in_reply_to_user_id": "745607352355721217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023829566037651699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WilliamPAIvanov @Lem_PackageMain 人家女孩子从初一追我追到初三。叹。我很是苦恼这点，但我就喜欢和没朋友的阴角做朋友，这样我的养成系天线就可以一直发出电波。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2023782716702179710",
+        "created_at": "2026-02-17T18:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T19:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023830429124661746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "745607352355721217",
+              "start": 0,
+              "username": "WilliamPAIvanov"
+            },
+            {
+              "end": 33,
+              "id": "1739915785441861632",
+              "start": 17,
+              "username": "Lem_PackageMain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023830429124661746",
+        "in_reply_to_user_id": "745607352355721217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023829566037651699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WilliamPAIvanov @Lem_PackageMain 人家女孩子从初一追我追到初三。叹。我很是苦恼这点，但我就喜欢和没朋友的阴角做朋友，这样我的养成系天线就可以一直发出电波。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "745607352355721217",
+        "conversation_id": "2023782716702179710",
+        "created_at": "2026-02-17T18:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T19:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023829566037651699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            },
+            {
+              "end": 29,
+              "id": "1739915785441861632",
+              "start": 13,
+              "username": "Lem_PackageMain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023829566037651699",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023829270527898026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure @Lem_PackageMain 你们拒绝人都这么温柔的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 130,
+          "like_count": 20079,
+          "listed_count": 0,
+          "media_count": 572,
+          "tweet_count": 4853
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-22T13:20:20.000Z",
+        "description": "国民大会主要整活师｜国家一级退堂鼓表演艺术家｜著名抬杠运动员｜世界划水锦标赛冠军｜历届摸鱼大赛种子选手｜四字一等恩封躺平不起公世袭罔替｜吃光阁内大臣｜私聊🚪€2999的私人精神导师｜向日葵听完都不发光的过气负能量老干部｜满洲特务头子｜只为权贵说真话不给牛马唱赞歌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.net/a/GurunPartae",
+                "end": 23,
+                "expanded_url": "https://afdian.net/a/GurunPartae",
+                "start": 0,
+                "url": "https://t.co/aCvhudDZ42"
+              }
+            ]
+          }
+        },
+        "id": "745607352355721217",
+        "location": "Italy",
+        "name": "William P. A. da H. Ivanov🟦⬜️⬛️",
+        "pinned_tweet_id": "1922327262331846716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796731073038090241/qB450jx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2012,
+          "following_count": 1654,
+          "like_count": 249958,
+          "listed_count": 16,
+          "media_count": 343,
+          "tweet_count": 34924
+        },
+        "url": "https://t.co/aCvhudDZ42",
+        "username": "WilliamPAIvanov",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-27T07:47:12.000Z",
+        "description": "MtX/F│183cm天空树🫥│泛性恋，H/0.5│过期JK│天残家暴党（炸柜后又重新深柜ing）🙃│照骗多为高P，线下查无此人Or2│拉力B照持有者│有大证但是好像并没有什么卵用……│缺爱b一个🤕│b我的我都会回b除非我想视奸👁│本质是一个大面包所以容易膨胀、任人拿捏、一点不抗压（",
+        "id": "1739915785441861632",
+        "location": "Sonderland",
+        "name": "柠檬味的Main包🍥",
+        "pinned_tweet_id": "1983147113874895083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787256133910155264/kksrVeC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 284,
+          "like_count": 27726,
+          "listed_count": 1,
+          "media_count": 408,
+          "tweet_count": 8403
+        },
+        "username": "Lem_PackageMain",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,437 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2023331156671021115",
+    "created_at": "2026-02-17T05:07:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T06:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023625205545939161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1590317621827846149",
+          "start": 0,
+          "username": "_nagi_no"
+        },
+        {
+          "end": 20,
+          "id": "1608294527453876225",
+          "start": 10,
+          "username": "Paris1Von"
+        },
+        {
+          "end": 32,
+          "id": "1981918860883488768",
+          "start": 21,
+          "username": "Lira_Fox13"
+        },
+        {
+          "end": 45,
+          "id": "1896175390005342208",
+          "start": 33,
+          "username": "Monggiacmeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023625205545939161",
+    "in_reply_to_user_id": "1590317621827846149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023616723535241452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_nagi_no @Paris1Von @Lira_Fox13 @Monggiacmeo Le不是with的意思吗？举个例子，Tha brot le ìm blasta."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2023331156671021115",
+        "created_at": "2026-02-17T05:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T06:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023625205545939161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1590317621827846149",
+              "start": 0,
+              "username": "_nagi_no"
+            },
+            {
+              "end": 20,
+              "id": "1608294527453876225",
+              "start": 10,
+              "username": "Paris1Von"
+            },
+            {
+              "end": 32,
+              "id": "1981918860883488768",
+              "start": 21,
+              "username": "Lira_Fox13"
+            },
+            {
+              "end": 45,
+              "id": "1896175390005342208",
+              "start": 33,
+              "username": "Monggiacmeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023625205545939161",
+        "in_reply_to_user_id": "1590317621827846149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023616723535241452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_nagi_no @Paris1Von @Lira_Fox13 @Monggiacmeo Le不是with的意思吗？举个例子，Tha brot le ìm blasta."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590317621827846149",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2023331156671021115",
+        "created_at": "2026-02-17T04:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T05:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023616723535241452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608294527453876225",
+              "start": 0,
+              "username": "Paris1Von"
+            },
+            {
+              "end": 22,
+              "id": "1981918860883488768",
+              "start": 11,
+              "username": "Lira_Fox13"
+            },
+            {
+              "end": 35,
+              "id": "1896175390005342208",
+              "start": 23,
+              "username": "Monggiacmeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023616723535241452",
+        "in_reply_to_user_id": "1608294527453876225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023367211700904349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Paris1Von @Lira_Fox13 @Monggiacmeo 初学法语 这是什么规则啊🤔我以为是根据省略掉的那个类别判断 比如le (modèle) ChatGPT这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 130,
+          "like_count": 20027,
+          "listed_count": 0,
+          "media_count": 567,
+          "tweet_count": 4829
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-09T12:17:32.000Z",
+        "description": "=［nä . gi . no̞］// 08 // 🏳️‍⚧️ // zh · en · ja* · de* · fr* · ug* // 清水日常 // 互fo欢迎!!",
+        "id": "1590317621827846149",
+        "name": "なぎの",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020186604028194819/wHKjTz-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 444,
+          "like_count": 1409,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 299
+        },
+        "username": "_nagi_no",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-29T02:51:18.000Z",
+        "description": "一只mtx🇹🇼🇪🇺🇨🇵🏳️；Français/國語/閩語\n「理想主義者的反義詞，是心中沒有愛的人~」Geology & Astronomy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+cDU8vC1gOSk2O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+cDU8vC1gOSk2ODQ1",
+                "start": 0,
+                "url": "https://t.co/o9s26ajvpI"
+              }
+            ]
+          }
+        },
+        "id": "1608294527453876225",
+        "location": "Foochow, Taipei-Min;Chicago IL",
+        "name": "Parish Orit V 🇨🇵🇪🇺",
+        "pinned_tweet_id": "1998692744240443873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015269147387768832/XFWJB8Oo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 912,
+          "like_count": 78385,
+          "listed_count": 3,
+          "media_count": 234,
+          "tweet_count": 3316
+        },
+        "url": "https://t.co/o9s26ajvpI",
+        "username": "Paris1Von",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-25T03:01:09.000Z",
+        "description": "非二进制狐巫器，很高兴认识你们",
+        "id": "1981918860883488768",
+        "location": "天国阶梯",
+        "name": "᯽劣等感💜",
+        "pinned_tweet_id": "2020345641797611626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017951996372992000/_bLmMzJn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 120,
+          "like_count": 1047,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 628
+        },
+        "username": "Lira_Fox13",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T12:27:09.000Z",
+        "description": "梦觉，梦觉，连夜梦觉！Liên Dạ Mộng Giác | em chuyển và les | 我那未曾谋面的姐姐因我逝，我要替她活下去😖 | 越南语学习中 Đang học tiếng Việt 🇻🇳 |@Monggiacx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 105,
+                "username": "Monggiacx"
+              }
+            ]
+          }
+        },
+        "id": "1896175390005342208",
+        "location": "琅琊",
+        "name": "Mộng Giác",
+        "pinned_tweet_id": "2019712291265265750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021662119733997569/X8uFg8OE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 2009,
+          "like_count": 18616,
+          "listed_count": 4,
+          "media_count": 58,
+          "tweet_count": 1726
+        },
+        "username": "Monggiacmeo",
+        "verified": false
+      }
+    ]
+  }
+}

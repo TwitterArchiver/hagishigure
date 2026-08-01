@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2026977860859416798",
+    "created_at": "2026-02-26T11:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T12:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026977860859416798"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KamiyaSara8972…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/KamiyaSara8972/status/2026641422389227842",
+          "start": 20,
+          "url": "https://t.co/otMriQMI9b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026977860859416798",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026641422389227842",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你什么时候能闭嘴你什么时候就是友好的。 https://t.co/otMriQMI9b"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2026977860859416798",
+        "created_at": "2026-02-26T11:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026977860859416798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KamiyaSara8972…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/KamiyaSara8972/status/2026641422389227842",
+              "start": 20,
+              "url": "https://t.co/otMriQMI9b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026977860859416798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026641422389227842",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你什么时候能闭嘴你什么时候就是友好的。 https://t.co/otMriQMI9b"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504387273919401987",
+        "conversation_id": "2026641290243559879",
+        "created_at": "2026-02-25T12:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T13:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026641422389227842"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026641422389227842",
+        "in_reply_to_user_id": "1504387273919401987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026641290243559879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一针下去攻击性归0，十分友好狼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 138,
+          "like_count": 22386,
+          "listed_count": 2,
+          "media_count": 635,
+          "tweet_count": 5522
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-17T09:21:07.000Z",
+        "description": "",
+        "id": "1504387273919401987",
+        "name": "东北狼姐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016644862515269634/gxJx3Rjv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 388,
+          "like_count": 26487,
+          "listed_count": 4,
+          "media_count": 923,
+          "tweet_count": 33201
+        },
+        "username": "KamiyaSara8972",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2020691957706793134",
+    "created_at": "2026-02-09T13:26:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T14:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020851876212646268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1980334028239798273",
+          "start": 0,
+          "username": "lnyn267348"
+        },
+        {
+          "end": 24,
+          "id": "1662723831533027329",
+          "start": 12,
+          "username": "loong001116"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020851876212646268",
+    "in_reply_to_user_id": "1980334028239798273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020841998417289714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnyn267348 @loong001116 你沒法去定義什麼互助是好的，什麼互助是壞的，自由的定義是不影響其他自由，如果我幫助一個人的自由，而損害另一個人的自由，那麼另一個人的自由也會有另外的人幫助，這就很容易導致類似現在歐盟大多數正在發生的黨派之爭，具體你可以看一下哈耶克的經驗主義。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2020691957706793134",
+        "created_at": "2026-02-09T13:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T14:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020851876212646268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1980334028239798273",
+              "start": 0,
+              "username": "lnyn267348"
+            },
+            {
+              "end": 24,
+              "id": "1662723831533027329",
+              "start": 12,
+              "username": "loong001116"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020851876212646268",
+        "in_reply_to_user_id": "1980334028239798273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020841998417289714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnyn267348 @loong001116 你沒法去定義什麼互助是好的，什麼互助是壞的，自由的定義是不影響其他自由，如果我幫助一個人的自由，而損害另一個人的自由，那麼另一個人的自由也會有另外的人幫助，這就很容易導致類似現在歐盟大多數正在發生的黨派之爭，具體你可以看一下哈耶克的經驗主義。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980334028239798273",
+        "conversation_id": "2020691957706793134",
+        "created_at": "2026-02-09T12:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T13:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020841998417289714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            },
+            {
+              "end": 25,
+              "id": "1662723831533027329",
+              "start": 13,
+              "username": "loong001116"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020841998417289714",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020840933844267130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure @loong001116 当然是人类天生以来自带的互助精神，群居动物都有的，包括最低等的蚂蚁也是一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 129,
+          "like_count": 19009,
+          "listed_count": 0,
+          "media_count": 548,
+          "tweet_count": 4505
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T18:03:29.000Z",
+        "description": "无政府主义、自由女权主义、LGBTQ+权益、进步儒学（公共现代新儒学）",
+        "id": "1980334028239798273",
+        "name": "青木好烫啊🍥🧊🍔💊🤤",
+        "pinned_tweet_id": "2018979385655918863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008448340003094528/Nm1bga1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 141,
+          "like_count": 4289,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 1038
+        },
+        "username": "lnyn267348",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T07:33:54.000Z",
+        "description": "人称代词：他/ta/你（“他”字恢复中性）汉字“他”不是男也，是人也",
+        "id": "1662723831533027329",
+        "location": "Satan's Dick",
+        "name": "劳荣枝(🏳️‍🌈🏳️‍⚧互fo)",
+        "pinned_tweet_id": "2016232346962305171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017461086367223808/CwfFSNvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 1510,
+          "like_count": 4755,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 3500
+        },
+        "username": "loong001116",
+        "verified": false
+      }
+    ]
+  }
+}

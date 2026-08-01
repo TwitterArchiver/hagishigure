@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2020729116358770965",
+    "created_at": "2026-02-09T11:07:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T12:07:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020816936011972977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "3425259623",
+          "start": 0,
+          "username": "9_bishi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020816936011972977",
+    "in_reply_to_user_id": "3425259623",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020729116358770965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9_bishi 對的對的，以前api是免費的還能隨時視奸誰取關了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2020729116358770965",
+        "created_at": "2026-02-09T11:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T12:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020816936011972977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "3425259623",
+              "start": 0,
+              "username": "9_bishi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020816936011972977",
+        "in_reply_to_user_id": "3425259623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020729116358770965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9_bishi 對的對的，以前api是免費的還能隨時視奸誰取關了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3425259623",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1621201942994161665",
+              "name": "Twitter API"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1750052293607669760",
+              "name": "DevPlatform JP"
+            }
+          }
+        ],
+        "conversation_id": "2020729116358770965",
+        "created_at": "2026-02-09T05:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T06:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020729116358770965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/allen_su1024/s…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/allen_su1024/status/2020524718374470066",
+              "start": 50,
+              "url": "https://t.co/RkA1MfHLu3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020729116358770965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 480,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020524718374470066",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "良心发现在哪，冷知识2023年之前 Twitter API 每个月起码十万级调用次数内是免费用的… https://t.co/RkA1MfHLu3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 129,
+          "like_count": 18983,
+          "listed_count": 0,
+          "media_count": 547,
+          "tweet_count": 4498
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-16T04:51:49.000Z",
+        "description": "声優とか音楽とか日常とかいろいろ\nnote: https://t.co/NPUUrK0iu8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "note.com/mikan392",
+                "end": 46,
+                "expanded_url": "https://note.com/mikan392",
+                "start": 23,
+                "url": "https://t.co/NPUUrK0iu8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.anontokyo.com",
+                "end": 23,
+                "expanded_url": "http://blog.anontokyo.com",
+                "start": 0,
+                "url": "https://t.co/OQcAIsWCEL"
+              }
+            ]
+          }
+        },
+        "id": "3425259623",
+        "location": "海外",
+        "name": "みかん（つぶやきver.）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008955281502576640/0EiePVfm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 4276,
+          "like_count": 74591,
+          "listed_count": 10,
+          "media_count": 3612,
+          "tweet_count": 11106
+        },
+        "url": "https://t.co/OQcAIsWCEL",
+        "username": "9_bishi",
+        "verified": false
+      }
+    ]
+  }
+}

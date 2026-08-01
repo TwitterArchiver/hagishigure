@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058452349396373504"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "2058452369407357022",
+    "created_at": "2026-05-24T07:37:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T08:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058452369407357022"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8v9GDIAAD5",
+          "end": 109,
+          "expanded_url": "https://x.com/hagishigure/status/2058452369407357022/photo/1",
+          "media_key": "3_2058452349396373504",
+          "start": 86,
+          "url": "https://t.co/8v9GDIAAD5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058452369407357022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你amber因为我问为什么不支持跨女注射庚酸睾酮把我屏蔽了：\n这说明 It 根本没有酷儿性，It 只是异性恋矩阵的一种chaser罢了。\n不然为什么跨女不能注射庚酸睾酮。 https://t.co/8v9GDIAAD5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1758,
+        "media_key": "3_2058452349396373504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJEXgXDW0AA2F2m.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058452349396373504"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "2058452369407357022",
+        "created_at": "2026-05-24T07:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058452369407357022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8v9GDIAAD5",
+              "end": 109,
+              "expanded_url": "https://x.com/hagishigure/status/2058452369407357022/photo/1",
+              "media_key": "3_2058452349396373504",
+              "start": 86,
+              "url": "https://t.co/8v9GDIAAD5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058452369407357022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你amber因为我问为什么不支持跨女注射庚酸睾酮把我屏蔽了：\n这说明 It 根本没有酷儿性，It 只是异性恋矩阵的一种chaser罢了。\n不然为什么跨女不能注射庚酸睾酮。 https://t.co/8v9GDIAAD5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 150,
+          "like_count": 29579,
+          "listed_count": 3,
+          "media_count": 774,
+          "tweet_count": 7078
+        },
+        "username": "hagishigure",
+        "verified": true
+      }
+    ]
+  }
+}

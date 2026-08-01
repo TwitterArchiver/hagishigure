@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1982615158116770172",
+    "created_at": "2025-10-27T01:07:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T02:07:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982615158116770172"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hentai_kyo01/s…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/hentai_kyo01/status/1982494827972600002",
+          "start": 51,
+          "url": "https://t.co/rg9fBlWB96"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982615158116770172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982494827972600002",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "。我真無語了。因為人家用的是英文。說的是 Is this True? 你當然看不見事實核查這幾個字。 https://t.co/rg9fBlWB96"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1982615158116770172",
+        "created_at": "2025-10-27T01:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T02:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982615158116770172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hentai_kyo01/s…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/hentai_kyo01/status/1982494827972600002",
+              "start": 51,
+              "url": "https://t.co/rg9fBlWB96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982615158116770172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982494827972600002",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。我真無語了。因為人家用的是英文。說的是 Is this True? 你當然看不見事實核查這幾個字。 https://t.co/rg9fBlWB96"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1134646245920632833",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1982323750008992175",
+        "created_at": "2025-10-26T17:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T18:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982494827972600002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1956971181485277184",
+              "start": 0,
+              "username": "dgcaptain_twSFW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982494827972600002",
+        "in_reply_to_user_id": "1956971181485277184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982456369476407658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dgcaptain_twSFW 就不相信中文轉推內容才會想要事實查核不是嗎？至於不相信的理由，不就是「移民才沒有那麼壞」的出發點嗎？英文頂層推也沒什麼人去叫Grok事實查核呢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 99,
+          "like_count": 5865,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 1169
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-01T02:22:00.000Z",
+        "description": "固執的法鬥主人，推動台灣人認同，台灣法理建國穩健本土派。封鎖：（純血/精神）中國人，鎖推者不開放回fo者。",
+        "id": "1134646245920632833",
+        "location": "Formosa",
+        "name": "Formosan Siông🟩⬜",
+        "pinned_tweet_id": "1560922182414630917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938970016906391552/i3JX-jN1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1663,
+          "following_count": 1685,
+          "like_count": 258540,
+          "listed_count": 11,
+          "media_count": 1737,
+          "tweet_count": 29824
+        },
+        "username": "hentai_kyo01",
+        "verified": false
+      }
+    ]
+  }
+}

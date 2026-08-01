@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981593271349489664"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1981373626638356729",
+    "created_at": "2025-10-24T05:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T06:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981593277133689218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1980199465429725184",
+          "start": 0,
+          "username": "HaruAmamiyaDev"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tS5uJWjsc2",
+          "end": 51,
+          "expanded_url": "https://x.com/hagishigure/status/1981593277133689218/photo/1",
+          "media_key": "3_1981593271349489664",
+          "start": 28,
+          "url": "https://t.co/tS5uJWjsc2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981593277133689218",
+    "in_reply_to_user_id": "1980199465429725184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981590269557686431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaruAmamiyaDev 應該不是這些紫色星星🐱 https://t.co/tS5uJWjsc2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2011,
+        "media_key": "3_1981593271349489664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4AIlNQXMAAjbRY.jpg",
+        "width": 291
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981593271349489664"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1981373626638356729",
+        "created_at": "2025-10-24T05:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T06:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981593277133689218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1980199465429725184",
+              "start": 0,
+              "username": "HaruAmamiyaDev"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tS5uJWjsc2",
+              "end": 51,
+              "expanded_url": "https://x.com/hagishigure/status/1981593277133689218/photo/1",
+              "media_key": "3_1981593271349489664",
+              "start": 28,
+              "url": "https://t.co/tS5uJWjsc2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981593277133689218",
+        "in_reply_to_user_id": "1980199465429725184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981590269557686431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaruAmamiyaDev 應該不是這些紫色星星🐱 https://t.co/tS5uJWjsc2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980199465429725184",
+        "conversation_id": "1981373626638356729",
+        "created_at": "2025-10-24T05:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T06:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981590269557686431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981590269557686431",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981589431351148671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure 您有用过promote这个功能吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 98,
+          "like_count": 5252,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 1011
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-20T09:09:01.000Z",
+        "description": "被激情所驱使，被梦想所引导，渴望热爱生活",
+        "id": "1980199465429725184",
+        "name": "雨宮 晴",
+        "pinned_tweet_id": "1981109570388009014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980199806459883520/MtadfAui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 83,
+          "like_count": 255,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 48
+        },
+        "username": "HaruAmamiyaDev",
+        "verified": true
+      }
+    ]
+  }
+}

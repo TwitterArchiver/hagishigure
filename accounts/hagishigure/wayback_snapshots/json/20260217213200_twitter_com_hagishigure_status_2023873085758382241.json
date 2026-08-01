@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2023873085758382241",
+    "created_at": "2026-02-17T21:32:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T22:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023873085758382241"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 127,
+          "normalized_text": "LGBT",
+          "probability": 0.9021,
+          "start": 124,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1276246176954802176",
+          "start": 3,
+          "username": "aaMakyx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023873085758382241",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023821908127653978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aaMakyx: No one's existence deserves to be deemed as illegal if they happen not to fit the norms and do not cause harm. LGBT people are…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2023873085758382241",
+        "created_at": "2026-02-17T21:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T22:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023873085758382241"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 127,
+              "normalized_text": "LGBT",
+              "probability": 0.9021,
+              "start": 124,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1276246176954802176",
+              "start": 3,
+              "username": "aaMakyx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023873085758382241",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023821908127653978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aaMakyx: No one's existence deserves to be deemed as illegal if they happen not to fit the norms and do not cause harm. LGBT people are…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276246176954802176",
+        "conversation_id": "2023821908127653978",
+        "created_at": "2026-02-17T18:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T19:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023821908127653978"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 114,
+              "normalized_text": "LGBT",
+              "probability": 0.9063,
+              "start": 111,
+              "type": "Place"
+            },
+            {
+              "end": 151,
+              "normalized_text": "Turkey",
+              "probability": 0.8732,
+              "start": 146,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023821908127653978",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2151,
+          "like_count": 213,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "No one's existence deserves to be deemed as illegal if they happen not to fit the norms and do not cause harm. LGBT people are innocent, and what Turkey is doing to them is beyond cruel, you people are valid for the way you are, please stay strong in hard times! We support you💙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 130,
+          "like_count": 20140,
+          "listed_count": 0,
+          "media_count": 574,
+          "tweet_count": 4876
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-25T20:09:42.000Z",
+        "description": "Mak/Sophie |\n\nShe/Her |\n\nI like Xueyi |\n\n🏳️‍⚧️ 🇵🇱 |\n\nLesbiab |\n\nIm 23 GOD I'm old",
+        "id": "1276246176954802176",
+        "name": "mak 🏳️‍⚧️ | I stand with 🏳️‍🌈🇹🇷",
+        "pinned_tweet_id": "1996281385322180690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984751168560472065/s_8DkuAZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 248,
+          "like_count": 15724,
+          "listed_count": 1,
+          "media_count": 368,
+          "tweet_count": 1850
+        },
+        "username": "aaMakyx",
+        "verified": false
+      }
+    ]
+  }
+}

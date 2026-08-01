@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990851793438560256"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1990640337707282459",
+    "created_at": "2025-11-18T18:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T19:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990851800849879388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1609619970811482112",
+          "start": 0,
+          "username": "3ch4O1H"
+        },
+        {
+          "end": 18,
+          "id": "1627301480440164352",
+          "start": 9,
+          "username": "NWA12302"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GBQjkWzJvP",
+          "end": 73,
+          "expanded_url": "https://x.com/hagishigure/status/1990851800849879388/photo/1",
+          "media_key": "3_1990851793438560256",
+          "start": 50,
+          "url": "https://t.co/GBQjkWzJvP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990851800849879388",
+    "in_reply_to_user_id": "1609619970811482112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990644698369962385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3ch4O1H @NWA12302 平時用網易雲的心動模式找下編曲和絃的靈感差不多一兩年就滿了。 https://t.co/GBQjkWzJvP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1248,
+        "media_key": "3_1990851793438560256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6DtKHxa0AA9ts0.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990851793438560256"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1990640337707282459",
+        "created_at": "2025-11-18T18:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T19:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990851800849879388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1609619970811482112",
+              "start": 0,
+              "username": "3ch4O1H"
+            },
+            {
+              "end": 18,
+              "id": "1627301480440164352",
+              "start": 9,
+              "username": "NWA12302"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GBQjkWzJvP",
+              "end": 73,
+              "expanded_url": "https://x.com/hagishigure/status/1990851800849879388/photo/1",
+              "media_key": "3_1990851793438560256",
+              "start": 50,
+              "url": "https://t.co/GBQjkWzJvP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990851800849879388",
+        "in_reply_to_user_id": "1609619970811482112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990644698369962385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3ch4O1H @NWA12302 平時用網易雲的心動模式找下編曲和絃的靈感差不多一兩年就滿了。 https://t.co/GBQjkWzJvP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609619970811482112",
+        "conversation_id": "1990640337707282459",
+        "created_at": "2025-11-18T04:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T05:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990644698369962385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1627301480440164352",
+              "start": 0,
+              "username": "NWA12302"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990644698369962385",
+        "in_reply_to_user_id": "1627301480440164352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990640337707282459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NWA12302 这个不刻意挂感觉确实能到的有点神了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 108,
+          "like_count": 9552,
+          "listed_count": 0,
+          "media_count": 322,
+          "tweet_count": 2215
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-01T18:38:28.000Z",
+        "description": "只有情感能超越时间\n最爱的伴侣@LixdH5jzYx99195\n顺男\n保守建制不jz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "LixdH5jzYx99195"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qntwx.cn/LNLEGH",
+                "end": 23,
+                "expanded_url": "https://qntwx.cn/LNLEGH",
+                "start": 0,
+                "url": "https://t.co/8ZHoMP65Dd"
+              }
+            ]
+          }
+        },
+        "id": "1609619970811482112",
+        "location": "unknown",
+        "name": "Echo4th",
+        "pinned_tweet_id": "1794811854461730964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925247331391479808/c3pLQLxw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1221,
+          "following_count": 3930,
+          "like_count": 89704,
+          "listed_count": 4,
+          "media_count": 1058,
+          "tweet_count": 34376
+        },
+        "url": "https://t.co/8ZHoMP65Dd",
+        "username": "3ch4O1H",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T13:38:19.000Z",
+        "description": "地质学Geology & 陨石学 Meteoritics ｜科研日记本｜有理有据表达不满 ｜烤批｜粥9摆烂选手｜业余摄影师｜jpop 日摇 术力口｜INFJ｜华枝春满，天心月圆@LihaigeUpasaka｜我永远喜欢黍｜大码lo裙体验者｜做个好玩的人\n｜用爱发电@Alter_Syrup ｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 88,
+                "username": "LihaigeUpasaka"
+              },
+              {
+                "end": 144,
+                "start": 132,
+                "username": "Alter_Syrup"
+              }
+            ]
+          }
+        },
+        "id": "1627301480440164352",
+        "location": "Kyoto-fu, Japan",
+        "name": "AAA糖浆专卖",
+        "pinned_tweet_id": "1780992344306983398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984938961140379648/wf9ada-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1557,
+          "following_count": 1300,
+          "like_count": 122626,
+          "listed_count": 5,
+          "media_count": 1701,
+          "tweet_count": 8572
+        },
+        "username": "NWA12302",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1982688882048307616",
+    "created_at": "2025-10-27T07:54:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T08:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982717460878184777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1864739862697644032",
+          "start": 0,
+          "username": "2196F3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982717460878184777",
+    "in_reply_to_user_id": "1864739862697644032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982688882048307616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2196F3 數據耦合不行，Hit低效，回歸😾"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 509,
+        "media_key": "3_1982687253777223680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4PrjXYWEAAhjwb.png",
+        "width": 934
+      },
+      {
+        "height": 311,
+        "media_key": "3_1982687253575979008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4PrjWoXUAALVEq.png",
+        "width": 671
+      },
+      {
+        "height": 304,
+        "media_key": "3_1982687253735378944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4PrjXOXkAAFB6w.png",
+        "width": 364
+      },
+      {
+        "height": 304,
+        "media_key": "3_1982687253764681728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4PrjXVWsAAKiF-.png",
+        "width": 364
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1982688882048307616",
+        "created_at": "2025-10-27T07:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T08:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982717460878184777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1864739862697644032",
+              "start": 0,
+              "username": "2196F3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982717460878184777",
+        "in_reply_to_user_id": "1864739862697644032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982688882048307616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2196F3 數據耦合不行，Hit低效，回歸😾"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982687253777223680",
+            "3_1982687253575979008",
+            "3_1982687253735378944",
+            "3_1982687253764681728"
+          ]
+        },
+        "author_id": "1864739862697644032",
+        "conversation_id": "1982688882048307616",
+        "created_at": "2025-10-27T06:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T06:55:12.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982687505410576413",
+          "1982688882048307616"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "猫猫"
+            },
+            {
+              "end": 12,
+              "start": 9,
+              "tag": "能有"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "什么"
+            },
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "坏心思呢"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WPcdZvb0qs",
+              "end": 46,
+              "expanded_url": "https://x.com/2196F3/status/1982688882048307616/photo/1",
+              "media_key": "3_1982687253777223680",
+              "start": 23,
+              "url": "https://t.co/WPcdZvb0qs"
+            },
+            {
+              "display_url": "pic.x.com/WPcdZvb0qs",
+              "end": 46,
+              "expanded_url": "https://x.com/2196F3/status/1982688882048307616/photo/1",
+              "media_key": "3_1982687253575979008",
+              "start": 23,
+              "url": "https://t.co/WPcdZvb0qs"
+            },
+            {
+              "display_url": "pic.x.com/WPcdZvb0qs",
+              "end": 46,
+              "expanded_url": "https://x.com/2196F3/status/1982688882048307616/photo/1",
+              "media_key": "3_1982687253735378944",
+              "start": 23,
+              "url": "https://t.co/WPcdZvb0qs"
+            },
+            {
+              "display_url": "pic.x.com/WPcdZvb0qs",
+              "end": 46,
+              "expanded_url": "https://x.com/2196F3/status/1982688882048307616/photo/1",
+              "media_key": "3_1982687253764681728",
+              "start": 23,
+              "url": "https://t.co/WPcdZvb0qs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982688882048307616",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 5,
+                "tag": "猫猫"
+              },
+              {
+                "end": 12,
+                "start": 9,
+                "tag": "能有"
+              },
+              {
+                "end": 16,
+                "start": 13,
+                "tag": "什么"
+              },
+              {
+                "end": 22,
+                "start": 17,
+                "tag": "坏心思呢"
+              }
+            ]
+          },
+          "text": "🐱😾❕💥\n#猫猫 #能有 #什么 #坏心思呢"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 126,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🐱😾❕💥\n#猫猫 #能有 #什么 #坏心思呢 https://t.co/WPcdZvb0qs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 99,
+          "like_count": 5988,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 1206
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-05T18:33:59.000Z",
+        "description": "本体是香香软软没有攻击性的INTP猞猁！有Candidacy，是explorer，coser和Les. 想做大家的好朋友给人们带来快乐。不太喜欢zs话题也不会主动传播负能量，刷到相关推文会点not interested. 看到做得不好的实验会整个炸掉(然后亲自上手) 。😿 私信话题：源石会诱导Casp蛋白表达上升吗？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "prts.eterea.uk/?quickacc=bull…",
+                "end": 23,
+                "expanded_url": "http://prts.eterea.uk/?quickacc=bulletin",
+                "start": 0,
+                "url": "https://t.co/fVFEeZUeRA"
+              }
+            ]
+          }
+        },
+        "id": "1864739862697644032",
+        "location": "California, USA",
+        "name": "凯尔希是猫猫",
+        "pinned_tweet_id": "1949626289104802165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952307711271735297/Kt15yKo2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1021,
+          "following_count": 766,
+          "like_count": 4680,
+          "listed_count": 5,
+          "media_count": 449,
+          "tweet_count": 3906
+        },
+        "url": "https://t.co/fVFEeZUeRA",
+        "username": "2196F3",
+        "verified": true
+      }
+    ]
+  }
+}

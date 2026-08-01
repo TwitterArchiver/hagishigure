@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2049717970432139727",
+    "created_at": "2026-04-30T05:10:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T06:10:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049717970432139727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1864739862697644032",
+          "start": 3,
+          "username": "2196F3"
+        },
+        {
+          "end": 27,
+          "id": "1284878153622515713",
+          "start": 12,
+          "username": "Aeneas10379693"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049717970432139727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049612909568008299",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2196F3: @Aeneas10379693 有的时候会感觉\n养活自己TA 就够了\n倒是科研已经看不到意义了\n\n1. 很难说服自己这个东西很novel -&gt; 类似的东西已经在一次一次的revision 中被别人做出来很多次了\n2. 能改变自己的处境eg. 获得RA 或…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2049717970432139727",
+        "created_at": "2026-04-30T05:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T06:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049717970432139727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1864739862697644032",
+              "start": 3,
+              "username": "2196F3"
+            },
+            {
+              "end": 27,
+              "id": "1284878153622515713",
+              "start": 12,
+              "username": "Aeneas10379693"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049717970432139727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049612909568008299",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2196F3: @Aeneas10379693 有的时候会感觉\n养活自己TA 就够了\n倒是科研已经看不到意义了\n\n1. 很难说服自己这个东西很novel -&gt; 类似的东西已经在一次一次的revision 中被别人做出来很多次了\n2. 能改变自己的处境eg. 获得RA 或…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864739862697644032",
+        "conversation_id": "2049419436369883469",
+        "created_at": "2026-04-29T22:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T23:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049612909568008299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1284878153622515713",
+              "start": 0,
+              "username": "Aeneas10379693"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049612909568008299",
+        "in_reply_to_user_id": "1284878153622515713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有的时候会感觉\n养活自己TA 就够了\n倒是科研已经看不到意义了\n\n1. 很难说服自己这个东西很novel -> 类似的东西已经在一次一次的revision 中被别人做出来很多次了\n2. 能改变自己的处境eg. 获得RA 或更多实验实验器材 -> 毕竟已经快毕业，每学期都是不见天日的TA\n3. 我在培养某种神圣的关系-> 被旧老板扔掉过，被新老板因为funding 也几乎扔掉，反正是不要的猫猫想扔就扔\n\n之前早知道这个博要是这种情况，只是被allowed to do research 而不是encouraged to do research, 我是不会读的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049599140498153822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aeneas10379693 有的时候会感觉\n养活自己TA 就够了\n倒是科研已经看不到意义了\n\n1. 很难说服自己这个东西很novel -&gt; 类似的东西已经在一次一次的revision 中被别人做出来很多次了\n2. 能改变自己的处境eg. 获得RA 或更多实验实验器材 -&gt; 毕竟已经快毕业，每学期都是不见天日的TA\n3. 我在培养某种神圣的关系-&gt;"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 149,
+          "like_count": 27922,
+          "listed_count": 2,
+          "media_count": 743,
+          "tweet_count": 6644
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-05T18:33:59.000Z",
+        "description": "研究生物医学小分子和神经科学，Candidacy↑。\n\n本体是香香软软没有攻击性的INTP猞猁！\n\n是explorer，coser和Les，想做大家的好朋友给人们带来快乐。\n\n看到做得不好的实验会整个炸掉(然后亲自上手) 。😿 \n\n私信话题：源石会上调 IL6吗？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "prts.eterea.uk/?quickacc=bull…",
+                "end": 23,
+                "expanded_url": "http://prts.eterea.uk/?quickacc=bulletin",
+                "start": 0,
+                "url": "https://t.co/fVFEeZUeRA"
+              }
+            ]
+          }
+        },
+        "id": "1864739862697644032",
+        "location": "California, USA",
+        "name": "凯尔希是猫猫",
+        "pinned_tweet_id": "1949626289104802165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952307711271735297/Kt15yKo2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 909,
+          "like_count": 5443,
+          "listed_count": 4,
+          "media_count": 731,
+          "tweet_count": 4623
+        },
+        "url": "https://t.co/fVFEeZUeRA",
+        "username": "2196F3",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-19T15:50:18.000Z",
+        "description": "",
+        "id": "1284878153622515713",
+        "name": "Aeneas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1538542417825366018/WnzYeKeX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 89,
+          "like_count": 12214,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 2855
+        },
+        "username": "Aeneas10379693",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596157251584",
+          "name": "Grocery/Convenience - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040459063",
+          "name": "Lidl"
+        }
+      }
+    ],
+    "conversation_id": "2024487016608534631",
+    "created_at": "2026-02-19T14:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T15:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024487016608534631"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Y2D80355/statu…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/Y2D80355/status/2024453631693517189",
+          "start": 52,
+          "url": "https://t.co/HYCAavKyMW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024487016608534631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024453631693517189",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没事宝宝，等我当上PvdA党首马上就以权谋私在你家附近放20个垃圾桶，这样你就可以靠卖废品发家致富了。 https://t.co/HYCAavKyMW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596157251584",
+              "name": "Grocery/Convenience - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459063",
+              "name": "Lidl"
+            }
+          }
+        ],
+        "conversation_id": "2024487016608534631",
+        "created_at": "2026-02-19T14:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T15:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024487016608534631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Y2D80355/statu…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/Y2D80355/status/2024453631693517189",
+              "start": 52,
+              "url": "https://t.co/HYCAavKyMW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024487016608534631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024453631693517189",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没事宝宝，等我当上PvdA党首马上就以权谋私在你家附近放20个垃圾桶，这样你就可以靠卖废品发家致富了。 https://t.co/HYCAavKyMW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540698144429596673",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596157251584",
+              "name": "Grocery/Convenience - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459063",
+              "name": "Lidl"
+            }
+          }
+        ],
+        "conversation_id": "2024453631693517189",
+        "created_at": "2026-02-19T11:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024453631693517189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024453631693517189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "克劳拉申上了柏林洪堡大学，马克西米连进了应用技术大学，我在Lidl超市当售货员，我们都有光明的前途"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 132,
+          "like_count": 20558,
+          "listed_count": 0,
+          "media_count": 582,
+          "tweet_count": 5010
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-25T14:07:33.000Z",
+        "description": "赛博果酱包会不会遇见电子肯尼迪",
+        "id": "1540698144429596673",
+        "name": "Bundesamt für Berliner und Weißwürste",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009372240891019264/_Es0_6UF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 542,
+          "like_count": 3375,
+          "listed_count": 1,
+          "media_count": 221,
+          "tweet_count": 4157
+        },
+        "username": "Y2D80355",
+        "verified": false
+      }
+    ]
+  }
+}

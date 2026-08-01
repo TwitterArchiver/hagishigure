@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1985249758173413382",
+    "created_at": "2025-11-03T07:36:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T08:36:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985249758173413382"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nanshanjukr/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/nanshanjukr/status/1985009688304361949",
+          "start": 14,
+          "url": "https://t.co/GwS03uuyT6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985249758173413382",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985009688304361949",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "移情和反移情。投射和防禦。 https://t.co/GwS03uuyT6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1985249758173413382",
+        "created_at": "2025-11-03T07:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T08:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985249758173413382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nanshanjukr/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/nanshanjukr/status/1985009688304361949",
+              "start": 14,
+              "url": "https://t.co/GwS03uuyT6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985249758173413382",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985009688304361949",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "移情和反移情。投射和防禦。 https://t.co/GwS03uuyT6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482045406544482311",
+        "conversation_id": "1985009681484398702",
+        "created_at": "2025-11-02T15:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T16:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985009688304361949"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985009688304361949",
+        "in_reply_to_user_id": "1482045406544482311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985009687071256833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "6/7\n\n真正的精神分析需要什么？\n\n两个条件：\n\n1️⃣ 患者通过准备，自己接近被压抑的内容\n\n2️⃣ 患者与治疗师建立足够的移情关系\n\n只有这样，才能真正识别和处理那些导致压抑的内在阻抗。\n\n这需要时间、耐心和专业训练。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 103,
+          "like_count": 7021,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 1511
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-14T17:42:25.000Z",
+        "description": "📖 临床心理咨询硕士｜📮「重新思考」心理通讯主笔｜✍️《适应性笔记法》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nsjk.substack.com",
+                "end": 23,
+                "expanded_url": "https://nsjk.substack.com",
+                "start": 0,
+                "url": "https://t.co/BUKk3CMk62"
+              }
+            ]
+          }
+        },
+        "id": "1482045406544482311",
+        "location": "East Rochester, NY",
+        "name": "Marvix",
+        "pinned_tweet_id": "1966318811331563662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984940641277612032/Dg5y3KJP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3420,
+          "following_count": 799,
+          "like_count": 5932,
+          "listed_count": 22,
+          "media_count": 1239,
+          "tweet_count": 4519
+        },
+        "url": "https://t.co/BUKk3CMk62",
+        "username": "nanshanjukr",
+        "verified": true
+      }
+    ]
+  }
+}

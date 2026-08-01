@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1978918300957442464",
+    "created_at": "2025-10-16T20:22:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T21:22:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978919554974712095"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1978919554974712095",
+    "in_reply_to_user_id": "1965393379224944645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978918300957442464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "舉個例子：\nLOKIINBOLEM：不可言\nPZAKA：沉寂\n組合變換一下就是，ENGGENAII：永恆安寧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1978918300957442464",
+        "created_at": "2025-10-16T20:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T21:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978919554974712095"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978919554974712095",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978918300957442464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "舉個例子：\nLOKIINBOLEM：不可言\nPZAKA：沉寂\n組合變換一下就是，ENGGENAII：永恆安寧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1978918300957442464",
+        "created_at": "2025-10-16T20:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T21:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978918300957442464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978918300957442464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "事實上我有自己的造語。\n但我只給它寫了高級詞彙。沒有給它寫基礎語法。因為我希望我的造語不遵守任何規則，而是簡短的靠詞語組合表達各種不同意思的語言。\n而不是在各種規則內的語言。\n任何格的存在對我的造語來說都是多餘且冗雜的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 92,
+          "like_count": 3808,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 618
+        },
+        "username": "hagishigure",
+        "verified": true
+      }
+    ]
+  }
+}

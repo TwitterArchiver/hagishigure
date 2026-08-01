@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1985745898115366941",
+    "created_at": "2025-11-04T16:28:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T17:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985745898115366941"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_toffee/s…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/amber_toffee/status/1985546954814669260",
+          "start": 46,
+          "url": "https://t.co/R34rmqoY4h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985745898115366941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985546954814669260",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "為什麼不當女性氣質的男性就和恐龍滅絕是水母進化導致的一樣荒謬。\n這種話應該由卡繆本人來說。 https://t.co/R34rmqoY4h"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1985745898115366941",
+        "created_at": "2025-11-04T16:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T17:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985745898115366941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/amber_toffee/status/1985546954814669260",
+              "start": 46,
+              "url": "https://t.co/R34rmqoY4h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985745898115366941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985546954814669260",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "為什麼不當女性氣質的男性就和恐龍滅絕是水母進化導致的一樣荒謬。\n這種話應該由卡繆本人來說。 https://t.co/R34rmqoY4h"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "1985490215667208351",
+        "created_at": "2025-11-04T03:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T04:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985546954814669260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1538522512392220672",
+              "start": 0,
+              "username": "Nekoiuo_zzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985546954814669260",
+        "in_reply_to_user_id": "1538522512392220672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 249,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985490215667208351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nekoiuo_zzz 图里这种最讨厌的地方就是在自作聪明地问一些我们都已经被问烦了的事情 我们说要当女的你说为什么我们不当违反刻板印象的男的 你猜违反刻板印象的男的和女的是不是同一种东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 103,
+          "like_count": 7306,
+          "listed_count": 0,
+          "media_count": 241,
+          "tweet_count": 1569
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "❤︎ @noaayoyaoaya / ☭ / mtf / intp / phd @uoft",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 45,
+                "start": 40,
+                "username": "uoft"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber🪼",
+        "pinned_tweet_id": "1956439384674418778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18753,
+          "following_count": 2383,
+          "like_count": 34263,
+          "listed_count": 55,
+          "media_count": 738,
+          "tweet_count": 17275
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

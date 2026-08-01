@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2015419352502219003",
+    "created_at": "2026-01-25T14:41:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T15:41:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015434804049641521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1628369872081104898",
+          "start": 0,
+          "username": "asaka_fumizuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015434804049641521",
+    "in_reply_to_user_id": "1628369872081104898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015419916917329966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asaka_fumizuki 還好VL817，Waveshare 40Pin，Quectel這些沒漲價…要是漲價了我連DIY都玩不起了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2015419352502219003",
+        "created_at": "2026-01-25T14:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T15:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015434804049641521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1628369872081104898",
+              "start": 0,
+              "username": "asaka_fumizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015434804049641521",
+        "in_reply_to_user_id": "1628369872081104898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015419916917329966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asaka_fumizuki 還好VL817，Waveshare 40Pin，Quectel這些沒漲價…要是漲價了我連DIY都玩不起了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628369872081104898",
+        "conversation_id": "2015419352502219003",
+        "created_at": "2026-01-25T13:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T14:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015419916917329966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015419916917329966",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015419352502219003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure SBC普遍涨价了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 124,
+          "like_count": 16298,
+          "listed_count": 0,
+          "media_count": 444,
+          "tweet_count": 3790
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-22T12:23:35.000Z",
+        "description": "安積 文月 | 💻 | OwO",
+        "id": "1628369872081104898",
+        "location": "now here",
+        "name": "0xDF4D4223🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862511215815401477/zd7ZKUUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 2646,
+          "like_count": 48065,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 1063
+        },
+        "username": "asaka_fumizuki",
+        "verified": false
+      }
+    ]
+  }
+}

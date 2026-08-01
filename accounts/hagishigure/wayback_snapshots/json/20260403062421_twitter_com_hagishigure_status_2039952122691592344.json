@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2039952122691592344",
+    "created_at": "2026-04-03T06:24:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T07:24:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039952122691592344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2001598933169315840",
+          "start": 3,
+          "username": "XldscX"
+        },
+        {
+          "end": 25,
+          "id": "1985722042126303232",
+          "start": 12,
+          "username": "pstf11458964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039952122691592344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039579557385424977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XldscX: @pstf11458964 王宇航知道自己是女跨男吗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2039952122691592344",
+        "created_at": "2026-04-03T06:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T07:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039952122691592344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2001598933169315840",
+              "start": 3,
+              "username": "XldscX"
+            },
+            {
+              "end": 25,
+              "id": "1985722042126303232",
+              "start": 12,
+              "username": "pstf11458964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039952122691592344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039579557385424977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XldscX: @pstf11458964 王宇航知道自己是女跨男吗。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001598933169315840",
+        "conversation_id": "2039517850734588321",
+        "created_at": "2026-04-02T05:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T06:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039579557385424977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1985722042126303232",
+              "start": 0,
+              "username": "pstf11458964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039579557385424977",
+        "in_reply_to_user_id": "1985722042126303232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039571255494586629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pstf11458964 王宇航知道自己是女跨男吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 149,
+          "like_count": 26942,
+          "listed_count": 2,
+          "media_count": 715,
+          "tweet_count": 6396
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-18T10:23:02.000Z",
+        "description": "17y.o./生理男心理男💜/东乡族/hrt24.4.20/181cm 59kg/学校跳楼存活记录No.1/🇹🇼❂💙/喜欢Apex,CS,mai/R99 suki\n\n我是翎\n可以蹭蓝标互关7000fo🔞小号@AzureV1xen \n\n好厚米🇲🇴@letana358121\n♥️@juhao0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 103,
+                "username": "AzureV1xen"
+              },
+              {
+                "end": 135,
+                "start": 122,
+                "username": "letana358121"
+              },
+              {
+                "end": 148,
+                "start": 138,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/llenium1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/llenium1",
+                "start": 0,
+                "url": "https://t.co/mE8Cawnpdp"
+              }
+            ]
+          }
+        },
+        "id": "2001598933169315840",
+        "location": "🇹🇼中華民國戰時陪都重慶市",
+        "name": "Re: Yu1kaX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039264349282603008/_wWEfmzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 571,
+          "like_count": 15636,
+          "listed_count": 2,
+          "media_count": 305,
+          "tweet_count": 5619
+        },
+        "url": "https://t.co/mE8Cawnpdp",
+        "username": "XldscX",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-04T14:53:38.000Z",
+        "description": "一个潜伏在新加坡的纯正的大西洋主义者，馬蹄鐵大一統理論支持者/You block=I win/I had no malicious intent; all malice is subjective.:)/Asian lib/Bi",
+        "id": "1985722042126303232",
+        "name": "Ⅳ/Jones🇪🇺🇨🇦🇺🇦🇹🇼",
+        "pinned_tweet_id": "2012446597326717089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035670602305122304/zXiLibal_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 701,
+          "like_count": 64133,
+          "listed_count": 5,
+          "media_count": 194,
+          "tweet_count": 7637
+        },
+        "username": "pstf11458964",
+        "verified": false
+      }
+    ]
+  }
+}

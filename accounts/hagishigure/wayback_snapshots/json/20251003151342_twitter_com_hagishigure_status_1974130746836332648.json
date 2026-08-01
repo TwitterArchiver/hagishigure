@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974130738107985923"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1974078687625818607",
+    "created_at": "2025-10-03T15:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T16:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974130746836332648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1504387273919401987",
+          "start": 0,
+          "username": "KamiyaSara8972"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fmUAV3cuy7",
+          "end": 54,
+          "expanded_url": "https://x.com/hagishigure/status/1974130746836332648/photo/1",
+          "media_key": "3_1974130738107985923",
+          "start": 31,
+          "url": "https://t.co/fmUAV3cuy7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974130746836332648",
+    "in_reply_to_user_id": "1504387273919401987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974112043331694921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KamiyaSara8972 看看罵你那個，毫不意外是寸頭 https://t.co/fmUAV3cuy7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1545,
+        "media_key": "3_1974130738107985923",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2WFcmkbMAMqZlj.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974130738107985923"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1974078687625818607",
+        "created_at": "2025-10-03T15:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T16:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974130746836332648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1504387273919401987",
+              "start": 0,
+              "username": "KamiyaSara8972"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fmUAV3cuy7",
+              "end": 54,
+              "expanded_url": "https://x.com/hagishigure/status/1974130746836332648/photo/1",
+              "media_key": "3_1974130738107985923",
+              "start": 31,
+              "url": "https://t.co/fmUAV3cuy7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974130746836332648",
+        "in_reply_to_user_id": "1504387273919401987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974112043331694921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KamiyaSara8972 看看罵你那個，毫不意外是寸頭 https://t.co/fmUAV3cuy7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504387273919401987",
+        "conversation_id": "1974078687625818607",
+        "created_at": "2025-10-03T13:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T14:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974112043331694921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974112043331694921",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974111756093112426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure 上压力专用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n||宣誓人——🪼諾諾||🪼沒有標籤，也不需要定義自己||正因神愛世人，世人才予以神的敬稱||",
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 76,
+          "like_count": 626,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 96
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-17T09:21:07.000Z",
+        "description": "Looking for a female fox",
+        "id": "1504387273919401987",
+        "name": "GPT全肯定bot",
+        "pinned_tweet_id": "1928479871732535424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964378785656295425/K4QqOBk9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 351,
+          "like_count": 24395,
+          "listed_count": 4,
+          "media_count": 835,
+          "tweet_count": 29730
+        },
+        "username": "KamiyaSara8972",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1982823921461371260",
+    "created_at": "2025-10-28T15:46:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T16:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983198643881754871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2885028194",
+          "start": 0,
+          "username": "MizukawaYui"
+        },
+        {
+          "end": 23,
+          "id": "994208371040337921",
+          "start": 13,
+          "username": "litztsong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983198643881754871",
+    "in_reply_to_user_id": "2885028194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983195438888141150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MizukawaYui @litztsong 黃體酮轉化阿洛孕酮經過中間體孕烯醇酮，孕烯醇酮口服比黃體酮更為广譜，生物利用度處於黃體酮和阿洛孕酮之間，但黃體酮走肝臟非CYP途徑代謝（其實三者都是這個途徑，黃體酮首過效應最強），單論短時間的GABAA效力的話無疑是口服阿洛孕酮最強，孕烯醇酮次之，但口服孕烯醇酮還能有nooglutil的效果🐱"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1983195438888141150].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1983195438888141150",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1983195438888141150"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1982823921461371260",
+        "created_at": "2025-10-28T15:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T16:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983198643881754871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2885028194",
+              "start": 0,
+              "username": "MizukawaYui"
+            },
+            {
+              "end": 23,
+              "id": "994208371040337921",
+              "start": 13,
+              "username": "litztsong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983198643881754871",
+        "in_reply_to_user_id": "2885028194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983195438888141150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MizukawaYui @litztsong 黃體酮轉化阿洛孕酮經過中間體孕烯醇酮，孕烯醇酮口服比黃體酮更為广譜，生物利用度處於黃體酮和阿洛孕酮之間，但黃體酮走肝臟非CYP途徑代謝（其實三者都是這個途徑，黃體酮首過效應最強），單論短時間的GABAA效力的話無疑是口服阿洛孕酮最強，孕烯醇酮次之，但口服孕烯醇酮還能有nooglutil的效果🐱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 100,
+          "like_count": 6263,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 1314
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2014-10-31T12:37:59.000Z",
+        "description": "Transfem🏳️‍⚧️/She,Her/INFP-T/♏️/HRTing/Depression/Vegetarian/Feminist/#ProtectTransKids #AnimalRights #AbortionRightsAreHumanRights CP:@EN__Ien",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 70,
+                "tag": "ProtectTransKids"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "tag": "AnimalRights"
+              },
+              {
+                "end": 131,
+                "start": 102,
+                "tag": "AbortionRightsAreHumanRights"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 135,
+                "username": "EN__Ien"
+              }
+            ]
+          }
+        },
+        "id": "2885028194",
+        "location": "光启市精神卫生中心",
+        "name": "水川ゆい/🤏🏻#AbortionRightsAreHumanRights",
+        "pinned_tweet_id": "1434361967280488448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948950324213059584/0TLSHqMK_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 5092,
+          "following_count": 916,
+          "like_count": 24252,
+          "listed_count": 15,
+          "media_count": 6294,
+          "tweet_count": 29004
+        },
+        "username": "MizukawaYui",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-09T13:32:01.000Z",
+        "description": "MtF(post surgery)/psychopath(schizo)/paliperidone&quetiapine user/ASD/local in Shanghai/anti-imperialism/约饭者招募中/对象 @misncandy 个人群 https://t.co/16lZFMyT6P",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "misncandy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+ylr-xPc8qAo4Y…",
+                "end": 153,
+                "expanded_url": "https://t.me/+ylr-xPc8qAo4YTA1",
+                "start": 130,
+                "url": "https://t.co/16lZFMyT6P"
+              }
+            ]
+          }
+        },
+        "id": "994208371040337921",
+        "location": "Shanghai, china",
+        "name": "litz tsong（利兹）🏳️‍🌈🏳‍⚧",
+        "pinned_tweet_id": "1967508127861112954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465633050566402056/PVc-1Z7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3035,
+          "following_count": 1956,
+          "like_count": 3535,
+          "listed_count": 16,
+          "media_count": 1514,
+          "tweet_count": 13317
+        },
+        "username": "litztsong",
+        "verified": false
+      }
+    ]
+  }
+}

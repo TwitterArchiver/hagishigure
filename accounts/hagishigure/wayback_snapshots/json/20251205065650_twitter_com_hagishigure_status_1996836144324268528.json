@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1996815065849516494",
+    "created_at": "2025-12-05T06:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T07:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996836144324268528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1211879989995421696",
+          "start": 0,
+          "username": "medicagoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996836144324268528",
+    "in_reply_to_user_id": "1211879989995421696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996833611354681426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@medicagoo 琢磨那些陌生的符號真的是个很好玩的過程，例如和日語相似但是不同的北琉球沖繩語，有點類似維特根斯坦所說的語言遊戲，研究更多的語言也許能溝通更多，讓不同的人ゆいまーる w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1996815065849516494",
+        "created_at": "2025-12-05T06:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T07:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996836144324268528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1211879989995421696",
+              "start": 0,
+              "username": "medicagoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996836144324268528",
+        "in_reply_to_user_id": "1211879989995421696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996833611354681426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@medicagoo 琢磨那些陌生的符號真的是个很好玩的過程，例如和日語相似但是不同的北琉球沖繩語，有點類似維特根斯坦所說的語言遊戲，研究更多的語言也許能溝通更多，讓不同的人ゆいまーる w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1211879989995421696",
+        "conversation_id": "1996815065849516494",
+        "created_at": "2025-12-05T06:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T07:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996833611354681426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996833611354681426",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996833405229846782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure 很厉害了，这些对于母语来说都不容易看懂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 115,
+          "like_count": 11829,
+          "listed_count": 0,
+          "media_count": 374,
+          "tweet_count": 2785
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-31T05:21:31.000Z",
+        "description": "BPD Algorithm engineer for OR; Borderline Personality Disorder - BPD, sleep disorder; trans BPD woman 🏳️‍⚧️.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "medicago.top",
+                "end": 23,
+                "expanded_url": "https://medicago.top/",
+                "start": 0,
+                "url": "https://t.co/yXqadddKGh"
+              }
+            ]
+          }
+        },
+        "id": "1211879989995421696",
+        "name": "🍉沐雪小猪🌰",
+        "pinned_tweet_id": "1996172640135115218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990723871683837952/qN5-3xFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 249,
+          "like_count": 9591,
+          "listed_count": 3,
+          "media_count": 149,
+          "tweet_count": 4047
+        },
+        "url": "https://t.co/yXqadddKGh",
+        "username": "medicagoo",
+        "verified": true
+      }
+    ]
+  }
+}

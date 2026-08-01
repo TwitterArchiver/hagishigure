@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Caricature & Portrait",
+          "id": "1037077233070821376",
+          "name": "Caricature and portrait"
+        }
+      }
+    ],
+    "conversation_id": "1981508399557972258",
+    "created_at": "2025-10-23T23:49:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T00:49:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981508399557972258"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ShoBeiYong/sta…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/ShoBeiYong/status/1981212976796336158",
+          "start": 46,
+          "url": "https://t.co/G85yzZOmk2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981508399557972258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981212976796336158",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊什麼啊？救人和肖像權有必然關聯嗎？\n我說過，新聞學喜歡把沒有必然關聯的任何事情放在一起。 https://t.co/G85yzZOmk2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1473,
+        "media_key": "3_1981212974493712385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G36utBEXwAEtrJ1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Caricature & Portrait",
+              "id": "1037077233070821376",
+              "name": "Caricature and portrait"
+            }
+          }
+        ],
+        "conversation_id": "1981508399557972258",
+        "created_at": "2025-10-23T23:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T00:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981508399557972258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ShoBeiYong/sta…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/ShoBeiYong/status/1981212976796336158",
+              "start": 46,
+              "url": "https://t.co/G85yzZOmk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981508399557972258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981212976796336158",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊什麼啊？救人和肖像權有必然關聯嗎？\n我說過，新聞學喜歡把沒有必然關聯的任何事情放在一起。 https://t.co/G85yzZOmk2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981212974493712385"
+          ]
+        },
+        "author_id": "901299158669180931",
+        "conversation_id": "1981212976796336158",
+        "created_at": "2025-10-23T04:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T05:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981212976796336158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/43UDM7wBEm",
+              "end": 31,
+              "expanded_url": "https://x.com/ShoBeiYong/status/1981212976796336158/photo/1",
+              "media_key": "3_1981212974493712385",
+              "start": 8,
+              "url": "https://t.co/43UDM7wBEm"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "127021a2772dbff7"
+        },
+        "id": "1981212976796336158",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6917,
+          "like_count": 87,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "救人男子已道歉 https://t.co/43UDM7wBEm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 98,
+          "like_count": 5201,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 997
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-26T04:23:59.000Z",
+        "description": "舊世凌遲，新國在火",
+        "id": "901299158669180931",
+        "location": "神圣兽国 游尾郡 窝窝乡",
+        "name": "魈✟ ❂☭ 向天再借五百年",
+        "pinned_tweet_id": "1978304617965301849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925816941135990784/UMSLrXH0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2457,
+          "following_count": 322,
+          "like_count": 11741,
+          "listed_count": 13,
+          "media_count": 750,
+          "tweet_count": 7220
+        },
+        "username": "ShoBeiYong",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2025412064273948743",
+    "created_at": "2026-02-22T03:27:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T04:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025412064273948743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "765807474964258816",
+          "start": 3,
+          "username": "xixi_epicene"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025412064273948743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025409889481142344",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xixi_epicene: 有的时候看到那群素质屌差的傻逼急眼破大防在那上蹿下跳的模样我很想说\n\n你们看着是那种25年末赶去香港汇丰开户的低净值客户，然后拿着几万元流水去英国驻华使领馆办访问签证被轰出来的那种傻鸟——想舔都不知道门朝哪开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2025412064273948743",
+        "created_at": "2026-02-22T03:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T04:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025412064273948743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "765807474964258816",
+              "start": 3,
+              "username": "xixi_epicene"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025412064273948743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025409889481142344",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xixi_epicene: 有的时候看到那群素质屌差的傻逼急眼破大防在那上蹿下跳的模样我很想说\n\n你们看着是那种25年末赶去香港汇丰开户的低净值客户，然后拿着几万元流水去英国驻华使领馆办访问签证被轰出来的那种傻鸟——想舔都不知道门朝哪开"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "765807474964258816",
+        "conversation_id": "2025409889481142344",
+        "created_at": "2026-02-22T03:18:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T04:18:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025409889481142344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cosplay_riji/s…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/cosplay_riji/status/2025222276023500912",
+              "start": 105,
+              "url": "https://t.co/QkzuDaRQHn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025409889481142344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 102,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025222276023500912",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有的时候看到那群素质屌差的傻逼急眼破大防在那上蹿下跳的模样我很想说\n\n你们看着是那种25年末赶去香港汇丰开户的低净值客户，然后拿着几万元流水去英国驻华使领馆办访问签证被轰出来的那种傻鸟——想舔都不知道门朝哪开 https://t.co/QkzuDaRQHn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 135,
+          "like_count": 21298,
+          "listed_count": 0,
+          "media_count": 602,
+          "tweet_count": 5226
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2016-08-17T07:08:24.000Z",
+        "description": "已婚宅男 ♂/ 我老婆 @cosplay_riji /贞操锁讨论群组：https://t.co/2Vyp1e2bQa  / 支持创作及加入discord群组：https://t.co/W97Ha4pBXr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "cosplay_riji"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+ZK2MPOZDlbBiM…",
+                "end": 58,
+                "expanded_url": "https://t.me/+ZK2MPOZDlbBiMGE0",
+                "start": 35,
+                "url": "https://t.co/2Vyp1e2bQa"
+              },
+              {
+                "display_url": "buymeacoffee.com/xixiepicene",
+                "end": 102,
+                "expanded_url": "https://buymeacoffee.com/xixiepicene",
+                "start": 79,
+                "url": "https://t.co/W97Ha4pBXr"
+              }
+            ]
+          }
+        },
+        "id": "765807474964258816",
+        "location": "Queensferry, Scotland",
+        "name": "汐矽",
+        "pinned_tweet_id": "2011494834847076700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011495259826765827/NK_v0arK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38817,
+          "following_count": 1949,
+          "like_count": 18572,
+          "listed_count": 125,
+          "media_count": 1524,
+          "tweet_count": 7783
+        },
+        "username": "xixi_epicene",
+        "verified": false
+      }
+    ]
+  }
+}

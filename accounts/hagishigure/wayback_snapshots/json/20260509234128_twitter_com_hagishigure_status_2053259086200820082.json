@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2053256793019781235",
+    "created_at": "2026-05-09T23:41:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T00:41:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053259086200820082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "765807474964258816",
+          "start": 0,
+          "username": "xixi_epicene"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053259086200820082",
+    "in_reply_to_user_id": "765807474964258816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053256793019781235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixi_epicene 有个推荐的方法，先喝两升水过几个小时，更容易高。😗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2075,
+        "media_key": "3_2053256785448845317",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH6iKvFWwAUsH3L.jpg",
+        "width": 1150
+      },
+      {
+        "height": 1965,
+        "media_key": "3_2053256789605429253",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH6iK-kXMAUGHQW.jpg",
+        "width": 1150
+      },
+      {
+        "height": 751,
+        "media_key": "3_2053256785939550210",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH6iKw6WUAI-86l.jpg",
+        "width": 346
+      },
+      {
+        "height": 391,
+        "media_key": "3_2053256786065362948",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH6iKxYWEAQ4xN9.jpg",
+        "width": 187
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2053256793019781235",
+        "created_at": "2026-05-09T23:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T00:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053259086200820082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "765807474964258816",
+              "start": 0,
+              "username": "xixi_epicene"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053259086200820082",
+        "in_reply_to_user_id": "765807474964258816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053256793019781235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixi_epicene 有个推荐的方法，先喝两升水过几个小时，更容易高。😗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053256785448845317",
+            "3_2053256789605429253",
+            "3_2053256785939550210",
+            "3_2053256786065362948"
+          ]
+        },
+        "author_id": "765807474964258816",
+        "conversation_id": "2053256793019781235",
+        "created_at": "2026-05-09T23:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T00:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053256793019781235"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 0,
+              "tag": "关于贞操锁佩戴的经验综述"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ki0WJZC19L",
+              "end": 140,
+              "expanded_url": "https://x.com/xixi_epicene/status/2053256793019781235/photo/1",
+              "media_key": "3_2053256785448845317",
+              "start": 117,
+              "url": "https://t.co/Ki0WJZC19L"
+            },
+            {
+              "display_url": "pic.x.com/Ki0WJZC19L",
+              "end": 140,
+              "expanded_url": "https://x.com/xixi_epicene/status/2053256793019781235/photo/1",
+              "media_key": "3_2053256789605429253",
+              "start": 117,
+              "url": "https://t.co/Ki0WJZC19L"
+            },
+            {
+              "display_url": "pic.x.com/Ki0WJZC19L",
+              "end": 140,
+              "expanded_url": "https://x.com/xixi_epicene/status/2053256793019781235/photo/1",
+              "media_key": "3_2053256785939550210",
+              "start": 117,
+              "url": "https://t.co/Ki0WJZC19L"
+            },
+            {
+              "display_url": "pic.x.com/Ki0WJZC19L",
+              "end": 140,
+              "expanded_url": "https://x.com/xixi_epicene/status/2053256793019781235/photo/1",
+              "media_key": "3_2053256786065362948",
+              "start": 117,
+              "url": "https://t.co/Ki0WJZC19L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053256793019781235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 0,
+                "tag": "关于贞操锁佩戴的经验综述"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 556,
+                "id": "1873197968570077184",
+                "start": 545,
+                "username": "pulsex_top"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pulsexlab.com/?coupon=xixi_e",
+                "end": 604,
+                "expanded_url": "http://pulsexlab.com/?coupon=xixi_e",
+                "start": 581,
+                "url": "https://t.co/7KWuniJvrX"
+              }
+            ]
+          },
+          "text": "#关于贞操锁佩戴的经验综述\n\n第五部分 戴锁自慰与性高潮\n\n第一节 锁内射精\n\n因为我本次锁内射精测试一共使用了四把不同的锁。故本章节会分成四个小节来写。为保证控制变量，四把锁全部使用榨精扳手进行测试，购买方法可看图3图4的淘宝截图\n\n必须要告知大家一点，本章节只单独介绍靠振动方式刺激阴茎达到锁内射精的方法——该方法需要的工具最少，需要的前期准备也最少。对于没有后庭开发经验or其他恋物癖/sm/ASMR等无显著性冲动的玩家比较友好，简而言之就是，等同于一般男性自慰的仅刺激阴茎的手淫\n\n因此，这是最最最最简单最基础的一种方法，好处是简单易上手，坏处是需要较长时间的刺激才能达到射精，因此大家在尝试时一定要有足够的耐心和充分的心理准备。\n\n还除此之外还请记住，锁内射精和一般射精不同，本质上是在阴茎缺乏足够刺激和不能完全勃起的情况下进行的射精。因此过于依赖这种方案长此以往可能会导致阴茎敏感度上升，射精速度变快，性能力下降，因此请谨慎尝试。\n\n最后就是，锁内射精一般会伴随精液在尿道内部的淤积和残留，在射精结束后依然会出现精液缓慢流出，将会获得比普通射精略微持久的快感，但是部分人群可能因为尿道损伤/炎症/阴茎在锁内勃起充血等导致疼痛，一但出现这种情况请务必重视并考虑就医。\n\n第一小节 @pulsex_top orbby 1.0锁内射精方法，购买链接如下\n\nhttps://t.co/7KWuniJvrX…\n\n选择orbby1.0作为测试的第一把锁原因很简单——因为它的锁笼是我测试的四把锁当中笼体最大的，有一定的允许勃起的余量（事实上我也和他们家建议过能不能出更小号的hhhh），因此对于新手来说较为容易上手。\n\n此外就是这款锁的表面材质是我用过的最好的，对于不好掌握刺激力度和对于自己戴锁之后阴茎敏感位置仍比较陌生的新手来说，这款锁能较好的避免在长期振动下导致的阴茎或阴囊磨损。\n\n一般来说，使用榨精扳手进行锁内射精时，我们一般需要使用扳手的背部而不是有开口的一侧。可以通过将扳手背部放置在贞操锁的以下两个位置\n\n1.锁芯位置或膀胱与贞操锁相交的位置（如图1所示):在戴锁时，阴茎的龟头和冠状沟在阴茎完全不勃起情况下最有可能停留在锁芯正下方或者锁芯前后的地方，刺激这一区域可以感觉到明显的振动快感\n\n2.贞操锁排尿孔上方的锁笼部分（如图2所示）:在刺激一段时间之后，阴茎会开始充血勃起，此时龟头会逐渐填满整个锁笼，而冠状沟等敏感部位在锁笼内的位置也会开始变化，因此此时刺激该部位能获得更大的快感。\n\n因此，在佩戴orbby1.0时，正确的操作方法是\n1.先使用榨精扳手背面调到较低的档位，刺激图1所示的部位，此时可以用另一只手适当抚摸睾丸增强刺激\n\n2.当感觉到阴茎开始些许勃起时 可以通过轻微按压膀胱位置，感觉阴茎在体内充血，此时可以将榨精扳手的刺激位置变化到膀胱附近刺激体内的阴茎部分，并调高档位\n\n3.当感觉到龟头出现明显的涨大时，特别是如果发现些许阴茎已经从排尿孔中挤出，此时应当将刺激位置转移到如图2所示的位置，并且将榨精扳手档位调至最大。\n\n4.必要时可以用榨精扳手敲打贞操锁锁笼或者用用力将榨精扳手顶住敏感点获得更显著的刺激\n\n5.随着阴茎在笼内勃起，可能会出现卡环被勃起阴茎推动前移，导致睾丸/阴囊被挤压摩擦出现疼痛。因此应当适量准备润滑油，可在开始前或出现肿胀疼痛时涂抹在卡环和阴囊上，依靠润滑油的润滑再次调整卡环位置同时继续进行刺激。\n\n6.请不要直接刺激排尿孔或是刺激从排尿孔中挤出的龟头部分。对新手来说，振动刺激这个部位的榨精扳手只会像夹子一样给你带来刺痛\n\n7.一般来说，初次使用这种方法想要达到射精，需要手淫三到4倍的时间，因此需要有足够的耐心\n\n8.由于个体的差异，部分人群可能会对揉捏睾丸，或者从阴茎背面/底部进行刺激也能获得快感，因此可以偶尔切换刺激位置，但是请注意，如果在更换位置之后发现性快感出现下降，请务必换回先前的位置。\n\n9.如果因长期戴锁或个人原因导致勃起困难的，可以选择通过观看成人电影/音声/漫画的方式获得刺激和辅助快感\n\n10.（可选）可以准备一根大尺寸的假阳具，在使用榨精扳手刺激的同时敲打锁笼or睾丸。通过屈辱感获得更多快感\n\n好的，以上便是使用orbby锁内射精的操作部分。是的，我没有提到最关键的部分——射精。\n\n事实上，我从来没有指望一个新手能够在第一次尝试使用震动器具就能达到锁内射精，这将会是一场漫长的马拉松，而不是像普通男性手淫一样的计时赛。\n\n锁内射精的关键不是在于射精，而是在于锁。假如射精需要达到10分的刺激，那么在上述的那个自慰周期内绝大多数时候你能体验到的刺激只有3-4分。\n\n从你戴上锁开始锁内射精自慰的尝试就该意识到，正常向的，可控的，刺激显著的男性手淫已经被放弃。而现在唯一能做的，就是只能在一次次戴锁+震动刺激中不断的感受那若有若无的快感。然后在精疲力尽时被依然无法高潮的痛苦和屈辱感折磨。\n\n然后第二天，第三天，第四天循环往复，快感和精液在一点点积累，直到未来的未知的某一天，达到了射精所需要的刺激累加"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 247,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#关于贞操锁佩戴的经验综述\n\n第五部分 戴锁自慰与性高潮\n\n第一节 锁内射精\n\n因为我本次锁内射精测试一共使用了四把不同的锁。故本章节会分成四个小节来写。为保证控制变量，四把锁全部使用榨精扳手进行测试，购买方法可看图3图4的淘宝截图 https://t.co/Ki0WJZC19L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 148,
+          "like_count": 28653,
+          "listed_count": 2,
+          "media_count": 761,
+          "tweet_count": 6842
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2016-08-17T07:08:24.000Z",
+        "description": "man！♂/ 我老婆 @cosplay_riji /贞操锁讨论群组：https://t.co/2Vyp1e2bQa  / 支持创作及加入discord群组：https://t.co/W97Ha4pBXr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "cosplay_riji"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+ZK2MPOZDlbBiM…",
+                "end": 57,
+                "expanded_url": "https://t.me/+ZK2MPOZDlbBiMGE0",
+                "start": 34,
+                "url": "https://t.co/2Vyp1e2bQa"
+              },
+              {
+                "display_url": "buymeacoffee.com/xixiepicene",
+                "end": 101,
+                "expanded_url": "https://buymeacoffee.com/xixiepicene",
+                "start": 78,
+                "url": "https://t.co/W97Ha4pBXr"
+              }
+            ]
+          }
+        },
+        "id": "765807474964258816",
+        "location": "Queensferry, Scotland",
+        "name": "汐矽",
+        "pinned_tweet_id": "2053256793019781235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049608334974590977/AdmtjPtx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39507,
+          "following_count": 1938,
+          "like_count": 18855,
+          "listed_count": 130,
+          "media_count": 1673,
+          "tweet_count": 8771
+        },
+        "username": "xixi_epicene",
+        "verified": false
+      }
+    ]
+  }
+}

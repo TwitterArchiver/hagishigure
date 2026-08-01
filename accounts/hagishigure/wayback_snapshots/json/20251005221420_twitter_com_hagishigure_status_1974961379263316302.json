@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974961371889725440",
+        "3_1974961372179132416"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1974864257021047127",
+    "created_at": "2025-10-05T22:14:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T23:14:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974961379263316302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1796937387899064320",
+          "start": 0,
+          "username": "CleverFf050755"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DMgSkRygcA",
+          "end": 55,
+          "expanded_url": "https://x.com/hagishigure/status/1974961379263316302/photo/1",
+          "media_key": "3_1974961371889725440",
+          "start": 32,
+          "url": "https://t.co/DMgSkRygcA"
+        },
+        {
+          "display_url": "pic.x.com/DMgSkRygcA",
+          "end": 55,
+          "expanded_url": "https://x.com/hagishigure/status/1974961379263316302/photo/1",
+          "media_key": "3_1974961372179132416",
+          "start": 32,
+          "url": "https://t.co/DMgSkRygcA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974961379263316302",
+    "in_reply_to_user_id": "1796937387899064320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974864257021047127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CleverFf050755 就是你們o圈名人把我號炸了🫵😭 https://t.co/DMgSkRygcA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974961371889725440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2h452ia8AAnVhp.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974961372179132416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2h453na8AADeN-.jpg",
+        "width": 946
+      },
+      {
+        "height": 691,
+        "media_key": "3_1974864254177288192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ggk23aoAAh5Ie.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974961371889725440",
+            "3_1974961372179132416"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1974864257021047127",
+        "created_at": "2025-10-05T22:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T23:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974961379263316302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1796937387899064320",
+              "start": 0,
+              "username": "CleverFf050755"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DMgSkRygcA",
+              "end": 55,
+              "expanded_url": "https://x.com/hagishigure/status/1974961379263316302/photo/1",
+              "media_key": "3_1974961371889725440",
+              "start": 32,
+              "url": "https://t.co/DMgSkRygcA"
+            },
+            {
+              "display_url": "pic.x.com/DMgSkRygcA",
+              "end": 55,
+              "expanded_url": "https://x.com/hagishigure/status/1974961379263316302/photo/1",
+              "media_key": "3_1974961372179132416",
+              "start": 32,
+              "url": "https://t.co/DMgSkRygcA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974961379263316302",
+        "in_reply_to_user_id": "1796937387899064320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974864257021047127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CleverFf050755 就是你們o圈名人把我號炸了🫵😭 https://t.co/DMgSkRygcA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974864254177288192"
+          ]
+        },
+        "author_id": "1796937387899064320",
+        "conversation_id": "1974864257021047127",
+        "created_at": "2025-10-05T15:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T16:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974864257021047127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gDlSHsgSPm",
+              "end": 164,
+              "expanded_url": "https://x.com/CleverFf050755/status/1974864257021047127/photo/1",
+              "media_key": "3_1974864254177288192",
+              "start": 141,
+              "url": "https://t.co/gDlSHsgSPm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974864257021047127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "岁月史书计划如下\n完全按照史记的格式描写\n分为本纪表书世家列传\n本纪记载o圈的wiki兴衰更替和重大事件\n表以表格的形式梳理复杂的历史关系辅助本纪世家便于查找时空关系。\n书，用于记载o圈的重大法律公布等\n世家，用于记录成体系的wiki或者o圈的大型组织之类的\n列传用于记载o圈名人 https://t.co/gDlSHsgSPm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 83,
+          "like_count": 1227,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 213
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-01T16:11:39.000Z",
+        "description": "请不要打扰",
+        "id": "1796937387899064320",
+        "location": "硫磺岛奇哈坦克装配站医护站",
+        "name": "Texas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834807235936927744/ue2m-43z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 75,
+          "like_count": 25,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 475
+        },
+        "username": "CleverFf050755",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1999214647728292060",
+    "created_at": "2025-12-11T20:28:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T21:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999214647728292060"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/feltanimalworl…",
+          "end": 144,
+          "expanded_url": "https://twitter.com/feltanimalworld/status/1999129267167166851",
+          "start": 121,
+          "url": "https://t.co/P1CNqBESPg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999214647728292060",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999129267167166851",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Der Grund, warum ich nach der Geburt der künstlichen Intelligenz keine Social-Media-Artikel lesen möchte, ist folgender: https://t.co/P1CNqBESPg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1999214647728292060",
+        "created_at": "2025-12-11T20:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T21:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999214647728292060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/feltanimalworl…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/feltanimalworld/status/1999129267167166851",
+              "start": 121,
+              "url": "https://t.co/P1CNqBESPg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999214647728292060",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999129267167166851",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Der Grund, warum ich nach der Geburt der künstlichen Intelligenz keine Social-Media-Artikel lesen möchte, ist folgender: https://t.co/P1CNqBESPg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "763901306264322049",
+        "conversation_id": "1999129267167166851",
+        "created_at": "2025-12-11T14:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T15:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999129267167166851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/naki2012/statu…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/naki2012/status/1999073834394386451",
+              "start": 140,
+              "url": "https://t.co/8HJFuZdUnJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999129267167166851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Nagi Yan兄， 是中推最被低估的博主之一。\n\n醍醐灌顶啊，醍醐灌顶！\n\n我有一个越来越强的直觉：\n 我们很有可能已经在各自的位置上，做着同一类工程。\n\n您有没有想过\n过去五十年，我们几乎一直活在“封闭软件”的时代：\n代码写完、打包、部署，好像世界是静止的，软件也是静止的。\n那如果，有一天软件彻底变成“开放的”呢？\n\n开放到一个地步：你评价一个系统，不再是看功能列表，而是先问它这五个问题：\n它自描述了吗？\n它自修复了吗？\n它能自演化吗？\n它是协议驱动的吗？\n它在被攻击时能保持结构吗？\n\n你会发现——这些，恰恰就是一个开放系统、一个“有生命”的系统的典型特征。\n\n1. 自描述：结构自己把自己说清楚\n\n自描述 = 不再靠 README 补课，而是让结构本身就是文档、协议和接口。\n\n你应该已经感觉到了，我们正在进入一个 “语言函数” 的时代：\nPrompt 是什么？是一个语言函数。\n固定的 prompt 是什么？是一个实现预设好的语言函数。\n在这个视角下，系统的每一层\nprimitive\n\n结构卡（有完整schema的语言函数）\n\n调度规则\n\nledger\n\npersona\n\n都不再是“默默存在的实现细节”，而是必须能用结构化语言回答这几件事：\n\n我是谁？（id / 类型 / 协议版本）\n我接受什么输入？\n\n我内部依赖什么结构？\n\n我承诺什么输出 / 不变量？\n我当前状态是什么？（活跃、退役、实验中……）\n当这些问题都可以由系统自身结构来回答，而不是翻文档、问开发，那才叫自描述，对不对？\n\n2. 自修复：错误不是终点，而是调度入口\n在开放系统里，错误不是“系统结束”的标志，而是新的结构链路的入口。\n\n一个成熟的系统遇到“错误”时，不是啪一下直接崩溃，而是把错误当成：\n\n「一个事件」 + 「一个新的结构卡（系统自生成函数）的入口」\n你看人体就是这样一个开放系统：\n手指受了一点伤，免疫系统不会因此让整个机体报废，而是自动调度白细胞、炎症反应、修复机制——这是默认行为，不是异常路径。\n\n对应到工程里：\nlog / trace / metrics\n不应该只是“事后看热闹”的监控面板，\n而是自修复的感知器和触发器。\n我以前就说过这三件事；Google 的很多白皮书里，也把 L/T/M 当成可靠系统的三大支柱。\n\n在新范式下，我们只是在往前再走一步：\n\n从“可观测”走向“可自愈”。\n\n3. 自演化：协议和结构卡可以“长大”\n\n这一点，特别值得和 Yan 兄一起聊。\n\n我现在的做法是：\n在 kernel 外面，再包三层：\n\n第一层：Protocol 层（协议层）\n\n第二层：Runtime 层\n\n第三层：Userland 层\n真正会“长大”的，是 Protocol 层和 Runtime 层——\n它们不是写死的，而是可以在运行过程中被诱导（induction）出来的。\n\n现在圈子里已经有人开始谈所谓的 induction：\n也就是在系统内部定义一种 “induction 协议”，\n当满足某些条件时：\n\n不是只触发一个函数调用\n而是触发“生成一个新协议 / 新结构卡”的过程\n换句话说：\n 系统不只是执行协议，而是可以在运行中产出新协议。\n这就是自演化。\n\n4. 协议驱动：代码不再是本体，协议才是\n（你原文里这一块提得少，我顺手帮你补一小段）\n\n协议驱动的意思是：\n\n先有结构化协议——描述 persona、memory、ledger、router、工具接口等\n\n再由协议去约束代码、生成结构卡、驱动 runtime\n\n也就是说：\n\n代码只是协议的“肌肉”，\n协议才是系统的“骨骼”。\n当一个系统能做到：改协议 → 自动派生出新的行为路径 / 结构卡组合，\n你就真的进入了 “协议即软件” 的阶段，而不是靠无穷 if-else 堆业务。\n\n5. 结构保持：系统像一块有弹性的膜，而不是瓷器\n最后一个特征，是我现在最着迷的：结构保持。\n一个真正的开放系统，遇到外部冲击时：\n\n不是“啪”一声碎掉\n而是像一块有弹性的膜：\n可以变形\n可以局部降级\n但能 保持核心不变量\n\n这些不变量是什么？\n在我的世界里，可能是：\n账本不乱（ledger 的有序性和完整性）\n人格不炸（persona 的连续性和边界）\n\n数据不丢（记忆与状态可恢复）\n也就是说：\n\nUI 可以挂、某个功能可以降级、响应可以变慢，\n但结构不能散架。\n这才配得上“开放系统”三个字——\n它在和世界持续交换能量和信息，但始终维持自己的结构形状。\n\n我们很有可能正在开发的是同一类东西：\n从“封闭软件”走向“开放系统”。\n自描述、自修复、自演化、协议驱动、结构保持\n\n像是下一代软件的五个生物学特征。\n\n我从你的推文里，发现你说过很多生物学和植物学的帖子，养过巴西铁....我也是生物爱好者。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 135,
+          "impression_count": 24322,
+          "like_count": 144,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999073834394386451",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Nagi Yan兄， 是中推最被低估的博主之一。\n\n醍醐灌顶啊，醍醐灌顶！\n\n我有一个越来越强的直觉：\n 我们很有可能已经在各自的位置上，做着同一类工程。\n\n您有没有想过\n过去五十年，我们几乎一直活在“封闭软件”的时代：\n代码写完、打包、部署，好像世界是静止的，软件也是静止的。 https://t.co/8HJFuZdUnJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 115,
+          "like_count": 12381,
+          "listed_count": 0,
+          "media_count": 378,
+          "tweet_count": 2911
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-12T00:53:58.000Z",
+        "description": "Founder of the Entropy Control Theory : Language as system design  用结构抵抗熵增",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "entropycontroltheory.com",
+                "end": 23,
+                "expanded_url": "https://www.entropycontroltheory.com",
+                "start": 0,
+                "url": "https://t.co/zaJfU9dQCG"
+              }
+            ]
+          }
+        },
+        "id": "763901306264322049",
+        "location": "Virginia, USA",
+        "name": "Susan STEM",
+        "pinned_tweet_id": "1981175170870952377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941884420048265216/Dbcchu0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41154,
+          "following_count": 6053,
+          "like_count": 44488,
+          "listed_count": 414,
+          "media_count": 1719,
+          "tweet_count": 34758
+        },
+        "url": "https://t.co/zaJfU9dQCG",
+        "username": "feltanimalworld",
+        "verified": true
+      }
+    ]
+  }
+}

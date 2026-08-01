@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Exercise and fitness",
+          "id": "847872878041219072",
+          "name": "Fitness"
+        }
+      },
+      {
+        "domain": {
+          "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+          "id": "162",
+          "name": "Exercise & fitness"
+        },
+        "entity": {
+          "description": "Exercises",
+          "id": "872554146750017536",
+          "name": "Exercises"
+        }
+      }
+    ],
+    "conversation_id": "2000970968630747320",
+    "created_at": "2025-12-16T16:47:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T17:47:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000970968630747320"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/2511ziyao/stat…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/2511ziyao/status/2000822970051387612",
+          "start": 80,
+          "url": "https://t.co/MPng6pwllC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000970968630747320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000822970051387612",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "等什麼時候你中國的所謂女權主義能學會尊重同期的性權解放運動才有可能開始完全的第一波運動，自由女權主義運動。\n否則就是學了個父權空殼用來指代自己是新的父的符號。 https://t.co/MPng6pwllC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2000970968630747320",
+        "created_at": "2025-12-16T16:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T17:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000970968630747320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/2511ziyao/stat…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/2511ziyao/status/2000822970051387612",
+              "start": 80,
+              "url": "https://t.co/MPng6pwllC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000970968630747320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000822970051387612",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "等什麼時候你中國的所謂女權主義能學會尊重同期的性權解放運動才有可能開始完全的第一波運動，自由女權主義運動。\n否則就是學了個父權空殼用來指代自己是新的父的符號。 https://t.co/MPng6pwllC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1167211366761009152",
+        "conversation_id": "2000822970051387612",
+        "created_at": "2025-12-16T06:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T07:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000822970051387612"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000822970051387612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1291,
+          "like_count": 31,
+          "quote_count": 4,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得身为女权主义者想不明白，“性羞辱机制本身就是父权产物”这一点，是很奇怪的。当然他们可能知道这是父权产物，但仍然觉得有必要用，觉得这是一种“斗争手段”。这里有一种危险，对父权制的“批判”（更接近辱骂）不能超越父权制，最后只能变成一种表层的无力的仇恨政治，而非对系统化生产机制的批判。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 116,
+          "like_count": 13013,
+          "listed_count": 0,
+          "media_count": 386,
+          "tweet_count": 3086
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-29T23:04:28.000Z",
+        "description": "Queer-anarcha-feminism（redical）/enby/Pansexual/写作号@ziyao2511",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "ziyao2511"
+              }
+            ]
+          }
+        },
+        "id": "1167211366761009152",
+        "location": "😚🌈🐁",
+        "name": "怪诞艾多美M2",
+        "pinned_tweet_id": "1997943888540250321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983473495859433472/lVsh9Zu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 308,
+          "like_count": 11201,
+          "listed_count": 2,
+          "media_count": 540,
+          "tweet_count": 4642
+        },
+        "username": "2511ziyao",
+        "verified": false
+      }
+    ]
+  }
+}

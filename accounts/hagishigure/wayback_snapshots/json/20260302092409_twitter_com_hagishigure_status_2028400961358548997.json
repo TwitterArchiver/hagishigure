@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2028400961358548997",
+    "created_at": "2026-03-02T09:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T10:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028400961358548997"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Cldeop/status/…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/Cldeop/status/2028332221741027751",
+          "start": 48,
+          "url": "https://t.co/IuNN8IWywR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028400961358548997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028332221741027751",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果不是因为唾液太难处理我也想这样。🥴\n感觉别人只能靠动作和表情猜我的想法有点好纯爱的感觉。🥴 https://t.co/IuNN8IWywR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2028332211850878977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCYVZm3aoAED3n9.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2028400961358548997",
+        "created_at": "2026-03-02T09:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T10:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028400961358548997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cldeop/status/…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/Cldeop/status/2028332221741027751",
+              "start": 48,
+              "url": "https://t.co/IuNN8IWywR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028400961358548997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028332221741027751",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果不是因为唾液太难处理我也想这样。🥴\n感觉别人只能靠动作和表情猜我的想法有点好纯爱的感觉。🥴 https://t.co/IuNN8IWywR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028332211850878977"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2028332221741027751",
+        "created_at": "2026-03-02T04:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T05:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028332221741027751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0hdX5f3ijZ",
+              "end": 28,
+              "expanded_url": "https://x.com/Cldeop/status/2028332221741027751/photo/1",
+              "media_key": "3_2028332211850878977",
+              "start": 5,
+              "url": "https://t.co/0hdX5f3ijZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028332221741027751",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 10759,
+          "like_count": 332,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "好色喵（ https://t.co/0hdX5f3ijZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 139,
+          "like_count": 23083,
+          "listed_count": 2,
+          "media_count": 652,
+          "tweet_count": 5664
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2027908377758863690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101226,
+          "following_count": 722,
+          "like_count": 34603,
+          "listed_count": 288,
+          "media_count": 16363,
+          "tweet_count": 23498
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

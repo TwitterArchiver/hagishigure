@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2017246430784553047",
+    "created_at": "2026-01-30T14:40:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T15:40:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017246430784553047"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jimpangzi/stat…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/jimpangzi/status/2017213172718158008",
+          "start": 53,
+          "url": "https://t.co/0DY17qEdq0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017246430784553047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017213172718158008",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "目前今年我聽過的最大的笑話：加利西亞-西班牙語簡單。原來伊比利亞語支有不用讀和理解比寫和説簡單的語言。🤡 https://t.co/0DY17qEdq0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2017246430784553047",
+        "created_at": "2026-01-30T14:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T15:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017246430784553047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jimpangzi/stat…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/jimpangzi/status/2017213172718158008",
+              "start": 53,
+              "url": "https://t.co/0DY17qEdq0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017246430784553047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017213172718158008",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "目前今年我聽過的最大的笑話：加利西亞-西班牙語簡單。原來伊比利亞語支有不用讀和理解比寫和説簡單的語言。🤡 https://t.co/0DY17qEdq0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1083359594095640576",
+        "conversation_id": "2017200506322698401",
+        "created_at": "2026-01-30T12:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T13:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017213172718158008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1942422285044047873",
+              "start": 0,
+              "username": "Hakonootoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017213172718158008",
+        "in_reply_to_user_id": "1942422285044047873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1737,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017200506322698401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hakonootoko 楊絳學西班牙語就是為了翻譯唐吉柯德\n而且以翻譯即書面工作而學的語言\n非常簡單，聽説讀寫裡滿足讀就好了\n沒啥難度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 127,
+          "like_count": 17199,
+          "listed_count": 0,
+          "media_count": 464,
+          "tweet_count": 4038
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-10T13:47:09.000Z",
+        "description": "作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCs5V3…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCs5V3qiVL9BjF0BfGB7Rq8w",
+                "start": 0,
+                "url": "https://t.co/QU14vJC8tr"
+              }
+            ]
+          }
+        },
+        "id": "1083359594095640576",
+        "location": "Sternberg, Deutschland",
+        "name": "老K",
+        "pinned_tweet_id": "2005291274572816661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957813684807618560/lsRFBs0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4617,
+          "following_count": 660,
+          "like_count": 10418,
+          "listed_count": 34,
+          "media_count": 5906,
+          "tweet_count": 56075
+        },
+        "url": "https://t.co/QU14vJC8tr",
+        "username": "jimpangzi",
+        "verified": true
+      }
+    ]
+  }
+}

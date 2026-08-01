@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1975167056224928088",
+    "created_at": "2025-10-06T12:30:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T13:30:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975176950911217876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1644164334573027329",
+          "start": 0,
+          "username": "GNMB00"
+        },
+        {
+          "end": 15,
+          "id": "1739391734491086848",
+          "start": 8,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975176950911217876",
+    "in_reply_to_user_id": "1644164334573027329",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975176551051542699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GNMB00 @IXXA00 🍉🐮🍞👁️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1975167056224928088",
+        "created_at": "2025-10-06T12:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T13:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975176950911217876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1644164334573027329",
+              "start": 0,
+              "username": "GNMB00"
+            },
+            {
+              "end": 15,
+              "id": "1739391734491086848",
+              "start": 8,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975176950911217876",
+        "in_reply_to_user_id": "1644164334573027329",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975176551051542699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GNMB00 @IXXA00 🍉🐮🍞👁️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1644164334573027329",
+        "conversation_id": "1975167056224928088",
+        "created_at": "2025-10-06T12:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T13:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975176551051542699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            },
+            {
+              "end": 20,
+              "id": "1739391734491086848",
+              "start": 13,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975176551051542699",
+        "in_reply_to_user_id": "1644164334573027329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975176221513457779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure @IXXA00 我没有那么多话要说了，我就静静的看着isla装逼就行了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 85,
+          "like_count": 1574,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 279
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-07T02:25:26.000Z",
+        "description": "普通路过小猫，Median谱系中间者，其他的表达方式@ixxa00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 26,
+                "username": "ixxa00"
+              }
+            ]
+          }
+        },
+        "id": "1644164334573027329",
+        "name": "小猫本人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970784826124054528/RKNEwecL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 116,
+          "like_count": 13541,
+          "listed_count": 1,
+          "media_count": 603,
+          "tweet_count": 11479
+        },
+        "username": "GNMB00",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "老实了，我是鹌鹑。",
+        "id": "1739391734491086848",
+        "location": "距离你 -18cm",
+        "name": "isla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969700213687537665/iUQACkFy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4267,
+          "following_count": 3735,
+          "like_count": 29632,
+          "listed_count": 9,
+          "media_count": 2214,
+          "tweet_count": 29790
+        },
+        "username": "IXXA00",
+        "verified": false
+      }
+    ]
+  }
+}

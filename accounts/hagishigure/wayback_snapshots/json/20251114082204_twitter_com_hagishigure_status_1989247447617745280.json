@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1989245993968398406",
+    "created_at": "2025-11-14T08:22:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T09:22:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989247447617745280"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 85,
+          "normalized_text": "ADHD",
+          "probability": 0.9753,
+          "start": 82,
+          "type": "Other"
+        },
+        {
+          "end": 114,
+          "normalized_text": "ADHD",
+          "probability": 0.9502,
+          "start": 111,
+          "type": "Other"
+        },
+        {
+          "end": 128,
+          "normalized_text": "narcolepsy",
+          "probability": 0.8894,
+          "start": 119,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "description": "ADHD is characterized by increased intra-individual variability in response times during the performance of cognitive tasks. However, little is known about developmental changes in intra-individual variability, and how these changes relate to ...",
+          "display_url": "pmc.ncbi.nlm.nih.gov/articles/PMC42…",
+          "end": 110,
+          "expanded_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4299975/",
+          "images": [
+            {
+              "height": 836,
+              "url": "https://pbs.twimg.com/news_img/1989247449366687744/cPhxLSmY?format=jpg&name=orig",
+              "width": 1600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1989247449366687744/cPhxLSmY?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 87,
+          "status": 200,
+          "title": "Capturing the dynamics of response variability in the brain in ADHD",
+          "unwound_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4299975/",
+          "url": "https://t.co/a5zvOWbpPD"
+        },
+        {
+          "description": "Narcolepsy and psychiatric disorders have a significant but unrecognized relationship, which is an area of evolving interest, but unfortunately, the association is poorly understood. It is not uncommon for the two to occur co-morbidly. However, ...",
+          "display_url": "pmc.ncbi.nlm.nih.gov/articles/PMC58…",
+          "end": 191,
+          "expanded_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5872173/",
+          "start": 168,
+          "status": 200,
+          "title": "Narcolepsy and Psychiatric Disorders: Comorbidities or Shared Pathophysiology?",
+          "unwound_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5872173/",
+          "url": "https://t.co/SYeO9Q2KUO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989247447617745280",
+    "in_reply_to_user_id": "1965393379224944645",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989245993968398406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "又到了我们最爱的贴papers环节。\nCapturing the dynamics of response variability in the brain in ADHD\nhttps://t.co/a5zvOWbpPD\nADHD in narcolepsy: A closer look at prevalence and ties\nhttps://t.co/SYeO9Q2KUO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1989245993968398406",
+        "created_at": "2025-11-14T08:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T09:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989247447617745280"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 85,
+              "normalized_text": "ADHD",
+              "probability": 0.9753,
+              "start": 82,
+              "type": "Other"
+            },
+            {
+              "end": 114,
+              "normalized_text": "ADHD",
+              "probability": 0.9502,
+              "start": 111,
+              "type": "Other"
+            },
+            {
+              "end": 128,
+              "normalized_text": "narcolepsy",
+              "probability": 0.8894,
+              "start": 119,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ADHD is characterized by increased intra-individual variability in response times during the performance of cognitive tasks. However, little is known about developmental changes in intra-individual variability, and how these changes relate to ...",
+              "display_url": "pmc.ncbi.nlm.nih.gov/articles/PMC42…",
+              "end": 110,
+              "expanded_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4299975/",
+              "images": [
+                {
+                  "height": 836,
+                  "url": "https://pbs.twimg.com/news_img/1989247449366687744/cPhxLSmY?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1989247449366687744/cPhxLSmY?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 87,
+              "status": 200,
+              "title": "Capturing the dynamics of response variability in the brain in ADHD",
+              "unwound_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4299975/",
+              "url": "https://t.co/a5zvOWbpPD"
+            },
+            {
+              "description": "Narcolepsy and psychiatric disorders have a significant but unrecognized relationship, which is an area of evolving interest, but unfortunately, the association is poorly understood. It is not uncommon for the two to occur co-morbidly. However, ...",
+              "display_url": "pmc.ncbi.nlm.nih.gov/articles/PMC58…",
+              "end": 191,
+              "expanded_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5872173/",
+              "start": 168,
+              "status": 200,
+              "title": "Narcolepsy and Psychiatric Disorders: Comorbidities or Shared Pathophysiology?",
+              "unwound_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5872173/",
+              "url": "https://t.co/SYeO9Q2KUO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989247447617745280",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989245993968398406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又到了我们最爱的贴papers环节。\nCapturing the dynamics of response variability in the brain in ADHD\nhttps://t.co/a5zvOWbpPD\nADHD in narcolepsy: A closer look at prevalence and ties\nhttps://t.co/SYeO9Q2KUO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1989245993968398406",
+        "created_at": "2025-11-14T08:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T09:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989245993968398406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/24Prelude/stat…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/24Prelude/status/1989097868934934630",
+              "start": 117,
+              "url": "https://t.co/2AVlm58Xk8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989245993968398406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989097868934934630",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "事实上，类似的症状是非常明显的，但是ADHDer经常会因为觉得只是反应速度的问题：例如，打下落式音游，某一段明明对你来说非常简单，但是你看到那个tap落下，你完全想不起来你应该要按它，就这么突然「宕机」了可能只是以ms为计量的单位。 https://t.co/2AVlm58Xk8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 106,
+          "like_count": 8733,
+          "listed_count": 0,
+          "media_count": 292,
+          "tweet_count": 1995
+        },
+        "username": "hagishigure",
+        "verified": true
+      }
+    ]
+  }
+}

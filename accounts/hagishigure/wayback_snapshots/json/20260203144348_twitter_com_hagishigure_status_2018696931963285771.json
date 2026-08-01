@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sociology",
+          "id": "1088163371365482496",
+          "name": "Sociology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2018696931963285771",
+    "created_at": "2026-02-03T14:43:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T15:43:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018696931963285771"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OliviaWantsHug…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/OliviaWantsHugs/status/2018641580786417964",
+          "start": 44,
+          "url": "https://t.co/yyPWVqABRm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018696931963285771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018641580786417964",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你发现这个土著文明总是喜欢将苦难视作获取一些令神经系统兴奋的激素的代价。（社会学+3） https://t.co/yyPWVqABRm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sociology",
+              "id": "1088163371365482496",
+              "name": "Sociology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2018696931963285771",
+        "created_at": "2026-02-03T14:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T15:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018696931963285771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OliviaWantsHug…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/OliviaWantsHugs/status/2018641580786417964",
+              "start": 44,
+              "url": "https://t.co/yyPWVqABRm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018696931963285771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018641580786417964",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你发现这个土著文明总是喜欢将苦难视作获取一些令神经系统兴奋的激素的代价。（社会学+3） https://t.co/yyPWVqABRm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1004362078956613632",
+        "conversation_id": "2018641580786417964",
+        "created_at": "2026-02-03T11:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T12:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018641580786417964"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018641580786417964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 402,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "多年以后\n你也进入了srs群\n发现群里最多的还是年纪很小家里出钱陪着一起来的小妹妹\n你自己经历的苦难独立坚强在真正遮风挡雨的爱面前碎了一地，毫无意义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 128,
+          "like_count": 17791,
+          "listed_count": 0,
+          "media_count": 488,
+          "tweet_count": 4170
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-06T13:59:14.000Z",
+        "description": "🇸🇬 \\ 萨摩耶bot \\ 女的活的素质差的 \\ Sub小狗 \\ Bi偏直 \\ open mind but not heart",
+        "id": "1004362078956613632",
+        "location": "Singapore",
+        "name": "⭕泡耶奶 @ 狗白白 🇸🇬",
+        "pinned_tweet_id": "1996591212963545292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970319303691182080/fNJSghhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4632,
+          "following_count": 572,
+          "like_count": 24941,
+          "listed_count": 18,
+          "media_count": 1471,
+          "tweet_count": 27338
+        },
+        "username": "OliviaWantsHugs",
+        "verified": false
+      }
+    ]
+  }
+}

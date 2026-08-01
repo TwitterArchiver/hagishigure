@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2024908328590348597",
+    "created_at": "2026-02-21T01:30:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T02:30:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025020224357974060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1973792014455152640",
+          "start": 0,
+          "username": "TTypezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025020224357974060",
+    "in_reply_to_user_id": "1973792014455152640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024908328590348597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTypezhi 所以你给tyw当狗是在…？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024908325394276352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBnrZL3bYAAACIs.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2024908328590348597",
+        "created_at": "2026-02-21T01:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T02:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025020224357974060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1973792014455152640",
+              "start": 0,
+              "username": "TTypezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025020224357974060",
+        "in_reply_to_user_id": "1973792014455152640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024908328590348597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTypezhi 所以你给tyw当狗是在…？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024908325394276352"
+          ]
+        },
+        "author_id": "1973792014455152640",
+        "conversation_id": "2024908328590348597",
+        "created_at": "2026-02-20T18:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T19:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024908328590348597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "性价值观测试 – 你的性极性是什么？",
+              "display_url": "idrlabs.com/cn/sex-values/…",
+              "end": 25,
+              "expanded_url": "https://www.idrlabs.com/cn/sex-values/test.php",
+              "images": [
+                {
+                  "height": 252,
+                  "url": "https://pbs.twimg.com/news_img/2024732210344120320/snMhplb3?format=png&name=orig",
+                  "width": 252
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2024732210344120320/snMhplb3?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 2,
+              "status": 200,
+              "title": "性价值观测试",
+              "unwound_url": "https://www.idrlabs.com/cn/sex-values/test.php",
+              "url": "https://t.co/SCQrpG8mq7"
+            },
+            {
+              "display_url": "pic.x.com/93URBgY2uL",
+              "end": 49,
+              "expanded_url": "https://x.com/TTypezhi/status/2024908328590348597/photo/1",
+              "media_key": "3_2024908325394276352",
+              "start": 26,
+              "url": "https://t.co/93URBgY2uL"
+            },
+            {
+              "display_url": "x.com/Ikks0413/statu…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/Ikks0413/status/2024901560187453790",
+              "start": 50,
+              "url": "https://t.co/JD3dnOGXLa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024908328590348597",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1237,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024901560187453790",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤔\nhttps://t.co/SCQrpG8mq7 https://t.co/93URBgY2uL https://t.co/JD3dnOGXLa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 136,
+          "like_count": 21009,
+          "listed_count": 0,
+          "media_count": 594,
+          "tweet_count": 5150
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-02T16:47:54.000Z",
+        "description": "🏳️‍⚧️hrt:2025/01/09🍭/She Her/爱哭的小女孩/喜欢贴贴🥰🥰/身高167/持证含糖/好希望跟大家做朋友🥺/常驻湖北/生日20090307现在16喵🥺/永怀大号@zhishi_cook",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "zhishi_cook"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "http://zinet.top",
+                "start": 0,
+                "url": "https://t.co/SDCzGxnAZQ"
+              }
+            ]
+          }
+        },
+        "id": "1973792014455152640",
+        "location": "🍥🍥🏳️‍⚧️🏳️‍⚧️",
+        "name": "知式（三代目）🍥🍭🥑🍰",
+        "pinned_tweet_id": "2013112043508035682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973792191043809284/lzew5Epz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 892,
+          "like_count": 32,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 385
+        },
+        "url": "https://t.co/SDCzGxnAZQ",
+        "username": "TTypezhi",
+        "verified": true
+      }
+    ]
+  }
+}

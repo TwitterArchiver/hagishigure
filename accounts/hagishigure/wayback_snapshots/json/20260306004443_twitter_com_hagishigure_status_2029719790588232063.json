@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2029719790588232063",
+    "created_at": "2026-03-06T00:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T01:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029719790588232063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "993886755878191104",
+          "start": 0,
+          "username": "tokiseki_kurumi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/JanboMikan/sta…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/JanboMikan/status/1995100504196628867",
+          "start": 23,
+          "url": "https://t.co/HCKuYLfmdE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029719790588232063",
+    "in_reply_to_user_id": "993886755878191104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995100504196628867",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tokiseki_kurumi 猜你喜欢： https://t.co/HCKuYLfmdE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_1995090414001692672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6_8KT1boAAmQXL.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2029719790588232063",
+        "created_at": "2026-03-06T00:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T01:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029719790588232063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "993886755878191104",
+              "start": 0,
+              "username": "tokiseki_kurumi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/JanboMikan/sta…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/JanboMikan/status/1995100504196628867",
+              "start": 23,
+              "url": "https://t.co/HCKuYLfmdE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029719790588232063",
+        "in_reply_to_user_id": "993886755878191104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995100504196628867",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokiseki_kurumi 猜你喜欢： https://t.co/HCKuYLfmdE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995090414001692672"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "1995100504196628867",
+        "created_at": "2025-11-30T12:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T13:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995100504196628867"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 89,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hdMtGgPJea",
+              "end": 116,
+              "expanded_url": "https://x.com/JanboMikan/status/1995100504196628867/photo/1",
+              "media_key": "3_1995090414001692672",
+              "start": 93,
+              "url": "https://t.co/hdMtGgPJea"
+            },
+            {
+              "display_url": "x.com/JanboMikan/sta…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/JanboMikan/status/1995070306277609512",
+              "start": 117,
+              "url": "https://t.co/gwAANbAqxH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995100504196628867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8836,
+          "like_count": 63,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995070306277609512",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1000fo福利来啦。\n继续给大家表演我们fetish的传统艺能之真空袋play😇。\n被袋子紧紧包裹着一动不能动的感觉真的好舒服哦（并且好涩wwww\n\n// 蜜柑.tar.gz\n#男娘 https://t.co/hdMtGgPJea https://t.co/gwAANbAqxH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 121,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 141,
+          "like_count": 24068,
+          "listed_count": 2,
+          "media_count": 664,
+          "tweet_count": 5809
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-08T16:14:02.000Z",
+        "description": "你好喵 介里岁\n一只买了一堆镜头但是不太会拍照的娃娃（？\nINTJ? 女变态！喜欢灵魂级别的还原w！ \n平时看看番上上学拍拍照（什\n日常正片混发的xp克苏鲁！想要看涩涩和娃去亮点喵~\n好友门槛100美元！发我口令红包解锁~！↓岁岁不妙屋x",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/eietheenblacks…",
+                "end": 23,
+                "expanded_url": "https://t.me/eietheenblacksilk",
+                "start": 0,
+                "url": "https://t.co/hCc1qMgSfr"
+              }
+            ]
+          }
+        },
+        "id": "993886755878191104",
+        "location": "USC, Los Angeles",
+        "name": "岁",
+        "pinned_tweet_id": "2011442766094753890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722437313131896832/7vTc_ZqG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26403,
+          "following_count": 14582,
+          "like_count": 2040,
+          "listed_count": 65,
+          "media_count": 2813,
+          "tweet_count": 9363
+        },
+        "url": "https://t.co/hCc1qMgSfr",
+        "username": "tokiseki_kurumi",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海(当前)/深圳(4月+)/福州",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7263,
+          "following_count": 388,
+          "like_count": 10690,
+          "listed_count": 33,
+          "media_count": 165,
+          "tweet_count": 5655
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

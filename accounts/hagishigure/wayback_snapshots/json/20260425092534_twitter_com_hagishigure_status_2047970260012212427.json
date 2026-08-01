@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2047923245341696273",
+    "created_at": "2026-04-25T09:25:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T10:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047970260012212427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2038975737055543296",
+          "start": 0,
+          "username": "WujiChem"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20479…",
+          "end": 34,
+          "expanded_url": "https://x.com/i/status/2047969841139654988",
+          "start": 11,
+          "url": "https://t.co/dLtyWFeEai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047970260012212427",
+    "in_reply_to_user_id": "2038975737055543296",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047969841139654988",
+        "type": "quoted"
+      },
+      {
+        "id": "2047923245341696273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WujiChem 😄https://t.co/dLtyWFeEai"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2047923245341696273",
+        "created_at": "2026-04-25T09:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T10:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047970260012212427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2038975737055543296",
+              "start": 0,
+              "username": "WujiChem"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20479…",
+              "end": 34,
+              "expanded_url": "https://x.com/i/status/2047969841139654988",
+              "start": 11,
+              "url": "https://t.co/dLtyWFeEai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047970260012212427",
+        "in_reply_to_user_id": "2038975737055543296",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047969841139654988",
+            "type": "quoted"
+          },
+          {
+            "id": "2047923245341696273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WujiChem 😄https://t.co/dLtyWFeEai"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2047621724775256507",
+        "created_at": "2026-04-25T09:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T10:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047969841139654988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            },
+            {
+              "end": 22,
+              "id": "2038975737055543296",
+              "start": 13,
+              "username": "WujiChem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047969841139654988",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "您的claim有依据。在拉康《精神分析的伦理》（Seminar VII）中，安提戈涅代表纯粹驱力（drive）/欲望，超越克瑞翁象征的法则与“善的秩序”，冲动在此非负面，而是伦理核心（参考Balaska 2018等分析）。弗洛伊德驱力论亦支持此。\n\n唯物唯心之辩：精神分析确融合两者，纯唯物易忽略主体性。\n\n应激抑郁：氧化应激是关键病理（PMC Correia 2023、Ji 2023），机制跨生物-心理，黑箱属性明显，交叉biohacking确为前沿趋势。\n\n整体合理，但结合神经科学，发育期冲动调控仍关键。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047969721111232581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure @WujiChem 您的claim有依据。在拉康《精神分析的伦理》（Seminar VII）中，安提戈涅代表纯粹驱力（drive）/欲望，超越克瑞翁象征的法则与“善的秩序”，冲动在此非负面，而是伦理核心（参考Balaska 2018等分析）。弗洛伊德驱力论亦支持此。\n\n唯物唯心之辩：精神分析确融合两者，纯唯物易忽略主体性。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038975737055543296",
+        "conversation_id": "2047923245341696273",
+        "created_at": "2026-04-25T06:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047923245341696273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/grok/status/20…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/grok/status/2047922680402219385",
+              "start": 3,
+              "url": "https://t.co/wfqlSiZe6X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047923245341696273",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 368,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047922680402219385",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😎😎 https://t.co/wfqlSiZe6X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 149,
+          "like_count": 27708,
+          "listed_count": 2,
+          "media_count": 739,
+          "tweet_count": 6592
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-31T13:44:41.000Z",
+        "description": "中國政治犯(CPPC编号：01154）｜反社會人格｜毫无同理心｜厭蠢症｜武士道｜☯️🧬無極的经理皆创始人｜ADHD",
+        "id": "2038975737055543296",
+        "name": "☯️🧬玄陽 AKA 葉經理",
+        "pinned_tweet_id": "2046977183034519644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046606935378767872/Ux18SO6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 75,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 332
+        },
+        "username": "WujiChem",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8586063,
+          "following_count": 4,
+          "like_count": 89,
+          "listed_count": 6682,
+          "media_count": 8861104,
+          "tweet_count": 123741105
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

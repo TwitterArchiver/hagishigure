@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058631443664814080",
+        "3_2058631443639685120"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "2058595054881767619",
+    "created_at": "2026-05-24T19:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T20:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058631459217273073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1991445096013918208",
+          "start": 0,
+          "username": "SakurabaEma_ITN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/50567dL3dj",
+          "end": 176,
+          "expanded_url": "https://x.com/hagishigure/status/2058631459217273073/photo/1",
+          "media_key": "3_2058631443664814080",
+          "start": 153,
+          "url": "https://t.co/50567dL3dj"
+        },
+        {
+          "display_url": "pic.x.com/50567dL3dj",
+          "end": 176,
+          "expanded_url": "https://x.com/hagishigure/status/2058631459217273073/photo/1",
+          "media_key": "3_2058631443639685120",
+          "start": 153,
+          "url": "https://t.co/50567dL3dj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058631459217273073",
+    "in_reply_to_user_id": "1991445096013918208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058622416310714715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakurabaEma_ITN 唉唉，我希望你们都能仔细的阅读文字。虽然zw应该是asd所以导致我比较容易理解。\n首先是图一，拍照着重点没有警察，而根据常识判断，一个人抱怨某件事时写到什么通常和图片有关，图二，警察不可能「一直说」，这个一直是很长的一个时间，也不可能「和我分家」，由此可得，这是生物爹。 https://t.co/50567dL3dj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1052,
+        "media_key": "3_2058631443664814080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJG6ZBMXQAAZojY.jpg",
+        "width": 1279
+      },
+      {
+        "height": 804,
+        "media_key": "3_2058631443639685120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJG6ZBGX0AAxnXM.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058631443664814080",
+            "3_2058631443639685120"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "2058595054881767619",
+        "created_at": "2026-05-24T19:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T20:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058631459217273073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1991445096013918208",
+              "start": 0,
+              "username": "SakurabaEma_ITN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/50567dL3dj",
+              "end": 176,
+              "expanded_url": "https://x.com/hagishigure/status/2058631459217273073/photo/1",
+              "media_key": "3_2058631443664814080",
+              "start": 153,
+              "url": "https://t.co/50567dL3dj"
+            },
+            {
+              "display_url": "pic.x.com/50567dL3dj",
+              "end": 176,
+              "expanded_url": "https://x.com/hagishigure/status/2058631459217273073/photo/1",
+              "media_key": "3_2058631443639685120",
+              "start": 153,
+              "url": "https://t.co/50567dL3dj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058631459217273073",
+        "in_reply_to_user_id": "1991445096013918208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058622416310714715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakurabaEma_ITN 唉唉，我希望你们都能仔细的阅读文字。虽然zw应该是asd所以导致我比较容易理解。\n首先是图一，拍照着重点没有警察，而根据常识判断，一个人抱怨某件事时写到什么通常和图片有关，图二，警察不可能「一直说」，这个一直是很长的一个时间，也不可能「和我分家」，由此可得，这是生物爹。 https://t.co/50567dL3dj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991445096013918208",
+        "conversation_id": "2058595054881767619",
+        "created_at": "2026-05-24T18:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T19:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058622416310714715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058622416310714715",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058621582633804131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure 那不应该说清楚是自己父母吗\n现在好了，以偏概全神人扣帽子神人乐子神人又来了\n又有说跨性别都是极端分子都是精神病都是袭警的了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 151,
+          "like_count": 29651,
+          "listed_count": 3,
+          "media_count": 775,
+          "tweet_count": 7093
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-20T09:54:50.000Z",
+        "description": "｜真理不靠雷霆落，破尽谎言路自开｜以是非定立场而不是以立场定是非｜主人老婆 @KOISHI_IV｜“我希望有一天，所有人都能站在自由民主平等的蓝天之下”｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "KOISHI_IV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sakurabaema_itn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sakurabaema_itn",
+                "start": 0,
+                "url": "https://t.co/nTmMgey0m1"
+              }
+            ]
+          }
+        },
+        "id": "1991445096013918208",
+        "location": "马斯克的祖坟头上",
+        "name": "英酱猫猫🍥",
+        "pinned_tweet_id": "2021286628187320504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991445156823003136/fQqmo6Tk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 99,
+          "like_count": 6394,
+          "listed_count": 2,
+          "media_count": 127,
+          "tweet_count": 1415
+        },
+        "url": "https://t.co/nTmMgey0m1",
+        "username": "SakurabaEma_ITN",
+        "verified": false
+      }
+    ]
+  }
+}

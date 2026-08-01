@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1980636582823760288",
+    "created_at": "2025-10-21T20:58:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T21:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980740497225445385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1492455622633086980",
+          "start": 0,
+          "username": "GeorgianaAurum"
+        },
+        {
+          "end": 25,
+          "id": "1459453832",
+          "start": 16,
+          "username": "sauricat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/89li64na/statu…",
+          "end": 49,
+          "expanded_url": "https://x.com/89li64na/status/1980176043492417753",
+          "start": 26,
+          "url": "https://t.co/v94nZcifrY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980740497225445385",
+    "in_reply_to_user_id": "1492455622633086980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980176043492417753",
+        "type": "quoted"
+      },
+      {
+        "id": "1980738326140448844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GeorgianaAurum @sauricat https://t.co/v94nZcifrY\n你模仿她們說話的語氣還是太保守了，剛刷新就看到了這個。\n喜歡健美都不行了對於她們來說。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1980636582823760288",
+        "created_at": "2025-10-21T20:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T21:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980740497225445385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1492455622633086980",
+              "start": 0,
+              "username": "GeorgianaAurum"
+            },
+            {
+              "end": 25,
+              "id": "1459453832",
+              "start": 16,
+              "username": "sauricat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/89li64na/statu…",
+              "end": 49,
+              "expanded_url": "https://x.com/89li64na/status/1980176043492417753",
+              "start": 26,
+              "url": "https://t.co/v94nZcifrY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980740497225445385",
+        "in_reply_to_user_id": "1492455622633086980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980176043492417753",
+            "type": "quoted"
+          },
+          {
+            "id": "1980738326140448844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GeorgianaAurum @sauricat https://t.co/v94nZcifrY\n你模仿她們說話的語氣還是太保守了，剛刷新就看到了這個。\n喜歡健美都不行了對於她們來說。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522503914666479617",
+        "conversation_id": "1980176043492417753",
+        "created_at": "2025-10-20T07:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T08:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980176043492417753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bngdyoyun1/sta…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/bngdyoyun1/status/1892551062487269398",
+              "start": 121,
+              "url": "https://t.co/qz0yHX1dcM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980176043492417753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5721,
+          "like_count": 68,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892551062487269398",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "女性的的体脂率就注定女性不可能在自然条件下长出图3的体型，图4也不太可能。驴同怎么跟健身蝻一样喜欢这种像长满了巨大丑陋瘤子的体型？\nPS.其实人类在自然条件下都不应该长这样，只是屌畜为了虚荣心普遍偷摸打药。打药的屌畜都死得很早，三四十就死。 https://t.co/qz0yHX1dcM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492455622633086980",
+        "conversation_id": "1980636582823760288",
+        "created_at": "2025-10-21T20:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T21:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980738326140448844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            },
+            {
+              "end": 22,
+              "id": "1459453832",
+              "start": 13,
+              "username": "sauricat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980738326140448844",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980737336645414969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure @sauricat 她們就整天講那些幾乎已經是「女性主義」刻板印象的老生常談，但是當我提到胖女人遭受結構性壓迫就拼命找可笑的理由說「這不是女性主義」、「這是妳不努力」、「女性主義為什麼要承接一大堆的東西」，她們才不在乎整體女性權利，她們只是要表達自己因為漂亮所以比其他女人擁有更多權力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 98,
+          "like_count": 4738,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 870
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-12T11:08:56.000Z",
+        "description": "Use any｜She｜He｜They｜INFP-T｜30⬆️還很孩子氣的中年少女｜個性是珍珠烏龍🧋｜作息爆炸｜生活｜日記｜碎碎唸｜網路怪人｜謝謝大家｜主推：🧪🥁🍬🤥▲🐺｜主視覺：clibo-你要不要吃哈密呱｜🔞偶爾會有NSFW發言和圖文🔞｜這裡是個普通動漫電玩宅",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/imGeorgiana",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/imGeorgiana",
+                "start": 0,
+                "url": "https://t.co/tjVyqE57UX"
+              }
+            ]
+          }
+        },
+        "id": "1492455622633086980",
+        "location": "About Myself➡️",
+        "name": "✨喬治亞娜🔮怪人系個人不勢Vtuber",
+        "pinned_tweet_id": "1926715495887048970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970539203240042499/vPrWaqfo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 408,
+          "like_count": 19618,
+          "listed_count": 3,
+          "media_count": 716,
+          "tweet_count": 25645
+        },
+        "url": "https://t.co/tjVyqE57UX",
+        "username": "GeorgianaAurum",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-26T11:46:49.000Z",
+        "description": "🏳️‍🌈 🏳️‍⚧️ (她/伊/ta, she/they) 北雁书/bsky 同名/生而骄傲/主业是欧陆哲学研究生/One Among Us/跨性别社群服务联系 TG saurica417\n我相信所有逝去的终将回来。我相信所有离开都只是暂别。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sauri.ca",
+                "end": 23,
+                "expanded_url": "https://sauri.ca",
+                "start": 0,
+                "url": "https://t.co/Q8ag0EHWU5"
+              }
+            ]
+          }
+        },
+        "id": "1459453832",
+        "location": "Toronto",
+        "name": "B.-Y. Shu",
+        "pinned_tweet_id": "1879406089600704784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870532559320350720/efFFCUG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11142,
+          "following_count": 923,
+          "like_count": 33748,
+          "listed_count": 36,
+          "media_count": 587,
+          "tweet_count": 11640
+        },
+        "url": "https://t.co/Q8ag0EHWU5",
+        "username": "sauricat",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-06T09:10:08.000Z",
+        "description": "极端女拳。\n不造夫不造父，期待洼地一代绝。",
+        "id": "1522503914666479617",
+        "name": "89栗64娜",
+        "pinned_tweet_id": "1971513811149721847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560380078399246336/Vm2d3WL5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 105,
+          "like_count": 81377,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 3190
+        },
+        "username": "89li64na",
+        "verified": false
+      }
+    ]
+  }
+}

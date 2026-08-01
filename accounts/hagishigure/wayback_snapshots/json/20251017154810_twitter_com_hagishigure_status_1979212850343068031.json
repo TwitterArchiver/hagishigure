@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1979178791344709899",
+    "created_at": "2025-10-17T15:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T16:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979212850343068031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1313383273079345152",
+          "start": 0,
+          "username": "ValeriaEulabeia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979212850343068031",
+    "in_reply_to_user_id": "1313383273079345152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979178791344709899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ValeriaEulabeia 我要说的：\n以色列「假战」名為「霸權主義」\n巴勒斯坦「父權控制」「搖尾乞憐」"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1353,
+        "media_key": "3_1979178787469131777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3d0nv4WAAEzIeM.jpg",
+        "width": 960
+      },
+      {
+        "height": 1360,
+        "media_key": "3_1979178787909537792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3d0nxhWEAAnufq.jpg",
+        "width": 959
+      },
+      {
+        "height": 1356,
+        "media_key": "3_1979178787695652864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3d0nwuWcAAB3FU.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1979178791344709899",
+        "created_at": "2025-10-17T15:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T16:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979212850343068031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1313383273079345152",
+              "start": 0,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979212850343068031",
+        "in_reply_to_user_id": "1313383273079345152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979178791344709899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ValeriaEulabeia 我要说的：\n以色列「假战」名為「霸權主義」\n巴勒斯坦「父權控制」「搖尾乞憐」"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979178787469131777",
+            "3_1979178787909537792",
+            "3_1979178787695652864"
+          ]
+        },
+        "author_id": "1313383273079345152",
+        "conversation_id": "1979178791344709899",
+        "created_at": "2025-10-17T13:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T14:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979178791344709899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6RHPNPrYUd",
+              "end": 47,
+              "expanded_url": "https://x.com/ValeriaEulabeia/status/1979178791344709899/photo/1",
+              "media_key": "3_1979178787469131777",
+              "start": 24,
+              "url": "https://t.co/6RHPNPrYUd"
+            },
+            {
+              "display_url": "pic.x.com/6RHPNPrYUd",
+              "end": 47,
+              "expanded_url": "https://x.com/ValeriaEulabeia/status/1979178791344709899/photo/1",
+              "media_key": "3_1979178787909537792",
+              "start": 24,
+              "url": "https://t.co/6RHPNPrYUd"
+            },
+            {
+              "display_url": "pic.x.com/6RHPNPrYUd",
+              "end": 47,
+              "expanded_url": "https://x.com/ValeriaEulabeia/status/1979178791344709899/photo/1",
+              "media_key": "3_1979178787695652864",
+              "start": 24,
+              "url": "https://t.co/6RHPNPrYUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979178791344709899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 274,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对于哈马斯屠杀平民这件事，我要说的就是这些了。 https://t.co/6RHPNPrYUd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 92,
+          "like_count": 3952,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 684
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "Unluckily...got a boy's body at birth. MtF🏳️‍⚧️ | HRT🍥 started at: 2021.12.6 |  International Communication Study |  Borderline Personality Disorder",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zone2.nessbyte.top/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://zone2.nessbyte.top/#/register?code=fEQOPAcf",
+                "start": 0,
+                "url": "https://t.co/x655wqqoK7"
+              }
+            ]
+          }
+        },
+        "id": "1313383273079345152",
+        "location": "链接是自用🛫",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "1942793846691385779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859412631125389312/s2lpLlwU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6788,
+          "following_count": 3702,
+          "like_count": 142704,
+          "listed_count": 17,
+          "media_count": 2344,
+          "tweet_count": 21797
+        },
+        "url": "https://t.co/x655wqqoK7",
+        "username": "ValeriaEulabeia",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2004467523354542493",
+    "created_at": "2025-12-26T09:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T10:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004492176382992702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1300828282061877249",
+          "start": 0,
+          "username": "HANLIANYI331"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/taikongjile/st…",
+          "end": 37,
+          "expanded_url": "https://x.com/taikongjile/status/2004019604876939323",
+          "start": 14,
+          "url": "https://t.co/BhQxdooxzK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004492176382992702",
+    "in_reply_to_user_id": "1300828282061877249",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004019604876939323",
+        "type": "quoted"
+      },
+      {
+        "id": "2004467523354542493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HANLIANYI331 https://t.co/BhQxdooxzK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2004467523354542493",
+        "created_at": "2025-12-26T09:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T10:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004492176382992702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/taikongjile/st…",
+              "end": 37,
+              "expanded_url": "https://x.com/taikongjile/status/2004019604876939323",
+              "start": 14,
+              "url": "https://t.co/BhQxdooxzK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004492176382992702",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004019604876939323",
+            "type": "quoted"
+          },
+          {
+            "id": "2004467523354542493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 https://t.co/BhQxdooxzK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960187829687885824",
+        "conversation_id": "2004019604876939323",
+        "created_at": "2025-12-25T02:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T03:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004019604876939323"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004019604876939323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7377,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "寒涟漪只救xyn\n地雷女她一点都管的\n说白了只想透xyn\n那么？这何尝不是一种性别歧视"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2004467523354542493",
+        "created_at": "2025-12-26T08:21:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T09:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004467523354542493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1995855876293538103",
+              "start": 137,
+              "url": "https://t.co/bUGrgVUPYw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004467523354542493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "六年前，有个人劝告我：“中国的未来总是会慢慢变好的，你先去完成你的学业，继续攒钱，然后搞钱，做投资，等你未来有钱了，就能让更多人活下去了”。\n\n当时我的回答是：我能等待很多年，等到我自己富有，但是很多很多孩子，她们死在了黎明前的夜晚，即使明天变得再好，也和她们没有关系了。\n\n这么多年下来，回过神看，过去尽管这些年来我花了这么多钱在救助上，尽管不断地会有人跟我说“如果你把这些钱拿去做投资，你现在早就财富自由帮助更多人了。”但是有很多活下来的人，如果她们当年没有活下来，都意味着很多很多可能性都丧失了。\n\n可能不再会有更多人开扩移民渠道，也不会再有更多人扩张跨性别在大厂公司里的岗位就升渠道，也不会再有更多人因为各种各样的契机，走上对抗非法虐待机构的的道路。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2976,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995855876293538103",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "六年前，有个人劝告我：“中国的未来总是会慢慢变好的，你先去完成你的学业，继续攒钱，然后搞钱，做投资，等你未来有钱了，就能让更多人活下去了”。\n\n当时我的回答是：我能等待很多年，等到我自己富有，但是很多很多孩子，她们死在了黎明前的夜晚，即使明天变得再好，也和她们没有关系了。 https://t.co/bUGrgVUPYw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 118,
+          "like_count": 13735,
+          "listed_count": 0,
+          "media_count": 391,
+          "tweet_count": 3204
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40516,
+          "following_count": 3665,
+          "like_count": 1327,
+          "listed_count": 67,
+          "media_count": 380,
+          "tweet_count": 2696
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-26T03:49:38.000Z",
+        "description": "官方网站:https://t.co/ZQnAUQt63U\n交流群:https://t.co/FvFWw9Jk8E\nDC交流群：https://t.co/JtSA2uwb28\n社区:https://t.co/JwQ9mOTHUy\n官方直推交流群:https://t.co/JX0NvsiL46",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 28,
+                "expanded_url": "https://overdose.day",
+                "start": 5,
+                "url": "https://t.co/ZQnAUQt63U"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaik…",
+                "end": 56,
+                "expanded_url": "https://t.me/huaxuejilebaike666",
+                "start": 33,
+                "url": "https://t.co/FvFWw9Jk8E"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 86,
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "start": 63,
+                "url": "https://t.co/JtSA2uwb28"
+              },
+              {
+                "display_url": "pr80.bid",
+                "end": 113,
+                "expanded_url": "https://pr80.bid/",
+                "start": 90,
+                "url": "https://t.co/JwQ9mOTHUy"
+              },
+              {
+                "display_url": "wwbwm.lanzouq.com/ioHif3e",
+                "end": 145,
+                "expanded_url": "https://wwbwm.lanzouq.com/ioHif3e",
+                "start": 122,
+                "url": "https://t.co/JX0NvsiL46"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shangtaikong.com",
+                "end": 23,
+                "expanded_url": "http://www.shangtaikong.com/",
+                "start": 0,
+                "url": "https://t.co/i6JxOs4twU"
+              }
+            ]
+          }
+        },
+        "id": "1960187829687885824",
+        "name": "太空极乐百科🍥",
+        "pinned_tweet_id": "2004064227003416995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002586355323502592/8QOsOMbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4990,
+          "following_count": 1581,
+          "like_count": 1014,
+          "listed_count": 3,
+          "media_count": 291,
+          "tweet_count": 1781
+        },
+        "url": "https://t.co/i6JxOs4twU",
+        "username": "taikongjile",
+        "verified": false
+      }
+    ]
+  }
+}

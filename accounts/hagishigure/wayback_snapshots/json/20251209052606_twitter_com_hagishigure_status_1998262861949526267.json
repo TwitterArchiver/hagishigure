@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      }
+    ],
+    "conversation_id": "1998262861949526267",
+    "created_at": "2025-12-09T05:26:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T06:26:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998262861949526267"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cholf5/status/…",
+          "end": 274,
+          "expanded_url": "https://twitter.com/cholf5/status/1998189022053794028",
+          "start": 251,
+          "url": "https://t.co/mk0U2UmJ9g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998262861949526267",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998189022053794028",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Es gracioso.  Incluso el inglés médico no sabe nada, solo verá medicamentos no químicos e inteligencia artificial fingiendo entenderlo.  Tu médico debe ser usado por ti:\"La inteligencia artificial me dice...\" Este patrón de oración ha sido torturado. https://t.co/mk0U2UmJ9g"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "1998262861949526267",
+        "created_at": "2025-12-09T05:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T06:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998262861949526267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cholf5/status/…",
+              "end": 274,
+              "expanded_url": "https://twitter.com/cholf5/status/1998189022053794028",
+              "start": 251,
+              "url": "https://t.co/mk0U2UmJ9g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998262861949526267",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998189022053794028",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Es gracioso.  Incluso el inglés médico no sabe nada, solo verá medicamentos no químicos e inteligencia artificial fingiendo entenderlo.  Tu médico debe ser usado por ti:\"La inteligencia artificial me dice...\" Este patrón de oración ha sido torturado. https://t.co/mk0U2UmJ9g"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "213267726",
+        "conversation_id": "1997947824961622295",
+        "created_at": "2025-12-09T00:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T01:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998189022053794028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1684297314033102850",
+              "start": 0,
+              "username": "uoeowkd59629"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998189022053794028",
+        "in_reply_to_user_id": "1684297314033102850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1431,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998113105495409093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uoeowkd59629 英语的医学词汇是给人类看的？😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 116,
+          "like_count": 12181,
+          "listed_count": 0,
+          "media_count": 377,
+          "tweet_count": 2861
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-08T13:09:13.000Z",
+        "description": "15年游戏开发 • 后端主程;\n后端技术栈：.NET/Java/Go/Skynet;\n前端技术栈：Unity/UE/LÖVE;\nYouTuber • FIRE Journey;\nVibe in public.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cholf5.com",
+                "end": 23,
+                "expanded_url": "https://cholf5.com",
+                "start": 0,
+                "url": "https://t.co/RHRv7W5SpG"
+              }
+            ]
+          }
+        },
+        "id": "213267726",
+        "location": "Shanghai",
+        "name": "周尔复",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939365652604588032/NT6NrQSH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8049,
+          "following_count": 665,
+          "like_count": 24995,
+          "listed_count": 62,
+          "media_count": 2075,
+          "tweet_count": 9362
+        },
+        "url": "https://t.co/RHRv7W5SpG",
+        "username": "cholf5",
+        "verified": false
+      }
+    ]
+  }
+}

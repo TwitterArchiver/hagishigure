@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2050688253754269997",
+    "created_at": "2026-05-03T05:51:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T06:51:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050815496396706177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1526630725851787264",
+          "start": 0,
+          "username": "Schnee_Irene_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050815496396706177",
+    "in_reply_to_user_id": "1526630725851787264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050791562448339398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Schnee_Irene_ 例如，还原论，例如，认知论，例如，那些该死的物理学家哲学家双修的人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2050688253754269997",
+        "created_at": "2026-05-03T05:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T06:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050815496396706177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1526630725851787264",
+              "start": 0,
+              "username": "Schnee_Irene_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050815496396706177",
+        "in_reply_to_user_id": "1526630725851787264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050791562448339398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Schnee_Irene_ 例如，还原论，例如，认知论，例如，那些该死的物理学家哲学家双修的人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1526630725851787264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2050688253754269997",
+        "created_at": "2026-05-03T04:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T05:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050791562448339398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050791562448339398",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我不太懂你在说什么，据我了解，现代哲学界基本都是分析风格的了，做哲学的人不会强调自己在做分析哲学，而就是哲学。\n\n所以我不是很清楚现代美国分析哲学界是什么东西，是整个现代美国哲学界吗？但提及整个哲学界干什么呢？新的成果大多都是在既有领域内进行的不是么，所以我提到了具体相关的领域呀。至于你说的其他东西，我个人对欧陆风格的哲学和文学不太了解，如果你有什么见解或资源要分享，也欢迎你这么做。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050688253754269997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure 我不太懂你在说什么，据我了解，现代哲学界基本都是分析风格的了，做哲学的人不会强调自己在做分析哲学，而就是哲学。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 149,
+          "like_count": 28188,
+          "listed_count": 2,
+          "media_count": 753,
+          "tweet_count": 6710
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-17T18:28:42.000Z",
+        "description": "not (entirely) a mean girl",
+        "id": "1526630725851787264",
+        "name": "Schnee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027577216964694018/TfjQGW6U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 23,
+          "like_count": 2026,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 665
+        },
+        "username": "Schnee_Irene_",
+        "verified": false
+      }
+    ]
+  }
+}

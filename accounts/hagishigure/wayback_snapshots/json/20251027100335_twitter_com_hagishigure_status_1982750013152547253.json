@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1982712697411219861",
+    "created_at": "2025-10-27T10:03:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T11:03:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982750013152547253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781621357014286336",
+          "start": 0,
+          "username": "0rbital_obit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982750013152547253",
+    "in_reply_to_user_id": "1781621357014286336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982712697411219861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0rbital_obit selank、noopept、2-A、L-茶氨酸、L-色氨酸、L-蘇氨酸、L-酪氨酸、芹菜素、B1衍生物（例如苯硫醯胺）、薰衣草精油\n現在不化學了，這裡面百分之90的物質都是天然的。\n至於你想要的既要又要，這種東西在生化裡面除非直接對突觸下手基本是不可能實現的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1982712697411219861",
+        "created_at": "2025-10-27T10:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T11:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982750013152547253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781621357014286336",
+              "start": 0,
+              "username": "0rbital_obit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982750013152547253",
+        "in_reply_to_user_id": "1781621357014286336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982712697411219861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0rbital_obit selank、noopept、2-A、L-茶氨酸、L-色氨酸、L-蘇氨酸、L-酪氨酸、芹菜素、B1衍生物（例如苯硫醯胺）、薰衣草精油\n現在不化學了，這裡面百分之90的物質都是天然的。\n至於你想要的既要又要，這種東西在生化裡面除非直接對突觸下手基本是不可能實現的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781621357014286336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1982712697411219861",
+        "created_at": "2025-10-27T07:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T08:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982712697411219861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0rbital_obit/s…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/0rbital_obit/status/1982710500590030992",
+              "start": 105,
+              "url": "https://t.co/wAfj3Hx4dy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982712697411219861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982710500590030992",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很多小分子药完全只阻断症状而没能改善通路都……那我们的未来在哪里啊？用化学物质调控神经递质、信号和通路去解决氧化应激和神经炎症，那我的主体性在哪里啊？我在无意识里面把这些经历一遍干啥啊？我不想出生也不想感受啊 https://t.co/wAfj3Hx4dy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 99,
+          "like_count": 6030,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 1228
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只流浪猫 ｜ 半癫 半疯 半自理 半死 ｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXCf02"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "location": "6:4",
+        "name": "沈默🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 233,
+          "like_count": 839,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 680
+        },
+        "url": "https://t.co/o9LlaXCf02",
+        "username": "0rbital_obit",
+        "verified": false
+      }
+    ]
+  }
+}

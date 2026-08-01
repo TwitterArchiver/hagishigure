@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157181954",
+          "name": "Hospitality"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783337372406517762",
+          "name": "Online Services - Hospitality"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10032901311",
+          "name": "Airbnb"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10032901311",
+          "name": "Airbnb"
+        }
+      },
+      {
+        "domain": {
+          "description": "for travel in specific places and types of travels, e.g., Venezuela travel, Spain travel, road trips",
+          "id": "163",
+          "name": "Travel"
+        },
+        "entity": {
+          "id": "1395109724786290690",
+          "name": "Travel accommodations "
+        }
+      }
+    ],
+    "conversation_id": "1996308824383279497",
+    "created_at": "2025-12-04T17:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T18:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996627458477707471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1459189957168295944",
+          "start": 0,
+          "username": "NuclearThermal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996627458477707471",
+    "in_reply_to_user_id": "1459189957168295944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996308824383279497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NuclearThermal 你來荷蘭那必須得試試我們萊頓附近的Airbnb。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996308810944655360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7RQSWJWsAA66o-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996308810932047872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7RQSWGWUAAIvpx.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1996308810944626688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7RQSWJWQAAVOEu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157181954",
+              "name": "Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783337372406517762",
+              "name": "Online Services - Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10032901311",
+              "name": "Airbnb"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10032901311",
+              "name": "Airbnb"
+            }
+          },
+          {
+            "domain": {
+              "description": "for travel in specific places and types of travels, e.g., Venezuela travel, Spain travel, road trips",
+              "id": "163",
+              "name": "Travel"
+            },
+            "entity": {
+              "id": "1395109724786290690",
+              "name": "Travel accommodations "
+            }
+          }
+        ],
+        "conversation_id": "1996308824383279497",
+        "created_at": "2025-12-04T17:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T18:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996627458477707471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1459189957168295944",
+              "start": 0,
+              "username": "NuclearThermal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996627458477707471",
+        "in_reply_to_user_id": "1459189957168295944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996308824383279497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NuclearThermal 你來荷蘭那必須得試試我們萊頓附近的Airbnb。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996308810944655360",
+            "3_1996308810932047872",
+            "3_1996308810944626688"
+          ]
+        },
+        "author_id": "1459189957168295944",
+        "conversation_id": "1996308824383279497",
+        "created_at": "2025-12-03T20:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T21:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996308824383279497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/05ozQLDxjC",
+              "end": 51,
+              "expanded_url": "https://x.com/NuclearThermal/status/1996308824383279497/photo/1",
+              "media_key": "3_1996308810944655360",
+              "start": 28,
+              "url": "https://t.co/05ozQLDxjC"
+            },
+            {
+              "display_url": "pic.x.com/05ozQLDxjC",
+              "end": 51,
+              "expanded_url": "https://x.com/NuclearThermal/status/1996308824383279497/photo/1",
+              "media_key": "3_1996308810932047872",
+              "start": 28,
+              "url": "https://t.co/05ozQLDxjC"
+            },
+            {
+              "display_url": "pic.x.com/05ozQLDxjC",
+              "end": 51,
+              "expanded_url": "https://x.com/NuclearThermal/status/1996308824383279497/photo/1",
+              "media_key": "3_1996308810944626688",
+              "start": 28,
+              "url": "https://t.co/05ozQLDxjC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996308824383279497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这荷兰的酒店房间里的装饰……这就是欧洲人的中国风吗…… https://t.co/05ozQLDxjC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 115,
+          "like_count": 11676,
+          "listed_count": 0,
+          "media_count": 372,
+          "tweet_count": 2727
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-12T16:03:20.000Z",
+        "description": "MtX(Autigender)/AS/ADHD",
+        "id": "1459189957168295944",
+        "name": "Nuclear Thermal Rocket🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1527155675377217537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1459190082980638728/8WjeYDRu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1876,
+          "following_count": 2478,
+          "like_count": 13748,
+          "listed_count": 14,
+          "media_count": 129,
+          "tweet_count": 2962
+        },
+        "username": "NuclearThermal",
+        "verified": false
+      }
+    ]
+  }
+}

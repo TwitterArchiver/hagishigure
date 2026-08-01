@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973904808131375105"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1973806901751140682",
+    "created_at": "2025-10-03T00:15:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T01:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973904810555682970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1851835690616864768",
+          "start": 0,
+          "username": "maplefsnow"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RJ4YzkvZDw",
+          "end": 42,
+          "expanded_url": "https://x.com/hagishigure/status/1973904810555682970/photo/1",
+          "media_key": "3_1973904808131375105",
+          "start": 19,
+          "url": "https://t.co/RJ4YzkvZDw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973904810555682970",
+    "in_reply_to_user_id": "1851835690616864768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973806901751140682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maplefsnow 幫你醒一下（ https://t.co/RJ4YzkvZDw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 847,
+        "media_key": "3_1973904808131375105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2S39v0bMAEXO8u.jpg",
+        "width": 847
+      },
+      {
+        "height": 1894,
+        "media_key": "3_1973806894935330817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Re6cvWUAEWdta.jpg",
+        "width": 1209
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973904808131375105"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1973806901751140682",
+        "created_at": "2025-10-03T00:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T01:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973904810555682970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851835690616864768",
+              "start": 0,
+              "username": "maplefsnow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RJ4YzkvZDw",
+              "end": 42,
+              "expanded_url": "https://x.com/hagishigure/status/1973904810555682970/photo/1",
+              "media_key": "3_1973904808131375105",
+              "start": 19,
+              "url": "https://t.co/RJ4YzkvZDw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973904810555682970",
+        "in_reply_to_user_id": "1851835690616864768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973806901751140682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maplefsnow 幫你醒一下（ https://t.co/RJ4YzkvZDw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973806894935330817"
+          ]
+        },
+        "author_id": "1851835690616864768",
+        "conversation_id": "1973806901751140682",
+        "created_at": "2025-10-02T17:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T18:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973806901751140682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hTY73n1jyc",
+              "end": 33,
+              "expanded_url": "https://x.com/maplefsnow/status/1973806901751140682/photo/1",
+              "media_key": "3_1973806894935330817",
+              "start": 10,
+              "url": "https://t.co/hTY73n1jyc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973806901751140682",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 324,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "醉奶\n第一次醉奶… https://t.co/hTY73n1jyc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n||宣誓人——🪼諾諾||🪼沒有標籤，也不需要定義自己||正因神愛世人，世人才予以神的敬稱||",
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 70,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 30
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T03:57:08.000Z",
+        "description": "温柔又平凡，悲痛却坚定 | RWTH Aachen Robosys https://t.co/byUGdlkwpm. | INFP-H | 只要还有一双真诚的眼睛与我共同哭泣，就值得我为生命受苦 | @anemoneheart912 的小猫 | 都是@ARKKUMA_干的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 100,
+                "username": "anemoneheart912"
+              },
+              {
+                "end": 134,
+                "start": 125,
+                "username": "ARKKUMA_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "M.Sc",
+                "end": 57,
+                "expanded_url": "http://M.Sc",
+                "start": 34,
+                "url": "https://t.co/byUGdlkwpm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maplef.top",
+                "end": 23,
+                "expanded_url": "http://www.maplef.top",
+                "start": 0,
+                "url": "https://t.co/NXDaCnP3yG"
+              }
+            ]
+          }
+        },
+        "id": "1851835690616864768",
+        "location": "姑苏城外小枫窝",
+        "name": "Maplef 猫扑枫(Fragile Tetrapod Catcher)",
+        "pinned_tweet_id": "1949217989875950025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930198540648886275/bcEbrmxb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2953,
+          "following_count": 200,
+          "like_count": 8639,
+          "listed_count": 7,
+          "media_count": 301,
+          "tweet_count": 960
+        },
+        "url": "https://t.co/NXDaCnP3yG",
+        "username": "maplefsnow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,797 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1372588659346612225",
+          "name": "Binance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596794716162",
+          "name": "Financial services"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390680741206368263",
+          "name": "Cryptocurrency exchanges"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491481998862348291",
+          "name": "Digital asset industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      }
+    ],
+    "conversation_id": "1995855699931529355",
+    "created_at": "2025-12-02T14:00:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T15:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995855699931529355"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ctomservice/st…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/ctomservice/status/1989609092558582098",
+          "start": 29,
+          "url": "https://t.co/O1LpQdZyAw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995855699931529355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989609092558582098",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "無論如何，我是支持的。\n不應有任何資本的自由比法律自由。 https://t.co/O1LpQdZyAw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1372588659346612225",
+              "name": "Binance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390680741206368263",
+              "name": "Cryptocurrency exchanges"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1995855699931529355",
+        "created_at": "2025-12-02T14:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T15:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995855699931529355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ctomservice/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/ctomservice/status/1989609092558582098",
+              "start": 29,
+              "url": "https://t.co/O1LpQdZyAw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995855699931529355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989609092558582098",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "無論如何，我是支持的。\n不應有任何資本的自由比法律自由。 https://t.co/O1LpQdZyAw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135512851873845252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1372588659346612225",
+              "name": "Binance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390680741206368263",
+              "name": "Cryptocurrency exchanges"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1989609092558582098",
+        "created_at": "2025-11-15T08:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T09:15:14.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989608116707602512",
+          "1989609092558582098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989609092558582098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 4644,
+                "id": "14379660",
+                "start": 4628,
+                "username": "brian_armstrong"
+              },
+              {
+                "end": 4658,
+                "id": "702654540387127296",
+                "start": 4645,
+                "username": "haydenzadams"
+              },
+              {
+                "end": 4667,
+                "id": "315991624",
+                "start": 4659,
+                "username": "FEhrsam"
+              },
+              {
+                "end": 4677,
+                "id": "2985599460",
+                "start": 4668,
+                "username": "star_okx"
+              },
+              {
+                "end": 4687,
+                "id": "1100932506193260544",
+                "start": 4678,
+                "username": "benbybit"
+              },
+              {
+                "end": 4701,
+                "id": "702654540387127296",
+                "start": 4688,
+                "username": "haydenzadams"
+              },
+              {
+                "end": 4714,
+                "id": "18876842",
+                "start": 4702,
+                "username": "jessepollak"
+              },
+              {
+                "end": 4731,
+                "id": "14379660",
+                "start": 4715,
+                "username": "brian_armstrong"
+              },
+              {
+                "end": 4743,
+                "id": "1025361817457975298",
+                "start": 4732,
+                "username": "lyu_johnny"
+              },
+              {
+                "end": 4760,
+                "id": "888066710619668481",
+                "start": 4744,
+                "username": "AntonioMJuliano"
+              },
+              {
+                "end": 4776,
+                "id": "295218901",
+                "start": 4761,
+                "username": "VitalikButerin"
+              },
+              {
+                "end": 4789,
+                "id": "2327407569",
+                "start": 4777,
+                "username": "aeyakovenko"
+              },
+              {
+                "end": 4799,
+                "id": "101833150",
+                "start": 4790,
+                "username": "rajgokal"
+              },
+              {
+                "end": 4809,
+                "id": "915609529",
+                "start": 4800,
+                "username": "sgoldfed"
+              },
+              {
+                "end": 4820,
+                "id": "33962758",
+                "start": 4810,
+                "username": "gavofyork"
+              },
+              {
+                "end": 4830,
+                "id": "774217808628645891",
+                "start": 4821,
+                "username": "rphmeier"
+              },
+              {
+                "end": 4840,
+                "id": "1469101279",
+                "start": 4831,
+                "username": "aantonop"
+              },
+              {
+                "end": 4854,
+                "id": "61417559",
+                "start": 4841,
+                "username": "ErikVoorhees"
+              },
+              {
+                "end": 4863,
+                "id": "2178012643",
+                "start": 4855,
+                "username": "balajis"
+              },
+              {
+                "end": 4869,
+                "id": "23618940",
+                "start": 4864,
+                "username": "lopp"
+              },
+              {
+                "end": 4880,
+                "id": "19721574",
+                "start": 4870,
+                "username": "Gladstein"
+              },
+              {
+                "end": 4904,
+                "id": "375707743",
+                "start": 4894,
+                "username": "MartyBent"
+              },
+              {
+                "end": 4915,
+                "id": "26377478",
+                "start": 4905,
+                "username": "laurashin"
+              },
+              {
+                "end": 4927,
+                "id": "339061487",
+                "start": 4916,
+                "username": "APompliano"
+              },
+              {
+                "end": 4942,
+                "id": "952921795316912133",
+                "start": 4928,
+                "username": "StaniKulechov"
+              },
+              {
+                "end": 4950,
+                "id": "244647486",
+                "start": 4943,
+                "username": "saylor"
+              },
+              {
+                "end": 4964,
+                "id": "958118843636854784",
+                "start": 4951,
+                "username": "AltcoinDaily"
+              },
+              {
+                "end": 4972,
+                "id": "18481050",
+                "start": 4965,
+                "username": "SECGov"
+              },
+              {
+                "end": 4978,
+                "id": "234044087",
+                "start": 4973,
+                "username": "CFTC"
+              },
+              {
+                "end": 4990,
+                "id": "1715447040002383872",
+                "start": 4979,
+                "username": "FinCENnews"
+              },
+              {
+                "end": 4995,
+                "id": "17629860",
+                "start": 4991,
+                "username": "FBI"
+              },
+              {
+                "end": 5002,
+                "id": "16477634",
+                "start": 4996,
+                "username": "durov"
+              },
+              {
+                "end": 5018,
+                "id": "1622260212798291972",
+                "start": 5003,
+                "username": "chameleon_jeff"
+              },
+              {
+                "end": 5034,
+                "id": "276810355",
+                "start": 5019,
+                "username": "ArmaniFerrante"
+              },
+              {
+                "end": 5044,
+                "id": "44196397",
+                "start": 5035,
+                "username": "elonmusk"
+              },
+              {
+                "end": 5053,
+                "id": "877807935493033984",
+                "start": 5045,
+                "username": "binance"
+              },
+              {
+                "end": 5068,
+                "id": "81185431",
+                "start": 5054,
+                "username": "ilblackdragon"
+              },
+              {
+                "end": 5079,
+                "id": "5663192",
+                "start": 5069,
+                "username": "dominic_w"
+              },
+              {
+                "end": 5096,
+                "id": "905395394",
+                "start": 5080,
+                "username": "AndreCronjeTech"
+              },
+              {
+                "end": 5106,
+                "id": "17194296",
+                "start": 5097,
+                "username": "weremeow"
+              },
+              {
+                "end": 5119,
+                "id": "2327407569",
+                "start": 5107,
+                "username": "aeyakovenko"
+              },
+              {
+                "end": 5134,
+                "id": "1829498397184946176",
+                "start": 5120,
+                "username": "liangxihuigui"
+              },
+              {
+                "end": 5146,
+                "id": "339061487",
+                "start": 5135,
+                "username": "APompliano"
+              },
+              {
+                "end": 5155,
+                "id": "3012852462",
+                "start": 5147,
+                "username": "zachxbt"
+              },
+              {
+                "end": 5167,
+                "id": "902926941413453824",
+                "start": 5156,
+                "username": "cz_binance"
+              },
+              {
+                "end": 5178,
+                "id": "1183694592433983489",
+                "start": 5168,
+                "username": "MFA_China"
+              },
+              {
+                "end": 5194,
+                "id": "1459142382381932549",
+                "start": 5179,
+                "username": "kaspaunchained"
+              },
+              {
+                "end": 5211,
+                "id": "25073877",
+                "start": 5195,
+                "username": "realDonaldTrump"
+              }
+            ]
+          },
+          "text": "关于币安（Binance）及其实际控制人赵长鹏（CZ）涉嫌严重违法违规的控告信\n\n尊敬的中国金融监管各部门领导：\n\n您好！\n\n我是一名在币安（Binance）平台遭受巨额财产损失的中国投资者。现就币安及其实际控制人赵长鹏（CZ）、核心管理团队涉嫌长期违反中国法律法规、恶意操纵市场制造\"2025年1011清算惨案\"、歧视性对待中国投资者等严重违法违规行为，向各个部门实名控告，恳请依法彻查，维护中国投资者合法权益与国家金融秩序。\n\n一、币安公然藐视中国法律，非法向境内用户提供金融服务，触碰监管红线\n\n1. 蓄意规避监管，定向吸引中国用户：中国人民银行自2017年起多次联合多部门发布政策，严禁虚拟货币交易炒作，2021年十部委更是联合发文明确禁止境外虚拟货币交易平台向境内用户提供服务。但币安明知相关禁令，却通过内部指引客服告知用户使用VPN、更换境外IP等方式绕开地理限制，还针对中国用户推出低手续费、专属客服的VIP服务，系统性吸引境内投资者参与交易。2025年币安更是推出了ALPHA交易空投活动，通过这些空投大回报广告引诱国内用户到处拉人注册刷币安交易！推广截至2025年11月，币安全球用户总数约为2.8亿，其平台中国境内活跃用户远超500万，仅2023年1月至2025年10月，就从中国市场非法收取交易手续费、保证金利息等不计其数，中国市场已成为其核心利润来源。\n\n2. 未经许可开展非法金融业务，涉嫌非法经营罪：币安未在中国境内设立任何合规金融实体，未取得中国证监会、国家金融监督管理总局等部门的业务许可，却擅自向境内用户提供现货交易、质押借贷、高倍杠杆期货/期权等金融衍生品服务，完全处于监管真空状态。这一行为违反了《非法金融机构和非法金融业务活动取缔办法》第5条，《中华人民共和国银行业监督管理法》第19条，《中华人民共和国证券法》第118条关于\"未经批准不得开展金融业务\"的规定。根据最高法、最高检相关司法解释，此类通过虚拟货币交易实现跨境兑换、提供金融服务的行为，本质上属于非法金融活动，已涉嫌触犯《中国人民共和国刑法》第二百二十五条规定的非法经营罪。\n\n3. 跨境资金流动违规，扰乱外汇管理秩序：币安通过\"虚拟货币—人民币\"、\"外汇—虚拟货币—人民币\"的兑换模式，帮助境内用户实现资金跨境流转，2023年以来相关跨境资金交易量累计远超过1000亿元人民币，且未按规定向国家外汇管理局报备。这种行为已构成变相买卖外汇，严重违反了《中华人民共和国外汇管理条例》第4条\"境内个人和机构进行外汇收支须通过合法渠道并报备\"的规定。\n\n4. 运营体系不透明，由赵长鹏绝对控制：币安通过开曼群岛、英属维尔京群岛等离岸实体搭建复杂架构，赵长鹏作为创始人、实际控制人，直接主导平台运营策略与合规决策，其内部通信记录显示曾明确指示\"优化技术手段，降低中国用户访问门槛\"，对非法面向境内用户的业务负全部责任。\n\n二、币安恶意操纵市场，制造\"2025年1011清算惨案\"，致中国投资者巨额损失\n\n币安在1011清算事发前一天（10 月 10 日）悄悄更新了用户条款，更加重新确认了技术免责条款，主要关注：第28条和第30条的技术免责和责任限制条款! 还在10月11日凌晨调整清算机制，降低强制平仓阈值，且并未向用户明确告知，这些都疑似为大规模清算做准备！且次日凌晨（10 月 11 日）即发生系统宕机与强平和强制清算事件！2025年10月11日凌晨，币安平台突发大规模异常波动，在系统宕机影响下，短短几分钟内主流币断崖式下跌，无数山寨币更是短暂跌至近零（如ATOM -99.9%），后续又通过修改K线等手段试图逃避责任，因强制清算和流动性真空；非系统性崩盘。精准触发数百万用户的多头止损线，引发全网强制清算潮（下称\"1011惨案\"）。更严重的是，由于币安是全球多家二线交易所的行情接口提供方，其价格\"插针\"导致全行业同步出现清算问题，波及范围极广。\n\n我本人在此次事件中，因平台价格异常与功能故障，几个账户加起来50多万美元（折合人民币约3,720,000元）资产瞬间被强制以最低价格清算，毕生积蓄付诸东流。经多方核实，此次事件存在明显人为操纵痕迹：\n\n1. 价格波动异常诡异：波动幅度远超同期全球其他主流交易平台，且下跌时点集中在中国境内用户休息时段（凌晨5-7点），针对性极强，完全符合\"插针式，关门打狗\"操纵市场的特征，并非正常市场风险。\n\n2. 平台功能蓄意故障：价格剧烈波动时，币安App及网页端同步出现卡顿、无法登录、平仓按钮失效等问题，用户无法执行止损，还款等操作，只能被动承受资产清算，而客服却反应平台后台交易系统正常运行，那这种情况就疑似人为限制用户操作权限，为大规模清算创造条件。\n\n3. 内部决策存重大疑点：事后有内部消息泄露，币安在10月10日已监测到异常交易信号，却未采取任何风险提示或风控升级措施，而且还悄悄更新用户条款，重新强调了免责条款！还在10月11日凌晨调整清算机制，降低强制平仓阈值，疑似为大规模清算做准备。\n\n三、币安歧视性对待中国投资者，境内用户索赔无门，严重侵害合法权益\n\n\"1011惨案\"发生后，币安于2025年10月14日推出\"Together Initiative\"补偿计划，宣布向全球受影响用户发放3亿美元代币券救济金并在官网公关承诺由于币安系统卡顿等引起的，币安会赔付，但该赔付计划存在明显歧视性：\n\n1. 明确排除大部分中国用户：境内用户提交的补偿申请均被币安以\"不符合补偿资格\"为由驳回，客服仅回复\"不符合\"，却无法提供任何排除中国用户的合法依据。\n\n2. 海外用户补偿正常发放：据多名海外用户反馈，其已成功领取补偿，而中国用户作为此次惨案的主要受害者群体，却被完全排除在补偿体系之外，遭遇赤裸裸的差别对待，只有替币安到处宣传的KOL和有关系的大户获得了补偿，大部分中国用户，特别是质押借币被清算的大户，一分不给赔付，完全就是说一套做一套，所谓的方舟救济更是公关术，表演秀，大部分人都未领取到。\n\n3. 拒绝提供交易数据与清算依据：我及其他受害者多次要求币安提供清算时点的真实成交数据、市场波动成因说明，均被拒绝，平台刻意隐瞒关键信息，阻碍用户维权。其负责人何一更是嚣张至极的宣布维权的人不给处理！币安还随意封杀用户，冻结用户资产！很多用户被诱导去刷空投交易的，不仅仅账户被封，资产被冻，之前空投领取的收益还被强制扣走！\n\n币安的上述行为严重侵害了中国投资者的知情权与求偿权，根据《消费者权益保护法》第24条规定，经营者应保障商品或服务的安全，并对消费者的损失承担赔偿责任。币安未充分提示高杠杆产品风险，且在事故后拒绝赔偿，已构成对消费者权益的严重侵害。\n\n四、币安反洗钱与数据合规形同虚设，危害国家金融安全与用户信息安全\n\n1. 未履行反洗钱义务，沦为犯罪资金通道：2025年1月1日起正式生效的新修订《中华人民共和国反洗钱法》，已明确将虚拟资产服务提供者纳入严格监管范围，要求其履行与传统金融机构同等的客户身份识别（KYC）、交易监控、可疑交易报告及交易数据保存（至少五年）等义务。最高法、最高检最新司法解释已明确将虚拟资产交易列为洗钱方式之一，而币安未向中国反洗钱监测分析中心报送任何涉及境内用户的可疑交易报告，导致其平台成为电信诈骗、洗钱等违法犯罪活动的资金转移通道，涉嫌触犯《刑法》第一百九十一条洗钱罪，且其违法行为发生在新修订《反洗钱法》施行后，属于明知故犯、顶风作案，情节更为恶劣。\n\n2. 非法收集并跨境传输用户数据：币安违规收集境内用户个人身份信息、财产状况、交易记录等敏感数据超1.2亿条，未经中国监管部门安全评估，擅自传输至境外服务器。这一行为严重违反了《中华人民共和国数据安全法》和《中华人民共和国个人信息保护法》关于数据跨境传输的强制性规定，对国家数据安全构成威胁。\n\n3. 违规投放广告，误导中国用户：币安宣传声称\"仅面向非中国地区用户\"，但实际通过技术手段向中国用户提供服务，构成误导性广告。此行为违反了《中华人民共和国广告法》第9条禁止发布虚假或引人误解广告的规定。同时，币安作为电子商务平台经营者，未对境内用户的投资资质进行审查，即向非合格投资者提供高杠杆金融产品，也违反了《中华人民共和国电子商务法》的规定。\n\n五、控告诉求\n\n1. 依法彻查：请贵部门依据2025年新修订《中华人民共和国反洗钱法》及《中华人民共和国刑法》《中华人民共和国证券法》等相关规定，彻查币安\"1011惨案\"中的市场操纵行为，调取平台后台交易数据、内部通信记录、清算机制调整记录及五年内的用户交易保存数据，查明价格异常波动与功能故障的真实原因，固定其操纵市场、违反反洗钱义务的违法证据。\n\n2. 追究责任：追究赵长鹏及币安核心管理团队的刑事责任与民事责任，对其非法经营、操纵市场、洗钱等涉嫌犯罪的行为立案侦查，依据属地管辖与保护原则，行使司法管辖权，严惩跨境金融犯罪；同时就其违反2025年新修订《反洗钱法》的行为，依法从重处罚。\n\n3. 全额赔付：责令币安立即停止对中国境内用户的歧视性待遇，向\"1011惨案\"中的中国受害者全额赔付损失（包括我的50多万美元及其他用户的相应损失）。\n\n4. 永久禁令：颁布永久禁令，禁止币安及其关联方在中国境内或向中国公民提供任何虚拟货币相关金融服务，封堵境外非法交易平台通过VPN、跨境数据传输等方式向境内渗透的渠道，落实十部委联合监管要求及新修订《反洗钱法》的监管精神。\n\n5. 完善监管：以新修订《中华人民共和国反洗钱法》施行为契机，进一步完善虚拟货币交易监管配套制度，明确虚拟资产服务提供者的合规标准与法律责任，出台专门司法解释明确定罪量刑标准，建立跨境非法金融活动联合惩戒机制，防范类似风险再次发生，维护国家金融市场安全与稳定。\n\n6.给币安开大于300亿美元的罚单！中国相关部门可以仿效美国相关部门针对币安的违法进行起诉，币安对中国用户的坑害远比美国用户厉害的的多，美国相关部门通过多次起诉，累计开出了72多亿的罚单，中国用户人数更多，被逼安坑害人数更多，罚款可以更多！罚款不仅仅是惩罚犯罪的人，也是保护更多的本国投资者！\n\n我门愿全力配合各部门的调查工作，提供交易记录、平台沟通记录、损失证明、海外用户补偿凭证等全部证据材料，恳请各部门秉公执法，为广大中国受害者讨回公道，彰显我国金融监管的决心与力度！\n\n此致\n敬礼！\n\n控告人：XXX\n身份证号：XXXXXXXXXXXXXXXXXX\n联系电话：XXXXXXXXXXX\n交易账户：XXXXXXXXXXX\n损失金额：50多万美金\n日期：2025年11月15日\n\n附件：\n\n1. 币安平台交易记录截图\n\n2. 2025年10月11日账户清算明细\n\n3. 与币安客服沟通记录（含补偿申请驳回凭证）\n\n4. 海外用户获得补偿的相关证据截图\n\n5. 币安引导中国用户的相关聊天记录截图\n\n6.币安系统宕机，用户无法操作的证据\n\n大家可以直接写投诉信或者直接打12345政府服务热线，说明币安违法行为后，由其转交到相关主管单位受理！还可以直接打96110直接举报欺诈，一定要多打，这个很有用的，上面的人就等大家的举报热线，收集更多证据着，然后一起处理这些案件，比如2020年中国银行原油保事件！\n\n@brian_armstrong @haydenzadams @FEhrsam\n@star_okx @benbybit @haydenzadams\n@jessepollak @brian_armstrong @lyu_johnny\n@AntonioMJuliano @VitalikButerin @aeyakovenko\n@rajgokal @sgoldfed @gavofyork @rphmeier\n@aantonop @ErikVoorhees @balajis @lopp\n@Gladstein @nic__carter @MartyBent @laurashin\n@APompliano @StaniKulechov @saylor\n@AltcoinDaily @SECGov @CFTC @FinCENnews\n@FBI @durov @chameleon_jeff @ArmaniFerrante\n@elonmusk @binance @ilblackdragon @dominic_w\n@AndreCronjeTech @weremeow @aeyakovenko\n@liangxihuigui @APompliano @zachxbt\n@cz_binance @MFA_China @kaspaunchained @realDonaldTrump"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 381,
+          "impression_count": 396875,
+          "like_count": 1381,
+          "quote_count": 63,
+          "reply_count": 867,
+          "retweet_count": 202
+        },
+        "reply_settings": "everyone",
+        "text": "关于币安（Binance）及其实际控制人赵长鹏（CZ）涉嫌严重违法违规的控告信\n\n尊敬的中国金融监管各部门领导：\n\n您好！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 114,
+          "like_count": 11524,
+          "listed_count": 0,
+          "media_count": 372,
+          "tweet_count": 2683
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-03T11:45:35.000Z",
+        "description": "我是币安1011大清算事件受害者，更是加密去中心化的坚定信仰者——信的是中本聪初衷里的公平，不是平台故障收割的冰冷。当天早上币安故障致我50多万美金家底被清算，币安承诺的赔偿至今落空，只剩漠视与搪塞，气愤又无助",
+        "id": "1135512851873845252",
+        "name": "ctomservice",
+        "pinned_tweet_id": "1989609092558582098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1571164652364496896/08dchtEy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3290,
+          "following_count": 2801,
+          "like_count": 2304,
+          "listed_count": 19,
+          "media_count": 424,
+          "tweet_count": 14341
+        },
+        "username": "ctomservice",
+        "verified": false
+      }
+    ]
+  }
+}

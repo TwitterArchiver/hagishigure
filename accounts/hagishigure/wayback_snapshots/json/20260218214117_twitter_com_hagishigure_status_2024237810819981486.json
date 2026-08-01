@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2024096327118852161",
+    "created_at": "2026-02-18T21:41:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T22:41:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024237810819981486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1581226356326617088",
+          "start": 0,
+          "username": "Furina_8620"
+        },
+        {
+          "end": 21,
+          "id": "1868492139199709184",
+          "start": 13,
+          "username": "LamCimg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024237810819981486",
+    "in_reply_to_user_id": "1581226356326617088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024096327118852161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Furina_8620 @LamCimg 不好说，我是p主，但我是intp或者intj。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 972,
+        "media_key": "3_2024096323516133376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcI4dJacAALDAz.jpg",
+        "width": 1264
+      },
+      {
+        "height": 1436,
+        "media_key": "3_2024096320156520448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcI4Qoa0AA-ELs.jpg",
+        "width": 1492
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2024096327118852161",
+        "created_at": "2026-02-18T21:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T22:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024237810819981486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1581226356326617088",
+              "start": 0,
+              "username": "Furina_8620"
+            },
+            {
+              "end": 21,
+              "id": "1868492139199709184",
+              "start": 13,
+              "username": "LamCimg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024237810819981486",
+        "in_reply_to_user_id": "1581226356326617088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024096327118852161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Furina_8620 @LamCimg 不好说，我是p主，但我是intp或者intj。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024096323516133376",
+            "3_2024096320156520448"
+          ]
+        },
+        "author_id": "1581226356326617088",
+        "conversation_id": "2024096327118852161",
+        "created_at": "2026-02-18T12:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T13:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024096327118852161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 83,
+              "id": "1868492139199709184",
+              "start": 75,
+              "username": "LamCimg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VpSOVBlPDa",
+              "end": 107,
+              "expanded_url": "https://x.com/Furina_8620/status/2024096327118852161/photo/1",
+              "media_key": "3_2024096323516133376",
+              "start": 84,
+              "url": "https://t.co/VpSOVBlPDa"
+            },
+            {
+              "display_url": "pic.x.com/VpSOVBlPDa",
+              "end": 107,
+              "expanded_url": "https://x.com/Furina_8620/status/2024096327118852161/photo/1",
+              "media_key": "3_2024096320156520448",
+              "start": 84,
+              "url": "https://t.co/VpSOVBlPDa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024096327118852161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 5325,
+          "like_count": 78,
+          "quote_count": 6,
+          "reply_count": 11,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "一个很经典的问题：神经多样性-交通-LGBT就像一个三角一样，重合度相对较高。不知道有多少LGBT是交通爱好或者多少交通爱好者是LGBT？\n原图1来自@LamCimg https://t.co/VpSOVBlPDa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 131,
+          "like_count": 20325,
+          "listed_count": 0,
+          "media_count": 579,
+          "tweet_count": 4945
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-15T10:12:10.000Z",
+        "description": "東北亞航空鐵道歷史考據員、鋼琴音樂愛好者，巴別塔建設者。\n铁道｜航空｜旅行｜虹咲｜MyGO｜\n斯卡蒂｜陈｜艾雅法拉｜莱茵生命\n「思維過載」與「星塵疏離」綜合徵🏳️‍⚧️",
+        "id": "1581226356326617088",
+        "location": "普瑞赛斯考察站",
+        "name": "東北亞旅行家雪菜🇦🇶",
+        "pinned_tweet_id": "2008049582249533454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015344776296472579/zMNIS8xU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 294,
+          "like_count": 5769,
+          "listed_count": 1,
+          "media_count": 386,
+          "tweet_count": 1358
+        },
+        "username": "Furina_8620",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T03:03:42.000Z",
+        "description": "术后娘/CLA娘/奶咖/导演/天文氣象/航空鐵道/托洛次基分子",
+        "id": "1868492139199709184",
+        "location": "Saarbrücken, Germany",
+        "name": "✝晴可w🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1868515159783936287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919998822295502848/GndWoeK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 37,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 43
+        },
+        "username": "LamCimg",
+        "verified": false
+      }
+    ]
+  }
+}

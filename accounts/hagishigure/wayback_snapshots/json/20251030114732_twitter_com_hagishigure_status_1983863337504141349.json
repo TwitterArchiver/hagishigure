@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+          "id": "1557697078762958848",
+          "name": "Pet Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543325212319744",
+          "name": "Animals"
+        }
+      }
+    ],
+    "conversation_id": "1983863337504141349",
+    "created_at": "2025-10-30T11:47:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T12:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983863337504141349"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FxxkApexLegend…",
+          "end": 94,
+          "expanded_url": "https://twitter.com/FxxkApexLegend/status/1983770196704948663",
+          "start": 71,
+          "url": "https://t.co/x73fKBGhBT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983863337504141349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983770196704948663",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一不支持造航母，這是促進戰爭和分裂。\n二不支持公費給流浪動物，這個也分兩點來講，第一，2190億，第二，為何所謂的愛狗人士不自己領養回去。 https://t.co/x73fKBGhBT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 717,
+        "media_key": "3_1983770189939535872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4fEei9a8AADUGv.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          }
+        ],
+        "conversation_id": "1983863337504141349",
+        "created_at": "2025-10-30T11:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T12:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983863337504141349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FxxkApexLegend…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/FxxkApexLegend/status/1983770196704948663",
+              "start": 71,
+              "url": "https://t.co/x73fKBGhBT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983863337504141349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983770196704948663",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一不支持造航母，這是促進戰爭和分裂。\n二不支持公費給流浪動物，這個也分兩點來講，第一，2190億，第二，為何所謂的愛狗人士不自己領養回去。 https://t.co/x73fKBGhBT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983770189939535872"
+          ]
+        },
+        "author_id": "1971006655430262784",
+        "conversation_id": "1983770196704948663",
+        "created_at": "2025-10-30T05:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T06:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983770196704948663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ywQNvJft0z",
+              "end": 44,
+              "expanded_url": "https://x.com/FxxkApexLegend/status/1983770196704948663/photo/1",
+              "media_key": "3_1983770189939535872",
+              "start": 21,
+              "url": "https://t.co/ywQNvJft0z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983770196704948663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1617,
+          "like_count": 24,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么不管流浪猫每年可以多七艘航母？？？😁 https://t.co/ywQNvJft0z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 100,
+          "like_count": 6426,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 1355
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-25T00:19:51.000Z",
+        "description": "請輸入文本。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "apexlegendsstatus.com/profile/PC/Ak1…",
+                "end": 23,
+                "expanded_url": "https://apexlegendsstatus.com/profile/PC/Ak1raComplex",
+                "start": 0,
+                "url": "https://t.co/BKhBrEb0Sn"
+              }
+            ]
+          }
+        },
+        "id": "1971006655430262784",
+        "location": "🇹🇼🇳🇫",
+        "name": "🍀🍥青野🍥🍀",
+        "pinned_tweet_id": "1978784252008239241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978429805264859136/qDtMghWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1658,
+          "following_count": 315,
+          "like_count": 2098,
+          "listed_count": 6,
+          "media_count": 265,
+          "tweet_count": 2319
+        },
+        "url": "https://t.co/BKhBrEb0Sn",
+        "username": "FxxkApexLegend",
+        "verified": false
+      }
+    ]
+  }
+}

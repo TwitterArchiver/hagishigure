@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1991801998933643294",
+    "created_at": "2025-11-21T14:35:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T15:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991878259450290233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1903701047589343232",
+          "start": 0,
+          "username": "ceobrus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/hagishigure/st…",
+          "end": 32,
+          "expanded_url": "https://x.com/hagishigure/status/1991810825947083060",
+          "start": 9,
+          "url": "https://t.co/amvqOpUQgQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991878259450290233",
+    "in_reply_to_user_id": "1903701047589343232",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991810825947083060",
+        "type": "quoted"
+      },
+      {
+        "id": "1991801998933643294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ceobrus https://t.co/amvqOpUQgQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1991801998933643294",
+        "created_at": "2025-11-21T14:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T15:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991878259450290233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1903701047589343232",
+              "start": 0,
+              "username": "ceobrus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/hagishigure/st…",
+              "end": 32,
+              "expanded_url": "https://x.com/hagishigure/status/1991810825947083060",
+              "start": 9,
+              "url": "https://t.co/amvqOpUQgQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991878259450290233",
+        "in_reply_to_user_id": "1903701047589343232",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991810825947083060",
+            "type": "quoted"
+          },
+          {
+            "id": "1991801998933643294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ceobrus https://t.co/amvqOpUQgQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1991804741584859247",
+        "created_at": "2025-11-21T10:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T11:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991810825947083060"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991810825947083060",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991810436392755219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请从那颗星星开始，但请允许我知晓，它悬挂于一片我永远无法亲历的、浩瀚的星系之中。并且，我渴望了解，为何它的光芒，唯独在您指出的那一刻，刺痛了我的眼睛。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903701047589343232",
+        "conversation_id": "1991801998933643294",
+        "created_at": "2025-11-21T09:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T10:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991801998933643294"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991801998933643294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "深柜怎么看待跨性别追悼日？🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 109,
+          "like_count": 10075,
+          "listed_count": 0,
+          "media_count": 345,
+          "tweet_count": 2383
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-23T06:51:21.000Z",
+        "description": "我会常常幻想自己是德普饰演的那些荧幕角色",
+        "id": "1903701047589343232",
+        "name": "ceobrus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983202533972815872/4qPXaN4r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3750,
+          "following_count": 1683,
+          "like_count": 9065,
+          "listed_count": 6,
+          "media_count": 12,
+          "tweet_count": 148
+        },
+        "username": "ceobrus",
+        "verified": false
+      }
+    ]
+  }
+}

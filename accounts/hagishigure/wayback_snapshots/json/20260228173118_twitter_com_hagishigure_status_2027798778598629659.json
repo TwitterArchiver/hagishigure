@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2027798778598629659",
+    "created_at": "2026-02-28T17:31:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T18:31:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027798778598629659"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AlyssaNeko/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/AlyssaNeko/status/2017888590592950314",
+          "start": 12,
+          "url": "https://t.co/EyU8A6JAwj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027798778598629659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017888590592950314",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "椎名…論文…造假…✍️ https://t.co/EyU8A6JAwj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2027798778598629659",
+        "created_at": "2026-02-28T17:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T18:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027798778598629659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AlyssaNeko/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/AlyssaNeko/status/2017888590592950314",
+              "start": 12,
+              "url": "https://t.co/EyU8A6JAwj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027798778598629659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017888590592950314",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "椎名…論文…造假…✍️ https://t.co/EyU8A6JAwj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1539448307985944576",
+        "conversation_id": "2017684707669107178",
+        "created_at": "2026-02-01T09:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T10:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017888590592950314"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017888590592950314",
+        "in_reply_to_user_id": "1539448307985944576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017684707669107178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "医学生至少得是本科毕业以上吧，还有论文造假劝退这种当导师真不行，关键是没有真东西能学，不如自己去EICU跟一天学的多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 137,
+          "like_count": 22744,
+          "listed_count": 2,
+          "media_count": 646,
+          "tweet_count": 5609
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-22T03:21:11.000Z",
+        "description": "🪻艾蕾莎(莎莎） 💮樱羽艾玛（桜羽工マ）善良/纯洁/乖 bushi，22年7月🍥持证含糖MTF，167/55，出柜了，努力社交，没有攻击性~🌈，学习奇怪诱导暗示知识中，药理💊，乐高🪅，绘画☄️，手工💐，美食🥞，💮对象/梅露露 汐雾aya🍥@xiwuaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 119,
+                "username": "xiwuaya"
+              }
+            ]
+          }
+        },
+        "id": "1539448307985944576",
+        "location": "New Zealand",
+        "name": "艾蕾莎Alyssa🍥",
+        "pinned_tweet_id": "2017684707669107178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745836025891721216/R1PQNBUf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4872,
+          "following_count": 1437,
+          "like_count": 17284,
+          "listed_count": 12,
+          "media_count": 2337,
+          "tweet_count": 14283
+        },
+        "username": "AlyssaNeko",
+        "verified": false
+      }
+    ]
+  }
+}

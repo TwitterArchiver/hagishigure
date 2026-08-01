@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026333638111969284"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2026149151789260890",
+    "created_at": "2026-02-24T16:29:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T17:29:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026333652691431712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1362960365055668225",
+          "start": 0,
+          "username": "POI74103174"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/alr0miwPoo",
+          "end": 56,
+          "expanded_url": "https://x.com/hagishigure/status/2026333652691431712/photo/1",
+          "media_key": "3_2026333638111969284",
+          "start": 33,
+          "url": "https://t.co/alr0miwPoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026333652691431712",
+    "in_reply_to_user_id": "1362960365055668225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026149151789260890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@POI74103174 你好。这是我在吹风机池子里抽出来的。🥴 https://t.co/alr0miwPoo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 892,
+        "media_key": "3_2026333638111969284",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB77tTgWwAQ39K1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1178,
+        "media_key": "3_2026149139835400192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB5T6F3aMAAwctm.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026333638111969284"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026149151789260890",
+        "created_at": "2026-02-24T16:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T17:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026333652691431712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1362960365055668225",
+              "start": 0,
+              "username": "POI74103174"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/alr0miwPoo",
+              "end": 56,
+              "expanded_url": "https://x.com/hagishigure/status/2026333652691431712/photo/1",
+              "media_key": "3_2026333638111969284",
+              "start": 33,
+              "url": "https://t.co/alr0miwPoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026333652691431712",
+        "in_reply_to_user_id": "1362960365055668225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026149151789260890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@POI74103174 你好。这是我在吹风机池子里抽出来的。🥴 https://t.co/alr0miwPoo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026149139835400192"
+          ]
+        },
+        "author_id": "1362960365055668225",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026149151789260890",
+        "created_at": "2026-02-24T04:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T05:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026149151789260890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MQzPqk3pmg",
+              "end": 27,
+              "expanded_url": "https://x.com/POI74103174/status/2026149151789260890/photo/1",
+              "media_key": "3_2026149139835400192",
+              "start": 4,
+              "url": "https://t.co/MQzPqk3pmg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026149151789260890",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7819,
+          "like_count": 194,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈 https://t.co/MQzPqk3pmg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 137,
+          "like_count": 22029,
+          "listed_count": 2,
+          "media_count": 622,
+          "tweet_count": 5419
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-20T03:00:58.000Z",
+        "description": "活了（大概）🐧的饲养员@kinpeimoment615",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "kinpeimoment615"
+              }
+            ]
+          }
+        },
+        "id": "1362960365055668225",
+        "name": "唯@Poi",
+        "pinned_tweet_id": "1786390162064433658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000797534844018688/zJpBTZfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3355,
+          "following_count": 330,
+          "like_count": 65272,
+          "listed_count": 11,
+          "media_count": 2805,
+          "tweet_count": 23838
+        },
+        "username": "POI74103174",
+        "verified": false
+      }
+    ]
+  }
+}

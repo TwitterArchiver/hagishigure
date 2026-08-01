@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2025959867815485440"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "2025958564817195463",
+    "created_at": "2026-02-23T15:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T16:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025959936249754095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1808933044545630208",
+          "start": 0,
+          "username": "TauCeti_10700"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8oVqLE0KED",
+          "end": 70,
+          "expanded_url": "https://x.com/hagishigure/status/2025959936249754095/video/1",
+          "media_key": "7_2025959867815485440",
+          "start": 47,
+          "url": "https://t.co/8oVqLE0KED"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025959936249754095",
+    "in_reply_to_user_id": "1808933044545630208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025958564817195463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TauCeti_10700 给你听这个。姬金鱼草盛放。网易云偶然刷到的，觉得很温柔就唱了。 https://t.co/8oVqLE0KED"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2025958564817195463].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2025958564817195463",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2025958564817195463"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 144416,
+        "height": 1280,
+        "media_key": "7_2025959867815485440",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2025959867815485440/pu/img/Ulzd1EDMf42XuTu-.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025959867815485440/pu/vid/avc1/320x690/2cOjRUN3o_6lmF90.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025959867815485440/pu/vid/avc1/480x1036/xU4j-8Ojr-r0O5fr.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025959867815485440/pu/vid/avc1/592x1280/HHXOryE0fB8vgdbX.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2025959867815485440/pu/pl/G3vbgJs6PHNlitCQ.m3u8?tag=12"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2025959867815485440"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "2025958564817195463",
+        "created_at": "2026-02-23T15:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T16:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025959936249754095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1808933044545630208",
+              "start": 0,
+              "username": "TauCeti_10700"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8oVqLE0KED",
+              "end": 70,
+              "expanded_url": "https://x.com/hagishigure/status/2025959936249754095/video/1",
+              "media_key": "7_2025959867815485440",
+              "start": 47,
+              "url": "https://t.co/8oVqLE0KED"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025959936249754095",
+        "in_reply_to_user_id": "1808933044545630208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025958564817195463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TauCeti_10700 给你听这个。姬金鱼草盛放。网易云偶然刷到的，觉得很温柔就唱了。 https://t.co/8oVqLE0KED"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 137,
+          "like_count": 21750,
+          "listed_count": 0,
+          "media_count": 616,
+          "tweet_count": 5361
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-04T18:37:10.000Z",
+        "description": "穿越语言的壳，任思维溢出容器——请听，离群者无法永恒的悲歌。炽在水洼中的倒影，因为星光获得了生命 /Per aspera ad astra.",
+        "id": "1808933044545630208",
+        "location": "0°00′N 260°00′E Mars",
+        "name": "Pale Fire",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853163363142115328/S5o_Yawf_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 60,
+          "like_count": 475,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 400
+        },
+        "username": "TauCeti_10700",
+        "verified": false
+      }
+    ]
+  }
+}

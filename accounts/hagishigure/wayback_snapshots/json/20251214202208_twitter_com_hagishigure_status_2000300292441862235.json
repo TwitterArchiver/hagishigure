@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2000131128058159197",
+    "created_at": "2025-12-14T20:22:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T21:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000300292441862235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1821312171923644416",
+          "start": 0,
+          "username": "jagaimo6681"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000300292441862235",
+    "in_reply_to_user_id": "1821312171923644416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000131128058159197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jagaimo6681 加點豆沙卷一下它就能改名字，叫驢打滾。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000131120311189504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8HkqCJaQAAPLmi.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2000131128058159197",
+        "created_at": "2025-12-14T20:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T21:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000300292441862235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1821312171923644416",
+              "start": 0,
+              "username": "jagaimo6681"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000300292441862235",
+        "in_reply_to_user_id": "1821312171923644416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000131128058159197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jagaimo6681 加點豆沙卷一下它就能改名字，叫驢打滾。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000131120311189504"
+          ]
+        },
+        "author_id": "1821312171923644416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2000131128058159197",
+        "created_at": "2025-12-14T09:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T10:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000131128058159197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PDSMcLlAFO",
+              "end": 30,
+              "expanded_url": "https://x.com/jagaimo6681/status/2000131128058159197/photo/1",
+              "media_key": "3_2000131120311189504",
+              "start": 7,
+              "url": "https://t.co/PDSMcLlAFO"
+            },
+            {
+              "display_url": "x.com/cmiuicmiui/sta…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/cmiuicmiui/status/1999982102788604257",
+              "start": 31,
+              "url": "https://t.co/gOa5wjCldc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000131128058159197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2002,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999982102788604257",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "行动力 谢谢 https://t.co/PDSMcLlAFO https://t.co/gOa5wjCldc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 115,
+          "like_count": 12745,
+          "listed_count": 0,
+          "media_count": 383,
+          "tweet_count": 3008
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T22:27:26.000Z",
+        "description": "どうでもいいよ^ω^/企学家🐧/裏垢@nyanyanya6681",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "nyanyanya6681"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "picawang.com",
+                "end": 23,
+                "expanded_url": "https://picawang.com/",
+                "start": 0,
+                "url": "https://t.co/F3AUMZjoSQ"
+              }
+            ]
+          }
+        },
+        "id": "1821312171923644416",
+        "name": "にゃがいも",
+        "pinned_tweet_id": "1966042589402104305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997680011592273920/o_c2oU___normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2000,
+          "following_count": 492,
+          "like_count": 26067,
+          "listed_count": 3,
+          "media_count": 421,
+          "tweet_count": 7774
+        },
+        "url": "https://t.co/F3AUMZjoSQ",
+        "username": "jagaimo6681",
+        "verified": false
+      }
+    ]
+  }
+}

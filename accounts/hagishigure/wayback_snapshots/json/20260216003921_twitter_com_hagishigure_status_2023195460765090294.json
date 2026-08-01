@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Coffee",
+          "id": "850442647088971776",
+          "name": "Coffee"
+        }
+      }
+    ],
+    "conversation_id": "2023195460765090294",
+    "created_at": "2026-02-16T00:39:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T01:39:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023195460765090294"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "Autistic limerence",
+          "probability": 0.4597,
+          "start": 0,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/maddierune/sta…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/maddierune/status/2023154260150489226",
+          "start": 20,
+          "url": "https://t.co/JRwSWZP864"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023195460765090294",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023154260150489226",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Autistic limerence. https://t.co/JRwSWZP864"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "2023195460765090294",
+        "created_at": "2026-02-16T00:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T01:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023195460765090294"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "Autistic limerence",
+              "probability": 0.4597,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/maddierune/sta…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/maddierune/status/2023154260150489226",
+              "start": 20,
+              "url": "https://t.co/JRwSWZP864"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023195460765090294",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023154260150489226",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Autistic limerence. https://t.co/JRwSWZP864"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842386092835688448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "2023154260150489226",
+        "created_at": "2026-02-15T21:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T22:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023154260150489226"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023154260150489226",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Autistics don’t cheat. We literally don’t see other people. In a relationship, you are it. The rest of the population turns into background NPCs. Someone could be walking butt baked in front of us and we’d be like, oh okay, cool, & go about memorizing your coffee order from 2017. I think it’s because we don’t fall in love in the traditional sense. We conduct a full internal audit, compatibility matrix, long term sustainability forecast & emotional risk assessment. And once you pass? That’s it. You are chosen. Completely locked in to a lifetime membership. That’s why people say fumbling an autistic woman or man is the biggest fumble of your life & they’re not exaggerating. You didn’t just lose someone who liked you. You lost someone who studied you, understood you, built a whole internal world around you, and decided (with extreme seriousness) that you were it. We have never been casual about love. If we picked you it was intensely & absurdly deliberate. Everyone else could die in a zombie apocalypse and we’d just… keep being obsessed with you."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 794,
+          "impression_count": 98858,
+          "like_count": 2403,
+          "quote_count": 89,
+          "reply_count": 59,
+          "retweet_count": 228
+        },
+        "reply_settings": "everyone",
+        "text": "Autistics don’t cheat. We literally don’t see other people. In a relationship, you are it. The rest of the population turns into background NPCs. Someone could be walking butt baked in front of us and we’d be like, oh okay, cool, &amp; go about memorizing your coffee order from 2017."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 130,
+          "like_count": 19904,
+          "listed_count": 0,
+          "media_count": 566,
+          "tweet_count": 4782
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T02:07:36.000Z",
+        "description": "poet & author. navy veteran. homeschool mom x2. chronicler of the tender. writing warm-blooded words from the underbelly of being alive.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/maddierune",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/maddierune",
+                "start": 0,
+                "url": "https://t.co/Jw8WCNrkAe"
+              }
+            ]
+          }
+        },
+        "id": "1842386092835688448",
+        "location": "support independent art →",
+        "name": "maddie rune🪰",
+        "pinned_tweet_id": "2019792414005682196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007617489442676736/hECUYo2V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16884,
+          "following_count": 971,
+          "like_count": 103098,
+          "listed_count": 41,
+          "media_count": 3949,
+          "tweet_count": 48182
+        },
+        "url": "https://t.co/Jw8WCNrkAe",
+        "username": "maddierune",
+        "verified": true
+      }
+    ]
+  }
+}

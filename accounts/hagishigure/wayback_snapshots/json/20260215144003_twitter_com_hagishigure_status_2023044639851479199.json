@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2023044639851479199",
+    "created_at": "2026-02-15T14:40:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T15:40:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023044639851479199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "15871456",
+          "start": 3,
+          "username": "gniuconsulting"
+        },
+        {
+          "end": 32,
+          "id": "937355627826880513",
+          "start": 20,
+          "username": "nelson_zhan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023044639851479199",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022900219386671404",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gniuconsulting: @nelson_zhan 我都已经说了，这大概率是PTSD后的冲动行为。并且她的行为并没有伤害到任何人的财产和名誉，本无可厚非，无非就是拆了某些人立的功德榜、阻碍了某些人立人设罢了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2023044639851479199",
+        "created_at": "2026-02-15T14:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T15:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023044639851479199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "15871456",
+              "start": 3,
+              "username": "gniuconsulting"
+            },
+            {
+              "end": 32,
+              "id": "937355627826880513",
+              "start": 20,
+              "username": "nelson_zhan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023044639851479199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022900219386671404",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gniuconsulting: @nelson_zhan 我都已经说了，这大概率是PTSD后的冲动行为。并且她的行为并没有伤害到任何人的财产和名誉，本无可厚非，无非就是拆了某些人立的功德榜、阻碍了某些人立人设罢了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "15871456",
+        "conversation_id": "2022856644464636295",
+        "created_at": "2026-02-15T05:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T06:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022900219386671404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "937355627826880513",
+              "start": 0,
+              "username": "nelson_zhan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022900219386671404",
+        "in_reply_to_user_id": "937355627826880513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 527,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022897496369074601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nelson_zhan 我都已经说了，这大概率是PTSD后的冲动行为。并且她的行为并没有伤害到任何人的财产和名誉，本无可厚非，无非就是拆了某些人立的功德榜、阻碍了某些人立人设罢了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 130,
+          "like_count": 19773,
+          "listed_count": 0,
+          "media_count": 565,
+          "tweet_count": 4739
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2008-08-16T05:52:56.000Z",
+        "description": "说法语的牛顿. Owner of a boutique firm helping people realize their Canadian dreams. 🇨🇦 @queensulaw graduate. Opinions are my own and don't constitute legal advice.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 82,
+                "username": "queensulaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/g.niu.consulti…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/g.niu.consulting",
+                "start": 0,
+                "url": "https://t.co/44W4ITneuY"
+              }
+            ]
+          }
+        },
+        "id": "15871456",
+        "location": "Edmonton, AB",
+        "name": "𝙂𝙚𝙤𝙧𝙜𝙚 𝙉𝙞𝙪, 𝙍𝘾𝙄𝘾-𝙄𝙍𝘽",
+        "pinned_tweet_id": "1864712579991626201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792671752474275840/knvUanD7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15420,
+          "following_count": 2949,
+          "like_count": 41848,
+          "listed_count": 83,
+          "media_count": 1113,
+          "tweet_count": 12732
+        },
+        "url": "https://t.co/44W4ITneuY",
+        "username": "gniuconsulting",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-03T16:19:31.000Z",
+        "description": "",
+        "id": "937355627826880513",
+        "location": "United States",
+        "name": "nelson",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1161116417577537538/HB9fIEPX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 139,
+          "like_count": 4934,
+          "listed_count": 4,
+          "media_count": 622,
+          "tweet_count": 3153
+        },
+        "username": "nelson_zhan",
+        "verified": false
+      }
+    ]
+  }
+}

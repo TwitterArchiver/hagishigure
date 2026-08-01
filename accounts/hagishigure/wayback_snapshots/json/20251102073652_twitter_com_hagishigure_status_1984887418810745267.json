@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1984879914940842390",
+    "created_at": "2025-11-02T07:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T08:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984887418810745267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1378376814389694468",
+          "start": 0,
+          "username": "PieP_2000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/hagishigure/st…",
+          "end": 55,
+          "expanded_url": "https://x.com/hagishigure/status/1973880815366123649",
+          "start": 32,
+          "url": "https://t.co/0MeciB3xuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984887418810745267",
+    "in_reply_to_user_id": "1378376814389694468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973880815366123649",
+        "type": "quoted"
+      },
+      {
+        "id": "1984879914940842390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PieP_2000 我把日内瓦宣言一直放在置顶提醒自己来着。\nhttps://t.co/0MeciB3xuv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_1984879904710864896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4u1wcoaMAAruxH.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3200,
+        "media_key": "3_1984879904757071874",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4u1wczbQAIaE5A.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1984879914940842390",
+        "created_at": "2025-11-02T07:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T08:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984887418810745267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1378376814389694468",
+              "start": 0,
+              "username": "PieP_2000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/hagishigure/st…",
+              "end": 55,
+              "expanded_url": "https://x.com/hagishigure/status/1973880815366123649",
+              "start": 32,
+              "url": "https://t.co/0MeciB3xuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984887418810745267",
+        "in_reply_to_user_id": "1378376814389694468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973880815366123649",
+            "type": "quoted"
+          },
+          {
+            "id": "1984879914940842390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PieP_2000 我把日内瓦宣言一直放在置顶提醒自己来着。\nhttps://t.co/0MeciB3xuv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1973880815366123649",
+        "created_at": "2025-10-02T22:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T23:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973880815366123649"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973880815366123649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "作为一名医学工作者：\n\n我郑重宣誓，我将终生致力于为人类服务；\n\n我将患者的健康与幸福作为我的首要顾念；\n\n我将尊重患者的自主权与尊严；\n\n我将保持对人类生命的最高敬意；\n\n我将不容许有年龄、疾病或残疾、信仰、民族、性别、国籍、政治党派、种族、性取向、社会地位或其他任何因素的考虑，介于我的职责与患者之间；\n\n我将尊重所寄托给我的秘密，即使患者已经离世；\n\n我将在医学实践中保持良知与尊严，遵从正确的医学规范；\n\n我将维护医疗职业的荣誉和高尚的传统；\n\n我将为患者的利益和医疗卫生事业的进步，分享我的医学知识；\n\n我将关注自身健康、幸福与能力，提供最高标准的照护服务；\n\n即使受到威胁，也绝不使用我的医学知识侵犯人权和公民自由；\n\n我郑重地，自主地并且以我的人格宣誓。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4528,
+          "like_count": 26,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "作为一名医学工作者：\n\n我郑重宣誓，我将终生致力于为人类服务；\n\n我将患者的健康与幸福作为我的首要顾念；\n\n我将尊重患者的自主权与尊严；\n\n我将保持对人类生命的最高敬意；"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984879904710864896",
+            "3_1984879904757071874"
+          ]
+        },
+        "author_id": "1378376814389694468",
+        "conversation_id": "1984879914940842390",
+        "created_at": "2025-11-02T07:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T08:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984879914940842390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gn5aDcuFaH",
+              "end": 23,
+              "expanded_url": "https://x.com/PieP_2000/status/1984879914940842390/photo/1",
+              "media_key": "3_1984879904710864896",
+              "start": 0,
+              "url": "https://t.co/gn5aDcuFaH"
+            },
+            {
+              "display_url": "pic.x.com/gn5aDcuFaH",
+              "end": 23,
+              "expanded_url": "https://x.com/PieP_2000/status/1984879914940842390/photo/1",
+              "media_key": "3_1984879904757071874",
+              "start": 0,
+              "url": "https://t.co/gn5aDcuFaH"
+            },
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/amber_toffee/status/1984658547876282392",
+              "start": 24,
+              "url": "https://t.co/DcpnuvGDTB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984879914940842390",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984658547876282392",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/gn5aDcuFaH https://t.co/DcpnuvGDTB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 102,
+          "like_count": 6927,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 1476
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-03T16:00:47.000Z",
+        "description": "",
+        "id": "1378376814389694468",
+        "name": "鲎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984135936029110272/JCEFR1pC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 6770,
+          "like_count": 117919,
+          "listed_count": 2,
+          "media_count": 494,
+          "tweet_count": 19373
+        },
+        "username": "PieP_2000",
+        "verified": false
+      }
+    ]
+  }
+}

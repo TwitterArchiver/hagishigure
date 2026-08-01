@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1982602725134303731",
+    "created_at": "2025-10-27T00:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T01:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982602725134303731"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PopBase/status…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/PopBase/status/1982156840314994749",
+          "start": 4,
+          "url": "https://t.co/hgEmjPkT57"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982602725134303731",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982156840314994749",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🍾🎉🥳 https://t.co/hgEmjPkT57"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1270,
+        "media_key": "3_1982156835931983872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4IJI-7WkAAIWiJ.jpg",
+        "width": 960
+      },
+      {
+        "height": 1770,
+        "media_key": "3_1982156835923587072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4IJI-5WcAAviwY.jpg",
+        "width": 1860
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1982602725134303731",
+        "created_at": "2025-10-27T00:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T01:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982602725134303731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PopBase/status…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/PopBase/status/1982156840314994749",
+              "start": 4,
+              "url": "https://t.co/hgEmjPkT57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982602725134303731",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982156840314994749",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🍾🎉🥳 https://t.co/hgEmjPkT57"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982156835931983872",
+            "3_1982156835923587072"
+          ]
+        },
+        "author_id": "1138458175663988738",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1982156840314994749",
+        "created_at": "2025-10-25T18:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T19:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982156840314994749"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "Catherine Connolly",
+              "probability": 0.9762,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aa29rVwGcr",
+              "end": 167,
+              "expanded_url": "https://x.com/PopBase/status/1982156840314994749/photo/1",
+              "media_key": "3_1982156835931983872",
+              "start": 144,
+              "url": "https://t.co/aa29rVwGcr"
+            },
+            {
+              "display_url": "pic.x.com/aa29rVwGcr",
+              "end": 167,
+              "expanded_url": "https://x.com/PopBase/status/1982156840314994749/photo/1",
+              "media_key": "3_1982156835923587072",
+              "start": 144,
+              "url": "https://t.co/aa29rVwGcr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982156840314994749",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6216,
+          "impression_count": 16864805,
+          "like_count": 253944,
+          "quote_count": 4725,
+          "reply_count": 1790,
+          "retweet_count": 14923
+        },
+        "reply_settings": "everyone",
+        "text": "Catherine Connolly, an independent left-wing politician, has won the Irish presidential race.\n\nShe becomes the nation’s third Female president. https://t.co/aa29rVwGcr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 99,
+          "like_count": 5826,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 1163
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2019-06-11T14:49:15.000Z",
+        "description": "Pop Base is your best source for all pop culture related entertainment, news, award show coverage, chart updates, statistics and more. | email@popbase.tv",
+        "id": "1138458175663988738",
+        "name": "Pop Base",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1268086791443230737/BRGz4AiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2389791,
+          "following_count": 2587,
+          "like_count": 3645,
+          "listed_count": 4477,
+          "media_count": 63406,
+          "tweet_count": 79213
+        },
+        "username": "PopBase",
+        "verified": true
+      }
+    ]
+  }
+}

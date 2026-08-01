@@ -1,0 +1,557 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987653725599776768"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1987549681229189340",
+    "created_at": "2025-11-09T22:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T23:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987653730423181372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "LumiCatRoll"
+        },
+        {
+          "end": 25,
+          "id": "1878595268255297537",
+          "start": 13,
+          "username": "NeoFreeBird"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U7KErbb4GG",
+          "end": 68,
+          "expanded_url": "https://x.com/hagishigure/status/1987653730423181372/photo/1",
+          "media_key": "3_1987653725599776768",
+          "start": 45,
+          "url": "https://t.co/U7KErbb4GG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987653730423181372",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987549681229189340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LumiCatRoll @NeoFreeBird 我一直沒明白piko設置是什麼東西。 https://t.co/U7KErbb4GG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1887,
+        "media_key": "3_1987653725599776768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5WQiErbQAAl_TA.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1873,
+        "media_key": "3_1987549310133907456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5UxkSwasAALjkF.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1422,
+        "media_key": "3_1987549357080768513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5UxnBpa8AEh7Wd.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987653725599776768"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1987549681229189340",
+        "created_at": "2025-11-09T22:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T23:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987653730423181372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "LumiCatRoll"
+            },
+            {
+              "end": 25,
+              "id": "1878595268255297537",
+              "start": 13,
+              "username": "NeoFreeBird"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U7KErbb4GG",
+              "end": 68,
+              "expanded_url": "https://x.com/hagishigure/status/1987653730423181372/photo/1",
+              "media_key": "3_1987653725599776768",
+              "start": 45,
+              "url": "https://t.co/U7KErbb4GG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987653730423181372",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987549681229189340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LumiCatRoll @NeoFreeBird 我一直沒明白piko設置是什麼東西。 https://t.co/U7KErbb4GG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987549310133907456",
+            "3_1987549357080768513"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Beer",
+              "id": "850142258871418880",
+              "name": "Beer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Beer",
+              "id": "850142258871418880",
+              "name": "Beer"
+            }
+          }
+        ],
+        "conversation_id": "1987549681229189340",
+        "created_at": "2025-11-09T15:55:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T16:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987549681229189340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 46,
+              "id": "1878595268255297537",
+              "start": 34,
+              "username": "NeoFreeBird"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J2xDNJgHbZ",
+              "end": 199,
+              "expanded_url": "https://x.com/LumiCatRoll/status/1987549681229189340/photo/1",
+              "media_key": "3_1987549310133907456",
+              "start": 176,
+              "url": "https://t.co/J2xDNJgHbZ"
+            },
+            {
+              "display_url": "pic.x.com/J2xDNJgHbZ",
+              "end": 199,
+              "expanded_url": "https://x.com/LumiCatRoll/status/1987549681229189340/photo/1",
+              "media_key": "3_1987549357080768513",
+              "start": 176,
+              "url": "https://t.co/J2xDNJgHbZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987549681229189340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 46,
+                "id": "1878595268255297537",
+                "start": 34,
+                "username": "NeoFreeBird"
+              },
+              {
+                "end": 437,
+                "id": "1878595268255297537",
+                "start": 425,
+                "username": "NeoFreeBird"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/crimera/twitte…",
+                "end": 267,
+                "expanded_url": "https://github.com/crimera/twitter-apk/releases",
+                "start": 244,
+                "url": "https://t.co/QFc5RU0DMz"
+              },
+              {
+                "display_url": "github.com/crimera/twitte…",
+                "end": 903,
+                "expanded_url": "https://github.com/crimera/twitter-apk/releases",
+                "start": 880,
+                "url": "https://t.co/QFc5RU0DMz"
+              }
+            ]
+          },
+          "text": "刷推不想看广告的话，给大家推荐两个第三方的客户端\niOS的话可以用 @NeoFreeBird 最简单的方式是买证书自签sign完就可以sideload他们的IPA了\n这个是直接把X给rebrand回twitter了\n还有可以解锁的local (non server sided) premium功能比如nav bar和主题等等，以及隐藏很多没用的东西\n还可以有很多奇怪的小功能比如显示发推的客户端是什么\n-----Android的话可以用piko twitter，可以直接从这里下APK https://t.co/QFc5RU0DMz 也可以自己用revanced去补丁他们的包\n\nIf you hate ads when mindlessly scrolling down on your phone here are two third party apps you can use for twitter:\nFor iOS check out @NeoFreeBird, the easiest way is buy a certificate and sign & sideload their IPA\nThey literally rebrand the entire X back to Twitter\nOther functions included: unlock local (non server sided) premium such as nav bar customization, theme, app icon etc, and hiding unnecessary components on your timeline\nthere are also auxiliary functions such as showing tweet source label\n-----For Android, you can use piko twitter and download ready to install APKs from https://t.co/QFc5RU0DMz or patch the official ones on your own"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 613,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷推不想看广告的话，给大家推荐两个第三方的客户端\niOS的话可以用 @NeoFreeBird 最简单的方式是买证书自签sign完就可以sideload他们的IPA了\n这个是直接把X给rebrand回twitter了\n还有可以解锁的local (non server sided) premium功能比如nav bar和主题等等，以及隐藏很多没用的东西 https://t.co/J2xDNJgHbZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 102,
+          "like_count": 7940,
+          "listed_count": 0,
+          "media_count": 275,
+          "tweet_count": 1799
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "泰补凝胶诺私信 @rrRelo_ 日雌以后没了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "rrRelo_"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "🌃",
+        "name": "猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987241584170311681/z73T6Iii_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2436,
+          "following_count": 867,
+          "like_count": 889,
+          "listed_count": 3,
+          "media_count": 7,
+          "tweet_count": 19
+        },
+        "username": "LumiCatRoll",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-13T00:09:57.000Z",
+        "description": "A modified Twitter/X app for iOS/iPadOS that reverts branding, removes ads, unlocks premium features and more. Made by @actuallyaridan, @theameoww and @timi2506",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 119,
+                "username": "actuallyaridan"
+              },
+              {
+                "end": 146,
+                "start": 136,
+                "username": "theameoww"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "timi2506"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "neofreebird.com",
+                "end": 23,
+                "expanded_url": "https://neofreebird.com",
+                "start": 0,
+                "url": "https://t.co/peqjgnoja8"
+              }
+            ]
+          }
+        },
+        "id": "1878595268255297537",
+        "location": "everywhere",
+        "name": "NeoFreeBird",
+        "pinned_tweet_id": "1985161939975029136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957141456268730368/XDfjuaUV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2494,
+          "following_count": 15,
+          "like_count": 180,
+          "listed_count": 4,
+          "media_count": 42,
+          "tweet_count": 395
+        },
+        "url": "https://t.co/peqjgnoja8",
+        "username": "NeoFreeBird",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1980544906893619240",
+    "created_at": "2025-10-21T22:39:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T23:39:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980765930197237914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1844926832967286785",
+          "start": 0,
+          "username": "orisam123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980765930197237914",
+    "in_reply_to_user_id": "1844926832967286785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980544906893619240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orisam123 偶遇蘇打水\n強大超雄未戰勝\n只得發推特"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980544893664534528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3xPFmCWoAA1f0x.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1980544906893619240",
+        "created_at": "2025-10-21T22:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T23:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980765930197237914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1844926832967286785",
+              "start": 0,
+              "username": "orisam123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980765930197237914",
+        "in_reply_to_user_id": "1844926832967286785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980544906893619240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orisam123 偶遇蘇打水\n強大超雄未戰勝\n只得發推特"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980544893664534528"
+          ]
+        },
+        "author_id": "1844926832967286785",
+        "conversation_id": "1980544906893619240",
+        "created_at": "2025-10-21T08:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T09:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980544906893619240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aqnkiFkuN8",
+              "end": 49,
+              "expanded_url": "https://x.com/orisam123/status/1980544906893619240/photo/1",
+              "media_key": "3_1980544893664534528",
+              "start": 26,
+              "url": "https://t.co/aqnkiFkuN8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980544906893619240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1026,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "喝了一半才发现是超雄苏打水\n现在浑身充满暴力和自大 https://t.co/aqnkiFkuN8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 98,
+          "like_count": 4810,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 900
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "从2024年七月初开始的饭桶（减肥中)\n   |     \n闺蜜&姐姐&引路人:  \n@zihou1968025650\n\ntg群组:\nhttps://t.co/yTt9lE6zaK\n\n|  广告栏  日雌370 @Cheese_Ghostfox 东北地区发货24h在线",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "zihou1968025650"
+              },
+              {
+                "end": 122,
+                "start": 106,
+                "username": "Cheese_Ghostfox"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+keUB4EQpayswN…",
+                "end": 90,
+                "expanded_url": "https://t.me/+keUB4EQpayswNThl",
+                "start": 67,
+                "url": "https://t.co/yTt9lE6zaK"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "新京",
+        "name": "折筱orisam🏳️‍⚧️（守活寡版）",
+        "pinned_tweet_id": "1980245519722332410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972221628097708032/LU2zOJtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2834,
+          "following_count": 1232,
+          "like_count": 53705,
+          "listed_count": 3,
+          "media_count": 715,
+          "tweet_count": 14312
+        },
+        "username": "orisam123",
+        "verified": false
+      }
+    ]
+  }
+}

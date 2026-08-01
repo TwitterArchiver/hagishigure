@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1984268894224486693",
+    "created_at": "2025-10-31T19:28:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T20:28:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984341817530433652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "705777407794352129",
+          "start": 0,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984341817530433652",
+    "in_reply_to_user_id": "705777407794352129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984268894224486693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ServalCandle 但是肉骨茶是福建傳過去的（悲鳴）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1984268798434914304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4mJ9YWasAArCKi.jpg",
+        "width": 4000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_1984268798422347776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4mJ9YTa8AAEikD.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1984268894224486693",
+        "created_at": "2025-10-31T19:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T20:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984341817530433652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984341817530433652",
+        "in_reply_to_user_id": "705777407794352129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984268894224486693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle 但是肉骨茶是福建傳過去的（悲鳴）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984268798434914304",
+            "3_1984268798422347776"
+          ]
+        },
+        "author_id": "705777407794352129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1984268894224486693",
+        "created_at": "2025-10-31T14:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T15:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984268894224486693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DGPeyHwnVC",
+              "end": 186,
+              "expanded_url": "https://x.com/ServalCandle/status/1984268894224486693/photo/1",
+              "media_key": "3_1984268798434914304",
+              "start": 163,
+              "url": "https://t.co/DGPeyHwnVC"
+            },
+            {
+              "display_url": "pic.x.com/DGPeyHwnVC",
+              "end": 186,
+              "expanded_url": "https://x.com/ServalCandle/status/1984268894224486693/photo/1",
+              "media_key": "3_1984268798422347776",
+              "start": 163,
+              "url": "https://t.co/DGPeyHwnVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984268894224486693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 575,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被男朋友拽去吃了肉骨茶（（（\n直接震撼笨猫\n\n胡椒辣椒盐和油的碰撞，这才是粤菜应该有的样子…(⊙_⊙)\n\n如果粤菜一直这么好吃，笨猫甚至会冒着被其他北京人打死的风险\n\n把它排在高于炒肝炸蒜肠\n\n和Medium-rare sirloin以及Duck confit一个等级的美食\n\n笨猫并不讨厌广东，只是讨厌他们的清水煮老鼠和猫 https://t.co/DGPeyHwnVC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 100,
+          "like_count": 6645,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 1405
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "癲貓精靈 笨貓不靈 (｡-_-｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "☃️La saison infinie de neige❄️",
+        "name": "🙀大笨貓𝕮𝖆𝖓𝖉𝖑𝖊🎃🍂",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980007746947723265/kvb83NR6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32800,
+          "following_count": 344,
+          "like_count": 225721,
+          "listed_count": 101,
+          "media_count": 8300,
+          "tweet_count": 54742
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

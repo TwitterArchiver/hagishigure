@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2002378832322420768",
+    "created_at": "2025-12-20T15:38:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T16:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002403263690477921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "774931829853782016",
+          "start": 0,
+          "username": "cap_violet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002403263690477921",
+    "in_reply_to_user_id": "774931829853782016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002378832322420768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cap_violet 中國人是這樣的。衹要把外在定義成非完全客體主體就能得到以非完全劃定自己是完整個體的思維高潮。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2002378830476947456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8ng7_BXMAAoj_P.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2002378832322420768",
+        "created_at": "2025-12-20T15:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T16:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002403263690477921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "774931829853782016",
+              "start": 0,
+              "username": "cap_violet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002403263690477921",
+        "in_reply_to_user_id": "774931829853782016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002378832322420768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cap_violet 中國人是這樣的。衹要把外在定義成非完全客體主體就能得到以非完全劃定自己是完整個體的思維高潮。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002378830476947456"
+          ]
+        },
+        "author_id": "774931829853782016",
+        "conversation_id": "2002378832322420768",
+        "created_at": "2025-12-20T14:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T15:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002378832322420768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ww4sElnOJH",
+              "end": 67,
+              "expanded_url": "https://x.com/cap_violet/status/2002378832322420768/photo/1",
+              "media_key": "3_2002378830476947456",
+              "start": 44,
+              "url": "https://t.co/ww4sElnOJH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002378832322420768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 417,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好好的数学视频，采访陶哲轩对AI的看法，评论区和弹幕却在讨论性别，无人在意访谈的内容😅 https://t.co/ww4sElnOJH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 116,
+          "like_count": 13326,
+          "listed_count": 0,
+          "media_count": 389,
+          "tweet_count": 3148
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-11T11:25:20.000Z",
+        "description": "伊芙加登號夢想航機，飛向星辰大海 |\n'Evergarden' B78X, 🍥T-EVGN |\nex-OIer, math, aviation, cs theory grad student | not yet phd but grinding过程中产出的胡言乱语",
+        "id": "774931829853782016",
+        "location": "FL400",
+        "name": "captain Violet",
+        "pinned_tweet_id": "1922953832339747311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1574438134720233472/opIwO9hK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 4621,
+          "like_count": 27178,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1147
+        },
+        "username": "cap_violet",
+        "verified": false
+      }
+    ]
+  }
+}

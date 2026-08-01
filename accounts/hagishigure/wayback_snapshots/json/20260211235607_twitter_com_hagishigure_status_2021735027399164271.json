@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2021721411606270137",
+    "created_at": "2026-02-11T23:56:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T00:56:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021735027399164271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1233893730064699394",
+          "start": 0,
+          "username": "frei98029391"
+        },
+        {
+          "end": 23,
+          "id": "1540698144429596673",
+          "start": 14,
+          "username": "Y2D80355"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021735027399164271",
+    "in_reply_to_user_id": "1233893730064699394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021726268681859102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@frei98029391 @Y2D80355 莱顿老乡啊。🤭\n我现在也在莱顿当教员。🤭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2021721411606270137",
+        "created_at": "2026-02-11T23:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T00:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021735027399164271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1233893730064699394",
+              "start": 0,
+              "username": "frei98029391"
+            },
+            {
+              "end": 23,
+              "id": "1540698144429596673",
+              "start": 14,
+              "username": "Y2D80355"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021735027399164271",
+        "in_reply_to_user_id": "1233893730064699394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021726268681859102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frei98029391 @Y2D80355 莱顿老乡啊。🤭\n我现在也在莱顿当教员。🤭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1233893730064699394",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041116541",
+              "name": "LinkedIn"
+            }
+          }
+        ],
+        "conversation_id": "2021721411606270137",
+        "created_at": "2026-02-11T23:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T00:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021726268681859102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            },
+            {
+              "end": 22,
+              "id": "1540698144429596673",
+              "start": 13,
+              "username": "Y2D80355"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021726268681859102",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021725480865411304",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure @Y2D80355 我以前在莱顿和海牙，遇到的都是当地的跨女。不过很遗憾的是我有一个老师是跨女，她当时还是男性的身份，我几乎也是深柜的状态，除了几个当地的跨女外没人知道。我是毕业在LinkedIn上看到她改名字和照片才知道她变性了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 130,
+          "like_count": 19342,
+          "listed_count": 0,
+          "media_count": 558,
+          "tweet_count": 4605
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-29T23:16:17.000Z",
+        "description": "trans, lesbian, Software Architect she (her) / they (them) / 她 / zij (haar) / sie (sie, ihr) English, 中文，Nederlands, Deutsch bluesky: @zephyrinefreiberg.bsky",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 134,
+                "username": "zephyrinefreiberg"
+              }
+            ]
+          }
+        },
+        "id": "1233893730064699394",
+        "location": "Wien",
+        "name": "Zéphyrine Freiberg🏳️‍⚧️🏳️‍🌈🇪🇺🇺🇦",
+        "pinned_tweet_id": "1902361703058198694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831835746921058304/mh2YW-_0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 439,
+          "like_count": 13633,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 3452
+        },
+        "username": "frei98029391",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T14:07:33.000Z",
+        "description": "赛博果酱包会不会遇见电子肯尼迪",
+        "id": "1540698144429596673",
+        "name": "Bundesamt für Berliner und Weißwürste",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009372240891019264/_Es0_6UF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 513,
+          "like_count": 3171,
+          "listed_count": 1,
+          "media_count": 214,
+          "tweet_count": 3878
+        },
+        "username": "Y2D80355",
+        "verified": false
+      }
+    ]
+  }
+}

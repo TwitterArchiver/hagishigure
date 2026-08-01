@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015825650725347329"
+      ],
+      "media_source_tweet_id": [
+        "2015825663253733495"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "2016208457305837990",
+    "created_at": "2026-01-27T17:55:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T18:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016208457305837990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1690570637499154432",
+          "start": 3,
+          "username": "saonanaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4QjHrc3yG1",
+          "end": 55,
+          "expanded_url": "https://x.com/saonanaa/status/2015825663253733495/photo/1",
+          "media_key": "3_2015825650725347329",
+          "start": 32,
+          "url": "https://t.co/4QjHrc3yG1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016208457305837990",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015825663253733495",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saonanaa: 《我们只看技术》\n《男娘特供通道》 https://t.co/4QjHrc3yG1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2016208457305837990].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2016208457305837990",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2016208457305837990"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015825650725347329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_mmv8Ca4AEcSRD.jpg",
+        "width": 1016
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015825650725347329"
+          ]
+        },
+        "author_id": "1690570637499154432",
+        "conversation_id": "2015825663253733495",
+        "created_at": "2026-01-26T16:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T17:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015825663253733495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4QjHrc3yG1",
+              "end": 41,
+              "expanded_url": "https://x.com/saonanaa/status/2015825663253733495/photo/1",
+              "media_key": "3_2015825650725347329",
+              "start": 18,
+              "url": "https://t.co/4QjHrc3yG1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015825663253733495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2737,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "《我们只看技术》\n《男娘特供通道》 https://t.co/4QjHrc3yG1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 126,
+          "like_count": 16572,
+          "listed_count": 0,
+          "media_count": 452,
+          "tweet_count": 3901
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 👋｜在日常中发现 旅行爱好者 📸｜开发.NET应用👩‍💻｜大坏猫：@lovelyshuimao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 41,
+                "username": "lovelyshuimao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyzXWN"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "pinned_tweet_id": "2002749269015777340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002735211898089472/5MAuttCj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6767,
+          "following_count": 419,
+          "like_count": 33268,
+          "listed_count": 15,
+          "media_count": 2250,
+          "tweet_count": 19090
+        },
+        "url": "https://t.co/Lsl0VyzXWN",
+        "username": "saonanaa",
+        "verified": true
+      }
+    ]
+  }
+}

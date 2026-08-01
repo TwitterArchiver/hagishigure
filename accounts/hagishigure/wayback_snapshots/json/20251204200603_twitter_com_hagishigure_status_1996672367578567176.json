@@ -1,0 +1,723 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1246165925620940800",
+          "name": "Mafumafu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1247210843864838144",
+          "name": "Soraru"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1246165925620940800",
+          "name": "Mafumafu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1247210843864838144",
+          "name": "Soraru"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1246165925620940800",
+          "name": "Mafumafu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247210843864838144",
+          "name": "Soraru"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247289661778571264",
+          "name": "Utaite"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "1996672367578567176",
+    "created_at": "2025-12-04T20:06:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T21:06:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996672367578567176"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "そらるさん",
+          "probability": 0.4507,
+          "start": 18,
+          "type": "Person"
+        },
+        {
+          "end": 63,
+          "normalized_text": "堀江晶太さん",
+          "probability": 0.6295,
+          "start": 58,
+          "type": "Person"
+        },
+        {
+          "end": 72,
+          "normalized_text": "そらるさん",
+          "probability": 0.8125,
+          "start": 68,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "268758461",
+          "start": 3,
+          "username": "uni_mafumafu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996672367578567176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2397
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996145447912763441",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uni_mafumafu: そらるさんへ書かせていただいた楽曲で、まふまふは作曲を担当しております！\n編曲は堀江晶太さん、作詞はそらるさんご本人が手掛けてくださいました！\nよろしくお願いいたします！\n\n急に動画あがるよって連絡きてびっくりしたやつ゜ω゜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1246165925620940800",
+              "name": "Mafumafu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1247210843864838144",
+              "name": "Soraru"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1246165925620940800",
+              "name": "Mafumafu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1247210843864838144",
+              "name": "Soraru"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1246165925620940800",
+              "name": "Mafumafu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247210843864838144",
+              "name": "Soraru"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1996672367578567176",
+        "created_at": "2025-12-04T20:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T21:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996672367578567176"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "そらるさん",
+              "probability": 0.4507,
+              "start": 18,
+              "type": "Person"
+            },
+            {
+              "end": 63,
+              "normalized_text": "堀江晶太さん",
+              "probability": 0.6295,
+              "start": 58,
+              "type": "Person"
+            },
+            {
+              "end": 72,
+              "normalized_text": "そらるさん",
+              "probability": 0.8125,
+              "start": 68,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "268758461",
+              "start": 3,
+              "username": "uni_mafumafu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996672367578567176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2397
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996145447912763441",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uni_mafumafu: そらるさんへ書かせていただいた楽曲で、まふまふは作曲を担当しております！\n編曲は堀江晶太さん、作詞はそらるさんご本人が手掛けてくださいました！\nよろしくお願いいたします！\n\n急に動画あがるよって連絡きてびっくりしたやつ゜ω゜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "268758461",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1246165925620940800",
+              "name": "Mafumafu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1247210843864838144",
+              "name": "Soraru"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1246165925620940800",
+              "name": "Mafumafu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1247210843864838144",
+              "name": "Soraru"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1246165925620940800",
+              "name": "Mafumafu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247210843864838144",
+              "name": "Soraru"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1996145447912763441",
+        "created_at": "2025-12-03T09:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T10:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996145447912763441"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "そらるさん",
+              "probability": 0.5598,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 45,
+              "normalized_text": "堀江晶太さん",
+              "probability": 0.6346,
+              "start": 40,
+              "type": "Person"
+            },
+            {
+              "end": 54,
+              "normalized_text": "そらるさん",
+              "probability": 0.8101,
+              "start": 50,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/soraruru/statu…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/soraruru/status/1996143492914196562",
+              "start": 113,
+              "url": "https://t.co/QyWK3Aho5v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996145447912763441",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 236,
+          "impression_count": 316998,
+          "like_count": 15812,
+          "quote_count": 66,
+          "reply_count": 234,
+          "retweet_count": 2397
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996143492914196562",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "そらるさんへ書かせていただいた楽曲で、まふまふは作曲を担当しております！\n編曲は堀江晶太さん、作詞はそらるさんご本人が手掛けてくださいました！\nよろしくお願いいたします！\n\n急に動画あがるよって連絡きてびっくりしたやつ゜ω゜ https://t.co/QyWK3Aho5v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 115,
+          "like_count": 11753,
+          "listed_count": 0,
+          "media_count": 372,
+          "tweet_count": 2745
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-19T12:05:43.000Z",
+        "description": "何でも屋です。ねむり After the Rain/ネオポルテ運営 ▶️YouTube https://t.co/rJzDs0Uz9d ▶️https://t.co/gdmowrQKWn #まふあーと",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 100,
+                "start": 94,
+                "tag": "まふあーと"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/c/uni_mafumafu",
+                "end": 67,
+                "expanded_url": "http://youtube.com/c/uni_mafumafu",
+                "start": 44,
+                "url": "https://t.co/rJzDs0Uz9d"
+              },
+              {
+                "display_url": "nicovideo.jp/user/18874531/…",
+                "end": 93,
+                "expanded_url": "https://www.nicovideo.jp/user/18874531/mylist/22993832",
+                "start": 70,
+                "url": "https://t.co/gdmowrQKWn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "uni-mafumafu.jp",
+                "end": 23,
+                "expanded_url": "http://uni-mafumafu.jp/",
+                "start": 0,
+                "url": "https://t.co/OqYercCVSN"
+              }
+            ]
+          }
+        },
+        "id": "268758461",
+        "location": "夢の中",
+        "name": "まふまふ＠12/25『世会色ユニバース』",
+        "pinned_tweet_id": "1825857996876034162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833737868772253696/_71dBNqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2027871,
+          "following_count": 436,
+          "like_count": 3413,
+          "listed_count": 13469,
+          "media_count": 3348,
+          "tweet_count": 56632
+        },
+        "url": "https://t.co/OqYercCVSN",
+        "username": "uni_mafumafu",
+        "verified": true
+      }
+    ]
+  }
+}

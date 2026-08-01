@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1990346243260985721",
+    "created_at": "2025-11-17T09:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T10:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990346243260985721"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yo_draw/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/yo_draw/status/1990328009929400539",
+          "start": 14,
+          "url": "https://t.co/vmXC17yVZj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990346243260985721",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990328009929400539",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "マジにn-buna ☝️🤓 https://t.co/vmXC17yVZj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 700,
+        "media_key": "3_1990308195211042817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G57-wikaYAEIcuH.jpg",
+        "width": 1244
+      },
+      {
+        "height": 500,
+        "media_key": "3_1990308211723993088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G57-xgFaAAATxtc.jpg",
+        "width": 889
+      },
+      {
+        "height": 700,
+        "media_key": "3_1990308226152493056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G57-yV1bcAAeCsC.jpg",
+        "width": 1244
+      },
+      {
+        "height": 700,
+        "media_key": "3_1990308235560308736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G57-y44bUAALNYN.jpg",
+        "width": 1243
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1990346243260985721",
+        "created_at": "2025-11-17T09:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T10:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990346243260985721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yo_draw/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/yo_draw/status/1990328009929400539",
+              "start": 14,
+              "url": "https://t.co/vmXC17yVZj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990346243260985721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990328009929400539",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "マジにn-buna ☝️🤓 https://t.co/vmXC17yVZj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990308195211042817",
+            "3_1990308211723993088",
+            "3_1990308226152493056",
+            "3_1990308235560308736"
+          ]
+        },
+        "author_id": "617743117",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1990328009929400539",
+        "created_at": "2025-11-17T07:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T08:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990328009929400539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E24rEWmhKy",
+              "end": 38,
+              "expanded_url": "https://x.com/yo_draw/status/1990328009929400539/photo/1",
+              "media_key": "3_1990308195211042817",
+              "start": 15,
+              "url": "https://t.co/E24rEWmhKy"
+            },
+            {
+              "display_url": "pic.x.com/E24rEWmhKy",
+              "end": 38,
+              "expanded_url": "https://x.com/yo_draw/status/1990328009929400539/photo/1",
+              "media_key": "3_1990308211723993088",
+              "start": 15,
+              "url": "https://t.co/E24rEWmhKy"
+            },
+            {
+              "display_url": "pic.x.com/E24rEWmhKy",
+              "end": 38,
+              "expanded_url": "https://x.com/yo_draw/status/1990328009929400539/photo/1",
+              "media_key": "3_1990308226152493056",
+              "start": 15,
+              "url": "https://t.co/E24rEWmhKy"
+            },
+            {
+              "display_url": "pic.x.com/E24rEWmhKy",
+              "end": 38,
+              "expanded_url": "https://x.com/yo_draw/status/1990328009929400539/photo/1",
+              "media_key": "3_1990308235560308736",
+              "start": 15,
+              "url": "https://t.co/E24rEWmhKy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990328009929400539",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 27044,
+          "like_count": 1660,
+          "quote_count": 27,
+          "reply_count": 19,
+          "retweet_count": 232
+        },
+        "reply_settings": "everyone",
+        "text": "みんなの夏はどこからだい？🌻 https://t.co/E24rEWmhKy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 109,
+          "like_count": 9277,
+          "listed_count": 0,
+          "media_count": 316,
+          "tweet_count": 2134
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2012-06-25T03:44:53.000Z",
+        "description": "M.B(えむびー)/絵描き/アスノヨゾラ哨戒班/Challenger/イラスト無断使用禁止",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/mbgallery",
+                "end": 23,
+                "expanded_url": "https://lit.link/mbgallery",
+                "start": 0,
+                "url": "https://t.co/4eWwKmFTWn"
+              }
+            ]
+          }
+        },
+        "id": "617743117",
+        "location": "イラストレーター",
+        "name": "M.B",
+        "pinned_tweet_id": "1507642552652304390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1175697246421078016/OEIj-ndA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116750,
+          "following_count": 230,
+          "like_count": 7444,
+          "listed_count": 875,
+          "media_count": 273,
+          "tweet_count": 15940
+        },
+        "url": "https://t.co/4eWwKmFTWn",
+        "username": "yo_draw",
+        "verified": true
+      }
+    ]
+  }
+}

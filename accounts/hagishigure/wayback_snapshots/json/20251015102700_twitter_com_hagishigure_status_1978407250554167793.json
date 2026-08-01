@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1978314372717130060",
+    "created_at": "2025-10-15T10:27:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T11:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978407250554167793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1703297947121901568",
+          "start": 0,
+          "username": "xue_zhi2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978407250554167793",
+    "in_reply_to_user_id": "1703297947121901568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978314372717130060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xue_zhi2008 大致就是IC50，EC50，ED50的區別（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1978314372717130060",
+        "created_at": "2025-10-15T10:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T11:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978407250554167793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1703297947121901568",
+              "start": 0,
+              "username": "xue_zhi2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978407250554167793",
+        "in_reply_to_user_id": "1703297947121901568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978314372717130060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xue_zhi2008 大致就是IC50，EC50，ED50的區別（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703297947121901568",
+        "conversation_id": "1978314372717130060",
+        "created_at": "2025-10-15T04:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T05:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978314372717130060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VonLinne2004/s…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/VonLinne2004/status/1978114567797350622",
+              "start": 147,
+              "url": "https://t.co/vmtzsEJlzS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978314372717130060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 959,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978114567797350622",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以防大家不知道“吸收率”“吸收速率”“生物利用率”的差别\n吸收速率可近似为起效速度，吸收率与进入内环境的剂量挂钩，生物利用率取决于进入内环境后真正起效的部分（被首过效应影响）\n此外，直肠给药如果药物去到肛门齿状线（距肛门3-4cm）以上，将有相当部分经由直肠上静脉最终注入门静脉，经历首过效应 https://t.co/vmtzsEJlzS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 90,
+          "like_count": 3432,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 535
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-17T06:41:15.000Z",
+        "description": "member of @MtFwiki ||\n在读物化生高三牲📝/🏳️‍⚧️⚧/退役CChOer🧪||\n目标是临床医学🏥||比较擅长药理学💊，有机化学🧬\n爱好声乐🎙️，粥p，舞萌萌新玩家\n🤗期待与你相逢ヾ(◍°∇°◍)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "MtFwiki"
+              }
+            ]
+          }
+        },
+        "id": "1703297947121901568",
+        "location": "重庆市",
+        "name": "织不唧",
+        "pinned_tweet_id": "1907327813289730421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977381470164656128/k468voe7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1968,
+          "following_count": 523,
+          "like_count": 7625,
+          "listed_count": 6,
+          "media_count": 705,
+          "tweet_count": 2485
+        },
+        "username": "xue_zhi2008",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2018384120578183544",
+    "created_at": "2026-02-03T02:31:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T03:31:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018512602910040555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2885028194",
+          "start": 0,
+          "username": "MizukawaYui"
+        },
+        {
+          "end": 29,
+          "id": "745607352355721217",
+          "start": 13,
+          "username": "WilliamPAIvanov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018512602910040555",
+    "in_reply_to_user_id": "2885028194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018512079569948681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MizukawaYui @WilliamPAIvanov 袜，其实我想当的，因为这能很好的提供一个社群自发规范和自发规训的两个不同哲学家的哲学理论的实践案例。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2018512079569948681].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2018512079569948681",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2018512079569948681"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2018384120578183544",
+        "created_at": "2026-02-03T02:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T03:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018512602910040555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2885028194",
+              "start": 0,
+              "username": "MizukawaYui"
+            },
+            {
+              "end": 29,
+              "id": "745607352355721217",
+              "start": 13,
+              "username": "WilliamPAIvanov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018512602910040555",
+        "in_reply_to_user_id": "2885028194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018512079569948681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MizukawaYui @WilliamPAIvanov 袜，其实我想当的，因为这能很好的提供一个社群自发规范和自发规训的两个不同哲学家的哲学理论的实践案例。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 128,
+          "like_count": 17656,
+          "listed_count": 0,
+          "media_count": 479,
+          "tweet_count": 4139
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-31T12:37:59.000Z",
+        "description": "Transfem🏳️‍⚧️/She,Her/INFP-T/♏️/HRTing/Depression/Vegetarian/Feminist/#ProtectTransKids #AnimalRights #AbortionRightsAreHumanRights CP:@EN__Ien",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 70,
+                "tag": "ProtectTransKids"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "tag": "AnimalRights"
+              },
+              {
+                "end": 131,
+                "start": 102,
+                "tag": "AbortionRightsAreHumanRights"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 143,
+                "start": 135,
+                "username": "EN__Ien"
+              }
+            ]
+          }
+        },
+        "id": "2885028194",
+        "location": "光启市精神卫生中心",
+        "name": "水川ゆい/🤏🏻#AbortionRightsAreHumanRights",
+        "pinned_tweet_id": "1434361967280488448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948950324213059584/0TLSHqMK_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 5029,
+          "following_count": 930,
+          "like_count": 24922,
+          "listed_count": 15,
+          "media_count": 6445,
+          "tweet_count": 29596
+        },
+        "username": "MizukawaYui",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-22T13:20:20.000Z",
+        "description": "国民大会主要整活师｜国家一级退堂鼓表演艺术家｜著名抬杠运动员｜世界划水锦标赛冠军｜历届摸鱼大赛种子选手｜四字一等恩封躺平不起公世袭罔替｜吃光阁内大臣｜私聊🚪€2999的私人精神导师｜向日葵听完都不发光的过气负能量老干部｜满洲特务头子｜只为权贵说真话不给牛马唱赞歌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.net/a/GurunPartae",
+                "end": 23,
+                "expanded_url": "https://afdian.net/a/GurunPartae",
+                "start": 0,
+                "url": "https://t.co/aCvhudDZ42"
+              }
+            ]
+          }
+        },
+        "id": "745607352355721217",
+        "location": "Italy",
+        "name": "William P. A. da H. Ivanov🟦⬜️⬛️",
+        "pinned_tweet_id": "1922327262331846716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796731073038090241/qB450jx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1964,
+          "following_count": 1537,
+          "like_count": 247351,
+          "listed_count": 16,
+          "media_count": 343,
+          "tweet_count": 34219
+        },
+        "url": "https://t.co/aCvhudDZ42",
+        "username": "WilliamPAIvanov",
+        "verified": false
+      }
+    ]
+  }
+}

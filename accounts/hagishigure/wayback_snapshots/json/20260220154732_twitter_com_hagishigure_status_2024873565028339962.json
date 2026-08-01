@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2024873565028339962",
+    "created_at": "2026-02-20T15:47:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T16:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024873565028339962"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/willa_citrus/s…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/willa_citrus/status/2024860519073816635",
+          "start": 44,
+          "url": "https://t.co/T0LyhFscsl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024873565028339962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024860519073816635",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "王柠檬还是太顺直中心主义了，毕竟我能唱C7但是我日常就故意用纯男声说话。\n我就喜欢玩。 https://t.co/T0LyhFscsl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 135869,
+        "height": 1608,
+        "media_key": "13_2024859752522805248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024859752522805248/img/olX5A9wLBDiZG2So.jpg",
+        "public_metrics": {
+          "view_count": 153
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024859752522805248/vid/avc1/320x714/K6Odjys6gzaGAtB7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024859752522805248/vid/avc1/480x1072/9qiSP5jqTGOG5xHI.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024859752522805248/vid/avc1/720x1608/x4yUYm9LhuOlBO9i.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024859752522805248/pl/65qxLZu-hwcsL9Tr.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2024873565028339962",
+        "created_at": "2026-02-20T15:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T16:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024873565028339962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/willa_citrus/s…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/willa_citrus/status/2024860519073816635",
+              "start": 44,
+              "url": "https://t.co/T0LyhFscsl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024873565028339962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024860519073816635",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "王柠檬还是太顺直中心主义了，毕竟我能唱C7但是我日常就故意用纯男声说话。\n我就喜欢玩。 https://t.co/T0LyhFscsl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024859752522805248"
+          ]
+        },
+        "author_id": "1767161673566359552",
+        "conversation_id": "2024860519073816635",
+        "created_at": "2026-02-20T14:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T15:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024860519073816635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x6HBQNQfbB",
+              "end": 133,
+              "expanded_url": "https://x.com/willa_citrus/status/2024860519073816635/video/1",
+              "media_key": "13_2024859752522805248",
+              "start": 110,
+              "url": "https://t.co/x6HBQNQfbB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024860519073816635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 386,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新发现的一个声音练习小技巧\n可以在豆包克隆自己的声音来看长句子对话的效果\n调整发声技巧后可以后多录很多组进行对比 排除疲劳和情绪的影响 \n也可以拿给周围的人听 让其他人判断声音特性 避免直接说话的时候紧张\n科技改变生活 https://t.co/x6HBQNQfbB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 135,
+          "like_count": 20865,
+          "listed_count": 0,
+          "media_count": 591,
+          "tweet_count": 5111
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-11T12:12:39.000Z",
+        "description": "试图照见自己 / 杭州三本工科PhD在读 / 怪猎&魂 / 光明果派漫宿研习者 / 彻夜飞旋，直至甜美的生诞 / 多给我点赞啊！/ 如果空下来一定要做个播客 / 甜甜同居快六年 @rat_miyari",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "rat_miyari"
+              }
+            ]
+          }
+        },
+        "id": "1767161673566359552",
+        "location": "杭州",
+        "name": "王小檬𝖂𝖎𝖑𝖑𝖆🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978691032192782336/2rH_jGCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11944,
+          "following_count": 201,
+          "like_count": 5690,
+          "listed_count": 34,
+          "media_count": 291,
+          "tweet_count": 7057
+        },
+        "username": "willa_citrus",
+        "verified": false
+      }
+    ]
+  }
+}

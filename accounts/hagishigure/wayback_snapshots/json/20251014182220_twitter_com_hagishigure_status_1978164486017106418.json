@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1978125147316912212",
+    "created_at": "2025-10-14T18:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T19:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978164486017106418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1499442786453663745",
+          "start": 0,
+          "username": "Ted_yeet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978164486017106418",
+    "in_reply_to_user_id": "1499442786453663745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978125147316912212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ted_yeet お誕生日おめでとうございます。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1978125141293830144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3O2VeAWkAA8XUC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1978125147316912212",
+        "created_at": "2025-10-14T18:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T19:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978164486017106418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1499442786453663745",
+              "start": 0,
+              "username": "Ted_yeet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978164486017106418",
+        "in_reply_to_user_id": "1499442786453663745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978125147316912212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ted_yeet お誕生日おめでとうございます。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978125141293830144"
+          ]
+        },
+        "author_id": "1499442786453663745",
+        "conversation_id": "1978125147316912212",
+        "created_at": "2025-10-14T15:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T16:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978125147316912212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BHnearUPFp",
+              "end": 45,
+              "expanded_url": "https://x.com/Ted_yeet/status/1978125147316912212/photo/1",
+              "media_key": "3_1978125141293830144",
+              "start": 22,
+              "url": "https://t.co/BHnearUPFp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978125147316912212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 347,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "母上给的生日礼物～\n这次绝对不是路上捡的（ https://t.co/BHnearUPFp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 90,
+          "like_count": 3333,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 520
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "MtF🏳️‍⚧️/Trans-les/𝕄𝕒𝕥𝕙 𝕊𝕥𝕦𝕕𝕖𝕟𝕥 at UCPH/超业余贝斯手/域ℍ上的非交换同构 @Ted_noncommute /持有@MeowCatherina作为家养猫/↓在这里找到我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 57,
+                "username": "Ted_noncommute"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "MeowCatherina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+MUyD9Gjm0yU5Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+MUyD9Gjm0yU5ZGJk",
+                "start": 0,
+                "url": "https://t.co/zbsLzEJxIA"
+              }
+            ]
+          }
+        },
+        "id": "1499442786453663745",
+        "location": "(0,0,0,0)∈ℝ⁴",
+        "name": "Ted",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932808418529628160/tgJD37P5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2553,
+          "following_count": 1313,
+          "like_count": 29141,
+          "listed_count": 3,
+          "media_count": 292,
+          "tweet_count": 5833
+        },
+        "url": "https://t.co/zbsLzEJxIA",
+        "username": "Ted_yeet",
+        "verified": true
+      }
+    ]
+  }
+}

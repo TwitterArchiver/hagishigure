@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1996762897901670652",
+    "created_at": "2025-12-05T07:45:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T08:45:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996848264273187161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1943532006723457026",
+          "start": 0,
+          "username": "zhi96886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996848264273187161",
+    "in_reply_to_user_id": "1943532006723457026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996842353693544872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhi96886 圖。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1996762897901670652",
+        "created_at": "2025-12-05T07:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T08:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996848264273187161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1943532006723457026",
+              "start": 0,
+              "username": "zhi96886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996848264273187161",
+        "in_reply_to_user_id": "1943532006723457026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996842353693544872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhi96886 圖。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943532006723457026",
+        "conversation_id": "1996762897901670652",
+        "created_at": "2025-12-05T07:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T08:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996842353693544872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996842353693544872",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 310,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996837532752138631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure 举例"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 115,
+          "like_count": 11848,
+          "listed_count": 0,
+          "media_count": 374,
+          "tweet_count": 2790
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T04:45:24.000Z",
+        "description": "acgn爱好者/支持社会民主主义/反独裁，反共/不理解支黑为什么用“支文”黑支/汉民族主义倾向/不喜欢骂人/粉红支黑滚/对历史感兴趣/反分裂\n\n/新号，老号去年被反中魔怔人举报封了😭我基本上会回关\n\n如果你友好我就会友好🥰\n🚪:1145141919810😄",
+        "id": "1943532006723457026",
+        "location": "永远不会变支黑也不会变成粉红",
+        "name": "知雲",
+        "pinned_tweet_id": "1992992984158163104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943532103057932288/nOmFq8AD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 306,
+          "like_count": 3651,
+          "listed_count": 5,
+          "media_count": 244,
+          "tweet_count": 1924
+        },
+        "username": "zhi96886",
+        "verified": false
+      }
+    ]
+  }
+}

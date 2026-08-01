@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1998397866071699536",
+    "created_at": "2025-12-10T12:56:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T13:56:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998738528864448651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1491429513779359745",
+          "start": 0,
+          "username": "mizuchanqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998738528864448651",
+    "in_reply_to_user_id": "1491429513779359745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998397866071699536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizuchanqwq 以後我看哪個藥商不爽我就用瑞士卡轉10次法郎都備註各種虛擬幣的名字。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1998397866071699536",
+        "created_at": "2025-12-10T12:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T13:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998738528864448651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1491429513779359745",
+              "start": 0,
+              "username": "mizuchanqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998738528864448651",
+        "in_reply_to_user_id": "1491429513779359745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998397866071699536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuchanqwq 以後我看哪個藥商不爽我就用瑞士卡轉10次法郎都備註各種虛擬幣的名字。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491429513779359745",
+        "conversation_id": "1998397866071699536",
+        "created_at": "2025-12-09T14:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T15:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998397866071699536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_FORAB/status/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/_FORAB/status/1998347656054378984",
+              "start": 15,
+              "url": "https://t.co/kLxVbfiL7U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998397866071699536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7761,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998347656054378984",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "論藥商為什麼這麼怕交易備註： https://t.co/kLxVbfiL7U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 116,
+          "like_count": 12309,
+          "listed_count": 0,
+          "media_count": 378,
+          "tweet_count": 2886
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T15:11:30.000Z",
+        "description": "🐱 1歲小貓 | 🫂 Asylum | 🇯🇵 帰国生 | 🚞鉄オタ | 日本語を母語とする言語学習者 | #永住許可の取消しに反対します | ❤️🍬👉@yuzuchanqwq",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 53,
+                "tag": "永住許可の取消しに反対します"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 87,
+                "start": 75,
+                "username": "yuzuchanqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mizuchanqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mizuchanqwq",
+                "start": 0,
+                "url": "https://t.co/DIAk3moEfe"
+              }
+            ]
+          }
+        },
+        "id": "1491429513779359745",
+        "location": "貓貓首都圏",
+        "name": "若水ちゃん︎︎︎︎︎❤️‍🩹🧂",
+        "pinned_tweet_id": "1995873325823009226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988071679235682304/BRVBNxcl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2604,
+          "following_count": 2252,
+          "like_count": 88592,
+          "listed_count": 8,
+          "media_count": 2070,
+          "tweet_count": 10945
+        },
+        "url": "https://t.co/DIAk3moEfe",
+        "username": "mizuchanqwq",
+        "verified": false
+      }
+    ]
+  }
+}

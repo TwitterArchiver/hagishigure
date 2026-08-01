@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2028156358277640593",
+    "created_at": "2026-03-01T17:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T18:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028156358277640593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1773934439414018048",
+          "start": 3,
+          "username": "liki24003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028156358277640593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944465242144260144",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liki24003: 还是忍不住发出来（只是给自己看，记录自己的痛苦和迷茫，勿喷）\n4月19日那天晚上发生的事情，估计这辈子也忘不掉了-----在彩虹青旅被轮奸，那天晚上我吃了思诺思，在戒心极低的情况下性同意了一个中年男性，最后演变为一场轮奸（总共三人） https:/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944465238692102144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvwg1RZWgAAa7Mz.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1944465238830485504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvwg1R6WEAAIOWC.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1944465238570770432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvwg1Q8bIAApWru.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1944465238331695104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvwg1QDbIAABVdo.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2028156358277640593",
+        "created_at": "2026-03-01T17:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T18:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028156358277640593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1773934439414018048",
+              "start": 3,
+              "username": "liki24003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028156358277640593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944465242144260144",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liki24003: 还是忍不住发出来（只是给自己看，记录自己的痛苦和迷茫，勿喷）\n4月19日那天晚上发生的事情，估计这辈子也忘不掉了-----在彩虹青旅被轮奸，那天晚上我吃了思诺思，在戒心极低的情况下性同意了一个中年男性，最后演变为一场轮奸（总共三人） https:/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944465238692102144",
+            "3_1944465238830485504",
+            "3_1944465238570770432",
+            "3_1944465238331695104"
+          ]
+        },
+        "author_id": "1773934439414018048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1944465242144260144",
+        "created_at": "2025-07-13T18:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T19:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944465242144260144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yFJymOPSvE",
+              "end": 140,
+              "expanded_url": "https://x.com/liki24003/status/1944465242144260144/photo/1",
+              "media_key": "3_1944465238692102144",
+              "start": 117,
+              "url": "https://t.co/yFJymOPSvE"
+            },
+            {
+              "display_url": "pic.x.com/yFJymOPSvE",
+              "end": 140,
+              "expanded_url": "https://x.com/liki24003/status/1944465242144260144/photo/1",
+              "media_key": "3_1944465238830485504",
+              "start": 117,
+              "url": "https://t.co/yFJymOPSvE"
+            },
+            {
+              "display_url": "pic.x.com/yFJymOPSvE",
+              "end": 140,
+              "expanded_url": "https://x.com/liki24003/status/1944465242144260144/photo/1",
+              "media_key": "3_1944465238570770432",
+              "start": 117,
+              "url": "https://t.co/yFJymOPSvE"
+            },
+            {
+              "display_url": "pic.x.com/yFJymOPSvE",
+              "end": 140,
+              "expanded_url": "https://x.com/liki24003/status/1944465242144260144/photo/1",
+              "media_key": "3_1944465238331695104",
+              "start": 117,
+              "url": "https://t.co/yFJymOPSvE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944465242144260144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 135935,
+          "like_count": 537,
+          "quote_count": 10,
+          "reply_count": 106,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "还是忍不住发出来（只是给自己看，记录自己的痛苦和迷茫，勿喷）\n4月19日那天晚上发生的事情，估计这辈子也忘不掉了-----在彩虹青旅被轮奸，那天晚上我吃了思诺思，在戒心极低的情况下性同意了一个中年男性，最后演变为一场轮奸（总共三人） https://t.co/yFJymOPSvE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 139,
+          "like_count": 22946,
+          "listed_count": 2,
+          "media_count": 650,
+          "tweet_count": 5643
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-30T04:45:15.000Z",
+        "description": "海鸥鸥，这里是海鸥鸥，非常温柔的一枚大龄mtf",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/liki240003",
+                "end": 23,
+                "expanded_url": "https://ngl.link/liki240003",
+                "start": 0,
+                "url": "https://t.co/zcBBVJJ8sO"
+              }
+            ]
+          }
+        },
+        "id": "1773934439414018048",
+        "location": "木卫六-冰川上狂奔",
+        "name": "海鸥鸥欧欧🍊🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863038364779261952/IjUxzCXz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1672,
+          "following_count": 1775,
+          "like_count": 9047,
+          "listed_count": 6,
+          "media_count": 144,
+          "tweet_count": 3212
+        },
+        "url": "https://t.co/zcBBVJJ8sO",
+        "username": "liki24003",
+        "verified": false
+      }
+    ]
+  }
+}

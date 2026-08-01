@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1989245993968398406",
+    "created_at": "2025-11-14T08:23:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T09:23:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989247852934230028"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1989247852934230028",
+    "in_reply_to_user_id": "1965393379224944645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989247447617745280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "fMRI/ICA显示ADHD中dorsal anterior cingulate gyrus (dACC) 活动无法有效抑制lapse（年龄相关性p&gt;0.05），narcolepsy患者dACC hypoactivation加剧EDS lapses（OR=4.2 for IIRV in EDS）。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1989245993968398406",
+        "created_at": "2025-11-14T08:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T09:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989247852934230028"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989247852934230028",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989247447617745280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "fMRI/ICA显示ADHD中dorsal anterior cingulate gyrus (dACC) 活动无法有效抑制lapse（年龄相关性p&gt;0.05），narcolepsy患者dACC hypoactivation加剧EDS lapses（OR=4.2 for IIRV in EDS）。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1989245993968398406",
+        "created_at": "2025-11-14T08:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T09:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989247447617745280"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 85,
+              "normalized_text": "ADHD",
+              "probability": 0.9753,
+              "start": 82,
+              "type": "Other"
+            },
+            {
+              "end": 114,
+              "normalized_text": "ADHD",
+              "probability": 0.9502,
+              "start": 111,
+              "type": "Other"
+            },
+            {
+              "end": 128,
+              "normalized_text": "narcolepsy",
+              "probability": 0.8894,
+              "start": 119,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ADHD is characterized by increased intra-individual variability in response times during the performance of cognitive tasks. However, little is known about developmental changes in intra-individual variability, and how these changes relate to ...",
+              "display_url": "pmc.ncbi.nlm.nih.gov/articles/PMC42…",
+              "end": 110,
+              "expanded_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4299975/",
+              "images": [
+                {
+                  "height": 836,
+                  "url": "https://pbs.twimg.com/news_img/1989247449366687744/cPhxLSmY?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1989247449366687744/cPhxLSmY?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 87,
+              "status": 200,
+              "title": "Capturing the dynamics of response variability in the brain in ADHD",
+              "unwound_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4299975/",
+              "url": "https://t.co/a5zvOWbpPD"
+            },
+            {
+              "description": "Narcolepsy and psychiatric disorders have a significant but unrecognized relationship, which is an area of evolving interest, but unfortunately, the association is poorly understood. It is not uncommon for the two to occur co-morbidly. However, ...",
+              "display_url": "pmc.ncbi.nlm.nih.gov/articles/PMC58…",
+              "end": 191,
+              "expanded_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5872173/",
+              "images": [
+                {
+                  "height": 836,
+                  "url": "https://pbs.twimg.com/news_img/1989247490215006208/2uczED2k?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1989247490215006208/2uczED2k?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 168,
+              "status": 200,
+              "title": "Narcolepsy and Psychiatric Disorders: Comorbidities or Shared Pathophysiology?",
+              "unwound_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5872173/",
+              "url": "https://t.co/SYeO9Q2KUO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989247447617745280",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989245993968398406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又到了我们最爱的贴papers环节。\nCapturing the dynamics of response variability in the brain in ADHD\nhttps://t.co/a5zvOWbpPD\nADHD in narcolepsy: A closer look at prevalence and ties\nhttps://t.co/SYeO9Q2KUO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 106,
+          "like_count": 8733,
+          "listed_count": 0,
+          "media_count": 292,
+          "tweet_count": 1996
+        },
+        "username": "hagishigure",
+        "verified": true
+      }
+    ]
+  }
+}

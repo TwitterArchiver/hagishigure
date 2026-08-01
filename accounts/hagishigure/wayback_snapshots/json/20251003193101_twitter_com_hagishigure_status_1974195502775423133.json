@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1974171379156332548",
+    "created_at": "2025-10-03T19:31:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T20:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974195502775423133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1638893284218261504",
+          "start": 0,
+          "username": "Benzyl_titanium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974195502775423133",
+    "in_reply_to_user_id": "1638893284218261504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974171379156332548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Benzyl_titanium 這下衹能看類似JOURNAL OF MEDICINAL CHEMISTRY這樣的一堆刊物了😿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1145,
+        "media_key": "3_1974171220758441984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2WqRAMbMAA1BQp.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1145,
+        "media_key": "3_1974171240115191808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2WqSITbwAAeBFU.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1974171379156332548",
+        "created_at": "2025-10-03T19:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T20:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974195502775423133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1638893284218261504",
+              "start": 0,
+              "username": "Benzyl_titanium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974195502775423133",
+        "in_reply_to_user_id": "1638893284218261504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974171379156332548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Benzyl_titanium 這下衹能看類似JOURNAL OF MEDICINAL CHEMISTRY這樣的一堆刊物了😿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974171220758441984",
+            "3_1974171240115191808"
+          ]
+        },
+        "author_id": "1638893284218261504",
+        "conversation_id": "1974171379156332548",
+        "created_at": "2025-10-03T17:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T18:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974171379156332548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KHCtIDK99T",
+              "end": 31,
+              "expanded_url": "https://x.com/Benzyl_titanium/status/1974171379156332548/photo/1",
+              "media_key": "3_1974171220758441984",
+              "start": 8,
+              "url": "https://t.co/KHCtIDK99T"
+            },
+            {
+              "display_url": "pic.x.com/KHCtIDK99T",
+              "end": 31,
+              "expanded_url": "https://x.com/Benzyl_titanium/status/1974171379156332548/photo/1",
+              "media_key": "3_1974171240115191808",
+              "start": 8,
+              "url": "https://t.co/KHCtIDK99T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974171379156332548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "停更了，呜呜呜 https://t.co/KHCtIDK99T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 77,
+          "like_count": 697,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 115
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-23T13:19:49.000Z",
+        "description": "Tetrabenzyl titanium 四苄基钛 四苄钛 死变态 苄钛 Fuck Organic Chemistry 友姬花穴 | 药物画学 | 有机合不成 | 精神药理学 | 网络药理学 | 计算机辅助药物设计 https://t.co/avoL4bMrR2 @biantailab",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 132,
+                "username": "biantailab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Benzyl-titanium.top",
+                "end": 131,
+                "expanded_url": "https://www.Benzyl-titanium.top",
+                "start": 108,
+                "url": "https://t.co/avoL4bMrR2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Benzyl_titaniu…",
+                "end": 23,
+                "expanded_url": "https://t.me/Benzyl_titanium_space",
+                "start": 0,
+                "url": "https://t.co/L58dlFWFgV"
+              }
+            ]
+          }
+        },
+        "id": "1638893284218261504",
+        "location": "BianTai LAB",
+        "name": "Benzyl titanium",
+        "pinned_tweet_id": "1925059483618967837",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921007502403268610/6Y_cusVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1725,
+          "following_count": 532,
+          "like_count": 8276,
+          "listed_count": 7,
+          "media_count": 367,
+          "tweet_count": 2116
+        },
+        "url": "https://t.co/L58dlFWFgV",
+        "username": "Benzyl_titanium",
+        "verified": false
+      }
+    ]
+  }
+}

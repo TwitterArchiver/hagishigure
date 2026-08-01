@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1975955003031601295",
+    "created_at": "2025-10-08T17:48:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T18:48:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975981557006717256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1570069037496819714",
+          "start": 0,
+          "username": "SilentNagiyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975981557006717256",
+    "in_reply_to_user_id": "1570069037496819714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975955003031601295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SilentNagiyou 偶遇棉花糖形態拉康強如怪物無法戰勝\n挺可愛的😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1975955003031601295",
+        "created_at": "2025-10-08T17:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T18:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975981557006717256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1570069037496819714",
+              "start": 0,
+              "username": "SilentNagiyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975981557006717256",
+        "in_reply_to_user_id": "1570069037496819714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975955003031601295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SilentNagiyou 偶遇棉花糖形態拉康強如怪物無法戰勝\n挺可愛的😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570069037496819714",
+        "conversation_id": "1975955003031601295",
+        "created_at": "2025-10-08T16:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T17:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975955003031601295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KiwiKazamaCat/…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/KiwiKazamaCat/status/1975884548568465791",
+              "start": 95,
+              "url": "https://t.co/cnM4FWmGtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975955003031601295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975884548568465791",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然可能有部分人觉得我可爱\n不过那只是网上构造的虚拟形象罢了\n网上装可爱对我还是太难了\n现实中我一点都不可爱\n但是你喜欢就好，被喜欢是很幸福很幸运的事情，网上的也未必就不是我的一部分... https://t.co/cnM4FWmGtf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 86,
+          "like_count": 2148,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 359
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-14T15:17:34.000Z",
+        "description": "精神edging享受者丨https://t.co/aI2cuJM2W8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/WeisseGestalt",
+                "end": 35,
+                "expanded_url": "https://t.me/WeisseGestalt",
+                "start": 12,
+                "url": "https://t.co/aI2cuJM2W8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/WeisseGestalt",
+                "end": 23,
+                "expanded_url": "https://t.me/WeisseGestalt",
+                "start": 0,
+                "url": "https://t.co/aI2cuJM2W8"
+              }
+            ]
+          }
+        },
+        "id": "1570069037496819714",
+        "location": "👨‍🏭网评员🧭妖怪之山迷途竹林永远亭",
+        "name": "🍥疏若巧🍥",
+        "pinned_tweet_id": "1953483222341304775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946284002157211649/z5XSBjQ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1566,
+          "following_count": 522,
+          "like_count": 43109,
+          "listed_count": 6,
+          "media_count": 370,
+          "tweet_count": 6691
+        },
+        "url": "https://t.co/aI2cuJM2W8",
+        "username": "SilentNagiyou",
+        "verified": false
+      }
+    ]
+  }
+}

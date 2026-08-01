@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2059169857455698097",
+    "created_at": "2026-05-26T07:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T08:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059169857455698097"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qslzy1225/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/qslzy1225/status/2059035656479748380",
+          "start": 9,
+          "url": "https://t.co/zKiN11XNzl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059169857455698097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059035656479748380",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "青少年不是人吗。 https://t.co/zKiN11XNzl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2059169857455698097",
+        "created_at": "2026-05-26T07:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059169857455698097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qslzy1225/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/qslzy1225/status/2059035656479748380",
+              "start": 9,
+              "url": "https://t.co/zKiN11XNzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059169857455698097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059035656479748380",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "青少年不是人吗。 https://t.co/zKiN11XNzl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757152910683852800",
+        "conversation_id": "2054928341681967603",
+        "created_at": "2026-05-25T22:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T23:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059035656479748380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1960983229181386752",
+              "start": 0,
+              "username": "notsorryfor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059035656479748380",
+        "in_reply_to_user_id": "1960983229181386752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058835027870511592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@notsorryfor 并不。真正的歧路是指三观不完善的青少年受到引导成为性少数群体。\n还有我并不歧视性少数群体，实际上我身边的朋友中就有一位。\n另外如果我冒犯到了你，我在此向你道歉。诚恳的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 153,
+          "like_count": 29859,
+          "listed_count": 3,
+          "media_count": 780,
+          "tweet_count": 7156
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-12T21:22:07.000Z",
+        "description": "LGBTQ+ Ally｜马克思主义者｜二游玩家｜理性，包容，进步，思考｜认清形势，放弃幻想，准备斗争｜你说，我在听",
+        "id": "1757152910683852800",
+        "location": "Harbin,Heilongjiang,China",
+        "name": "青松",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757153133611171840/Bi-ESVPH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 43,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 123
+        },
+        "username": "qslzy1225",
+        "verified": false
+      }
+    ]
+  }
+}

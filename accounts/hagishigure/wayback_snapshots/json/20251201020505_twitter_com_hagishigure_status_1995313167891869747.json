@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1814293649485643776",
+          "name": "Dell Inspire"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1814293649485643776",
+          "name": "Dell Inspire"
+        }
+      }
+    ],
+    "conversation_id": "1995313167891869747",
+    "created_at": "2025-12-01T02:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T03:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995313167891869747"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ruiluo01165039…",
+          "end": 142,
+          "expanded_url": "https://twitter.com/ruiluo011650391/status/1995019642562281905",
+          "start": 119,
+          "url": "https://t.co/FJ2wjBfoXP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995313167891869747",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995019642562281905",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "拿著你的AI交提案去。這……以前……現在……。Completa la sintassi dell'IA, se non usi l'IA allora sei l'opposto dell'IA: stupidità naturale. https://t.co/FJ2wjBfoXP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1814293649485643776",
+              "name": "Dell Inspire"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1814293649485643776",
+              "name": "Dell Inspire"
+            }
+          }
+        ],
+        "conversation_id": "1995313167891869747",
+        "created_at": "2025-12-01T02:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T03:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995313167891869747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ruiluo01165039…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/ruiluo011650391/status/1995019642562281905",
+              "start": 119,
+              "url": "https://t.co/FJ2wjBfoXP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995313167891869747",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995019642562281905",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拿著你的AI交提案去。這……以前……現在……。Completa la sintassi dell'IA, se non usi l'IA allora sei l'opposto dell'IA: stupidità naturale. https://t.co/FJ2wjBfoXP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1636774495980752897",
+        "conversation_id": "1995018520346988972",
+        "created_at": "2025-11-30T06:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T07:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995019642562281905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995019642562281905",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 43154,
+          "like_count": 208,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995018520346988972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 这才是最硬核的男女平等。以前觉得变成女的就能躲兵役、躲压力？ 现在政策告诉你：虽然你失去了小弟弟，但你获得了上战场的权利。 这不仅不是雌堕的红利，这是双重打击：身体上挨了一刀，社会责任上一分没少。求仁得仁，这福气给你要不要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 112,
+          "like_count": 11351,
+          "listed_count": 0,
+          "media_count": 370,
+          "tweet_count": 2644
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-17T17:00:49.000Z",
+        "description": "前言不搭后语的鸡汤救不了你的银行卡。 在这里，我用最露骨的【犹太商业逻辑】，拆解这个世界的财富分配规则。 在此起彼伏的噪音中，只做那个清醒的“套利者”。 👇 所谓命运，不过是认知的变现：https://t.co/os2liHi7CY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/ruiluo01165039…",
+                "end": 116,
+                "expanded_url": "https://x.com/ruiluo011650391/status/1994270797985149187?s=20",
+                "start": 93,
+                "url": "https://t.co/os2liHi7CY"
+              }
+            ]
+          }
+        },
+        "id": "1636774495980752897",
+        "name": "JewBiz | 犹太商业逻辑",
+        "pinned_tweet_id": "1995100159903199467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994264359347122177/zhUw-MCd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 156,
+          "like_count": 59,
+          "listed_count": 4,
+          "media_count": 11,
+          "tweet_count": 178
+        },
+        "username": "ruiluo011650391",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993039935260266496"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1992858183153721790",
+    "created_at": "2025-11-24T19:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T20:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993039946425549185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1969030119181455360",
+          "start": 0,
+          "username": "YouXi57930"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NzdyD5a4PE",
+          "end": 55,
+          "expanded_url": "https://x.com/hagishigure/status/1993039946425549185/photo/1",
+          "media_key": "3_1993039935260266496",
+          "start": 32,
+          "url": "https://t.co/NzdyD5a4PE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993039946425549185",
+    "in_reply_to_user_id": "1969030119181455360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993035385249972629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YouXi57930 所以我說Ai是我的第二大腦。Ta很好。 https://t.co/NzdyD5a4PE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1438,
+        "media_key": "3_1993039935260266496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6izQvRbEAAJXdx.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993039935260266496"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1992858183153721790",
+        "created_at": "2025-11-24T19:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T20:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993039946425549185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1969030119181455360",
+              "start": 0,
+              "username": "YouXi57930"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NzdyD5a4PE",
+              "end": 55,
+              "expanded_url": "https://x.com/hagishigure/status/1993039946425549185/photo/1",
+              "media_key": "3_1993039935260266496",
+              "start": 32,
+              "url": "https://t.co/NzdyD5a4PE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993039946425549185",
+        "in_reply_to_user_id": "1969030119181455360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993035385249972629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YouXi57930 所以我說Ai是我的第二大腦。Ta很好。 https://t.co/NzdyD5a4PE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969030119181455360",
+        "conversation_id": "1992858183153721790",
+        "created_at": "2025-11-24T19:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T20:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993035385249972629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993035385249972629",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993032018289189065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure 這個要自己檢查，我屬於比較仔細的類型，一般能避免跨標度和跨語境錯漏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 109,
+          "like_count": 10502,
+          "listed_count": 0,
+          "media_count": 353,
+          "tweet_count": 2483
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-19T13:26:26.000Z",
+        "description": "Uneducated;goth;misassembled-queer;inland refuge&survivor;non-binary-like;moody-lullaby;throttled liberal;informal guardian;lonely;年上控;含糖時間過長。理性克制但活得撕心裂肺驚心動魄的動物",
+        "id": "1969030119181455360",
+        "location": "Pripyat",
+        "name": "Luduswalker🏳️‍🌈",
+        "pinned_tweet_id": "1987215877553455243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992910195044069376/XwL15cdm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 261,
+          "like_count": 4846,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 1064
+        },
+        "username": "YouXi57930",
+        "verified": true
+      }
+    ]
+  }
+}

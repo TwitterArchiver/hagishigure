@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2000123399411282375",
+    "created_at": "2025-12-14T08:39:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T09:39:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000123399411282375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "BI3BXI"
+        },
+        {
+          "end": 47,
+          "id": "1243945571796295681",
+          "start": 41,
+          "username": "ryq59"
+        },
+        {
+          "end": 127,
+          "id": "1973748660975587328",
+          "start": 120,
+          "username": "0xAzxs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000123399411282375",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999929703478767692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BI3BXI: 转推抽5个¥10.88  20日开\n\n贵安 这里小铨 前世@ryq59 \n我不知道自己还能活几年\n在最后的这段日子里 我不想带着任何遗憾离去\n我欠自己的真相\n欠那些给她打过钱的人一个交代\n也在给大家一个背调的重要性\n@0xAzxs 是我今年遇到的最荒诞、…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [ryq59].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "ryq59",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "ryq59"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2000123399411282375",
+        "created_at": "2025-12-14T08:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T09:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000123399411282375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "BI3BXI"
+            },
+            {
+              "end": 47,
+              "id": "1243945571796295681",
+              "start": 41,
+              "username": "ryq59"
+            },
+            {
+              "end": 127,
+              "id": "1973748660975587328",
+              "start": 120,
+              "username": "0xAzxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000123399411282375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999929703478767692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BI3BXI: 转推抽5个¥10.88  20日开\n\n贵安 这里小铨 前世@ryq59 \n我不知道自己还能活几年\n在最后的这段日子里 我不想带着任何遗憾离去\n我欠自己的真相\n欠那些给她打过钱的人一个交代\n也在给大家一个背调的重要性\n@0xAzxs 是我今年遇到的最荒诞、…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545277694325116928",
+        "conversation_id": "1999929703478767692",
+        "created_at": "2025-12-13T19:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T20:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999929703478767692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "1243945571796295681",
+              "start": 29,
+              "username": "ryq59"
+            },
+            {
+              "end": 115,
+              "id": "1973748660975587328",
+              "start": 108,
+              "username": "0xAzxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999929703478767692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 35,
+                "id": "1243945571796295681",
+                "start": 29,
+                "username": "ryq59"
+              },
+              {
+                "end": 115,
+                "id": "1973748660975587328",
+                "start": 108,
+                "username": "0xAzxs"
+              },
+              {
+                "end": 450,
+                "id": "1619331344705916931",
+                "start": 438,
+                "username": "Mikasuda765"
+              },
+              {
+                "end": 528,
+                "id": "1882494092007133184",
+                "start": 512,
+                "username": "lianjiabaxi2333"
+              },
+              {
+                "end": 811,
+                "id": "1775491362969862144",
+                "start": 801,
+                "username": "xinhe2007"
+              },
+              {
+                "end": 1022,
+                "id": "1904539885769457665",
+                "start": 1011,
+                "username": "yanmin1105"
+              },
+              {
+                "end": 1064,
+                "id": "1537858604724015104",
+                "start": 1053,
+                "username": "tonghua245"
+              },
+              {
+                "end": 1421,
+                "id": "1685784710285266944",
+                "start": 1414,
+                "username": "mhtqwq"
+              }
+            ]
+          },
+          "text": "转推抽5个¥10.88  20日开\n\n贵安 这里小铨 前世@ryq59 \n我不知道自己还能活几年\n在最后的这段日子里 我不想带着任何遗憾离去\n我欠自己的真相\n欠那些给她打过钱的人一个交代\n也在给大家一个背调的重要性\n@0xAzxs 是我今年遇到的最荒诞、最伤人、最让我心力交瘁的之一\n所以我把她放在最前面说\n至于其他人 不急\n\n卖惨、装可怜、“我不知道”\n她无数次在我面前哭穷、卖惨\n编织出一副“我好惨我好无助”的模样向所有人伸手乞讨\n每次我质问\n她永远只有一句：“我不知道。”  \n这三个字 像一把钝刀\n一下一下磨掉我所有的耐心和信任\n\n她还公开说要找人“包养”\n别人问她“你有手有脚，为什么不去工作？”  \n她永远那句：“我失去了工作的能力。”  \n我当时就想笑——你不是残疾 你只是懒 你只是不想负责\n来了天津四个多月 只上了5天班\n一分钱没拿到\n剩下的时间全靠乞讨和骗人过活\n可笑的是\n她真的把自己活成了一个彻头彻尾的废人\n至于懒呢 自己接了Kards的单子\n却转头让@Mikasuda765 当你的免费劳动力\n\n出轨 一次又一次 像刀子一样捅进来\n我忍了三次\n\n第一次：2025年10月15日 她生日那天\n她主动把@lianjiabaxi2333（廉价）带回家\n主动提出要做爱\n廉价给了她1000块 她当成“圆角”\n她甚至当着廉价的面说：“你给我买iPhone 17 我就把他甩了。”  \n那天之后某天\n廉价带人去她家OD 被她和她妈一起赶出去\n在长春街头冻了一夜\n我以为他们彻底完了\n结果呢？现在他们疑似又复合了\n甚至继续打那个之前没让他们打完的《双人成行》存档\n总说只是玩玩而已 都一个多月不理我了是吧\n\n第二次：她回天津 我带着她和某位推友面基 后来俩人单独去酒店\n69 口交 什么都做了\n瞒了我两三周\n像没事人一样继续跟我聊天 要饭\n甚至不敢让我看手机\n\n第三次：就是这个月初的星河（@xinhe2007）\n网上聊得火热\n说好同居 让人带东西来天津\n人一到 不到一小时就翻脸 想赶人走\n东西都搬来了 她却公开威胁要杀星河\n甚至一开始都得让我来调停矛盾\n用“我不知道”“我以为他就玩两天”来搪塞\n事后 她单独找我道歉\n在QQ空间、X上发对不起我\n可那句对不起 有什么用？  \n它治不好我被反复背叛的伤口\n也换不回我为她搭进去的时间、金钱和心血\n\n更可气的是腾房的时候：  \n那台用我押金抵扣的洗衣机 嫣敏（@yanmin1105）明确说是给我的 她却私自顺走\n我放在那儿的NAS电源线没了\n@tonghua245寄给我的东西 她也敢私自拆开\n这些小事 像最后一根根稻草\n彻底压垮了我对她的最后一丝幻想\n\n我为她付出了什么？\n从8月她来天津开始：  \n帮她租房\n陪她去做笔录（她自己承认贩卖曲马多盈利 却总说是李奇一和沈宇扬害的）\n一次次劝她戒OD 戒自残\n从天天割到一个月一两次\n再到最近半个月没有——我以为那是进步\n11月\n她拿着仅剩的700块（还欠着一屁股债）去欧易开百倍杠杆All in合约 爆仓了又爆\n我夺走她手机 删掉所有交易所App\n想帮她戒赌\n结果呢？她嘴上说改 背地里照旧\n\n四个多月 我搭进去无数时间、精力\n我得到了什么？  \n\n我大抵是不行了\n所以我要把这些写出来 不是为了报复\n如果我还有时间 去年以及今年上半年那些更荒唐的事 也会一一补上\n我欠自己的 不止这些\n\n但这个时候 喵苑是对的 @mhtqwq 也是对的\n\n以上字字属实 希望大家来把那些可能看过了的图片补在评论区\n我醒了也会整理发出来的\n好疼 晚安"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1898,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "转推抽5个¥10.88  20日开\n\n贵安 这里小铨 前世@ryq59 \n我不知道自己还能活几年\n在最后的这段日子里 我不想带着任何遗憾离去\n我欠自己的真相\n欠那些给她打过钱的人一个交代\n也在给大家一个背调的重要性\n@0xAzxs 是我今年遇到的最荒诞、最伤人、最让我心力交瘁的之一\n所以我把她放在最前面说\n至于其他人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 115,
+          "like_count": 12609,
+          "listed_count": 0,
+          "media_count": 379,
+          "tweet_count": 2976
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "AI/ML在读｜实习律师｜前世 @ryq59｜性别是🏳️‍⚧️Enby.（MtX）🏳️‍🌈｜里垢@TabeWang｜好姐姐 @tonghua245 @mimilinkeyi ｜管理员 @mhtqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 16,
+                "username": "ryq59"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "TabeWang"
+              },
+              {
+                "end": 73,
+                "start": 62,
+                "username": "tonghua245"
+              },
+              {
+                "end": 86,
+                "start": 74,
+                "username": "mimilinkeyi"
+              },
+              {
+                "end": 99,
+                "start": 92,
+                "username": "mhtqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津市第300号邮政信箱",
+        "name": "铨🍥（互fo寻回中）",
+        "pinned_tweet_id": "1928106968264110539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4165,
+          "following_count": 2906,
+          "like_count": 27721,
+          "listed_count": 13,
+          "media_count": 852,
+          "tweet_count": 4650
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-02T13:55:36.000Z",
+        "description": "",
+        "id": "1973748660975587328",
+        "location": "Tianjin China",
+        "name": "艾之希伤",
+        "pinned_tweet_id": "1998734199587582375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997960194295492608/siYZBz0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 687,
+          "like_count": 4822,
+          "listed_count": 0,
+          "media_count": 329,
+          "tweet_count": 912
+        },
+        "username": "0xAzxs",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2025408822198542764",
+    "created_at": "2026-02-22T03:14:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T04:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025408822198542764"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jakevin7/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/jakevin7/status/2025178836145455406",
+          "start": 11,
+          "url": "https://t.co/jKSbwdQBfO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025408822198542764",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025178836145455406",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "久坐…降低睾酮…✍️ https://t.co/jKSbwdQBfO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 526,
+        "media_key": "3_2025177724525182978",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrgaR1bgAI3QaS.jpg",
+        "width": 1164
+      },
+      {
+        "height": 890,
+        "media_key": "3_2025177743479169024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrgbYcaYAAm34S.jpg",
+        "width": 1190
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2025408822198542764",
+        "created_at": "2026-02-22T03:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T04:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025408822198542764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jakevin7/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/jakevin7/status/2025178836145455406",
+              "start": 11,
+              "url": "https://t.co/jKSbwdQBfO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025408822198542764",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025178836145455406",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "久坐…降低睾酮…✍️ https://t.co/jKSbwdQBfO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025177724525182978",
+            "3_2025177743479169024"
+          ]
+        },
+        "author_id": "1068172934630395904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2025178836145455406",
+        "created_at": "2026-02-21T12:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T12:56:19.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025177764207399007",
+          "2025178836145455406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hbyCxlCdoM",
+              "end": 125,
+              "expanded_url": "https://x.com/jakevin7/status/2025178836145455406/photo/1",
+              "media_key": "3_2025177724525182978",
+              "start": 102,
+              "url": "https://t.co/hbyCxlCdoM"
+            },
+            {
+              "display_url": "pic.x.com/hbyCxlCdoM",
+              "end": 125,
+              "expanded_url": "https://x.com/jakevin7/status/2025178836145455406/photo/1",
+              "media_key": "3_2025177743479169024",
+              "start": 102,
+              "url": "https://t.co/hbyCxlCdoM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025178836145455406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "github.com/zijie0/HumanSy…",
+                "end": 412,
+                "expanded_url": "https://github.com/zijie0/HumanSystemOptimization",
+                "start": 389,
+                "url": "https://t.co/5E6o0pD5hb"
+              }
+            ]
+          },
+          "text": "程序员就没几个是健康的，所以我最近做了一些点。\n1. 升降桌自动化，买了可以接入米家的升降桌，坐了45分钟之后，自动站立15分钟。（千万不能久坐，很容易降低睾酮和得前列腺炎。）\n2. 买了分体式键盘 + 键盘托！现在写代码胸腔可以完美展开，配合人体工学椅，完全放松颈椎和胸腔。但是目前这个还没有解决缺少抬头的这个点。暂时先多打羽毛球抬头。\n2. 补充复合维生素\n3. 额外隔一天单独，补充维D，K2, Zn, Se ,甘氨酸镁(比氧化镁或柠檬酸镁更容易被身体吸收和利用，不易导致腹泻) 补充叶黄素，护眼\n4. 抗阻运动(健身)，尤其注意练背，程序员全都前束紧张\n5. 买了小米洗牙器2，这个太重要了！用了之后牙齿好了很多，避免牙周炎。\n6. 设置了每天定时喝水的提醒\n7. 定期洗鼻，帮我减弱鼻炎。\n8. 每天注意补充足量的蛋白质。\n9. 每天踩缝纫机（椭圆仪\n\n这也是好东西\nhttps://t.co/5E6o0pD5hb"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 922,
+          "impression_count": 123491,
+          "like_count": 816,
+          "quote_count": 6,
+          "reply_count": 40,
+          "retweet_count": 121
+        },
+        "reply_settings": "everyone",
+        "text": "程序员就没几个是健康的，所以我最近做了一些点。\n1. 升降桌自动化，买了可以接入米家的升降桌，坐了45分钟之后，自动站立15分钟。（千万不能久坐，很容易降低睾酮和得前列腺炎。）\n2. 买了分体式键盘 + https://t.co/hbyCxlCdoM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 135,
+          "like_count": 21278,
+          "listed_count": 0,
+          "media_count": 602,
+          "tweet_count": 5219
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2018-11-29T16:00:48.000Z",
+        "description": "AI enthusiast ! Love open source! \nBlockChain Worker?ExDatabaseer.\nGithub: https://t.co/fB3t3tUqIV \nApache Arrow/Datafusion/Doris PMC member",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/jackwener",
+                "end": 98,
+                "expanded_url": "http://github.com/jackwener",
+                "start": 75,
+                "url": "https://t.co/fB3t3tUqIV"
+              }
+            ]
+          }
+        },
+        "id": "1068172934630395904",
+        "name": "卡比卡比",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1420768031827841031/36-lz-Jz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3408,
+          "following_count": 614,
+          "like_count": 2511,
+          "listed_count": 27,
+          "media_count": 59,
+          "tweet_count": 790
+        },
+        "username": "jakevin7",
+        "verified": true
+      }
+    ]
+  }
+}

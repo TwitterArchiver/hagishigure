@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007835599454310401"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2007723365071790227",
+    "created_at": "2026-01-04T15:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T16:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007835608555926002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "906829343480938496",
+          "start": 0,
+          "username": "Nevernessian"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QozqmiP339",
+          "end": 127,
+          "expanded_url": "https://x.com/hagishigure/status/2007835608555926002/photo/1",
+          "media_key": "3_2007835599454310401",
+          "start": 104,
+          "url": "https://t.co/QozqmiP339"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007835608555926002",
+    "in_reply_to_user_id": "906829343480938496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007815604804489442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nevernessian 我倒是认为盗摄他人医疗隐私或健康个人资料或医疗行为并发布社交平台属于对公民隐私权及其肖像权的侵犯。毕竟其作为具有完全民事行为能力的民事主体故意发布了这个视频并传播达2.9w余次： https://t.co/QozqmiP339"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1043,
+        "media_key": "3_2007835599454310401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G91D1vjbkAEd3Kd.jpg",
+        "width": 1033
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007835599454310401"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2007723365071790227",
+        "created_at": "2026-01-04T15:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T16:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007835608555926002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "906829343480938496",
+              "start": 0,
+              "username": "Nevernessian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QozqmiP339",
+              "end": 127,
+              "expanded_url": "https://x.com/hagishigure/status/2007835608555926002/photo/1",
+              "media_key": "3_2007835599454310401",
+              "start": 104,
+              "url": "https://t.co/QozqmiP339"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007835608555926002",
+        "in_reply_to_user_id": "906829343480938496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007815604804489442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nevernessian 我倒是认为盗摄他人医疗隐私或健康个人资料或医疗行为并发布社交平台属于对公民隐私权及其肖像权的侵犯。毕竟其作为具有完全民事行为能力的民事主体故意发布了这个视频并传播达2.9w余次： https://t.co/QozqmiP339"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "906829343480938496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Caricature & Portrait",
+              "id": "1037077233070821376",
+              "name": "Caricature and portrait"
+            }
+          }
+        ],
+        "conversation_id": "2007723365071790227",
+        "created_at": "2026-01-04T14:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T15:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007815604804489442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007815604804489442",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007801960930693136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure 个人资料/隐私权是一种救济进路，但其实严格来说“有人在公共场合打针”这件事本来也未必应该具有私密性（比如轻易地诉诸私密性其实反而是在承认“打针理当私下进行”），尚未和某个特定肖像或其他可识别的个人信息关联时尤甚。更适当的救济进路也许是关注信息发布和传播中的仇恨目的/行为。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 119,
+          "like_count": 14408,
+          "listed_count": 0,
+          "media_count": 401,
+          "tweet_count": 3335
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-10T10:38:58.000Z",
+        "description": "穷打工的👩‍💼不善良😈所以也不怎么焦虑🤷‍♀️没有社群联系🙅‍♀️性冷淡😐相关专业出身但不会coding⌨️掌勺但不懂美食🍚前电务但不懂铁路🚆更不懂民航✈️不懂数学🔢不懂语言学🔡不懂军武🔫也不会拍照📷不懂穿搭👗裤子比裙子多👖但是mtf🤔\n@nevernessian@m.cmx.im",
+        "id": "906829343480938496",
+        "name": "魏淑淑淑芬芬芬",
+        "pinned_tweet_id": "1892401849107415113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486710720834117636/8z2GHsnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2487,
+          "following_count": 94,
+          "like_count": 5474,
+          "listed_count": 6,
+          "media_count": 808,
+          "tweet_count": 6191
+        },
+        "username": "Nevernessian",
+        "verified": false
+      }
+    ]
+  }
+}

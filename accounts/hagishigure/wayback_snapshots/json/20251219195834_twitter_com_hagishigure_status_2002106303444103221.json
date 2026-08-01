@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2001860568463085658",
+    "created_at": "2025-12-19T19:58:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T20:58:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002106303444103221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1499442786453663745",
+          "start": 0,
+          "username": "Ted_yeet"
+        },
+        {
+          "end": 19,
+          "id": "1765253604229910528",
+          "start": 10,
+          "username": "1leassis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002106303444103221",
+    "in_reply_to_user_id": "1499442786453663745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001861734295105714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ted_yeet @1leassis 怎麼跟我一樣會莫名其妙就發現自己已經緊咬牙關幾小時了（\n這種情況推薦一直嚼東西，大概其實是一種恐懼和空乏的感覺導致的（"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2001861734295105714].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2001861734295105714",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2001861734295105714"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2001860568463085658",
+        "created_at": "2025-12-19T19:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T20:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002106303444103221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1499442786453663745",
+              "start": 0,
+              "username": "Ted_yeet"
+            },
+            {
+              "end": 19,
+              "id": "1765253604229910528",
+              "start": 10,
+              "username": "1leassis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002106303444103221",
+        "in_reply_to_user_id": "1499442786453663745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001861734295105714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ted_yeet @1leassis 怎麼跟我一樣會莫名其妙就發現自己已經緊咬牙關幾小時了（\n這種情況推薦一直嚼東西，大概其實是一種恐懼和空乏的感覺導致的（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 116,
+          "like_count": 13269,
+          "listed_count": 0,
+          "media_count": 388,
+          "tweet_count": 3140
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "还活着",
+        "id": "1499442786453663745",
+        "name": "Ted",
+        "pinned_tweet_id": "2001298485099041202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998252928256331777/KzMIHBb8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3900,
+          "following_count": 1470,
+          "like_count": 36126,
+          "listed_count": 11,
+          "media_count": 361,
+          "tweet_count": 7419
+        },
+        "username": "Ted_yeet",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-06T05:50:55.000Z",
+        "description": "伊莉丝神仆                     @inasya_kram",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "inasya_kram"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "1leassis.com",
+                "end": 23,
+                "expanded_url": "http://www.1leassis.com",
+                "start": 0,
+                "url": "https://t.co/DcrJeWZ3DT"
+              }
+            ]
+          }
+        },
+        "id": "1765253604229910528",
+        "location": "通往神国的单程列车",
+        "name": "神仆依拉斯dayoo~~~ 白色圣诞特别版",
+        "pinned_tweet_id": "1765725858189488599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982936301143023616/_lKNNCeS_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 881,
+          "like_count": 24490,
+          "listed_count": 2,
+          "media_count": 284,
+          "tweet_count": 10023
+        },
+        "url": "https://t.co/DcrJeWZ3DT",
+        "username": "1leassis",
+        "verified": false
+      }
+    ]
+  }
+}

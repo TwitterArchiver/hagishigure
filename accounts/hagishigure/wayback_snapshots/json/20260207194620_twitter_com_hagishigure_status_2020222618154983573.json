@@ -1,0 +1,572 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364236",
+          "name": "Dell"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2020222618154983573",
+    "created_at": "2026-02-07T19:46:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T20:46:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020222618154983573"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "Ai",
+          "probability": 0.4767,
+          "start": 21,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/NextScience/st…",
+          "end": 288,
+          "expanded_url": "https://twitter.com/NextScience/status/2020022742956048435",
+          "start": 265,
+          "url": "https://t.co/QWu20d6Fsq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020222618154983573",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020022742956048435",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Okay, so tell me, is Ai translation artificial intelligence? Is there any difference between your belief in authority and Ai users' belief in Ai? Someone who believes in authority but can't verify the data himself, because you just have to -- quote them like this. https://t.co/QWu20d6Fsq"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "🧠 MIT recently completed the first brain-scan study on ChatGPT users—and the results are deeply revealing.\nRather than boosting brain function, prolonged AI use may be dulling it.\nOver four months of cognitive data suggest we might be measuring productivity all wrong ⤵️\n\nIn MIT’s study, participants had their brains scanned while using ChatGPT.\n→ 83.3% of users couldn’t recall a single sentence they’d written just minutes earlier.\n→ In contrast, those writing without AI had no trouble remembering.\n\nBrain connectivity dropped sharply—from 79 to 42 points.\n→ That’s a 47% drop in neural engagement.\n→ The lowest cognitive performance among all user groups.\n\nEven after stopping ChatGPT use in later sessions, these users showed continued under-engagement.\n→ Their performance remained lower than those who never used AI.\n→ This suggests more than dependency—it’s cognitive weakening.\n\nBeyond the scans, educators flagged the writing itself.",
+        "height": 2048,
+        "media_key": "3_2020022738111590400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAiP-k9acAAZHBV.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2020222618154983573",
+        "created_at": "2026-02-07T19:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T20:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020222618154983573"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "Ai",
+              "probability": 0.4767,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/NextScience/st…",
+              "end": 288,
+              "expanded_url": "https://twitter.com/NextScience/status/2020022742956048435",
+              "start": 265,
+              "url": "https://t.co/QWu20d6Fsq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020222618154983573",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020022742956048435",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Okay, so tell me, is Ai translation artificial intelligence? Is there any difference between your belief in authority and Ai users' belief in Ai? Someone who believes in authority but can't verify the data himself, because you just have to -- quote them like this. https://t.co/QWu20d6Fsq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020022738111590400"
+          ]
+        },
+        "author_id": "1444516072292593664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2020022742956048435",
+        "created_at": "2026-02-07T06:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T07:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020022742956048435"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "MIT",
+              "probability": 0.8157,
+              "start": 2,
+              "type": "Organization"
+            },
+            {
+              "end": 61,
+              "normalized_text": "ChatGPT",
+              "probability": 0.8969,
+              "start": 55,
+              "type": "Other"
+            },
+            {
+              "end": 156,
+              "normalized_text": "AI",
+              "probability": 0.5843,
+              "start": 155,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q9xmLaAauL",
+              "end": 299,
+              "expanded_url": "https://x.com/NextScience/status/2020022742956048435/photo/1",
+              "media_key": "3_2020022738111590400",
+              "start": 276,
+              "url": "https://t.co/q9xmLaAauL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020022742956048435",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "🧠 MIT recently completed the first brain-scan study on ChatGPT users—and the results are deeply revealing.\n\nRather than boosting brain function, prolonged AI use may be dulling it.\nOver four months of cognitive data suggest we might be measuring productivity all wrong ⤵️\n\nIn MIT’s study, participants had their brains scanned while using ChatGPT.\n→ 83.3% of users couldn’t recall a single sentence they’d written just minutes earlier.\n→ In contrast, those writing without AI had no trouble remembering.\n\nBrain connectivity dropped sharply—from 79 to 42 points.\n→ That’s a 47% drop in neural engagement.\n→ The lowest cognitive performance among all user groups.\n\nEven after stopping ChatGPT use in later sessions, these users showed continued under-engagement.\n→ Their performance remained lower than those who never used AI.\n→ This suggests more than dependency—it’s cognitive weakening.\n\nBeyond the scans, educators flagged the writing itself.\n→ Essays were technically solid, but often called “robotic,” “soulless,” and “lacking depth.”\n\nHere’s the paradox:\n→ ChatGPT makes you 60% faster at completing tasks…\n→ But it reduces the mental effort required for learning by 32%.\n\nThe top-performing group?\n→ Those who began without AI and added it later.\n→ They retained the best memory, brain activity, and overall scores.\n\nUsing ChatGPT can feel empowering—but it may quietly offload your thinking.\n→ You gain speed, but lose engagement.\n→ You get answers, but stop learning how to think.\n\nThe takeaway isn’t to avoid AI—but to use it intentionally.\n→ Use it to assist, not replace your mind.\n→ Build cognitive strength—not dependency.\n\nMIT’s early study on AI and the brain lays out the stakes. The way we use these tools matters more than ever."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3546,
+          "impression_count": 725841,
+          "like_count": 6305,
+          "quote_count": 414,
+          "reply_count": 554,
+          "retweet_count": 1719
+        },
+        "reply_settings": "everyone",
+        "text": "🧠 MIT recently completed the first brain-scan study on ChatGPT users—and the results are deeply revealing.\n\nRather than boosting brain function, prolonged AI use may be dulling it.\nOver four months of cognitive data suggest we might be measuring productivity all wrong ⤵️\n\nIn https://t.co/q9xmLaAauL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 128,
+          "like_count": 18664,
+          "listed_count": 0,
+          "media_count": 535,
+          "tweet_count": 4399
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T04:14:16.000Z",
+        "description": "Science • Space • Cosmic Mysteries\nExplained simply. Follow for what comes next.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/NextScience",
+                "end": 23,
+                "expanded_url": "http://x.com/NextScience",
+                "start": 0,
+                "url": "https://t.co/9PcUDEh3jV"
+              }
+            ]
+          }
+        },
+        "id": "1444516072292593664",
+        "location": "Beyond the Observable",
+        "name": "Next Science",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010262866281279496/DxbXKqpJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8849,
+          "following_count": 4240,
+          "like_count": 346,
+          "listed_count": 49,
+          "media_count": 133,
+          "tweet_count": 250
+        },
+        "url": "https://t.co/9PcUDEh3jV",
+        "username": "NextScience",
+        "verified": true
+      }
+    ]
+  }
+}

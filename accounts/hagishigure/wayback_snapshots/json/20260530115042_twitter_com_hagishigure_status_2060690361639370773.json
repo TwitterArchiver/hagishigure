@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2060690361639370773",
+    "created_at": "2026-05-30T11:50:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T12:50:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060690361639370773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2060587975982141440",
+          "start": 3,
+          "username": "Rinyuyuyuyuyu"
+        },
+        {
+          "end": 30,
+          "id": "2384854741",
+          "start": 21,
+          "username": "Rinyu001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060690361639370773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060589508937298223",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rinyuyuyuyuyu: 大号@Rinyu001被封了呜呜\n熟悉的推油关注一下这个号\n可互关"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Rinyu001].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Rinyu001",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Rinyu001"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2060690361639370773",
+        "created_at": "2026-05-30T11:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060690361639370773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2060587975982141440",
+              "start": 3,
+              "username": "Rinyuyuyuyuyu"
+            },
+            {
+              "end": 30,
+              "id": "2384854741",
+              "start": 21,
+              "username": "Rinyu001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060690361639370773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060589508937298223",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rinyuyuyuyuyu: 大号@Rinyu001被封了呜呜\n熟悉的推油关注一下这个号\n可互关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060587975982141440",
+        "conversation_id": "2060589508937298223",
+        "created_at": "2026-05-30T05:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060589508937298223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2384854741",
+              "start": 2,
+              "username": "Rinyu001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060589508937298223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 548,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "大号@Rinyu001被封了呜呜\n熟悉的推油关注一下这个号\n可互关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 154,
+          "like_count": 30037,
+          "listed_count": 3,
+          "media_count": 783,
+          "tweet_count": 7204
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-30T05:04:36.000Z",
+        "description": "🏳️‍⚧️🍥MtF/HRT：2025.1.28/无证含糖中/❤️@shuangxing0325/里推@Rinyu002 熟悉的会过",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 32,
+                "username": "shuangxing0325"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Rinyu002"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinyu003",
+                "end": 23,
+                "expanded_url": "https://t.me/Rinyu003",
+                "start": 0,
+                "url": "https://t.co/OnkEmm6EuT"
+              }
+            ]
+          }
+        },
+        "id": "2060587975982141440",
+        "name": "綾羽Rinyu",
+        "pinned_tweet_id": "2060610237128999129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060588589285847041/Dydhkr5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 62,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "url": "https://t.co/OnkEmm6EuT",
+        "username": "Rinyuyuyuyuyu",
+        "verified": false
+      }
+    ]
+  }
+}

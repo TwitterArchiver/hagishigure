@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1978529298865594413",
+    "created_at": "2025-10-16T10:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T11:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978769732569313727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1361856317703393282",
+          "start": 0,
+          "username": "ThrumboABBBAA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978769732569313727",
+    "in_reply_to_user_id": "1361856317703393282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978529298865594413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ThrumboABBBAA 。我想請問ftm又被mtf美美的扔出trans了是嗎。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1978529298865594413",
+        "created_at": "2025-10-16T10:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T11:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978769732569313727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1361856317703393282",
+              "start": 0,
+              "username": "ThrumboABBBAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978769732569313727",
+        "in_reply_to_user_id": "1361856317703393282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978529298865594413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThrumboABBBAA 。我想請問ftm又被mtf美美的扔出trans了是嗎。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1361856317703393282",
+        "conversation_id": "1978529298865594413",
+        "created_at": "2025-10-15T18:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T19:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978529298865594413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GuiMengNya/sta…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/GuiMengNya/status/1978445595082641784",
+              "start": 38,
+              "url": "https://t.co/8UzkQHCSAn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978529298865594413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 551,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978445595082641784",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真正的女孩子之类的说法依然有争议；但这玩意儿是真正的月经，应该没什么争议。 https://t.co/8UzkQHCSAn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 91,
+          "like_count": 3685,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 589
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-17T01:54:59.000Z",
+        "description": "使用暗属性魔法和破墙斧的萝莉控大叔 | 渥金和安博里的信徒 | 地摊经济学 | @Sana_Volfield@alive.bar",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tempes…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tempestmaiden.bsky.social",
+                "start": 0,
+                "url": "https://t.co/EmVVDpiohE"
+              }
+            ]
+          }
+        },
+        "id": "1361856317703393282",
+        "location": "Cepheus",
+        "name": "猫目敲子🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932677285402058752/8Q0iwHKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3025,
+          "following_count": 2059,
+          "like_count": 42520,
+          "listed_count": 10,
+          "media_count": 259,
+          "tweet_count": 10036
+        },
+        "url": "https://t.co/EmVVDpiohE",
+        "username": "ThrumboABBBAA",
+        "verified": false
+      }
+    ]
+  }
+}

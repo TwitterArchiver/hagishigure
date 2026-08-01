@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2017107615348891810",
+    "created_at": "2026-01-30T05:28:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T06:28:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017107615348891810"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kagurazakayash…",
+          "end": 231,
+          "expanded_url": "https://twitter.com/kagurazakayashi/status/2017105545342435644",
+          "start": 208,
+          "url": "https://t.co/Ov7Nrk61g5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017107615348891810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017105545342435644",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我无数次跟中國人讲：\n禁用dnsmasq的DNS-over-HTTP/HTTPS，UPnP、IGMP代理这些自动化协议，dropbear的root登录，启用OpenWRT的opkg哈希验证和netfilter的connlimit、recent，将dnsmasq配置为DNSSEC验证解析器转发上游DoT/DoH服务器，配置snort或suricata，https-dns-proxy强制本地DNS查询加密。\n没人信 https://t.co/Ov7Nrk61g5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2017107615348891810",
+        "created_at": "2026-01-30T05:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T06:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017107615348891810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kagurazakayash…",
+              "end": 231,
+              "expanded_url": "https://twitter.com/kagurazakayashi/status/2017105545342435644",
+              "start": 208,
+              "url": "https://t.co/Ov7Nrk61g5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017107615348891810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017105545342435644",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我无数次跟中國人讲：\n禁用dnsmasq的DNS-over-HTTP/HTTPS，UPnP、IGMP代理这些自动化协议，dropbear的root登录，启用OpenWRT的opkg哈希验证和netfilter的connlimit、recent，将dnsmasq配置为DNSSEC验证解析器转发上游DoT/DoH服务器，配置snort或suricata，https-dns-proxy强制本地DNS查询加密。\n没人信 https://t.co/Ov7Nrk61g5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356583549",
+        "conversation_id": "2017105545342435644",
+        "created_at": "2026-01-30T05:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T06:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017105545342435644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/realNyarime/status/2016874760358285522",
+              "start": 137,
+              "url": "https://t.co/zF0IFnKtpT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017105545342435644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我来说一下我朋友最近遇到的情况，就这个月。\n\n他手机是已经刷过系统的，运行的 LineageOS ，操作时使用蜂窝数据网络。\n上午安装运行了 RustDesk （一个开源的远程桌面软件），下午接到 96110 电话问候。\n然后晶哥就上门了，确切说来的是辅警，说是反诈宣传。\n他主动报警要求验证身份，又来了两位辅警。\n然后就被带去了橘子，一位晶哥要求停止录音。\n\n在接待室，晶哥表示，他可能是诈骗分子的受害者，他们要做的是反诈宣讲。\n根据反诈系统的监测，怀疑他安装了一个叫“智汇通”的软件（他都没听说过），并且完全不信是他们自己检测错误。当然现在看来就是奔着 RustDesk 去的。\n他在橘子里有两个选择，承认安装了“智汇通”软件，或者交出手机并解锁，给他们进一步检查。\n\n他选择了前者，于是晶哥没有索取他的手机，直接视为被诈骗分子忽悠和远程操作安装了“智汇通”软件，现在需要对他进行“反诈宣讲”。\n然后，扣押了身份证，冻结支付宝/微信支付和所有银行卡，15个工作日后去派出所领取。他现在甚至买个外卖吃饭都要选他人支付由我来付款。\n\n推测1：晶哥那边是认为下载这个境外远程控制软件，就是被诈骗分子蛊惑了，让诈骗分子直接操作手机并安装一些诈骗或者常规金融软件并实施操作，而本人则被诈骗分子忽悠，所以本人基本说什么他们都不信，认为是在替诈骗分子说话，所以他们只信他们检测到的东西，即使是错误的，也要真的扫了手机再说，除非你直接承认了这事就好办了。但造成的结果是他认了一件自己从来没有干过的事情（安装“智汇通”，而他本人都不认识这个软件）。同时为了“保护不信任晶哥的他的资产，不会在诈骗分子进一步指导或控制下被操作”，直接一键让他进入了吃饭都需要找我要钱的斩杀线模式。\n\n推测2：应该和手机无关，事发时是 LineageOS 官网 ROM 。检测方式更可能是运营商对数据流量监控了，也可能是 DNS 被监听泄露，虽然当时用的不是默认 DNS，但是当时并未在手机上配置 AdGuard 或其他加密 DNS 工具。而且此事似乎也出现在国内使用的海外版 iPhone 用户上。\n\n注意1：该推文只是描述一个事情，不代表我发表或表述任何立场。只是提醒大家，使用 RustDesk 远程控制手机时需要注意可能会有这么个事。\n\n注意2：根据时间和地区不同可能有不同的状况，但我不能透露朋友所属辖区。并且我拒绝提供更细节的内容和录音以保护朋友隐私，不要过来问细节。\n\n注意3：如果想转发、转载该推文，请局部截图或复制文本，请勿包含或者标注我名字和头像。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016874760358285522",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我来说一下我朋友最近遇到的情况，就这个月。\n\n他手机是已经刷过系统的，运行的 LineageOS ，操作时使用蜂窝数据网络。\n上午安装运行了 RustDesk （一个开源的远程桌面软件），下午接到 96110 电话问候。\n然后晶哥就上门了，确切说来的是辅警，说是反诈宣传。 https://t.co/zF0IFnKtpT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 127,
+          "like_count": 17100,
+          "listed_count": 0,
+          "media_count": 459,
+          "tweet_count": 4014
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-16T10:37:57.000Z",
+        "description": "这里是3周目账号(2023.7-)，希望认识更多同好。没头像/没推/发广告/抽象会拉黑。女装不发R18(但有擦边的)，不讨论政治。喜欢女装、COS、KIG，无性SM(Switch)。友跨顺男偶尔发跨权。G+难民。女装和kig照看账号tag #雅诗自曝 。二次元纯净版+备号 @KagurazakaMasae 。更多见置顶",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 120,
+                "tag": "雅诗自曝"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 153,
+                "start": 137,
+                "username": "KagurazakaMasae"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KagurazakaYashi",
+                "end": 23,
+                "expanded_url": "https://t.me/KagurazakaYashi",
+                "start": 0,
+                "url": "https://t.co/s9yovgqV77"
+              }
+            ]
+          }
+        },
+        "id": "1356583549",
+        "location": "東京都新宿区神楽坂５丁目７",
+        "name": "神楽坂雅詩",
+        "pinned_tweet_id": "2015424289886134737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974773629704708096/lVYzrnzS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15373,
+          "following_count": 5978,
+          "like_count": 21225,
+          "listed_count": 66,
+          "media_count": 532,
+          "tweet_count": 4166
+        },
+        "url": "https://t.co/s9yovgqV77",
+        "username": "kagurazakayashi",
+        "verified": true
+      }
+    ]
+  }
+}

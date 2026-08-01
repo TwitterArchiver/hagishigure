@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2018293163455304056",
+    "created_at": "2026-02-03T03:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T04:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018523174170767795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1323990790729707520",
+          "start": 0,
+          "username": "DawnSayu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018523174170767795",
+    "in_reply_to_user_id": "1323990790729707520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018293163455304056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DawnSayu 所以我学了rust，zig，c，ats四个语言。🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2018293163455304056",
+        "created_at": "2026-02-03T03:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T04:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018523174170767795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1323990790729707520",
+              "start": 0,
+              "username": "DawnSayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018523174170767795",
+        "in_reply_to_user_id": "1323990790729707520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018293163455304056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DawnSayu 所以我学了rust，zig，c，ats四个语言。🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1323990790729707520",
+        "conversation_id": "2018293163455304056",
+        "created_at": "2026-02-02T11:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T12:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018293163455304056"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018293163455304056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "当我接触到架构师级别的业务时，我发现知识量还是越多越好。\n光会写代码到这时候就不够用了。\n我看不懂精算师设计出来的公式…\n虽然不影响我开发，不过这种感觉很难受…\n虽然现代工业的基本特征就是分工（解耦）吧，流水线式的工作。\n天天当“调包侠”这个是没什么意思的…还是需要更高一级的抽象，设计整个系统这种。\n大学时听过一场讲座，讲过这个问题来着。（不过对方是法律顾问，主要是知识产权方面的问题，不过理论是一样的。）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当我接触到架构师级别的业务时，我发现知识量还是越多越好。\n光会写代码到这时候就不够用了。\n我看不懂精算师设计出来的公式…\n虽然不影响我开发，不过这种感觉很难受…\n虽然现代工业的基本特征就是分工（解耦）吧，流水线式的工作。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 128,
+          "like_count": 17674,
+          "listed_count": 0,
+          "media_count": 480,
+          "tweet_count": 4142
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-04T14:09:52.000Z",
+        "description": "ASD/ADHD｜混乱中立｜ゴッドファイター｜LGBTQ+｜润学成功｜理想主義者INTP｜女｜たまに不適切な発言を｜反アパルトヘイト｜ソフトウェアエンジニア｜アニメが好き｜東京都在住｜肉が嫌い｜进步派｜6b4t｜男が嫌い｜恋人募集中",
+        "id": "1323990790729707520",
+        "location": "パラディ島",
+        "name": "雪桜さゆ",
+        "pinned_tweet_id": "1516680912351920133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851934230361862144/KUQ4nqmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1269,
+          "following_count": 1059,
+          "like_count": 2696,
+          "listed_count": 6,
+          "media_count": 242,
+          "tweet_count": 14033
+        },
+        "username": "DawnSayu",
+        "verified": true
+      }
+    ]
+  }
+}

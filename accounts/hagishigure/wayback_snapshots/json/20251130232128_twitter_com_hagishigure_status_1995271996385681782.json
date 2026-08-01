@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1995091384639078435",
+    "created_at": "2025-11-30T23:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T00:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995271996385681782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1608781688775245825",
+          "start": 0,
+          "username": "YekaseSuiso2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995271996385681782",
+    "in_reply_to_user_id": "1608781688775245825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995091384639078435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YekaseSuiso2022 實際上你的研究只會因為數據耦合性低而被視為失敗的。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2480,
+        "media_key": "3_1995091375659053057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6_9CSSacAEOem5.jpg",
+        "width": 3508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1995091384639078435",
+        "created_at": "2025-11-30T23:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T00:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995271996385681782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1608781688775245825",
+              "start": 0,
+              "username": "YekaseSuiso2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995271996385681782",
+        "in_reply_to_user_id": "1608781688775245825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995091384639078435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YekaseSuiso2022 實際上你的研究只會因為數據耦合性低而被視為失敗的。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995091375659053057"
+          ]
+        },
+        "author_id": "1608781688775245825",
+        "conversation_id": "1995091384639078435",
+        "created_at": "2025-11-30T11:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T12:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995091384639078435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aNzRIjxUHp",
+              "end": 59,
+              "expanded_url": "https://x.com/YekaseSuiso2022/status/1995091384639078435/photo/1",
+              "media_key": "3_1995091375659053057",
+              "start": 36,
+              "url": "https://t.co/aNzRIjxUHp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995091384639078435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 890,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这是我们的邀请函，若您是跨性别女孩并想为科学研究尽一份力，就来报名吧w https://t.co/aNzRIjxUHp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 112,
+          "like_count": 11294,
+          "listed_count": 0,
+          "media_count": 368,
+          "tweet_count": 2631
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T11:07:57.000Z",
+        "description": "是一個神奇的生物，也許是現實中的神奇鈡齊北，是來自星星的孩子呐，喜歡研究計算機和其他感興趣的東西，有的時候你可以在一些奇怪的條目看到我，但更多時候我在某站臺聯邦伺服器和X潛伏，希望你可以喜歡我，謝謝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nisebase.vercel.app",
+                "end": 23,
+                "expanded_url": "https://nisebase.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/haWfsDfcjv"
+              }
+            ]
+          }
+        },
+        "id": "1608781688775245825",
+        "location": "日常中的非日常",
+        "name": "Yekase Suiso🍥贴贴bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994884388375728134/mG5XNIdb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 368,
+          "like_count": 1060,
+          "listed_count": 5,
+          "media_count": 55,
+          "tweet_count": 176
+        },
+        "url": "https://t.co/haWfsDfcjv",
+        "username": "YekaseSuiso2022",
+        "verified": false
+      }
+    ]
+  }
+}

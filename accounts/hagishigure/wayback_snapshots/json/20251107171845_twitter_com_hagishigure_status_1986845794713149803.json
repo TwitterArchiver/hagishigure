@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1986845794713149803",
+    "created_at": "2025-11-07T17:18:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T18:18:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986845794713149803"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_toffee/s…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/amber_toffee/status/1986544747545055583",
+          "start": 59,
+          "url": "https://t.co/xwgkNmD0nH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986845794713149803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986544747545055583",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你贏了。你創造了一個悖論，在你這個觀點的基礎上，任何反駁你的都是你的論點的論據來源。\n而你自己也成了你論點的一部分。 https://t.co/xwgkNmD0nH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1986845794713149803",
+        "created_at": "2025-11-07T17:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T18:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986845794713149803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/amber_toffee/status/1986544747545055583",
+              "start": 59,
+              "url": "https://t.co/xwgkNmD0nH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986845794713149803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986544747545055583",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你贏了。你創造了一個悖論，在你這個觀點的基礎上，任何反駁你的都是你的論點的論據來源。\n而你自己也成了你論點的一部分。 https://t.co/xwgkNmD0nH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "1986544747545055583",
+        "created_at": "2025-11-06T21:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T22:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986544747545055583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/amber_toffee/status/1986176568079556977",
+              "start": 145,
+              "url": "https://t.co/M4SrheR0SL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986544747545055583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Ragebait的重点不在于写某些文本的人相不相信自己写的东西，而是在于这个人把它们发出来的时候其实知道这些文本会引发什么反应。你当然可以义愤填膺地骂它，但这就是对方期望达成的效果的一部分，因此这个对于对方而言很可能是正反馈（我怀疑各位也清楚这点）。你如果自诩希望「改变对方的观点」或「让对方不要发表这种言论」，那其实都有远比开骂更有效的方式。当然如果你其实只是想让自己看起来很进步很聪明那当我没说哈。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4600,
+          "like_count": 7,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986176568079556977",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Ragebait的重点不在于写某些文本的人相不相信自己写的东西，而是在于这个人把它们发出来的时候其实知道这些文本会引发什么反应。你当然可以义愤填膺地骂它，但这就是对方期望达成的效果的一部分，因此这个对于对方而言很可能是正反馈（我怀疑各位也清楚这点）。你如果自诩希望「改变对方的观点」或「让 https://t.co/M4SrheR0SL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 101,
+          "like_count": 7513,
+          "listed_count": 0,
+          "media_count": 262,
+          "tweet_count": 1697
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "❤︎ @noaayoyaoaya / ☭ / ᴍᴛꜰ / ɪɴᴛᴘ / ᴘʜᴅ​ @uoft",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 46,
+                "start": 41,
+                "username": "uoft"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "ʜɪᴄ ʀʜᴏᴅᴜꜱ, ʜɪᴄ ꜱᴀʟᴛᴀ",
+        "name": "amber🪼",
+        "pinned_tweet_id": "1956439384674418778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18754,
+          "following_count": 2386,
+          "like_count": 34274,
+          "listed_count": 58,
+          "media_count": 751,
+          "tweet_count": 17350
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

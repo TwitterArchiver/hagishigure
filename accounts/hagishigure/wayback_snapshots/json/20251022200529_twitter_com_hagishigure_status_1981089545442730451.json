@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1981089545442730451",
+    "created_at": "2025-10-22T20:05:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T21:05:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981089545442730451"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Lfromthenorth/…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/Lfromthenorth/status/1980201842618536267",
+          "start": 40,
+          "url": "https://t.co/rwYy8rTW6U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981089545442730451",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980201842618536267",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "您完全的辱女！\n您精確的指出了：女性在智力中的一個指標，反應速度，不如男性。🥳 https://t.co/rwYy8rTW6U"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1981089545442730451",
+        "created_at": "2025-10-22T20:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T21:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981089545442730451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lfromthenorth/…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/Lfromthenorth/status/1980201842618536267",
+              "start": 40,
+              "url": "https://t.co/rwYy8rTW6U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981089545442730451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980201842618536267",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "您完全的辱女！\n您精確的指出了：女性在智力中的一個指標，反應速度，不如男性。🥳 https://t.co/rwYy8rTW6U"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1103341266",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1980181687821619495",
+        "created_at": "2025-10-20T09:18:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T10:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980201842618536267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1445729339438505984",
+              "start": 0,
+              "username": "WomensRightsNet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980201842618536267",
+        "in_reply_to_user_id": "1445729339438505984",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3896,
+          "like_count": 307,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980181687821619495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WomensRightsNet Thank you for highlighting this!\n\nE-sports often get overlooked bc it's not a \"physical\" sport.But knowing that men on average have higher reaction speeds, than women, and the social climate for women in gaming, this pisses me off just as much as men in women's traditional sport."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 98,
+          "like_count": 4981,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 945
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2013-01-19T10:22:14.000Z",
+        "description": "lesbian and tired. big fan of common sense.",
+        "id": "1103341266",
+        "name": "Lin 🇫🇮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840402543626665984/S4zJxThW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12558,
+          "following_count": 7207,
+          "like_count": 57193,
+          "listed_count": 52,
+          "media_count": 1288,
+          "tweet_count": 42030
+        },
+        "username": "Lfromthenorth",
+        "verified": false
+      }
+    ]
+  }
+}

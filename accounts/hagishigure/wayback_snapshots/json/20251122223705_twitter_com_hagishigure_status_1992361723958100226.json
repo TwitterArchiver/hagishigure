@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1992066978656494037",
+    "created_at": "2025-11-22T22:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T23:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992361723958100226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1222794842880626689",
+          "start": 0,
+          "username": "chenchen_suki"
+        },
+        {
+          "end": 29,
+          "id": "1679922174860345344",
+          "start": 15,
+          "username": "mingnai_akell"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992361723958100226",
+    "in_reply_to_user_id": "1222794842880626689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992170373497106582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenchen_suki @mingnai_akell 我的小眾愛好，雖然其實現在依然還有這個愛好🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1992066978656494037",
+        "created_at": "2025-11-22T22:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T23:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992361723958100226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1222794842880626689",
+              "start": 0,
+              "username": "chenchen_suki"
+            },
+            {
+              "end": 29,
+              "id": "1679922174860345344",
+              "start": 15,
+              "username": "mingnai_akell"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992361723958100226",
+        "in_reply_to_user_id": "1222794842880626689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992170373497106582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenchen_suki @mingnai_akell 我的小眾愛好，雖然其實現在依然還有這個愛好🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1222794842880626689",
+        "conversation_id": "1992066978656494037",
+        "created_at": "2025-11-22T09:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T10:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992170373497106582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1679922174860345344",
+              "start": 0,
+              "username": "mingnai_akell"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992170373497106582",
+        "in_reply_to_user_id": "1679922174860345344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 514,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992136564806389796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingnai_akell 啊啊啊啊啊这个更是童年回忆\n作业帮看到的其中一篇感觉彻底改变了我的人生（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 108,
+          "like_count": 10283,
+          "listed_count": 0,
+          "media_count": 350,
+          "tweet_count": 2453
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-30T08:13:14.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chenchensuki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chenchensuki",
+                "start": 0,
+                "url": "https://t.co/Y5HkebFrML"
+              }
+            ]
+          }
+        },
+        "id": "1222794842880626689",
+        "name": "琛琛琛琛琛",
+        "pinned_tweet_id": "1965286319015510144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872348017170567168/r0ISu-Yb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8487,
+          "following_count": 3500,
+          "like_count": 125201,
+          "listed_count": 14,
+          "media_count": 1606,
+          "tweet_count": 44179
+        },
+        "url": "https://t.co/Y5HkebFrML",
+        "username": "chenchen_suki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T18:34:00.000Z",
+        "description": "如果放弃了理想，那和死去没什么两样",
+        "id": "1679922174860345344",
+        "name": "佑子_official",
+        "pinned_tweet_id": "1701618519966945424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944961905170468864/fHAak1T5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1817,
+          "following_count": 1171,
+          "like_count": 29250,
+          "listed_count": 5,
+          "media_count": 1055,
+          "tweet_count": 10459
+        },
+        "username": "mingnai_akell",
+        "verified": false
+      }
+    ]
+  }
+}

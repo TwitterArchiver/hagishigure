@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1985200014508085493",
+    "created_at": "2025-11-03T04:19:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T05:19:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985200014508085493"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_toffee/s…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/amber_toffee/status/1985011430236856579",
+          "start": 33,
+          "url": "https://t.co/6M1iiBbyJa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985200014508085493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985011430236856579",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自然這個詞是中性詞。但正常這個詞是不存在的，存在的祇有「普通」。 https://t.co/6M1iiBbyJa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1985200014508085493",
+        "created_at": "2025-11-03T04:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T05:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985200014508085493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/amber_toffee/status/1985011430236856579",
+              "start": 33,
+              "url": "https://t.co/6M1iiBbyJa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985200014508085493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985011430236856579",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自然這個詞是中性詞。但正常這個詞是不存在的，存在的祇有「普通」。 https://t.co/6M1iiBbyJa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "1985004662257279073",
+        "created_at": "2025-11-02T15:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T16:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985011430236856579"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985011430236856579",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1151,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985005101128528169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自然和正常是世界上最为恶毒的咒骂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 104,
+          "like_count": 6993,
+          "listed_count": 0,
+          "media_count": 236,
+          "tweet_count": 1502
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "❤︎ @noaayoyaoaya / ☭ / mtf / intp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber🪼",
+        "pinned_tweet_id": "1956439384674418778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18586,
+          "following_count": 2377,
+          "like_count": 34220,
+          "listed_count": 55,
+          "media_count": 729,
+          "tweet_count": 17193
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

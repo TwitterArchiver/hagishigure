@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Piano",
+          "id": "898268092110852096",
+          "name": "Piano"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Piano",
+          "id": "898268092110852096",
+          "name": "Piano"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Piano",
+          "id": "898268092110852096",
+          "name": "Piano"
+        }
+      }
+    ],
+    "conversation_id": "1979211263688196198",
+    "created_at": "2025-10-17T16:01:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T17:01:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979216154938753235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1374034349700444161",
+          "start": 0,
+          "username": "pizyj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979216154938753235",
+    "in_reply_to_user_id": "1374034349700444161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979211263688196198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pizyj 可以的，現在網易可以註冊ai音樂人，但是我推薦你用ai露你聲音，下載一首冷門術力口曲，然後指令ai翻唱piano ver.什麼的，這樣萬一播放量起來了可以拿到激勵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Piano",
+              "id": "898268092110852096",
+              "name": "Piano"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Piano",
+              "id": "898268092110852096",
+              "name": "Piano"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Piano",
+              "id": "898268092110852096",
+              "name": "Piano"
+            }
+          }
+        ],
+        "conversation_id": "1979211263688196198",
+        "created_at": "2025-10-17T16:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T17:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979216154938753235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1374034349700444161",
+              "start": 0,
+              "username": "pizyj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979216154938753235",
+        "in_reply_to_user_id": "1374034349700444161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979211263688196198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pizyj 可以的，現在網易可以註冊ai音樂人，但是我推薦你用ai露你聲音，下載一首冷門術力口曲，然後指令ai翻唱piano ver.什麼的，這樣萬一播放量起來了可以拿到激勵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374034349700444161",
+        "conversation_id": "1979211263688196198",
+        "created_at": "2025-10-17T15:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T16:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979211263688196198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "网易云音乐是一款专注于发现与分享的音乐产品，依托专业音乐人、DJ、好友推荐及社交功能，为用户打造全新的音乐生活。",
+              "display_url": "163cn.tv/LQ1U4UR",
+              "end": 89,
+              "expanded_url": "https://163cn.tv/LQ1U4UR",
+              "start": 66,
+              "status": 200,
+              "title": "网易云音乐|惊喜送会员",
+              "unwound_url": "https://y.music.163.com/g/school-vip/radsjl201732345?userid=440812266&app_version=9.3.85&full_screen=true&encryptUid=e0d03d7001e8028f73f70158850346da7a1575e118fd7daa812364553ae1135e&market=daka&nickname=%25E5%2596%25B5%25E5%25B0%258F%25E7%2599%25BDpizyj&dlt=0846&nm_style=sbt",
+              "url": "https://t.co/YU9vgIKYqk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979211263688196198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个月的\n居然出活动了\n不过话说回来我似乎可以做点ai音乐试着弄弄网易音乐人vip？\n@喵小白pi...送你网易云音乐会员，直接领 https://t.co/YU9vgIKYqk (@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 92,
+          "like_count": 3960,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 685
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-22T16:24:59.000Z",
+        "description": "什么猫？什么猫？猞猁猫？灵白猫？猫小白？是switch/sub/m，厌蠢，最喜欢体验新鲜东西。现在和@rollingcat0100住一起，刷新了一个主子@HzShibari86 ，一个大猫@NekomiyaKoharu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "rollingcat0100"
+              },
+              {
+                "end": 88,
+                "start": 76,
+                "username": "HzShibari86"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "NekomiyaKoharu"
+              }
+            ]
+          }
+        },
+        "id": "1374034349700444161",
+        "location": "猫罐头",
+        "name": "喵小白叫灵白猫（不是狗）",
+        "pinned_tweet_id": "1887077652684824621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899500314749030403/grMD1iNl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61883,
+          "following_count": 5451,
+          "like_count": 43750,
+          "listed_count": 81,
+          "media_count": 9903,
+          "tweet_count": 54742
+        },
+        "username": "pizyj",
+        "verified": false
+      }
+    ]
+  }
+}

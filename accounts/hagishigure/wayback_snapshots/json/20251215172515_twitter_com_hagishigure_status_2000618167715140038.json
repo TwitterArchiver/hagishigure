@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1999320642550960533",
+    "created_at": "2025-12-15T17:25:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T18:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000618167715140038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1211879989995421696",
+          "start": 0,
+          "username": "medicagoo"
+        },
+        {
+          "end": 24,
+          "id": "1443444056701370371",
+          "start": 11,
+          "username": "tina63991073"
+        },
+        {
+          "end": 36,
+          "id": "344165300",
+          "start": 25,
+          "username": "senchannya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000618167715140038",
+    "in_reply_to_user_id": "1211879989995421696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000452168177037703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@medicagoo @tina63991073 @senchannya 偽音都沒幾個人練吧。我大概是想不通她們是把酷兒當做逃避自我的符號還是反本質規訓的符號。一邊反身體本質主義一邊説所有的問題都來源於外在。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1999320642550960533",
+        "created_at": "2025-12-15T17:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T18:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000618167715140038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1211879989995421696",
+              "start": 0,
+              "username": "medicagoo"
+            },
+            {
+              "end": 24,
+              "id": "1443444056701370371",
+              "start": 11,
+              "username": "tina63991073"
+            },
+            {
+              "end": 36,
+              "id": "344165300",
+              "start": 25,
+              "username": "senchannya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000618167715140038",
+        "in_reply_to_user_id": "1211879989995421696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000452168177037703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@medicagoo @tina63991073 @senchannya 偽音都沒幾個人練吧。我大概是想不通她們是把酷兒當做逃避自我的符號還是反本質規訓的符號。一邊反身體本質主義一邊説所有的問題都來源於外在。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1211879989995421696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1999320642550960533",
+        "created_at": "2025-12-15T06:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T07:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000452168177037703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1443444056701370371",
+              "start": 0,
+              "username": "tina63991073"
+            },
+            {
+              "end": 25,
+              "id": "344165300",
+              "start": 14,
+              "username": "senchannya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000452168177037703",
+        "in_reply_to_user_id": "1443444056701370371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 343,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999701844977975795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tina63991073 @senchannya 你说的这部分挺对的，很多mtf没能化妆护肤穿搭，仅激素效果有限，无论是客观金钱学校家庭限制还是主观抑郁或者懒惰。\n\n但说句很鉴跨的话，做男娘是可选的，成为mtf是被迫的，mtf不cd hrt 或srs会严重影响了心理健康和社交。当然mtf依gd程度不同可以不cd hrt srs。mtf打激素是为安慰自己而不是别人喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 115,
+          "like_count": 12910,
+          "listed_count": 0,
+          "media_count": 385,
+          "tweet_count": 3061
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-31T05:21:31.000Z",
+        "description": "BPD Algorithm engineer for OR; Borderline Personality Disorder - BPD, sleep disorder; trans BPD woman 🏳️‍⚧️.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "medicago.top",
+                "end": 23,
+                "expanded_url": "https://medicago.top/",
+                "start": 0,
+                "url": "https://t.co/yXqadddKGh"
+              }
+            ]
+          }
+        },
+        "id": "1211879989995421696",
+        "name": "🍉沐雪小猪🌰",
+        "pinned_tweet_id": "1996172640135115218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990723871683837952/qN5-3xFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 297,
+          "like_count": 10020,
+          "listed_count": 3,
+          "media_count": 171,
+          "tweet_count": 4331
+        },
+        "url": "https://t.co/yXqadddKGh",
+        "username": "medicagoo",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-30T05:14:23.000Z",
+        "description": "只做自己喜欢的事，祝你天天开心^ ^ 不接推广不闲聊过门问价，上海/男娘",
+        "id": "1443444056701370371",
+        "location": "🚪188（好友位  接线下 ",
+        "name": "富江江",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000609951836958720/DClpMOKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86130,
+          "following_count": 583,
+          "like_count": 9469,
+          "listed_count": 245,
+          "media_count": 842,
+          "tweet_count": 7542
+        },
+        "username": "tina63991073",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-28T16:55:59.000Z",
+        "description": "https://t.co/yGbV7dZCWd\n     🚪78，多加可随机触发彩蛋（但是概率低的可怜）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sen49029",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sen49029",
+                "start": 0,
+                "url": "https://t.co/yGbV7dZCWd"
+              }
+            ]
+          }
+        },
+        "id": "344165300",
+        "name": "🍥传说中的小仙酱🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986602034980921346/1ztrZ5E__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 223,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 334
+        },
+        "username": "senchannya",
+        "verified": false
+      }
+    ]
+  }
+}

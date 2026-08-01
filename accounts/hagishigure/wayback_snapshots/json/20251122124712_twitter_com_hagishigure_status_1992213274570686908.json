@@ -1,0 +1,497 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1992069222890143970",
+    "created_at": "2025-11-22T12:47:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T13:47:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992213274570686908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1796937387899064320",
+          "start": 0,
+          "username": "CleverFf050755"
+        },
+        {
+          "end": 30,
+          "id": "1607388730914140160",
+          "start": 16,
+          "username": "popcat1234566"
+        },
+        {
+          "end": 38,
+          "id": "1817584080437014528",
+          "start": 31,
+          "username": "N552AA"
+        },
+        {
+          "end": 47,
+          "id": "1512976991976402949",
+          "start": 39,
+          "username": "bghtnya"
+        },
+        {
+          "end": 61,
+          "id": "1798724969695977472",
+          "start": 48,
+          "username": "overdosewiki"
+        },
+        {
+          "end": 75,
+          "id": "1989627406391635968",
+          "start": 62,
+          "username": "drug_artist2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992213274570686908",
+    "in_reply_to_user_id": "1796937387899064320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992096344056705443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CleverFf050755 @popcat1234566 @N552AA @bghtnya @overdosewiki @drug_artist2 那些都是符號，不是符號的比如我們anti-odwiki甚至還沒有oder能知道我們域名。☝️🤓"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [overdosewiki].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "overdosewiki",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "overdosewiki"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1992069222890143970",
+        "created_at": "2025-11-22T12:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T13:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992213274570686908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1796937387899064320",
+              "start": 0,
+              "username": "CleverFf050755"
+            },
+            {
+              "end": 30,
+              "id": "1607388730914140160",
+              "start": 16,
+              "username": "popcat1234566"
+            },
+            {
+              "end": 38,
+              "id": "1817584080437014528",
+              "start": 31,
+              "username": "N552AA"
+            },
+            {
+              "end": 47,
+              "id": "1512976991976402949",
+              "start": 39,
+              "username": "bghtnya"
+            },
+            {
+              "end": 61,
+              "id": "1798724969695977472",
+              "start": 48,
+              "username": "overdosewiki"
+            },
+            {
+              "end": 75,
+              "id": "1989627406391635968",
+              "start": 62,
+              "username": "drug_artist2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992213274570686908",
+        "in_reply_to_user_id": "1796937387899064320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992096344056705443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CleverFf050755 @popcat1234566 @N552AA @bghtnya @overdosewiki @drug_artist2 那些都是符號，不是符號的比如我們anti-odwiki甚至還沒有oder能知道我們域名。☝️🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796937387899064320",
+        "conversation_id": "1992069222890143970",
+        "created_at": "2025-11-22T05:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T06:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992096344056705443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1607388730914140160",
+              "start": 0,
+              "username": "popcat1234566"
+            },
+            {
+              "end": 22,
+              "id": "1817584080437014528",
+              "start": 15,
+              "username": "N552AA"
+            },
+            {
+              "end": 31,
+              "id": "1512976991976402949",
+              "start": 23,
+              "username": "bghtnya"
+            },
+            {
+              "end": 45,
+              "id": "1798724969695977472",
+              "start": 32,
+              "username": "overdosewiki"
+            },
+            {
+              "end": 59,
+              "id": "1989627406391635968",
+              "start": 46,
+              "username": "drug_artist2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992096344056705443",
+        "in_reply_to_user_id": "1607388730914140160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992069222890143970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@popcat1234566 @N552AA @bghtnya @overdosewiki @drug_artist2 药圈究竟是怎么样的？四个wiki搞了很久也没有搞明白，后藤比较有创新，搞了个减害思想，可惜后来僵化了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 108,
+          "like_count": 10164,
+          "listed_count": 0,
+          "media_count": 347,
+          "tweet_count": 2412
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-01T16:11:39.000Z",
+        "description": "完全理解一个人是异常困难的，你所能做的只能是理解，再理解。\n提问盒：https://t.co/ZSBub0KBoe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/texas96541",
+                "end": 57,
+                "expanded_url": "https://ngl.link/texas96541",
+                "start": 34,
+                "url": "https://t.co/ZSBub0KBoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/T0F6hStYWr"
+              }
+            ]
+          }
+        },
+        "id": "1796937387899064320",
+        "location": "普瑞巴林生产制造区A3车间",
+        "name": "Texas#地卫一",
+        "pinned_tweet_id": "1988513225185653018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984526675133280256/FEBTrBQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 173,
+          "like_count": 83,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 1421
+        },
+        "url": "https://t.co/T0F6hStYWr",
+        "username": "CleverFf050755",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-26T14:52:00.000Z",
+        "description": "被嫉妒吞噬的人\n\nN2O/笑气 3.25r低价批发\n承接suki遗愿 我可能不卖致幻剂了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/popcat1234566",
+                "end": 23,
+                "expanded_url": "https://ngl.link/popcat1234566",
+                "start": 0,
+                "url": "https://t.co/vYlpd7wOlq"
+              }
+            ]
+          }
+        },
+        "id": "1607388730914140160",
+        "name": "popcat1234566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984553337262653442/phttdV1C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 895,
+          "following_count": 651,
+          "like_count": 36326,
+          "listed_count": 0,
+          "media_count": 364,
+          "tweet_count": 2010
+        },
+        "url": "https://t.co/vYlpd7wOlq",
+        "username": "popcat1234566",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T15:33:18.000Z",
+        "description": "08/MTX（f?/ENTP-T/双相/ADHD/BPD/断续含糖/\n小证：2025-11-14/坐标上海/半家长党/抱抱最最可爱的姐姐: @yizhikapaiqaq 妹妹:@suikahsnya/主人：@ayumi_0222_\n/长在春风中，活在药效里。/上海市贴贴微信群群主/ 🚪25（同类免费，过门私信）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "yizhikapaiqaq"
+              },
+              {
+                "end": 99,
+                "start": 88,
+                "username": "suikahsnya"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "ayumi_0222_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/zkiZZtLQUz"
+              }
+            ]
+          }
+        },
+        "id": "1817584080437014528",
+        "location": "参宿四",
+        "name": "N552AA🍥🍜🍣🍕💊🍫",
+        "pinned_tweet_id": "1990743081273208934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984004171713146880/ZhbhI7xS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2894,
+          "following_count": 1005,
+          "like_count": 4074,
+          "listed_count": 5,
+          "media_count": 175,
+          "tweet_count": 1449
+        },
+        "url": "https://t.co/zkiZZtLQUz",
+        "username": "N552AA",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标帝都 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "1986091564364595524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987018656967204864/pXuLsTRR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8232,
+          "following_count": 2111,
+          "like_count": 169406,
+          "listed_count": 20,
+          "media_count": 3465,
+          "tweet_count": 42918
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科wiki主|投稿报告请私信我|长发视觉系4i男娘|售卖合法物质直接私信我或联系TG:https://t.co/FmpWHRKM7z｜提问箱:https://t.co/zPtZpIiuYS |愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/drug_artist",
+                "end": 69,
+                "expanded_url": "http://t.me/drug_artist",
+                "start": 46,
+                "url": "https://t.co/FmpWHRKM7z"
+              },
+              {
+                "display_url": "ngl.link/drug_artist",
+                "end": 97,
+                "expanded_url": "http://ngl.link/drug_artist",
+                "start": 74,
+                "url": "https://t.co/zPtZpIiuYS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1991885851446722901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 15,
+          "like_count": 22,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 50
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      }
+    ]
+  }
+}

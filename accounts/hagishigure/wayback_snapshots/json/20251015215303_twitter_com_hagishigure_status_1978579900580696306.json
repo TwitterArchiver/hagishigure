@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978579891118616577"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1978505663341855015",
+    "created_at": "2025-10-15T21:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T22:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978579900580696306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "622036546",
+          "start": 0,
+          "username": "overdose_six"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r1rJOWzJpo",
+          "end": 50,
+          "expanded_url": "https://x.com/hagishigure/status/1978579900580696306/photo/1",
+          "media_key": "3_1978579891118616577",
+          "start": 27,
+          "url": "https://t.co/r1rJOWzJpo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978579900580696306",
+    "in_reply_to_user_id": "622036546",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978505663341855015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_six Noopept 不好吃。 https://t.co/r1rJOWzJpo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 917,
+        "media_key": "3_1978579891118616577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3VT7ZHbMAEAApj.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1060,
+        "media_key": "3_1978505659084898308",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3UQahPbAAQ4Stu.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978579891118616577"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1978505663341855015",
+        "created_at": "2025-10-15T21:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T22:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978579900580696306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "622036546",
+              "start": 0,
+              "username": "overdose_six"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r1rJOWzJpo",
+              "end": 50,
+              "expanded_url": "https://x.com/hagishigure/status/1978579900580696306/photo/1",
+              "media_key": "3_1978579891118616577",
+              "start": 27,
+              "url": "https://t.co/r1rJOWzJpo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978579900580696306",
+        "in_reply_to_user_id": "622036546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978505663341855015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_six Noopept 不好吃。 https://t.co/r1rJOWzJpo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978505659084898308"
+          ]
+        },
+        "author_id": "622036546",
+        "conversation_id": "1978505663341855015",
+        "created_at": "2025-10-15T16:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T17:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978505663341855015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ede84DFIAA",
+              "end": 35,
+              "expanded_url": "https://x.com/overdose_six/status/1978505663341855015/photo/1",
+              "media_key": "3_1978505659084898308",
+              "start": 12,
+              "url": "https://t.co/ede84DFIAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978505663341855015",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 298,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Noopept 正常吃 https://t.co/ede84DFIAA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 91,
+          "like_count": 3622,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 573
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "化学极乐百科:https://t.co/BlAoDIjruc 提问箱:https://t.co/b5c8bbmW1y 里推:@fuck_8964 药物代购可私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 62,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 30,
+                "expanded_url": "http://overdose.day",
+                "start": 7,
+                "url": "https://t.co/BlAoDIjruc"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 58,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 35,
+                "url": "https://t.co/b5c8bbmW1y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/BlAoDIjruc"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978042425475276800/0HkIX8Pu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1667,
+          "following_count": 84,
+          "like_count": 10481,
+          "listed_count": 6,
+          "media_count": 379,
+          "tweet_count": 2912
+        },
+        "url": "https://t.co/BlAoDIjruc",
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

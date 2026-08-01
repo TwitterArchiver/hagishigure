@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1975069639706366318",
+    "created_at": "2025-10-06T05:54:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T06:54:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975077287667372092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1461728708935385088",
+          "start": 0,
+          "username": "Qbb7680"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975077287667372092",
+    "in_reply_to_user_id": "1461728708935385088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975069639706366318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qbb7680 我來吃🍎😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1975069629543493632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2jbXRuaMAALEIo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1975069639706366318",
+        "created_at": "2025-10-06T05:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T06:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975077287667372092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1461728708935385088",
+              "start": 0,
+              "username": "Qbb7680"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975077287667372092",
+        "in_reply_to_user_id": "1461728708935385088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975069639706366318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qbb7680 我來吃🍎😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975069629543493632"
+          ]
+        },
+        "author_id": "1461728708935385088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1975069639706366318",
+        "created_at": "2025-10-06T05:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T06:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975069639706366318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j4Daz22TVW",
+              "end": 43,
+              "expanded_url": "https://x.com/Qbb7680/status/1975069639706366318/photo/1",
+              "media_key": "3_1975069629543493632",
+              "start": 20,
+              "url": "https://t.co/j4Daz22TVW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975069639706366318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近饭吃的比较饱，这次就不啃迎宾水果了 https://t.co/j4Daz22TVW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 83,
+          "like_count": 1373,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 229
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-19T16:11:06.000Z",
+        "description": "如星，如月，与风，与剑/ 是凶猛的九节狼，饲养条件：室温24℃湿度50%适当阳光直射/男娘？有对象们 /You can call me：xù、she、her、QBB、チボボ、キュビビ/ 喵粒子永远正确/驻苏州，但是苏州没有机场，不能全国可飞",
+        "id": "1461728708935385088",
+        "location": "过🚪50/出🚪788",
+        "name": "是气波波nya～",
+        "pinned_tweet_id": "1910388607640363163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958133930722525184/iEmVOcDC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6216,
+          "following_count": 997,
+          "like_count": 74387,
+          "listed_count": 12,
+          "media_count": 947,
+          "tweet_count": 5215
+        },
+        "username": "Qbb7680",
+        "verified": false
+      }
+    ]
+  }
+}

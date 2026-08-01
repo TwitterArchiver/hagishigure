@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2028823480049811589",
+    "created_at": "2026-03-03T13:23:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T14:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028823480049811589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "406080012",
+          "start": 3,
+          "username": "ytiihyslqlabpow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028823480049811589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028704197508477370",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ytiihyslqlabpow: 万推，求转发。\n我朋友的视力现在正在急速衰退，左眼视野仅剩~10%，右眼~30%，且有严重的视神经萎缩。目前我的朋友在杜克大学就诊，但现在因为一直找不到病因，所以不知道接下来要怎么治疗。如果有朋友了解Johns Hopkins, Har…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028704138255618048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCdnqksXUAA6GPj.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028704137961996288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCdnqjmXAAAMs1Y.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028704137995599872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCdnqjuXwAA4Uz9.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2028704137966149632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCdnqjnWYAA-0bV.jpg",
+        "width": 280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2028823480049811589",
+        "created_at": "2026-03-03T13:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T14:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028823480049811589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "406080012",
+              "start": 3,
+              "username": "ytiihyslqlabpow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028823480049811589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028704197508477370",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ytiihyslqlabpow: 万推，求转发。\n我朋友的视力现在正在急速衰退，左眼视野仅剩~10%，右眼~30%，且有严重的视神经萎缩。目前我的朋友在杜克大学就诊，但现在因为一直找不到病因，所以不知道接下来要怎么治疗。如果有朋友了解Johns Hopkins, Har…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028704138255618048",
+            "3_2028704137961996288",
+            "3_2028704137995599872",
+            "3_2028704137966149632"
+          ]
+        },
+        "author_id": "406080012",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291801905962737664",
+              "name": "University of Pennsylvania"
+            }
+          },
+          {
+            "domain": {
+              "description": "Colleges & universities around the world",
+              "id": "157",
+              "name": "Colleges & Universities"
+            },
+            "entity": {
+              "id": "1291801905962737664",
+              "name": "University of Pennsylvania"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Harvard University",
+              "id": "10047480136",
+              "name": "Harvard University"
+            }
+          }
+        ],
+        "conversation_id": "2028704197508477370",
+        "created_at": "2026-03-03T05:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T06:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028704197508477370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9z5JTOQ61r",
+              "end": 178,
+              "expanded_url": "https://x.com/ytiihyslqlabpow/status/2028704197508477370/photo/1",
+              "media_key": "3_2028704138255618048",
+              "start": 155,
+              "url": "https://t.co/9z5JTOQ61r"
+            },
+            {
+              "display_url": "pic.x.com/9z5JTOQ61r",
+              "end": 178,
+              "expanded_url": "https://x.com/ytiihyslqlabpow/status/2028704197508477370/photo/1",
+              "media_key": "3_2028704137961996288",
+              "start": 155,
+              "url": "https://t.co/9z5JTOQ61r"
+            },
+            {
+              "display_url": "pic.x.com/9z5JTOQ61r",
+              "end": 178,
+              "expanded_url": "https://x.com/ytiihyslqlabpow/status/2028704197508477370/photo/1",
+              "media_key": "3_2028704137995599872",
+              "start": 155,
+              "url": "https://t.co/9z5JTOQ61r"
+            },
+            {
+              "display_url": "pic.x.com/9z5JTOQ61r",
+              "end": 178,
+              "expanded_url": "https://x.com/ytiihyslqlabpow/status/2028704197508477370/photo/1",
+              "media_key": "3_2028704137966149632",
+              "start": 155,
+              "url": "https://t.co/9z5JTOQ61r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028704197508477370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 79583,
+          "like_count": 265,
+          "quote_count": 5,
+          "reply_count": 38,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "万推，求转发。\n我朋友的视力现在正在急速衰退，左眼视野仅剩~10%，右眼~30%，且有严重的视神经萎缩。目前我的朋友在杜克大学就诊，但现在因为一直找不到病因，所以不知道接下来要怎么治疗。如果有朋友了解Johns Hopkins, Harvard, 或者 UPenn 的顶尖神经眼科专家推荐！请大家帮忙转发！🙏 https://t.co/9z5JTOQ61r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 140,
+          "like_count": 23386,
+          "listed_count": 2,
+          "media_count": 653,
+          "tweet_count": 5712
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2011-11-06T06:44:29.000Z",
+        "description": "女的// Trader Joe's 爱好者 // 🚪GRE 330+（两年内有效）// #推友的性别是推友 \n⬛⬛⬛⬛⬛⬛ \n🌫️🌫️🌫️🌫️🌫️🌫️ \n⬜⬜⬜⬜⬜⬜ \n🟪🟪🟪🟪🟪🟪",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 44,
+                "tag": "推友的性别是推友"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "misstaco.bsky.social",
+                "end": 23,
+                "expanded_url": "https://misstaco.bsky.social/",
+                "start": 0,
+                "url": "https://t.co/nxt1zHSlka"
+              }
+            ]
+          }
+        },
+        "id": "406080012",
+        "location": "Wonderland",
+        "name": "蛋挞也是 Taco🎄",
+        "pinned_tweet_id": "1717588345973612909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707630937343774720/vhBzp-4U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5671,
+          "following_count": 1244,
+          "like_count": 13899,
+          "listed_count": 26,
+          "media_count": 3665,
+          "tweet_count": 18160
+        },
+        "url": "https://t.co/nxt1zHSlka",
+        "username": "ytiihyslqlabpow",
+        "verified": true
+      }
+    ]
+  }
+}

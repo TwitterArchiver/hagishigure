@@ -1,0 +1,475 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "1975036520278176057",
+    "created_at": "2025-10-06T07:08:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T08:08:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975095915364176079"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "享ナユタン星人",
+          "probability": 0.2092,
+          "start": 15,
+          "type": "Person"
+        },
+        {
+          "end": 37,
+          "normalized_text": "MORE MORE JUMP！",
+          "probability": 0.3766,
+          "start": 23,
+          "type": "Other"
+        },
+        {
+          "end": 42,
+          "normalized_text": "初音ミク",
+          "probability": 0.431,
+          "start": 39,
+          "type": "Person"
+        },
+        {
+          "end": 70,
+          "normalized_text": "花里みのり",
+          "probability": 0.929,
+          "start": 66,
+          "type": "Person"
+        },
+        {
+          "end": 78,
+          "normalized_text": "桐谷遥",
+          "probability": 0.8653,
+          "start": 76,
+          "type": "Person"
+        },
+        {
+          "end": 87,
+          "normalized_text": "桃井愛莉",
+          "probability": 0.4034,
+          "start": 84,
+          "type": "Person"
+        },
+        {
+          "end": 105,
+          "normalized_text": "初音ミク",
+          "probability": 0.4328,
+          "start": 102,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1590534095653650432",
+          "start": 0,
+          "username": "drowning_and"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "163cn.tv/LaNOzaM",
+          "end": 151,
+          "expanded_url": "https://163cn.tv/LaNOzaM",
+          "start": 128,
+          "status": 200,
+          "unwound_url": "https://y.music.163.com/m/song?id=1854231422&uct2=QCcJ%2BbmB%2B0c%2Fr%2BtSLDYaQg%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=76001&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.3.50&sc=wm&tn=",
+          "url": "https://t.co/w2a4dFes8L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975095915364176079",
+    "in_reply_to_user_id": "1590534095653650432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975056249042727127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drowning_and 分享ナユタン星人/MORE MORE JUMP！/初音ミク的单曲《モア！ジャンプ！モア！ (feat. 花里みのり&amp;桐谷遥&amp;桃井愛莉&amp;日野森雫&amp;初音ミク) (More！Jump！More！)》: https://t.co/w2a4dFes8L (来自@网易云音乐)\n打卡啦摩托！😾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "1975036520278176057",
+        "created_at": "2025-10-06T07:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T08:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975095915364176079"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "享ナユタン星人",
+              "probability": 0.2092,
+              "start": 15,
+              "type": "Person"
+            },
+            {
+              "end": 37,
+              "normalized_text": "MORE MORE JUMP！",
+              "probability": 0.3766,
+              "start": 23,
+              "type": "Other"
+            },
+            {
+              "end": 42,
+              "normalized_text": "初音ミク",
+              "probability": 0.431,
+              "start": 39,
+              "type": "Person"
+            },
+            {
+              "end": 70,
+              "normalized_text": "花里みのり",
+              "probability": 0.929,
+              "start": 66,
+              "type": "Person"
+            },
+            {
+              "end": 78,
+              "normalized_text": "桐谷遥",
+              "probability": 0.8653,
+              "start": 76,
+              "type": "Person"
+            },
+            {
+              "end": 87,
+              "normalized_text": "桃井愛莉",
+              "probability": 0.4034,
+              "start": 84,
+              "type": "Person"
+            },
+            {
+              "end": 105,
+              "normalized_text": "初音ミク",
+              "probability": 0.4328,
+              "start": 102,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1590534095653650432",
+              "start": 0,
+              "username": "drowning_and"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "163cn.tv/LaNOzaM",
+              "end": 151,
+              "expanded_url": "https://163cn.tv/LaNOzaM",
+              "start": 128,
+              "status": 200,
+              "unwound_url": "https://y.music.163.com/m/song?id=1854231422&uct2=QCcJ%2BbmB%2B0c%2Fr%2BtSLDYaQg%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=76001&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.3.50&sc=wm&tn=",
+              "url": "https://t.co/w2a4dFes8L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975095915364176079",
+        "in_reply_to_user_id": "1590534095653650432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975056249042727127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drowning_and 分享ナユタン星人/MORE MORE JUMP！/初音ミク的单曲《モア！ジャンプ！モア！ (feat. 花里みのり&amp;桐谷遥&amp;桃井愛莉&amp;日野森雫&amp;初音ミク) (More！Jump！More！)》: https://t.co/w2a4dFes8L (来自@网易云音乐)\n打卡啦摩托！😾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1590534095653650432",
+        "conversation_id": "1975036520278176057",
+        "created_at": "2025-10-06T04:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T05:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975056249042727127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975056249042727127",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975042273521127612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure No Jump No!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 83,
+          "like_count": 1420,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 243
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-10T02:37:44.000Z",
+        "description": "憋屈而悲伤的小手工业者 im kaz 我胡言乱语 My daily scream 中文 | english | 日本語 art account: @looktheskyisred （重度社恐，轻微负能量预警 ，不强求回关呜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "looktheskyisred"
+              }
+            ]
+          }
+        },
+        "id": "1590534095653650432",
+        "name": "✝️KAZ_DE_AURI✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960258015350915072/k9hdsEYD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 339,
+          "like_count": 16710,
+          "listed_count": 2,
+          "media_count": 136,
+          "tweet_count": 1232
+        },
+        "username": "drowning_and",
+        "verified": false
+      }
+    ]
+  }
+}

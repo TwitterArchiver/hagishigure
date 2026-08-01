@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1989192703104692489",
+    "created_at": "2025-11-15T03:19:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T04:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989533607535493429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1872130736872144897",
+          "start": 0,
+          "username": "yanzhenzhen21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989533607535493429",
+    "in_reply_to_user_id": "1872130736872144897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989192703104692489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanzhenzhen21 其實都是用來抗哮喘的。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1989192685379555328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sINUnakAAX6ey.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989192685358563328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sINUiaQAAFXZ7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1989192703104692489",
+        "created_at": "2025-11-15T03:19:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T04:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989533607535493429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1872130736872144897",
+              "start": 0,
+              "username": "yanzhenzhen21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989533607535493429",
+        "in_reply_to_user_id": "1872130736872144897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989192703104692489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanzhenzhen21 其實都是用來抗哮喘的。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989192685379555328",
+            "3_1989192685358563328"
+          ]
+        },
+        "author_id": "1872130736872144897",
+        "conversation_id": "1989192703104692489",
+        "created_at": "2025-11-14T04:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T05:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989192703104692489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2GkK8ajllo",
+              "end": 72,
+              "expanded_url": "https://x.com/yanzhenzhen21/status/1989192703104692489/photo/1",
+              "media_key": "3_1989192685379555328",
+              "start": 49,
+              "url": "https://t.co/2GkK8ajllo"
+            },
+            {
+              "display_url": "pic.x.com/2GkK8ajllo",
+              "end": 72,
+              "expanded_url": "https://x.com/yanzhenzhen21/status/1989192703104692489/photo/1",
+              "media_key": "3_1989192685358563328",
+              "start": 49,
+              "url": "https://t.co/2GkK8ajllo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989192703104692489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 34035,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "貌似在宿舍发现了上一届留下的圣遗物\n复方甘草片\n硫酸沙丁胺醇片\n盐酸雷尼替丁胶囊\n盐酸二氧丙嗪片 https://t.co/2GkK8ajllo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 106,
+          "like_count": 8812,
+          "listed_count": 0,
+          "media_count": 294,
+          "tweet_count": 2007
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-26T04:02:16.000Z",
+        "description": "09年mtf 🏳️‍⚧ / 常住地区开封 / 好姐姐是@SnowFoxSama / 性格温顺欢迎找我聊天₍˄·͈༝·͈˄*₎◞ ̑̑ / 我不会讨厌任何人，我爱你们所有人，世界好温柔我爱这个世界，世界支离破碎抱抱我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "SnowFoxSama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shen_dian",
+                "end": 23,
+                "expanded_url": "https://t.me/shen_dian",
+                "start": 0,
+                "url": "https://t.co/em3JVvNBnq"
+              }
+            ]
+          }
+        },
+        "id": "1872130736872144897",
+        "location": "月球",
+        "name": "言箴甄🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985476488385458176/j0Tc333U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 797,
+          "like_count": 24304,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1186
+        },
+        "url": "https://t.co/em3JVvNBnq",
+        "username": "yanzhenzhen21",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1976543221942550887",
+    "created_at": "2025-10-12T19:58:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T20:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977463941405302812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1289183549875195904",
+          "start": 0,
+          "username": "PicAsssHole"
+        },
+        {
+          "end": 24,
+          "id": "1539448307985944576",
+          "start": 13,
+          "username": "AlyssaNeko"
+        },
+        {
+          "end": 34,
+          "id": "892248576591413248",
+          "start": 26,
+          "username": "xiwuaya"
+        },
+        {
+          "end": 51,
+          "id": "1704469304077611008",
+          "start": 36,
+          "username": "jiaoyanboluooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977463941405302812",
+    "in_reply_to_user_id": "1289183549875195904",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976543221942550887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PicAsssHole @AlyssaNeko \n@xiwuaya \n@jiaoyanboluooo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40867,
+        "height": 1920,
+        "media_key": "13_1975879656801701888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1975879656801701888/img/JZc5MTeioKGm-rFJ.jpg",
+        "public_metrics": {
+          "view_count": 128045
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975879656801701888/vid/avc1/480x852/Dd9WvOp0WqIBrk-q.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1975879656801701888/pl/VAOVqgeW_SPpkt9_.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975879656801701888/vid/avc1/320x568/Aj8s2cXhFPCPN7J6.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975879656801701888/vid/avc1/1080x1920/a84cAetMWQUwxHQ0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975879656801701888/vid/avc1/720x1280/OJQrfh7Qcfnzc-3F.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1976543221942550887",
+        "created_at": "2025-10-12T19:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T20:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977463941405302812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1289183549875195904",
+              "start": 0,
+              "username": "PicAsssHole"
+            },
+            {
+              "end": 24,
+              "id": "1539448307985944576",
+              "start": 13,
+              "username": "AlyssaNeko"
+            },
+            {
+              "end": 34,
+              "id": "892248576591413248",
+              "start": 26,
+              "username": "xiwuaya"
+            },
+            {
+              "end": 51,
+              "id": "1704469304077611008",
+              "start": 36,
+              "username": "jiaoyanboluooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977463941405302812",
+        "in_reply_to_user_id": "1289183549875195904",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976543221942550887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PicAsssHole @AlyssaNeko \n@xiwuaya \n@jiaoyanboluooo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1975879656801701888"
+          ]
+        },
+        "author_id": "1289183549875195904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1976543221942550887",
+        "created_at": "2025-10-10T07:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T08:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976543221942550887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XD2WyMCuQa",
+              "end": 29,
+              "expanded_url": "https://x.com/PicAsssHole/status/1976543221942550887/video/1",
+              "media_key": "13_1975879656801701888",
+              "start": 6,
+              "url": "https://t.co/XD2WyMCuQa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976543221942550887",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2296,
+          "impression_count": 332822,
+          "like_count": 8568,
+          "quote_count": 21,
+          "reply_count": 36,
+          "retweet_count": 1214
+        },
+        "reply_settings": "everyone",
+        "text": "Wataa https://t.co/XD2WyMCuQa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 90,
+          "like_count": 2860,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 438
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-31T12:58:11.000Z",
+        "description": "NSFW Body Painter 🎨 No PPV. Just me, a brush, and your dirtiest thoughts. 😈\n\n🔥 Female account ➡️ @MonaLisHole ⬅️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 97,
+                "username": "MonaLisHole"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "solo.to/picassshole",
+                "end": 23,
+                "expanded_url": "http://solo.to/picassshole",
+                "start": 0,
+                "url": "https://t.co/loc78RCYoJ"
+              }
+            ]
+          }
+        },
+        "id": "1289183549875195904",
+        "location": "London, England",
+        "name": "PicAsssHole 🎨",
+        "pinned_tweet_id": "1909311209691578763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947330083770740736/aA20WLi4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370493,
+          "following_count": 2346,
+          "like_count": 11525,
+          "listed_count": 642,
+          "media_count": 257,
+          "tweet_count": 4254
+        },
+        "url": "https://t.co/loc78RCYoJ",
+        "username": "PicAsssHole",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-22T03:21:11.000Z",
+        "description": "🪻艾蕾莎(莎莎） 💮樱羽艾玛（桜羽工マ）善良/纯洁/乖 bushi，22年7月🍥持证含糖MTF，167/55，出柜了，努力社交，没有攻击性~🌈，学习奇怪诱导暗示知识中，药理💊，乐高🪅，绘画☄️，手工💐，美食🥞，💮对象/梅露露 汐雾aya🍥@xiwuaya，🍁闺蜜/导师 椎名@Shina_Kaede",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 119,
+                "username": "xiwuaya"
+              },
+              {
+                "end": 149,
+                "start": 137,
+                "username": "Shina_Kaede"
+              }
+            ]
+          }
+        },
+        "id": "1539448307985944576",
+        "location": "New Zealand",
+        "name": "艾蕾莎Alyssa🍥",
+        "pinned_tweet_id": "1962921476446945551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745836025891721216/R1PQNBUf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4778,
+          "following_count": 1458,
+          "like_count": 15979,
+          "listed_count": 12,
+          "media_count": 1962,
+          "tweet_count": 13328
+        },
+        "username": "AlyssaNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-01T05:00:12.000Z",
+        "description": "一个爱哭鬼罢了…… | 大概算是个音游人，主玩rotaeno，pjsk，偶尔会出勤maimai | 逐渐退推中…锁推审fo，没啥大问题的基本会过的…",
+        "id": "892248576591413248",
+        "location": "梦里",
+        "name": "汐雾aya🍥（逃避现实ver.）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770107790549483520/k0RbihGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1829,
+          "following_count": 3833,
+          "like_count": 65215,
+          "listed_count": 10,
+          "media_count": 184,
+          "tweet_count": 2213
+        },
+        "username": "xiwuaya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/双相喵/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/已出柜/不知道什么党/不要靠近我，我只会让你伤心/对象 @mtf_in_china",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "mtf_in_china"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "location": "狗笼里",
+        "name": "椒盐菠萝🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845701516545638400/CJz4quM6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3671,
+          "following_count": 2861,
+          "like_count": 16957,
+          "listed_count": 9,
+          "media_count": 863,
+          "tweet_count": 3391
+        },
+        "username": "jiaoyanboluooo",
+        "verified": false
+      }
+    ]
+  }
+}

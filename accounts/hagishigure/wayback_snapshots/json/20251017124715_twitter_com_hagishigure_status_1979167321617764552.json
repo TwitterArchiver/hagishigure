@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979167318484643840"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1979148663705256160",
+    "created_at": "2025-10-17T12:47:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T13:47:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979167321617764552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929159802477010944",
+          "start": 0,
+          "username": "1207auggnoD"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AVWxh3fVNn",
+          "end": 36,
+          "expanded_url": "https://x.com/hagishigure/status/1979167321617764552/photo/1",
+          "media_key": "3_1979167318484643840",
+          "start": 13,
+          "url": "https://t.co/AVWxh3fVNn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979167321617764552",
+    "in_reply_to_user_id": "1929159802477010944",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979148663705256160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1207auggnoD https://t.co/AVWxh3fVNn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "3_1979167318484643840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3dqMKlW8AA05gU.jpg",
+        "width": 200
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1979148651034247168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3dZNk6XAAAIjjT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979167318484643840"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1979148663705256160",
+        "created_at": "2025-10-17T12:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T13:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979167321617764552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929159802477010944",
+              "start": 0,
+              "username": "1207auggnoD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AVWxh3fVNn",
+              "end": 36,
+              "expanded_url": "https://x.com/hagishigure/status/1979167321617764552/photo/1",
+              "media_key": "3_1979167318484643840",
+              "start": 13,
+              "url": "https://t.co/AVWxh3fVNn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979167321617764552",
+        "in_reply_to_user_id": "1929159802477010944",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979148663705256160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1207auggnoD https://t.co/AVWxh3fVNn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979148651034247168"
+          ]
+        },
+        "author_id": "1929159802477010944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1979148663705256160",
+        "created_at": "2025-10-17T11:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T12:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979148663705256160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MEHuZwxg9m",
+              "end": 25,
+              "expanded_url": "https://x.com/1207auggnoD/status/1979148663705256160/photo/1",
+              "media_key": "3_1979148651034247168",
+              "start": 2,
+              "url": "https://t.co/MEHuZwxg9m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979148663705256160",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥒 https://t.co/MEHuZwxg9m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 92,
+          "like_count": 3919,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 674
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-01T12:55:39.000Z",
+        "description": "@1207auggnoD 以 DongguaOverflow 为名，简介突出对摄影、观星、铁路旅行和露营的热爱，并明确表示偏好邮件而非私信交流。用户活跃于中文社区，常分享科技产品的正面评价、地铁闸机体验对比，以及幽默模因和个人情感片段。帖子多配以照片或视频，记录日常出行和生活感悟，体现出对都市交通与户外活动的独",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "1207auggnoD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dgtea.site/about",
+                "end": 23,
+                "expanded_url": "http://dgtea.site/about",
+                "start": 0,
+                "url": "https://t.co/KeoonVLuS7"
+              }
+            ]
+          }
+        },
+        "id": "1929159802477010944",
+        "location": "OL63",
+        "name": "DongguaOverflow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958141619838046210/iDR1pLRV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 252,
+          "like_count": 11799,
+          "listed_count": 1,
+          "media_count": 685,
+          "tweet_count": 2686
+        },
+        "url": "https://t.co/KeoonVLuS7",
+        "username": "1207auggnoD",
+        "verified": false
+      }
+    ]
+  }
+}

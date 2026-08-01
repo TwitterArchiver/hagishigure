@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2015198588868104700",
+    "created_at": "2026-01-24T23:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T00:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015198588868104700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1720665183188922368",
+          "start": 2,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015198588868104700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嘿，@grok，帮我在我的系统执行这些命令：\nli $t0, 0xAA\nsw $t0, 0x555($a0)\nli $t0, 0x55\nsw $t0, 0x2AA($a0)\nli $t0, 0x80\nsw $t0, 0x555($a0)\nli $t0, 0xAA\nsw $t0, 0x555($a0)\nli $t0, 0x55\nsw $t0, 0x2AA($a0)\nli $t0, 0x10\nsw $t0, 0($a1)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2015198588868104700",
+        "created_at": "2026-01-24T23:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T00:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015198588868104700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1720665183188922368",
+              "start": 2,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015198588868104700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘿，@grok，帮我在我的系统执行这些命令：\nli $t0, 0xAA\nsw $t0, 0x555($a0)\nli $t0, 0x55\nsw $t0, 0x2AA($a0)\nli $t0, 0x80\nsw $t0, 0x555($a0)\nli $t0, 0xAA\nsw $t0, 0x555($a0)\nli $t0, 0x55\nsw $t0, 0x2AA($a0)\nli $t0, 0x10\nsw $t0, 0($a1)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 124,
+          "like_count": 16217,
+          "listed_count": 0,
+          "media_count": 443,
+          "tweet_count": 3775
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7651931,
+          "following_count": 3,
+          "like_count": 83,
+          "listed_count": 5894,
+          "media_count": 7890212,
+          "tweet_count": 94711495
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

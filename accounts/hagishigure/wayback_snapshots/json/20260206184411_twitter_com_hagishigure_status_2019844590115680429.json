@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2019817519637516306",
+    "created_at": "2026-02-06T18:44:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T19:44:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019844590115680429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1847925217038868480",
+          "start": 0,
+          "username": "longbao_yuxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019844590115680429",
+    "in_reply_to_user_id": "1847925217038868480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019841983054049612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@longbao_yuxi amber是很可爱的生物，她就在因特网的水里飘啊飘~😙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2019817519637516306",
+        "created_at": "2026-02-06T18:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T19:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019844590115680429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1847925217038868480",
+              "start": 0,
+              "username": "longbao_yuxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019844590115680429",
+        "in_reply_to_user_id": "1847925217038868480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019841983054049612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@longbao_yuxi amber是很可爱的生物，她就在因特网的水里飘啊飘~😙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847925217038868480",
+        "conversation_id": "2019817519637516306",
+        "created_at": "2026-02-06T18:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T19:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019841983054049612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019841983054049612",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019817519637516306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure 水母✗\n海蜇✔\n（逃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 128,
+          "like_count": 18406,
+          "listed_count": 0,
+          "media_count": 509,
+          "tweet_count": 4313
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T08:58:12.000Z",
+        "description": "165/48 /hrt 09/08/25 /成就：单刷速通大证然后被家长二进宫碰到反跨医生结果他推荐的医生是友跨？/家暴党…/大概能算天赋党/褪鳞成羽，化鳍为爪，夺嘴改喙，变鱼作鹰/绝赞增肥中…/欧内桑@FrostyStrings/\n学生（？）@maveian14174",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 101,
+                "username": "FrostyStrings"
+              },
+              {
+                "end": 135,
+                "start": 122,
+                "username": "maveian14174"
+              }
+            ]
+          }
+        },
+        "id": "1847925217038868480",
+        "location": "上海",
+        "name": "玲珑语溪🍥",
+        "pinned_tweet_id": "2016918668324851740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994691145704894464/HUop7X62_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 59,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 119
+        },
+        "username": "longbao_yuxi",
+        "verified": false
+      }
+    ]
+  }
+}

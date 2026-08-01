@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027721493963223040",
+        "3_2027721495946862593"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2027721507841986758",
+    "created_at": "2026-02-28T12:24:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T13:24:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027721507841986758"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2ZrEM4exN5",
+          "end": 103,
+          "expanded_url": "https://x.com/hagishigure/status/2027721507841986758/photo/1",
+          "media_key": "3_2027721493963223040",
+          "start": 80,
+          "url": "https://t.co/2ZrEM4exN5"
+        },
+        {
+          "display_url": "pic.x.com/2ZrEM4exN5",
+          "end": 103,
+          "expanded_url": "https://x.com/hagishigure/status/2027721507841986758/photo/1",
+          "media_key": "3_2027721495946862593",
+          "start": 80,
+          "url": "https://t.co/2ZrEM4exN5"
+        },
+        {
+          "display_url": "x.com/AN_LINJIANG/st…",
+          "end": 127,
+          "expanded_url": "https://twitter.com/AN_LINJIANG/status/2027542989036524006",
+          "start": 104,
+          "url": "https://t.co/97JVjWqKms"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027721507841986758",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027542989036524006",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "像我一样学多一点pua就不会被pua了。我asd一犯贱就想pua别人玩，百分之九十九的没我水平高，剩下百分之一的能pua我的是我突然想享受被pua的感觉了。🥴 https://t.co/2ZrEM4exN5 https://t.co/97JVjWqKms"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1345,
+        "media_key": "3_2027721493963223040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPp9JcaMAATulo.jpg",
+        "width": 991
+      },
+      {
+        "height": 275,
+        "media_key": "3_2027721495946862593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPp9Q1WIAE2cVv.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027721493963223040",
+            "3_2027721495946862593"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027721507841986758",
+        "created_at": "2026-02-28T12:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T13:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027721507841986758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ZrEM4exN5",
+              "end": 103,
+              "expanded_url": "https://x.com/hagishigure/status/2027721507841986758/photo/1",
+              "media_key": "3_2027721493963223040",
+              "start": 80,
+              "url": "https://t.co/2ZrEM4exN5"
+            },
+            {
+              "display_url": "pic.x.com/2ZrEM4exN5",
+              "end": 103,
+              "expanded_url": "https://x.com/hagishigure/status/2027721507841986758/photo/1",
+              "media_key": "3_2027721495946862593",
+              "start": 80,
+              "url": "https://t.co/2ZrEM4exN5"
+            },
+            {
+              "display_url": "x.com/AN_LINJIANG/st…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/AN_LINJIANG/status/2027542989036524006",
+              "start": 104,
+              "url": "https://t.co/97JVjWqKms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027721507841986758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027542989036524006",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "像我一样学多一点pua就不会被pua了。我asd一犯贱就想pua别人玩，百分之九十九的没我水平高，剩下百分之一的能pua我的是我突然想享受被pua的感觉了。🥴 https://t.co/2ZrEM4exN5 https://t.co/97JVjWqKms"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683132900336898048",
+        "conversation_id": "2027542989036524006",
+        "created_at": "2026-02-28T00:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T01:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027542989036524006"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027542989036524006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "付得起这份责任再高谈阔论“下位者该不该有自我”\n\n通宵读了一个女孩的十五页自述，记录了自己逃离剧毒BDSM关系的所有过程，和满身的伤痕淤青病痛还有精神诊断报告\n\n身体和灵魂全都支离破碎，我没有看到逃离后的喜悦，而是让我感到窒息的麻木\n\n这不是个例，我都有计数，已经是第116个…\n\n每次看到这样的事情都触目惊心难以合眼，每个“s/dom”都宣扬着受害者有罪论，每个都事前拍胸脯保证安全克制\n\n但每个都放任原始冲动，肆意伤害满眼喜欢自己的人，都会随便找个理由说是对方这里不好那里不好，伤害完还要让对方陷入深深的自我否定\n\n两年多了，尽管有很多小伙伴表达感谢，说从我这知道该怎么做一个好dom和怎么去识别坏人，但糟糕的倾诉哪怕只看到一个都会难过好久\n\n这可是活生生的人呀…是满眼都是你的人呀…\n\n窝里横的dom那几篇流量一直不高，没人爱看现实赤裸裸的现状\n\n这些从认知不如自己的人身上找回自尊的蛆虫最是精明，装得一副谦谦君子，别人说什么好听的他就跟着说什么，最爱学那些“搭讪聊天话术”，至于能不能知行合一？\n\n管他什么知行合一，先把姑娘骗上床再说，那可不得捡着好听的讲，捡着好骗的骗，一次次利用别人的善良真诚去骗\n\n骗到最后自己都信了，开口就是“真正的BDSM应该xxxx”，具体怎么做一个都不会，反正什么文案吸引人就抄什么文案\n\n题外话，连之前骗钱搞训诫被锤退网的人都由复活了，希望大家都能早日拥有内驱力吧，学习和成长不能让这种人钻空子，也不该沾染BDSM任何一种形式\n\n我相信你🫂\n\n我会一直不厌其烦地讲：下一次，希望是向我报喜，祝愿你不再被厄运纠缠，要好好的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 24021,
+          "like_count": 144,
+          "quote_count": 4,
+          "reply_count": 10,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "付得起这份责任再高谈阔论“下位者该不该有自我”\n\n通宵读了一个女孩的十五页自述，记录了自己逃离剧毒BDSM关系的所有过程，和满身的伤痕淤青病痛还有精神诊断报告\n\n身体和灵魂全都支离破碎，我没有看到逃离后的喜悦，而是让我感到窒息的麻木\n\n这不是个例，我都有计数，已经是第116个…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 137,
+          "like_count": 22682,
+          "listed_count": 2,
+          "media_count": 643,
+          "tweet_count": 5594
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-23T15:12:17.000Z",
+        "description": "📻 BDSM答疑 & 教学｜两性开发｜亲密关系课题｜🍦 88r 永久咨询 & 树洞｜🎨普普通的生活艺术家｜🪄 偏爱美好氛围｜🍻 坏情绪粉碎机｜📷 日记本@LINJIANG_AN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "LINJIANG_AN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/AN_LINJIANG/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/AN_LINJIANG/status/1950566341284651086?t=upHCK6wxOUEYJKOMXK0F4Q&s=19",
+                "start": 0,
+                "url": "https://t.co/1dKDNwfXCO"
+              }
+            ]
+          }
+        },
+        "id": "1683132900336898048",
+        "location": "👇👇👇终身1v1深度教学（吸引力/BDSM/亲密关系）",
+        "name": "临江老师（治愈版）",
+        "pinned_tweet_id": "1856711850165207274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884393832089108480/mE0V2FjK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174416,
+          "following_count": 100,
+          "like_count": 1989,
+          "listed_count": 309,
+          "media_count": 235,
+          "tweet_count": 1046
+        },
+        "url": "https://t.co/1dKDNwfXCO",
+        "username": "AN_LINJIANG",
+        "verified": true
+      }
+    ]
+  }
+}

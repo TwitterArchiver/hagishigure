@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2060696740672475223",
+    "created_at": "2026-05-30T12:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060696740672475223"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AlertesInfos/s…",
+          "end": 94,
+          "expanded_url": "https://twitter.com/AlertesInfos/status/2059685496947605946",
+          "start": 71,
+          "url": "https://t.co/7VF02Yn1E5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060696740672475223",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059685496947605946",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不能是一只猫吗。当我的习性，我的行为，我的所有日常下意识会做的事情都和一只猫很像的时候。\n那我不应该声称感觉自己是猫，我应该声称自己是猫。 https://t.co/7VF02Yn1E5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2059685307998404610",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJV43_xWAAI6hiV.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2060696740672475223",
+        "created_at": "2026-05-30T12:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060696740672475223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AlertesInfos/s…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/AlertesInfos/status/2059685496947605946",
+              "start": 71,
+              "url": "https://t.co/7VF02Yn1E5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060696740672475223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059685496947605946",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不能是一只猫吗。当我的习性，我的行为，我的所有日常下意识会做的事情都和一只猫很像的时候。\n那我不应该声称感觉自己是猫，我应该声称自己是猫。 https://t.co/7VF02Yn1E5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059685307998404610"
+          ]
+        },
+        "author_id": "959531564341317632",
+        "conversation_id": "2059685496947605946",
+        "created_at": "2026-05-27T17:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059685496947605946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7s0sN42yut",
+              "end": 157,
+              "expanded_url": "https://x.com/AlertesInfos/status/2059685496947605946/photo/1",
+              "media_key": "3_2059685307998404610",
+              "start": 134,
+              "url": "https://t.co/7s0sN42yut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059685496947605946",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 789,
+          "impression_count": 2581060,
+          "like_count": 4726,
+          "quote_count": 1041,
+          "reply_count": 1237,
+          "retweet_count": 322
+        },
+        "reply_settings": "everyone",
+        "text": "🇫🇷🦊 En ligne, de plus en plus de jeunes se revendiquent \"thérians\", affirmant se sentir animaux et plus seulement humains. (Le Point) https://t.co/7s0sN42yut"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 154,
+          "like_count": 30068,
+          "listed_count": 3,
+          "media_count": 783,
+          "tweet_count": 7207
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-02T20:58:46.000Z",
+        "description": "✍️ L’information dans la seconde • 🗞️ Média indépendant • 🔔 Activez nos notifications pour ne rien manquer de l’actualité • 📩 Contact@alertesinfos.info",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "alertesinfos.net",
+                "end": 23,
+                "expanded_url": "https://alertesinfos.net",
+                "start": 0,
+                "url": "https://t.co/3oWFwWU1lH"
+              }
+            ]
+          }
+        },
+        "id": "959531564341317632",
+        "location": "France",
+        "name": "AlertesInfos",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052382244526821379/fc5NwfJy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 841448,
+          "following_count": 226,
+          "like_count": 8159,
+          "listed_count": 1237,
+          "media_count": 8643,
+          "tweet_count": 13483
+        },
+        "url": "https://t.co/3oWFwWU1lH",
+        "username": "AlertesInfos",
+        "verified": true
+      }
+    ]
+  }
+}

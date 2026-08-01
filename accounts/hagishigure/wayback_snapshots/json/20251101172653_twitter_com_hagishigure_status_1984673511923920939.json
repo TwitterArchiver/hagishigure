@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "1984673511923920939",
+    "created_at": "2025-11-01T17:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T18:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984673511923920939"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "In the absence of active-controlled clinical trials and geriatric-specific efficacy/tolerability data, the place of pregabalin in the analgesic armamentarium for the elderly is unclear. Because pregabalin is a Schedule V controlled substance, its utility is not compromised by substantial limitation …",
+          "display_url": "pubmed.ncbi.nlm.nih.gov/16503325/",
+          "end": 34,
+          "expanded_url": "https://pubmed.ncbi.nlm.nih.gov/16503325/",
+          "images": [
+            {
+              "height": 830,
+              "url": "https://pbs.twimg.com/news_img/1984673513526214658/lzE-TRPX?format=jpg&name=orig",
+              "width": 1600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1984673513526214658/lzE-TRPX?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 11,
+          "status": 200,
+          "title": "Pregabalin in neuropathic pain: a more \"pharmaceutically elegant\" gabapentin? - PubMed",
+          "unwound_url": "https://pubmed.ncbi.nlm.nih.gov/16503325/",
+          "url": "https://t.co/H1TSfQNd6Z"
+        },
+        {
+          "description": "The present study examines the effect of pregabalin (previously S-Isobutylgaba and CI-1008) in two distinct rat models of anxiety. Pregabalin binds with high affinity and selectivity to the alpha(2)delta subunit of voltage dependent calcium channels (VDCC). Its corresponding R-enantiomer (R-isobutyl …",
+          "display_url": "pubmed.ncbi.nlm.nih.gov/11156553/",
+          "end": 58,
+          "expanded_url": "https://pubmed.ncbi.nlm.nih.gov/11156553/",
+          "images": [
+            {
+              "height": 830,
+              "url": "https://pbs.twimg.com/news_img/1981782528106409987/0XeKkkkm?format=jpg&name=orig",
+              "width": 1600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1981782528106409987/0XeKkkkm?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 35,
+          "status": 200,
+          "title": "Pregabalin may represent a novel class of anxiolytic agents with a broad spectrum of activity - PubMed",
+          "unwound_url": "https://pubmed.ncbi.nlm.nih.gov/11156553/",
+          "url": "https://t.co/DouR597O6o"
+        },
+        {
+          "description": "Pregabalin, the pharmacologically active S-enantiomer of 3-aminomethyl-5-methyl-hexanoic acid, is a structural analogue of GABA, although it is not active at GABA receptors, nor does it acutely alter GABA uptake or degradation.black triangle Pregabalin binds with high affinity to the alpha2-delta su …",
+          "display_url": "pubmed.ncbi.nlm.nih.gov/16863276/",
+          "end": 82,
+          "expanded_url": "https://pubmed.ncbi.nlm.nih.gov/16863276/",
+          "images": [
+            {
+              "height": 830,
+              "url": "https://pbs.twimg.com/news_img/1981782528341258240/P4b-4I2J?format=jpg&name=orig",
+              "width": 1600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1981782528341258240/P4b-4I2J?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 59,
+          "status": 200,
+          "title": "Pregabalin: in the treatment of generalised anxiety disorder - PubMed",
+          "unwound_url": "https://pubmed.ncbi.nlm.nih.gov/16863276/",
+          "url": "https://t.co/kjejGcnNf7"
+        },
+        {
+          "description": "Pregabalin (S-[+]-3-isobutylgaba) was designed as a lipophilic GABA (gamma-aminobutyric acid) analogue substituted at the 3'-position in order to facilitate diffusion across the blood-brain barrier. It was originally developed as an anticonvulsant agent, however it has been shown to be effective in …",
+          "display_url": "pubmed.ncbi.nlm.nih.gov/12665421/",
+          "end": 106,
+          "expanded_url": "https://pubmed.ncbi.nlm.nih.gov/12665421/",
+          "images": [
+            {
+              "height": 830,
+              "url": "https://pbs.twimg.com/news_img/1981782526785146880/egdQ_GXv?format=jpg&name=orig",
+              "width": 1600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1981782526785146880/egdQ_GXv?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 83,
+          "status": 200,
+          "title": "Pregabalin: a new anxiolytic - PubMed",
+          "unwound_url": "https://pubmed.ncbi.nlm.nih.gov/12665421/",
+          "url": "https://t.co/vHWMYVVWBH"
+        },
+        {
+          "display_url": "x.com/godspeedyou50/…",
+          "end": 195,
+          "expanded_url": "https://twitter.com/godspeedyou50/status/1984665757935145392",
+          "start": 172,
+          "url": "https://t.co/C3OQqpfl6c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984673511923920939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984665757935145392",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一个硕导我杠什么。\nhttps://t.co/H1TSfQNd6Z\nhttps://t.co/DouR597O6o\nhttps://t.co/kjejGcnNf7\nhttps://t.co/vHWMYVVWBH\n这都是切实存在的paper。Reddit上都泛滥的东西。自己看看年份。\n不吃普瑞巴林是因为对于他们来说最劣质的都是羟考酮控释片。 https://t.co/C3OQqpfl6c"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1984673511923920939",
+        "created_at": "2025-11-01T17:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T18:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984673511923920939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "In the absence of active-controlled clinical trials and geriatric-specific efficacy/tolerability data, the place of pregabalin in the analgesic armamentarium for the elderly is unclear. Because pregabalin is a Schedule V controlled substance, its utility is not compromised by substantial limitation …",
+              "display_url": "pubmed.ncbi.nlm.nih.gov/16503325/",
+              "end": 34,
+              "expanded_url": "https://pubmed.ncbi.nlm.nih.gov/16503325/",
+              "images": [
+                {
+                  "height": 830,
+                  "url": "https://pbs.twimg.com/news_img/1984673513526214658/lzE-TRPX?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1984673513526214658/lzE-TRPX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 11,
+              "status": 200,
+              "title": "Pregabalin in neuropathic pain: a more \"pharmaceutically elegant\" gabapentin? - PubMed",
+              "unwound_url": "https://pubmed.ncbi.nlm.nih.gov/16503325/",
+              "url": "https://t.co/H1TSfQNd6Z"
+            },
+            {
+              "description": "The present study examines the effect of pregabalin (previously S-Isobutylgaba and CI-1008) in two distinct rat models of anxiety. Pregabalin binds with high affinity and selectivity to the alpha(2)delta subunit of voltage dependent calcium channels (VDCC). Its corresponding R-enantiomer (R-isobutyl …",
+              "display_url": "pubmed.ncbi.nlm.nih.gov/11156553/",
+              "end": 58,
+              "expanded_url": "https://pubmed.ncbi.nlm.nih.gov/11156553/",
+              "images": [
+                {
+                  "height": 830,
+                  "url": "https://pbs.twimg.com/news_img/1981782528106409987/0XeKkkkm?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1981782528106409987/0XeKkkkm?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 35,
+              "status": 200,
+              "title": "Pregabalin may represent a novel class of anxiolytic agents with a broad spectrum of activity - PubMed",
+              "unwound_url": "https://pubmed.ncbi.nlm.nih.gov/11156553/",
+              "url": "https://t.co/DouR597O6o"
+            },
+            {
+              "description": "Pregabalin, the pharmacologically active S-enantiomer of 3-aminomethyl-5-methyl-hexanoic acid, is a structural analogue of GABA, although it is not active at GABA receptors, nor does it acutely alter GABA uptake or degradation.black triangle Pregabalin binds with high affinity to the alpha2-delta su …",
+              "display_url": "pubmed.ncbi.nlm.nih.gov/16863276/",
+              "end": 82,
+              "expanded_url": "https://pubmed.ncbi.nlm.nih.gov/16863276/",
+              "images": [
+                {
+                  "height": 830,
+                  "url": "https://pbs.twimg.com/news_img/1981782528341258240/P4b-4I2J?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1981782528341258240/P4b-4I2J?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 59,
+              "status": 200,
+              "title": "Pregabalin: in the treatment of generalised anxiety disorder - PubMed",
+              "unwound_url": "https://pubmed.ncbi.nlm.nih.gov/16863276/",
+              "url": "https://t.co/kjejGcnNf7"
+            },
+            {
+              "description": "Pregabalin (S-[+]-3-isobutylgaba) was designed as a lipophilic GABA (gamma-aminobutyric acid) analogue substituted at the 3'-position in order to facilitate diffusion across the blood-brain barrier. It was originally developed as an anticonvulsant agent, however it has been shown to be effective in …",
+              "display_url": "pubmed.ncbi.nlm.nih.gov/12665421/",
+              "end": 106,
+              "expanded_url": "https://pubmed.ncbi.nlm.nih.gov/12665421/",
+              "images": [
+                {
+                  "height": 830,
+                  "url": "https://pbs.twimg.com/news_img/1981782526785146880/egdQ_GXv?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1981782526785146880/egdQ_GXv?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 83,
+              "status": 200,
+              "title": "Pregabalin: a new anxiolytic - PubMed",
+              "unwound_url": "https://pubmed.ncbi.nlm.nih.gov/12665421/",
+              "url": "https://t.co/vHWMYVVWBH"
+            },
+            {
+              "display_url": "x.com/godspeedyou50/…",
+              "end": 195,
+              "expanded_url": "https://twitter.com/godspeedyou50/status/1984665757935145392",
+              "start": 172,
+              "url": "https://t.co/C3OQqpfl6c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984673511923920939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984665757935145392",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一个硕导我杠什么。\nhttps://t.co/H1TSfQNd6Z\nhttps://t.co/DouR597O6o\nhttps://t.co/kjejGcnNf7\nhttps://t.co/vHWMYVVWBH\n这都是切实存在的paper。Reddit上都泛滥的东西。自己看看年份。\n不吃普瑞巴林是因为对于他们来说最劣质的都是羟考酮控释片。 https://t.co/C3OQqpfl6c"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518404201168007168",
+        "conversation_id": "1984651397955272986",
+        "created_at": "2025-11-01T16:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T17:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984665757935145392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984665757935145392",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "世界上不是所有国家都是你说的外国，而且没有任何一个老外把这个当药磕，更多相当于国内的阿普唑仑。理由是没这个必要\n还有我很多国外哥们确实没听说过普瑞巴林，因为和很多人不知道什么是毒品嗑药一样，老外知道这东西什么成分，不得相关疾病根本就没办法弄到，也可以说你想要都买不到。\n你可以再查查别的资料和我抬一下杠的上升高度。\n我哥们在外国哈草玩紫水，人家说了，中国没东西玩难受，身边哥们也必须老老实实当孙子，这叫打开国门你给我滥用一下子这玩意舒服一下吧。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984651397955272986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure 世界上不是所有国家都是你说的外国，而且没有任何一个老外把这个当药磕，更多相当于国内的阿普唑仑。理由是没这个必要\n还有我很多国外哥们确实没听说过普瑞巴林，因为和很多人不知道什么是毒品嗑药一样，老外知道这东西什么成分，不得相关疾病根本就没办法弄到，也可以说你想要都买不到。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 100,
+          "like_count": 6835,
+          "listed_count": 0,
+          "media_count": 230,
+          "tweet_count": 1441
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-25T01:39:19.000Z",
+        "description": "路人。and这段日子我愿意聊天，欢迎找我解惑，定期批量回fo或者私我",
+        "id": "1518404201168007168",
+        "name": "Jahseh",
+        "pinned_tweet_id": "1983757018830663844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983944337726787584/JcjyTY_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 266,
+          "like_count": 115,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 669
+        },
+        "username": "godspeedyou50",
+        "verified": true
+      }
+    ]
+  }
+}

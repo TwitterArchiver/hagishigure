@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2031564704246637032",
+    "created_at": "2026-03-11T02:55:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T03:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031564704246637032"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/9moX20076/stat…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/9moX20076/status/2031218699773030892",
+          "start": 55,
+          "url": "https://t.co/17xBPu3j5m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031564704246637032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031218699773030892",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你先别说名字。\n这里有个很有趣的东西。\nごく:国\nぎん:銀\n单从这两个字就能看到一些有趣的语言学的传播历史。 https://t.co/17xBPu3j5m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031218691753521154",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDBWo2caMAIYliV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2031564704246637032",
+        "created_at": "2026-03-11T02:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T03:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031564704246637032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/9moX20076/stat…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/9moX20076/status/2031218699773030892",
+              "start": 55,
+              "url": "https://t.co/17xBPu3j5m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031564704246637032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031218699773030892",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你先别说名字。\n这里有个很有趣的东西。\nごく:国\nぎん:銀\n单从这两个字就能看到一些有趣的语言学的传播历史。 https://t.co/17xBPu3j5m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031218691753521154"
+          ]
+        },
+        "author_id": "1282893311573766145",
+        "conversation_id": "2031218699773030892",
+        "created_at": "2026-03-10T04:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T05:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031218699773030892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5MkP1O9uWz",
+              "end": 28,
+              "expanded_url": "https://x.com/9moX20076/status/2031218699773030892/photo/1",
+              "media_key": "3_2031218691753521154",
+              "start": 5,
+              "url": "https://t.co/5MkP1O9uWz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031218699773030892",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 180,
+          "impression_count": 350011,
+          "like_count": 1755,
+          "quote_count": 20,
+          "reply_count": 73,
+          "retweet_count": 111
+        },
+        "reply_settings": "everyone",
+        "text": "例のやつ https://t.co/5MkP1O9uWz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 144,
+          "like_count": 24931,
+          "listed_count": 2,
+          "media_count": 681,
+          "tweet_count": 5979
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-14T04:23:07.000Z",
+        "description": "🇯🇵生まれの🇯🇵🇨🇳ハーフ/某関西無名大学/JLPT N1/HSK5級/左翼右派/HUAWEI/vivo/oppo/DJI/BYD/SFC修行準備中/サブ→@X_CNJP ※成分複雑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 78,
+                "username": "X_CNJP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kinketu.com",
+                "end": 23,
+                "expanded_url": "http://kinketu.com",
+                "start": 0,
+                "url": "https://t.co/fDaBBVNXdz"
+              }
+            ]
+          }
+        },
+        "id": "1282893311573766145",
+        "location": "イワシ　むれで　いきる　さかな\n",
+        "name": "Kia",
+        "pinned_tweet_id": "1958453872277717471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884466026773180416/T92tL03V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6712,
+          "following_count": 6863,
+          "like_count": 107007,
+          "listed_count": 28,
+          "media_count": 12239,
+          "tweet_count": 95859
+        },
+        "url": "https://t.co/fDaBBVNXdz",
+        "username": "9moX20076",
+        "verified": false
+      }
+    ]
+  }
+}

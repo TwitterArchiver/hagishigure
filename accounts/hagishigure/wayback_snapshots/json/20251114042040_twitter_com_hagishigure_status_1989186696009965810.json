@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989186664179417088"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1988850125322543610",
+    "created_at": "2025-11-14T04:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T05:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989186696009965810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1340253206417272832",
+          "start": 0,
+          "username": "Shina_Kaede"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0ip0jtCaFX",
+          "end": 46,
+          "expanded_url": "https://x.com/hagishigure/status/1989186696009965810/photo/1",
+          "media_key": "3_1989186664179417088",
+          "start": 23,
+          "url": "https://t.co/0ip0jtCaFX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989186696009965810",
+    "in_reply_to_user_id": "1340253206417272832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988850125322543610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shina_Kaede 三步之內必有解藥。 https://t.co/0ip0jtCaFX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1983,
+        "media_key": "3_1989186664179417088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sCu15bwAAz7uN.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1421,
+        "media_key": "3_1988849810447953920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5nQXX9acAAdJhb.jpg",
+        "width": 1170
+      },
+      {
+        "height": 952,
+        "media_key": "3_1988849810447953922",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5nQXX9acAITEKT.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989186664179417088"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1988850125322543610",
+        "created_at": "2025-11-14T04:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T05:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989186696009965810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1340253206417272832",
+              "start": 0,
+              "username": "Shina_Kaede"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ip0jtCaFX",
+              "end": 46,
+              "expanded_url": "https://x.com/hagishigure/status/1989186696009965810/photo/1",
+              "media_key": "3_1989186664179417088",
+              "start": 23,
+              "url": "https://t.co/0ip0jtCaFX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989186696009965810",
+        "in_reply_to_user_id": "1340253206417272832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988850125322543610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shina_Kaede 三步之內必有解藥。 https://t.co/0ip0jtCaFX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988849810447953920",
+            "3_1988849810447953922"
+          ]
+        },
+        "author_id": "1340253206417272832",
+        "conversation_id": "1988850125322543610",
+        "created_at": "2025-11-13T06:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T07:02:02.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988849819121537512",
+          "1988850125322543610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/65RoMMOYP2",
+              "end": 55,
+              "expanded_url": "https://x.com/Shina_Kaede/status/1988850125322543610/photo/1",
+              "media_key": "3_1988849810447953920",
+              "start": 32,
+              "url": "https://t.co/65RoMMOYP2"
+            },
+            {
+              "display_url": "pic.x.com/65RoMMOYP2",
+              "end": 55,
+              "expanded_url": "https://x.com/Shina_Kaede/status/1988850125322543610/photo/1",
+              "media_key": "3_1988849810447953922",
+              "start": 32,
+              "url": "https://t.co/65RoMMOYP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988850125322543610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 377,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "或许不是每道题都需要有解法吧\n\n尊重事物的原貌\n\n也是一种作答 https://t.co/65RoMMOYP2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 104,
+          "like_count": 8657,
+          "listed_count": 0,
+          "media_count": 286,
+          "tweet_count": 1970
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-19T11:10:48.000Z",
+        "description": "随心而动🍁INFJ/🇯🇵/Les🏳️‍🌈/22♍️♎️/理系人文/認知神経心理学/心理言語学/医学/中文/EN/日本語/元声優/雀魂/FF14鸟区/茶道/コーヒー/雑学/和楽器/吹奏楽/弓道/愛と言う感情を知るため旅中✨文学少女育成中(^_ _^)♪ @xiwanzinya💕最可靠的妹妹@piaoyao21",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 126,
+                "username": "xiwanzinya"
+              },
+              {
+                "end": 154,
+                "start": 144,
+                "username": "piaoyao21"
+              }
+            ]
+          }
+        },
+        "id": "1340253206417272832",
+        "location": "東京 文京区",
+        "name": "椎名かえで「情欲の魔女」",
+        "pinned_tweet_id": "1464963304502312963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1508760383854718977/y9BOK3D4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1631,
+          "following_count": 3655,
+          "like_count": 18243,
+          "listed_count": 12,
+          "media_count": 601,
+          "tweet_count": 6831
+        },
+        "username": "Shina_Kaede",
+        "verified": true
+      }
+    ]
+  }
+}

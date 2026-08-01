@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1980562989561573389",
+    "created_at": "2025-10-21T21:13:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T22:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980744156902560254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1973944428005101568",
+          "start": 0,
+          "username": "Liqiang_xjptank"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980744156902560254",
+    "in_reply_to_user_id": "1973944428005101568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980562989561573389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liqiang_xjptank 我支持你馬上去火化自己，去吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1980562989561573389",
+        "created_at": "2025-10-21T21:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T22:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980744156902560254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1973944428005101568",
+              "start": 0,
+              "username": "Liqiang_xjptank"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980744156902560254",
+        "in_reply_to_user_id": "1973944428005101568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980562989561573389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liqiang_xjptank 我支持你馬上去火化自己，去吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1973944428005101568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1980562989561573389",
+        "created_at": "2025-10-21T09:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T10:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980562989561573389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lwrdhyyuxr2249…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/lwrdhyyuxr22499/status/1980558276468306234",
+              "start": 48,
+              "url": "https://t.co/1FIcF2ISAH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980562989561573389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 571,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980558276468306234",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦哦哦，去救，还要实名发视频上批站，视频里记得这截图🫡我支持再教育纠正学校，让孩子们再劳动教育 https://t.co/1FIcF2ISAH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 98,
+          "like_count": 4763,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 875
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-03T02:53:35.000Z",
+        "description": "",
+        "id": "1973944428005101568",
+        "name": "jp X",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973944493264232448/eqZ0ucIR_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 16,
+          "like_count": 1610,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 361
+        },
+        "username": "Liqiang_xjptank",
+        "verified": false
+      }
+    ]
+  }
+}

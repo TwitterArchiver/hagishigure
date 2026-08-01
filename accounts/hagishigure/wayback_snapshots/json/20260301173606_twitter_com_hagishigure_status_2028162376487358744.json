@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028162366534307840"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "2028162376487358744",
+    "created_at": "2026-03-01T17:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T18:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028162376487358744"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2EeQVhaMwB",
+          "end": 39,
+          "expanded_url": "https://x.com/hagishigure/status/2028162376487358744/photo/1",
+          "media_key": "3_2028162366534307840",
+          "start": 16,
+          "url": "https://t.co/2EeQVhaMwB"
+        },
+        {
+          "display_url": "x.com/amber_toffee/s…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/amber_toffee/status/2028151548300169702",
+          "start": 40,
+          "url": "https://t.co/25ZL11FMcU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028162376487358744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028151548300169702",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么跟我早期发癫写的差不多。🥴 https://t.co/2EeQVhaMwB https://t.co/25ZL11FMcU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 364,
+        "media_key": "3_2028162366534307840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCV67TwX0AA7lNi.jpg",
+        "width": 1154
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028162366534307840"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "2028162376487358744",
+        "created_at": "2026-03-01T17:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T18:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028162376487358744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2EeQVhaMwB",
+              "end": 39,
+              "expanded_url": "https://x.com/hagishigure/status/2028162376487358744/photo/1",
+              "media_key": "3_2028162366534307840",
+              "start": 16,
+              "url": "https://t.co/2EeQVhaMwB"
+            },
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/amber_toffee/status/2028151548300169702",
+              "start": 40,
+              "url": "https://t.co/25ZL11FMcU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028162376487358744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028151548300169702",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么跟我早期发癫写的差不多。🥴 https://t.co/2EeQVhaMwB https://t.co/25ZL11FMcU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "2028151548300169702",
+        "created_at": "2026-03-01T16:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T17:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028151548300169702"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028151548300169702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 208,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于爱的常规叙事之所以令人厌恶，很可能是因为它常以无私之名掩盖「爱」之施予者的控制和胁迫。如果能把自私这一维度挑明，关怀反而才有了超脱于它的可能性；因为自私是不求回馈的，这反而使得回馈能成为纯粹的礼物，而非对亏欠的补偿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 139,
+          "like_count": 22970,
+          "listed_count": 2,
+          "media_count": 651,
+          "tweet_count": 5648
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "ᴍᴛꜰ / ɪɴᴛᴘ / ᴘʜᴅ @wgsi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 17,
+                "username": "wgsi"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "☭ 🏳️‍⚧️ (she/her/她)",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22408,
+          "following_count": 2614,
+          "like_count": 37181,
+          "listed_count": 0,
+          "media_count": 466,
+          "tweet_count": 19643
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

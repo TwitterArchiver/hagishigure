@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989637315472625664",
+        "3_1989637315862642688",
+        "3_1989637315820683264",
+        "3_1989637316412063745"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1989637323177562331",
+    "created_at": "2025-11-15T10:11:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T11:11:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989637323177562331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 71,
+          "id": "1514911156888084480",
+          "start": 64,
+          "username": "TMS_CN"
+        },
+        {
+          "end": 84,
+          "id": "938985313040416769",
+          "start": 73,
+          "username": "cxx114514_"
+        },
+        {
+          "end": 99,
+          "id": "1600208165269741570",
+          "start": 85,
+          "username": "MeowCatherina"
+        }
+      ],
+      "urls": [
+        {
+          "description": "歌曲名《像我这样的人》，由 毛不易 演唱，收录于《平凡的一天》专辑中，《像我这样的人》下载，《像我这样的人》在线试听，更多像我这样的人相关歌曲推荐，尽在网易云音乐",
+          "display_url": "y.music.163.com/m/song?id=5692…",
+          "end": 155,
+          "expanded_url": "https://y.music.163.com/m/song?id=569213220&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=76001&PlayerStyles_SynchronousSharing=t3&sc=wm&tn=",
+          "start": 132,
+          "status": 200,
+          "title": "像我这样的人 - 毛不易 - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?id=569213220&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=76001&PlayerStyles_SynchronousSharing=t3&sc=wm&tn=",
+          "url": "https://t.co/RefGpXW7Dl"
+        },
+        {
+          "display_url": "pic.x.com/HLnvrl7J4g",
+          "end": 179,
+          "expanded_url": "https://x.com/hagishigure/status/1989637323177562331/photo/1",
+          "media_key": "3_1989637315472625664",
+          "start": 156,
+          "url": "https://t.co/HLnvrl7J4g"
+        },
+        {
+          "display_url": "pic.x.com/HLnvrl7J4g",
+          "end": 179,
+          "expanded_url": "https://x.com/hagishigure/status/1989637323177562331/photo/1",
+          "media_key": "3_1989637315862642688",
+          "start": 156,
+          "url": "https://t.co/HLnvrl7J4g"
+        },
+        {
+          "display_url": "pic.x.com/HLnvrl7J4g",
+          "end": 179,
+          "expanded_url": "https://x.com/hagishigure/status/1989637323177562331/photo/1",
+          "media_key": "3_1989637315820683264",
+          "start": 156,
+          "url": "https://t.co/HLnvrl7J4g"
+        },
+        {
+          "display_url": "pic.x.com/HLnvrl7J4g",
+          "end": 179,
+          "expanded_url": "https://x.com/hagishigure/status/1989637323177562331/photo/1",
+          "media_key": "3_1989637316412063745",
+          "start": 156,
+          "url": "https://t.co/HLnvrl7J4g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989637323177562331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1，推薦閱讀：《論文字学》《性經驗史》\n2，推薦閱讀：《規訓与懲罰》，我曾以為我習慣冷淡，隨後我才發現我是天性渺小和懦弱。\n3，@TMS_CN  @cxx114514_ @MeowCatherina （如果回復我這條po文請在回復里手動去掉勾選提到。）\n4，推薦：https://t.co/RefGpXW7Dl https://t.co/HLnvrl7J4g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989637315472625664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ycmMybkAAYj9_.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989637315862642688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ycmOPawAA8zyb.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989637315820683264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ycmOFagAAziOo.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989637316412063745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ycmQSaQAE0o66.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989637315472625664",
+            "3_1989637315862642688",
+            "3_1989637315820683264",
+            "3_1989637316412063745"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1989637323177562331",
+        "created_at": "2025-11-15T10:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T11:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989637323177562331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 71,
+              "id": "1514911156888084480",
+              "start": 64,
+              "username": "TMS_CN"
+            },
+            {
+              "end": 84,
+              "id": "938985313040416769",
+              "start": 73,
+              "username": "cxx114514_"
+            },
+            {
+              "end": 99,
+              "id": "1600208165269741570",
+              "start": 85,
+              "username": "MeowCatherina"
+            }
+          ],
+          "urls": [
+            {
+              "description": "歌曲名《像我这样的人》，由 毛不易 演唱，收录于《平凡的一天》专辑中，《像我这样的人》下载，《像我这样的人》在线试听，更多像我这样的人相关歌曲推荐，尽在网易云音乐",
+              "display_url": "y.music.163.com/m/song?id=5692…",
+              "end": 155,
+              "expanded_url": "https://y.music.163.com/m/song?id=569213220&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=76001&PlayerStyles_SynchronousSharing=t3&sc=wm&tn=",
+              "start": 132,
+              "status": 200,
+              "title": "像我这样的人 - 毛不易 - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=569213220&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=76001&PlayerStyles_SynchronousSharing=t3&sc=wm&tn=",
+              "url": "https://t.co/RefGpXW7Dl"
+            },
+            {
+              "display_url": "pic.x.com/HLnvrl7J4g",
+              "end": 179,
+              "expanded_url": "https://x.com/hagishigure/status/1989637323177562331/photo/1",
+              "media_key": "3_1989637315472625664",
+              "start": 156,
+              "url": "https://t.co/HLnvrl7J4g"
+            },
+            {
+              "display_url": "pic.x.com/HLnvrl7J4g",
+              "end": 179,
+              "expanded_url": "https://x.com/hagishigure/status/1989637323177562331/photo/1",
+              "media_key": "3_1989637315862642688",
+              "start": 156,
+              "url": "https://t.co/HLnvrl7J4g"
+            },
+            {
+              "display_url": "pic.x.com/HLnvrl7J4g",
+              "end": 179,
+              "expanded_url": "https://x.com/hagishigure/status/1989637323177562331/photo/1",
+              "media_key": "3_1989637315820683264",
+              "start": 156,
+              "url": "https://t.co/HLnvrl7J4g"
+            },
+            {
+              "display_url": "pic.x.com/HLnvrl7J4g",
+              "end": 179,
+              "expanded_url": "https://x.com/hagishigure/status/1989637323177562331/photo/1",
+              "media_key": "3_1989637316412063745",
+              "start": 156,
+              "url": "https://t.co/HLnvrl7J4g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989637323177562331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1，推薦閱讀：《論文字学》《性經驗史》\n2，推薦閱讀：《規訓与懲罰》，我曾以為我習慣冷淡，隨後我才發現我是天性渺小和懦弱。\n3，@TMS_CN  @cxx114514_ @MeowCatherina （如果回復我這條po文請在回復里手動去掉勾選提到。）\n4，推薦：https://t.co/RefGpXW7Dl https://t.co/HLnvrl7J4g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 107,
+          "like_count": 8881,
+          "listed_count": 0,
+          "media_count": 300,
+          "tweet_count": 2023
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-15T10:19:18.000Z",
+        "description": "善良的人死后会上天堂，而天堂就在这城市的上空，只不过太高了，人们看不到而已。那里有一列长长的列车，穿过无尽的田野，最终把人们送进大海，回到人间。\n正事请看 @mcucst",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 78,
+                "username": "mcucst"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "silvicky.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://silvicky.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/ZB2HPPnWPn"
+              }
+            ]
+          }
+        },
+        "id": "1514911156888084480",
+        "location": "光立市综合科技大学化学系",
+        "name": "sil vk🖲💭💡🎈❤️💜💛",
+        "pinned_tweet_id": "1978480889798799663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608877406349328386/KbL4ohqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8985,
+          "following_count": 4268,
+          "like_count": 79405,
+          "listed_count": 16,
+          "media_count": 67,
+          "tweet_count": 1485
+        },
+        "url": "https://t.co/ZB2HPPnWPn",
+        "username": "TMS_CN",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-08T04:15:18.000Z",
+        "description": "这里19岁满天星一枚……\n【满脑子粉色什么的才不会告诉你们喵！】\n喵系含糖mtx，想变可爱什么的应该没错吧！",
+        "id": "938985313040416769",
+        "name": "Moexxx⌬（淡推中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978200197361725441/0LaAr0L4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 9,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 11
+        },
+        "username": "cxx114514_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21INTP｜⚠️不会说话和社交的AuDHD｜🏫Monash｜🐈/🏹/🚴/💻｜某司高管(逃)｜意面神教牧师｜BA4R**｜GPG: C1D9 84F0 BBA1 B3B9｜持证嗓音训练师｜做教育学科研还能画图的经济学生是好的计科人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "service.cntt.uk",
+                "end": 23,
+                "expanded_url": "https://service.cntt.uk",
+                "start": 0,
+                "url": "https://t.co/8NIDYwDlph"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫窝",
+        "name": "凯瑟琳奈（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906720680164589568/QYK6UxuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6496,
+          "following_count": 1088,
+          "like_count": 73557,
+          "listed_count": 21,
+          "media_count": 1928,
+          "tweet_count": 22926
+        },
+        "url": "https://t.co/8NIDYwDlph",
+        "username": "MeowCatherina",
+        "verified": true
+      }
+    ]
+  }
+}

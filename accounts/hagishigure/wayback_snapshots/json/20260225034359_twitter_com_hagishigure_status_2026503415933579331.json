@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2026501528006037767",
+    "created_at": "2026-02-25T03:43:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T04:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026503415933579331"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026503415933579331",
+    "in_reply_to_user_id": "1965393379224944645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026501528006037767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们通常不需要论述桌子是桌子，只有在桌子可能或不是桌子的时候或驳斥桌子不是桌子的时候，才需要强化论述「桌子是桌子」。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2026501528006037767",
+        "created_at": "2026-02-25T03:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T04:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026503415933579331"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026503415933579331",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026501528006037767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们通常不需要论述桌子是桌子，只有在桌子可能或不是桌子的时候或驳斥桌子不是桌子的时候，才需要强化论述「桌子是桌子」。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2026501528006037767",
+        "created_at": "2026-02-25T03:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T04:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026501528006037767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hagishigure/st…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/hagishigure/status/2026496993019793533",
+              "start": 154,
+              "url": "https://t.co/kMub06Ohvf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026501528006037767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026496993019793533",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以我觉得你们在说我误用Butler之前，能不能先去学习一下Irigaray的“女人不是一”（woman is not one）和Butler的“可悲的失败”（grievable lives）？\n一直强调跨性别女性是女性才是对跨性别女性的不礼貌，换个角度想，你需要在现实里强调你认识的afab是afab吗？ https://t.co/kMub06Ohvf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 137,
+          "like_count": 22086,
+          "listed_count": 3,
+          "media_count": 624,
+          "tweet_count": 5431
+        },
+        "username": "hagishigure",
+        "verified": true
+      }
+    ]
+  }
+}

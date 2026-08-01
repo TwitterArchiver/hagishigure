@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television Show Genres",
+          "id": "22",
+          "name": "TV Genres"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      }
+    ],
+    "conversation_id": "2001093988800245817",
+    "created_at": "2025-12-17T08:43:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T09:43:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001211638138200220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1151704605140504576",
+          "start": 0,
+          "username": "zhongshui_L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001211638138200220",
+    "in_reply_to_user_id": "1151704605140504576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001093988800245817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhongshui_L 雖然有點傷人，但實話實說，去看看電視劇，東廠公公就這聲音。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          }
+        ],
+        "conversation_id": "2001093988800245817",
+        "created_at": "2025-12-17T08:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T09:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001211638138200220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1151704605140504576",
+              "start": 0,
+              "username": "zhongshui_L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001211638138200220",
+        "in_reply_to_user_id": "1151704605140504576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001093988800245817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhongshui_L 雖然有點傷人，但實話實說，去看看電視劇，東廠公公就這聲音。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2001093984245178368"
+          ]
+        },
+        "author_id": "1151704605140504576",
+        "conversation_id": "2001093988800245817",
+        "created_at": "2025-12-17T00:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T01:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001093988800245817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "drive.google.com/file/d/1oULvz2…",
+              "end": 23,
+              "expanded_url": "https://drive.google.com/file/d/1oULvz2Xd0DS61rMQ1zSS4WsEkyVrFw--/view?usp=drivesdk",
+              "start": 0,
+              "status": 200,
+              "title": "声音测试1.m4a",
+              "unwound_url": "https://drive.google.com/file/d/1oULvz2Xd0DS61rMQ1zSS4WsEkyVrFw--/view?usp=drivesdk",
+              "url": "https://t.co/e1i991BV6l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001093988800245817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1088,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/e1i991BV6l\n帮我听一听我的声音能pass吗🥺\n如果大部分人听着都是女声，我就要去编写欠大家好几个月的嗓音女性化教程了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 116,
+          "like_count": 13091,
+          "listed_count": 0,
+          "media_count": 386,
+          "tweet_count": 3105
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-18T04:05:50.000Z",
+        "description": "trans lesbian/女权主义/INF(T)P/社会民主主义/不爱回fo，见谅",
+        "id": "1151704605140504576",
+        "name": "中水🏳️‍⚧️",
+        "pinned_tweet_id": "1894321523529584804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815262362523643904/IhZ3igMS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 288,
+          "like_count": 5835,
+          "listed_count": 5,
+          "media_count": 70,
+          "tweet_count": 1859
+        },
+        "username": "zhongshui_L",
+        "verified": false
+      }
+    ]
+  }
+}

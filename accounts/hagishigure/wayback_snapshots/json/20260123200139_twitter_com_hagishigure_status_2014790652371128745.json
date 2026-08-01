@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2014480694081421312"
+      ],
+      "media_source_tweet_id": [
+        "2014480862151377269"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "2014790652371128745",
+    "created_at": "2026-01-23T20:01:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T21:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014790652371128745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1575765089030139905",
+          "start": 3,
+          "username": "wodanggangqiang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gRGLTBwjaR",
+          "end": 58,
+          "expanded_url": "https://x.com/wodanggangqiang/status/2014480862151377269/video/1",
+          "media_key": "13_2014480694081421312",
+          "start": 35,
+          "url": "https://t.co/gRGLTBwjaR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014790652371128745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014480862151377269",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wodanggangqiang: 已经癫成我不认识的样子了。 https://t.co/gRGLTBwjaR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43243,
+        "height": 1912,
+        "media_key": "13_2014480694081421312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2014480694081421312/img/xb8xXlXlaCx0nppf.jpg",
+        "public_metrics": {
+          "view_count": 14510
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2014480694081421312/pl/gKPF_ecfgCesimPE.m3u8?v=d44"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014480694081421312/vid/avc1/320x506/IH65xuFIHeXmxmKR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014480694081421312/vid/avc1/480x760/D4QejXVcpp3VSrE3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014480694081421312/vid/avc1/720x1140/j5AeaJnlDA-6nIsB.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014480694081421312/vid/avc1/1206x1912/cR3CAYn_76EGyZLi.mp4"
+          }
+        ],
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2014480694081421312"
+          ],
+          "media_source_tweet_id": [
+            "2014480862151377269"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "2014790652371128745",
+        "created_at": "2026-01-23T20:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T21:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014790652371128745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1575765089030139905",
+              "start": 3,
+              "username": "wodanggangqiang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gRGLTBwjaR",
+              "end": 58,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2014480862151377269/video/1",
+              "media_key": "13_2014480694081421312",
+              "start": 35,
+              "url": "https://t.co/gRGLTBwjaR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014790652371128745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014480862151377269",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wodanggangqiang: 已经癫成我不认识的样子了。 https://t.co/gRGLTBwjaR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2014480694081421312"
+          ]
+        },
+        "author_id": "1575765089030139905",
+        "conversation_id": "2014480862151377269",
+        "created_at": "2026-01-22T23:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T00:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014480862151377269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gRGLTBwjaR",
+              "end": 37,
+              "expanded_url": "https://x.com/wodanggangqiang/status/2014480862151377269/video/1",
+              "media_key": "13_2014480694081421312",
+              "start": 14,
+              "url": "https://t.co/gRGLTBwjaR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014480862151377269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 27612,
+          "like_count": 295,
+          "quote_count": 8,
+          "reply_count": 25,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "已经癫成我不认识的样子了。 https://t.co/gRGLTBwjaR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 122,
+          "like_count": 15999,
+          "listed_count": 0,
+          "media_count": 430,
+          "tweet_count": 3724
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-30T08:31:04.000Z",
+        "description": "独立而自由的灵魂，才是幸福之源。做自己，比任何事情都重要。",
+        "id": "1575765089030139905",
+        "location": "Japan",
+        "name": "我当刚强壮胆",
+        "pinned_tweet_id": "1824841439647515059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961052065981194240/mj8Sddub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26583,
+          "following_count": 543,
+          "like_count": 32146,
+          "listed_count": 90,
+          "media_count": 9317,
+          "tweet_count": 25303
+        },
+        "username": "wodanggangqiang",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2002404695206203819",
+    "created_at": "2025-12-20T15:44:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T16:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2002404695206203819"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AESISTN/status…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/AESISTN/status/2002315010651873641",
+          "start": 72,
+          "url": "https://t.co/28g87O0UF2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002404695206203819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002315010651873641",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這人能把我ban了能是什么懂醫學的人嗎。一看就是那種別人説10mg注射會導致E2過高會導致負面效果就拿自己是跨子的符號去反過來批判科學是錯的。 https://t.co/28g87O0UF2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002315002167074816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8mm4sCaoAA2dZe.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2002404695206203819",
+        "created_at": "2025-12-20T15:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T16:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002404695206203819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AESISTN/status…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/AESISTN/status/2002315010651873641",
+              "start": 72,
+              "url": "https://t.co/28g87O0UF2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002404695206203819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002315010651873641",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這人能把我ban了能是什么懂醫學的人嗎。一看就是那種別人説10mg注射會導致E2過高會導致負面效果就拿自己是跨子的符號去反過來批判科學是錯的。 https://t.co/28g87O0UF2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002315002167074816"
+          ]
+        },
+        "author_id": "1225970482379251712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2002315010651873641",
+        "created_at": "2025-12-20T09:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T10:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002315010651873641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f5RNJqrt1L",
+              "end": 98,
+              "expanded_url": "https://x.com/AESISTN/status/2002315010651873641/photo/1",
+              "media_key": "3_2002315002167074816",
+              "start": 75,
+              "url": "https://t.co/f5RNJqrt1L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002315010651873641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1695,
+          "like_count": 16,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "411小团体发力了。人家刚说完一直在被小团体攻击所以不敢说话。\n411小团体就蹦出来跳脚展示\n唉411唉小团体唉华为唉种🌸\n骂不得，骂了就是反🌸势力 https://t.co/f5RNJqrt1L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 116,
+          "like_count": 13339,
+          "listed_count": 0,
+          "media_count": 389,
+          "tweet_count": 3150
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-08T02:32:02.000Z",
+        "description": "想看石榴花开在海底/地雷系/💛🤍💜🖤/随机负面情绪输出",
+        "id": "1225970482379251712",
+        "name": "未命名符",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920488732399927296/66ihscZp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 163,
+          "like_count": 1428,
+          "listed_count": 2,
+          "media_count": 164,
+          "tweet_count": 929
+        },
+        "username": "AESISTN",
+        "verified": false
+      }
+    ]
+  }
+}

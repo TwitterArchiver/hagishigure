@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1980405860284395812",
+    "created_at": "2025-10-20T22:48:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T23:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980405860284395812"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086xe/stat…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/hsn8086xe/status/1980211816262517013",
+          "start": 19,
+          "url": "https://t.co/wbVbuAN6mS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980405860284395812",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980211816262517013",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "100日元以下根本沒有能用的絨布球🥺 https://t.co/wbVbuAN6mS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 725,
+        "media_key": "3_1980211807533891584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3sgJbgXgAAO86b.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1980405860284395812",
+        "created_at": "2025-10-20T22:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T23:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980405860284395812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086xe/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/hsn8086xe/status/1980211816262517013",
+              "start": 19,
+              "url": "https://t.co/wbVbuAN6mS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980405860284395812",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980211816262517013",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "100日元以下根本沒有能用的絨布球🥺 https://t.co/wbVbuAN6mS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980211807533891584"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "1980211816262517013",
+        "created_at": "2025-10-20T09:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T10:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980211816262517013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A6AvhEQdnz",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/1980211816262517013/photo/1",
+              "media_key": "3_1980211807533891584",
+              "start": 0,
+              "url": "https://t.co/A6AvhEQdnz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980211816262517013",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7683,
+          "like_count": 165,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/A6AvhEQdnz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 95,
+          "like_count": 4596,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 825
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "pinned_tweet_id": "1946867029245624703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20713,
+          "following_count": 206,
+          "like_count": 53,
+          "listed_count": 58,
+          "media_count": 7004,
+          "tweet_count": 7028
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

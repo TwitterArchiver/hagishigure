@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2008296036083834982",
+    "created_at": "2026-01-05T21:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T22:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008296036083834982"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/arayu4120/stat…",
+          "end": 300,
+          "expanded_url": "https://twitter.com/arayu4120/status/2008082244892824031",
+          "start": 277,
+          "url": "https://t.co/jx03bFwqaw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008296036083834982",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008082244892824031",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Als in Deutschland ansässiger Bürger und Mitglied der niederländischen PvdA erkläre ich der Bundesrepublik Deutschland sowie D66 und PVV, dass ich Ihre Dienste nicht in Anspruch nehmen darf.Bis ihr die Speisekarte überarbeitet, die uns Europäern den doppelten Preis berechnet. https://t.co/jx03bFwqaw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1320,
+        "media_key": "3_2008082238324502528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G94kKA8acAAR0OU.jpg",
+        "width": 1320
+      },
+      {
+        "height": 617,
+        "media_key": "3_2008082238358122496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G94kKBEbcAAtVlm.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2008082238328733696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G94kKA9bAAANen3.jpg",
+        "width": 1090
+      },
+      {
+        "height": 1736,
+        "media_key": "3_2008082238311944192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G94kKA5a0AACbWj.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2008296036083834982",
+        "created_at": "2026-01-05T21:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T22:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008296036083834982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/arayu4120/stat…",
+              "end": 300,
+              "expanded_url": "https://twitter.com/arayu4120/status/2008082244892824031",
+              "start": 277,
+              "url": "https://t.co/jx03bFwqaw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008296036083834982",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008082244892824031",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Als in Deutschland ansässiger Bürger und Mitglied der niederländischen PvdA erkläre ich der Bundesrepublik Deutschland sowie D66 und PVV, dass ich Ihre Dienste nicht in Anspruch nehmen darf.Bis ihr die Speisekarte überarbeitet, die uns Europäern den doppelten Preis berechnet. https://t.co/jx03bFwqaw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008082238324502528",
+            "3_2008082238358122496",
+            "3_2008082238328733696",
+            "3_2008082238311944192"
+          ]
+        },
+        "author_id": "1596797813991813122",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2008082244892824031",
+        "created_at": "2026-01-05T07:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T08:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008082244892824031"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "Google",
+              "probability": 0.5998,
+              "start": 29,
+              "type": "Organization"
+            },
+            {
+              "end": 92,
+              "normalized_text": "日本",
+              "probability": 0.6213,
+              "start": 91,
+              "type": "Place"
+            },
+            {
+              "end": 118,
+              "normalized_text": "Google",
+              "probability": 0.6904,
+              "start": 113,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dd1HwO0Ln8",
+              "end": 178,
+              "expanded_url": "https://x.com/arayu4120/status/2008082244892824031/photo/1",
+              "media_key": "3_2008082238324502528",
+              "start": 155,
+              "url": "https://t.co/dd1HwO0Ln8"
+            },
+            {
+              "display_url": "pic.x.com/dd1HwO0Ln8",
+              "end": 178,
+              "expanded_url": "https://x.com/arayu4120/status/2008082244892824031/photo/1",
+              "media_key": "3_2008082238358122496",
+              "start": 155,
+              "url": "https://t.co/dd1HwO0Ln8"
+            },
+            {
+              "display_url": "pic.x.com/dd1HwO0Ln8",
+              "end": 178,
+              "expanded_url": "https://x.com/arayu4120/status/2008082244892824031/photo/1",
+              "media_key": "3_2008082238328733696",
+              "start": 155,
+              "url": "https://t.co/dd1HwO0Ln8"
+            },
+            {
+              "display_url": "pic.x.com/dd1HwO0Ln8",
+              "end": 178,
+              "expanded_url": "https://x.com/arayu4120/status/2008082244892824031/photo/1",
+              "media_key": "3_2008082238311944192",
+              "start": 155,
+              "url": "https://t.co/dd1HwO0Ln8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008082244892824031",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 177950,
+          "like_count": 5045,
+          "quote_count": 43,
+          "reply_count": 99,
+          "retweet_count": 991
+        },
+        "reply_settings": "everyone",
+        "text": "人生初の万バズからの人生初のトレンド入り。\n\n中国人からのGoogle口コミ。\n嫌がらせが止まらん。\n\nこれが答えやで。\nこういう陰湿で悪質な事をしてくる。\n\n絶対負けへんからな。\n日本の飲食店を舐めるな。\n馬鹿にするな。\n\nGoogle側も消去して応援してくれてる👊\n皆も通報して応援を宜しく頼むで❤️‍🔥 https://t.co/dd1HwO0Ln8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 119,
+          "like_count": 14566,
+          "listed_count": 0,
+          "media_count": 401,
+          "tweet_count": 3378
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T09:27:36.000Z",
+        "description": "【元格闘家THE OUTSIDER ﾗﾝｷﾝｸﾞ3位】【 Instagram (arayu412)／facebook新井悠介 】",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@gmw9062",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@gmw9062",
+                "start": 0,
+                "url": "https://t.co/VxRzjHOKZY"
+              }
+            ]
+          }
+        },
+        "id": "1596797813991813122",
+        "location": "【新井商事株式会社／株式会社K・N・T】",
+        "name": "【公式】我道家のスモールＢＯＳＳ　新井悠介《直営４店舗　ＧＲＯＵＰ６店舗》",
+        "pinned_tweet_id": "1934445272341594239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834950504449032192/xydoQMvo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2639,
+          "following_count": 40,
+          "like_count": 219,
+          "listed_count": 11,
+          "media_count": 321,
+          "tweet_count": 1480
+        },
+        "url": "https://t.co/VxRzjHOKZY",
+        "username": "arayu4120",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1981948512528114057",
+    "created_at": "2025-10-25T04:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T05:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981948512528114057"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Hoshikawa_ran/…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/Hoshikawa_ran/status/1981700217264394261",
+          "start": 27,
+          "url": "https://t.co/UBux35xX6t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981948512528114057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981700217264394261",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我說那些凡事都問AI的人大腦會降級，紙上得來終覺淺😡 https://t.co/UBux35xX6t"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1981948512528114057",
+        "created_at": "2025-10-25T04:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T05:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981948512528114057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Hoshikawa_ran/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Hoshikawa_ran/status/1981700217264394261",
+              "start": 27,
+              "url": "https://t.co/UBux35xX6t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981948512528114057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981700217264394261",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我說那些凡事都問AI的人大腦會降級，紙上得來終覺淺😡 https://t.co/UBux35xX6t"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2689170356",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1981700217264394261",
+        "created_at": "2025-10-24T12:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T13:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981700217264394261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/grok/status/19…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/grok/status/1981189309500961217",
+              "start": 78,
+              "url": "https://t.co/1wTqyNZCAS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981700217264394261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4307,
+          "like_count": 62,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981189309500961217",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😅你TM查了个寂寞\n\n四会市没有叫沙塘村的地方\n蛇果是因为原品种名叫Red Delicious，香港根据Delicious音译为“地厘蛇果”，简称“蛇果” https://t.co/1wTqyNZCAS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 99,
+          "like_count": 5518,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1087
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2014-07-29T04:45:18.000Z",
+        "description": "被困在男性身体里的灵体生物 | 经济学&历史学背景 | 社自🗽为体，社民🌹为用 | 减速主义 | 混乱善良 | 反法西斯反威权，声援各国进步和民主运动 | 自然神论 | “庸俗的资产阶级人道主义者” | “恶贯满盈的中道壬” | 浮生辗转承一诺，不容青史尽成灰 | 美国不是我爹，是你以及一切混蛋的爹",
+        "id": "2689170356",
+        "location": "自由人联合体",
+        "name": "星川 蘭🇺🇦🇪🇺🇨🇦🇬🇱爱美TV义务宣传员 ver.🌻📄",
+        "pinned_tweet_id": "1892408950336663584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1503035329233580034/bXYTE57g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14991,
+          "following_count": 395,
+          "like_count": 151357,
+          "listed_count": 69,
+          "media_count": 2580,
+          "tweet_count": 25809
+        },
+        "username": "Hoshikawa_ran",
+        "verified": false
+      }
+    ]
+  }
+}

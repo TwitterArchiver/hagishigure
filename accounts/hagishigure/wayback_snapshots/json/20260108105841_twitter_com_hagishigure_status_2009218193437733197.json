@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2009218193437733197",
+    "created_at": "2026-01-08T10:58:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T11:58:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009218193437733197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1728993251825451008",
+          "start": 3,
+          "username": "perplestuf"
+        },
+        {
+          "end": 27,
+          "id": "1247081460785348608",
+          "start": 16,
+          "username": "axiochrono"
+        },
+        {
+          "end": 40,
+          "id": "1929015109579345920",
+          "start": 28,
+          "username": "Qwarz_Atarz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009218193437733197",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008970988764156217",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @perplestuf: @axiochrono @Qwarz_Atarz thinking that refugees should stay and suffer in their home country is absolutely deranged"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2009218193437733197",
+        "created_at": "2026-01-08T10:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T11:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009218193437733197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1728993251825451008",
+              "start": 3,
+              "username": "perplestuf"
+            },
+            {
+              "end": 27,
+              "id": "1247081460785348608",
+              "start": 16,
+              "username": "axiochrono"
+            },
+            {
+              "end": 40,
+              "id": "1929015109579345920",
+              "start": 28,
+              "username": "Qwarz_Atarz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009218193437733197",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008970988764156217",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @perplestuf: @axiochrono @Qwarz_Atarz thinking that refugees should stay and suffer in their home country is absolutely deranged"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728993251825451008",
+        "conversation_id": "2008913852054769703",
+        "created_at": "2026-01-07T18:36:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T19:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008970988764156217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1247081460785348608",
+              "start": 0,
+              "username": "axiochrono"
+            },
+            {
+              "end": 24,
+              "id": "1929015109579345920",
+              "start": 12,
+              "username": "Qwarz_Atarz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008970988764156217",
+        "in_reply_to_user_id": "1247081460785348608",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1480,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008955950976389220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axiochrono @Qwarz_Atarz thinking that refugees should stay and suffer in their home country is absolutely deranged"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 119,
+          "like_count": 14746,
+          "listed_count": 0,
+          "media_count": 409,
+          "tweet_count": 3437
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T04:25:22.000Z",
+        "description": "gods swankiest alien\n\nshe/fig/it",
+        "id": "1728993251825451008",
+        "name": "perplestuff 🏳️‍⚧️",
+        "pinned_tweet_id": "1862294750168010937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974934338950008832/z1aKC_ZZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 288,
+          "like_count": 7706,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 1508
+        },
+        "username": "perplestuf",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-06T08:39:38.000Z",
+        "description": "Anorak-wearing Doctor Who fan who really likes talking about voting systems - @_britmonkey | 19, he/him, ✝️, Politics & IR undergrad, @LibDems | priv: @axioomf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 78,
+                "username": "_britmonkey"
+              },
+              {
+                "end": 142,
+                "start": 134,
+                "username": "LibDems"
+              },
+              {
+                "end": 159,
+                "start": 151,
+                "username": "axioomf"
+              }
+            ]
+          }
+        },
+        "id": "1247081460785348608",
+        "location": "Reading, United Kingdom",
+        "name": "Axio 🔶",
+        "pinned_tweet_id": "1996783576797651060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874485680358764544/A2WK8aMV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1560,
+          "following_count": 2920,
+          "like_count": 104257,
+          "listed_count": 13,
+          "media_count": 1361,
+          "tweet_count": 45234
+        },
+        "username": "axiochrono",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T03:20:51.000Z",
+        "description": "#1 ILLEGAL TRANSGENDER ALIEN \n🏳️‍⚧️👽🏳️‍⚧️ #DarkWoke 🩷🩵🤍 \n\nsupport meeeee :33333 https://t.co/UGCg3Pz0pt\n\n☆ Your Favourite Russian Femboy ☆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 42,
+                "tag": "DarkWoke"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/QwarzAtarz",
+                "end": 103,
+                "expanded_url": "http://patreon.com/QwarzAtarz",
+                "start": 80,
+                "url": "https://t.co/UGCg3Pz0pt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@qwarzatarz7440",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@qwarzatarz7440",
+                "start": 0,
+                "url": "https://t.co/LPgW7VGq0p"
+              }
+            ]
+          }
+        },
+        "id": "1929015109579345920",
+        "name": "Qwarzu🏳️‍⚧️👽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943984352087425024/XbEOTqmZ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10241,
+          "following_count": 56,
+          "like_count": 42939,
+          "listed_count": 107,
+          "media_count": 188,
+          "tweet_count": 754
+        },
+        "url": "https://t.co/LPgW7VGq0p",
+        "username": "Qwarz_Atarz",
+        "verified": false
+      }
+    ]
+  }
+}

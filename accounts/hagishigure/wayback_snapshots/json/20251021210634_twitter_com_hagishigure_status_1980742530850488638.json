@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1980502823206023349",
+    "created_at": "2025-10-21T21:06:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T22:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980742530850488638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1887069376031182848",
+          "start": 0,
+          "username": "Mirro_zinuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980742530850488638",
+    "in_reply_to_user_id": "1887069376031182848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980502823206023349",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mirro_zinuo 炫耀不是為了光榮，而是為了提醒自己，還活著，還能發出聲響。就像夜裡的萤火，微弱卻頑強，照亮一小方黑暗。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980502818420137984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3wo0fiXoAA6xSL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980502818411679744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3wo0fgWkAAZUu3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1980502823206023349",
+        "created_at": "2025-10-21T21:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T22:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980742530850488638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1887069376031182848",
+              "start": 0,
+              "username": "Mirro_zinuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980742530850488638",
+        "in_reply_to_user_id": "1887069376031182848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980502823206023349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mirro_zinuo 炫耀不是為了光榮，而是為了提醒自己，還活著，還能發出聲響。就像夜裡的萤火，微弱卻頑強，照亮一小方黑暗。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980502818420137984",
+            "3_1980502818411679744"
+          ]
+        },
+        "author_id": "1887069376031182848",
+        "conversation_id": "1980502823206023349",
+        "created_at": "2025-10-21T05:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T06:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980502823206023349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TP2GVjuL5F",
+              "end": 100,
+              "expanded_url": "https://x.com/Mirro_zinuo/status/1980502823206023349/photo/1",
+              "media_key": "3_1980502818420137984",
+              "start": 77,
+              "url": "https://t.co/TP2GVjuL5F"
+            },
+            {
+              "display_url": "pic.x.com/TP2GVjuL5F",
+              "end": 100,
+              "expanded_url": "https://x.com/Mirro_zinuo/status/1980502823206023349/photo/1",
+              "media_key": "3_1980502818411679744",
+              "start": 77,
+              "url": "https://t.co/TP2GVjuL5F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980502823206023349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "站在三十二楼名利场，明明能握住荣光，却弯腰捡起被扔的法考书。\n\n他说“地下室蚂蚁说话，楼上听不见”，瞬间戳中普通人的无力感，可后来他偏要帮听障群体发声。\n\n他和张小蕊说“我出生就在说话，没人听见”，隔窗听吴阿姨问“想戴金手镯有错吗”，才懂听障群体要的从不是钱，是被看见、被尊重。这不是个人英雄主义，而是一群人渴望被听见的抗争！\n\n这也是我当初为何选择做跨性别公益和跨性别运动的原因。无论是通过什么，我当时确实在跨性别中算过的不错的了。我有自己的公司，有自己的学业。普通跨性别者面对的歧视、偏见和打压其实对我已经没有什么影响。\n\n但我越往上爬越往上看越觉得，那些底层的普通人，他们也应该有好好活着的权利啊。她们只想好好活着，我只想让道路更加平坦一点。当一个个鲜活的悲剧站在我面前，我真的没有办法装聋又作哑，我真的没有办法不做点什么，哪怕要去冲撞那最坚硬的堡垒。中国的跨性别者已经在夹缝中求生，如果还要堵上我们的生路，我们能做的只有推翻这座大山。\n\n一场灾难中，我的良知使我无法做到自己得救后能不顾其他人安危拍拍屁股走人，我的良知会使我回去救人。因为我有良知，也因为这是我的祖国，有我的朋友，有我爱的人，我无法割舍。当然，救人有风险，会增加受害的概率，幸运的话可以尽力多救几个，不幸的话这多此一举便使一切付之东流。但，因为我有良知，所以我认。\n\n在看守所中我给检察官写的信中也写到：我为何做这一切，没有一件是为了自己，仅仅是因为我的良知，希望你也能拾起自己的良知。\n\n检察官后来在庭上说：被告人本靠自己的努力走出了苦难形成一个华丽的转身，今天却站在被告席上，他感到痛心。\n\n他也跟我说，他努力过想给我做不予起诉释放，但来自上面的压力干预，他没有办法。这是这个时代下小人物的无力与悲哀。\n\n但我认为小人物也要有小人物的抗争，至少对得起自己的良知，无愧于心。如果非要有牺牲谁才能推动时代的进步的话，那就让我粉身碎骨吧。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 299,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "站在三十二楼名利场，明明能握住荣光，却弯腰捡起被扔的法考书。\n\n他说“地下室蚂蚁说话，楼上听不见”，瞬间戳中普通人的无力感，可后来他偏要帮听障群体发声。 https://t.co/TP2GVjuL5F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 98,
+          "like_count": 4756,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 872
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-05T09:23:14.000Z",
+        "description": "糯老师正在复活中… /爱种哈密瓜/旧账号@fugu_JUN/以前叫源菌/05年老阿姨离异带俩娃/MtF/hrt 2019/退役oier退役地偶/占卜神秘学🔮/日常发疯/想要被世界喜欢/对异性恋我是不赞成也不反对的/焦虑型依恋/best friend @Guai_guai1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "fugu_JUN"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "Guai_guai1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "substack.com/@zinuo?r=5e6x2…",
+                "end": 23,
+                "expanded_url": "https://substack.com/@zinuo?r=5e6x26&utm_medium=ios&utm_source=profile",
+                "start": 0,
+                "url": "https://t.co/4qmIGbYeNa"
+              }
+            ]
+          }
+        },
+        "id": "1887069376031182848",
+        "name": "糯叽🏳️‍⚧️🇹🇼🇨🇦",
+        "pinned_tweet_id": "1961844598973567241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887069534986924032/_g2-66nA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 205,
+          "like_count": 3153,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 955
+        },
+        "url": "https://t.co/4qmIGbYeNa",
+        "username": "Mirro_zinuo",
+        "verified": true
+      }
+    ]
+  }
+}

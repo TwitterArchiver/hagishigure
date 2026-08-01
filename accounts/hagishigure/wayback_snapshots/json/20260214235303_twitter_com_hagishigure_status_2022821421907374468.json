@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2022821421907374468",
+    "created_at": "2026-02-14T23:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T00:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022821421907374468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1034485268315664385",
+          "start": 3,
+          "username": "URUWA_L_O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022821421907374468",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022580828069568794",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @URUWA_L_O: 私はこの懲戒請求によってバッジが汚されるかもしれません。\n\nでもあの場で語ったように、それでも人間としての、誇り高きトランスジェンダーとしての仲岡しゅんは、汚されることはないのです。\n\n今回、各地から友人やライバルや依頼者たちが駆け付けてくれたこと…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2022821421907374468",
+        "created_at": "2026-02-14T23:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T00:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022821421907374468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1034485268315664385",
+              "start": 3,
+              "username": "URUWA_L_O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022821421907374468",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022580828069568794",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @URUWA_L_O: 私はこの懲戒請求によってバッジが汚されるかもしれません。\n\nでもあの場で語ったように、それでも人間としての、誇り高きトランスジェンダーとしての仲岡しゅんは、汚されることはないのです。\n\n今回、各地から友人やライバルや依頼者たちが駆け付けてくれたこと…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1034485268315664385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2022580828069568794",
+        "created_at": "2026-02-14T07:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T08:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022580828069568794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/URUWA_L_O/stat…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/URUWA_L_O/status/2021010351194800386",
+              "start": 141,
+              "url": "https://t.co/4wGuFDuFY2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022580828069568794",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5755,
+          "like_count": 151,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021010351194800386",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "私はこの懲戒請求によってバッジが汚されるかもしれません。\n\nでもあの場で語ったように、それでも人間としての、誇り高きトランスジェンダーとしての仲岡しゅんは、汚されることはないのです。\n\n今回、各地から友人やライバルや依頼者たちが駆け付けてくれたことで、私はそのことを確信しました。 https://t.co/4wGuFDuFY2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 130,
+          "like_count": 19600,
+          "listed_count": 0,
+          "media_count": 561,
+          "tweet_count": 4688
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-28T16:58:02.000Z",
+        "description": "大阪の弁護士です。\nプライベートなネタやしょうもない独り言を垂れ流すためのアカウントです。\n高尚な投稿はしません。\n\nフォローの対象に賛否や好悪の一貫性はありません。リプライも気まぐれなので、真面目な問い合わせは事務所宛にご連絡ください。→\nhttps://t.co/BIuTNV7ZqH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "uruwa-law.com",
+                "end": 144,
+                "expanded_url": "https://www.uruwa-law.com/",
+                "start": 121,
+                "url": "https://t.co/BIuTNV7ZqH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/nakaoka_shun",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/nakaoka_shun",
+                "start": 0,
+                "url": "https://t.co/Gc1dr6k4tb"
+              }
+            ]
+          }
+        },
+        "id": "1034485268315664385",
+        "location": "大阪市北区西天満4-6-3ヴェール中之島北1002号",
+        "name": "仲岡しゅん(うるわ総合法律事務所)",
+        "pinned_tweet_id": "2003733529524593000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004193195018821632/E_ve-sFW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9395,
+          "following_count": 1320,
+          "like_count": 3950,
+          "listed_count": 148,
+          "media_count": 1931,
+          "tweet_count": 14593
+        },
+        "url": "https://t.co/Gc1dr6k4tb",
+        "username": "URUWA_L_O",
+        "verified": false
+      }
+    ]
+  }
+}

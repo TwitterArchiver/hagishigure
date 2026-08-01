@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004077385344602112"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "2003837083983749547",
+    "created_at": "2025-12-25T06:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T07:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004077393150152909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "940931345001299970",
+          "start": 0,
+          "username": "pxwwu_chan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P7S0cwOA2B",
+          "end": 39,
+          "expanded_url": "https://x.com/hagishigure/status/2004077393150152909/photo/1",
+          "media_key": "3_2004077385344602112",
+          "start": 16,
+          "url": "https://t.co/P7S0cwOA2B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004077393150152909",
+    "in_reply_to_user_id": "940931345001299970",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003862638435152253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pxwwu_chan 同士。 https://t.co/P7S0cwOA2B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1229,
+        "media_key": "3_2004077385344602112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8_pw4_b0AAgI-C.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2003862634052067328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G88mcuFaIAArEYl.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004077385344602112"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "2003837083983749547",
+        "created_at": "2025-12-25T06:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T07:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004077393150152909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "940931345001299970",
+              "start": 0,
+              "username": "pxwwu_chan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P7S0cwOA2B",
+              "end": 39,
+              "expanded_url": "https://x.com/hagishigure/status/2004077393150152909/photo/1",
+              "media_key": "3_2004077385344602112",
+              "start": 16,
+              "url": "https://t.co/P7S0cwOA2B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004077393150152909",
+        "in_reply_to_user_id": "940931345001299970",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003862638435152253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pxwwu_chan 同士。 https://t.co/P7S0cwOA2B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003862634052067328"
+          ]
+        },
+        "author_id": "940931345001299970",
+        "conversation_id": "2003837083983749547",
+        "created_at": "2025-12-24T16:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T17:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003862638435152253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1206800829950259202",
+              "start": 0,
+              "username": "m1ssuo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mqJMrI678f",
+              "end": 35,
+              "expanded_url": "https://x.com/pxwwu_chan/status/2003862638435152253/photo/1",
+              "media_key": "3_2003862634052067328",
+              "start": 12,
+              "url": "https://t.co/mqJMrI678f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003862638435152253",
+        "in_reply_to_user_id": "1206800829950259202",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13433,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003837083983749547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m1ssuo 改不了 https://t.co/mqJMrI678f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 118,
+          "like_count": 13673,
+          "listed_count": 0,
+          "media_count": 391,
+          "tweet_count": 3195
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-13T13:08:09.000Z",
+        "description": "🦋：@pxwwu.com|已摆烂の02年老阿姨|176cm|伪音摆烂中|🩷：MoeDreamAria（已销号）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "pxwwu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pxwwu.com",
+                "end": 23,
+                "expanded_url": "http://pxwwu.com",
+                "start": 0,
+                "url": "https://t.co/kiprkGLP3Z"
+              }
+            ]
+          }
+        },
+        "id": "940931345001299970",
+        "location": "阿莉亚的被窝",
+        "name": "pxwwu🦀🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999401412523098119/KexQJYGA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12621,
+          "following_count": 3152,
+          "like_count": 176195,
+          "listed_count": 44,
+          "media_count": 3682,
+          "tweet_count": 18047
+        },
+        "url": "https://t.co/kiprkGLP3Z",
+        "username": "pxwwu_chan",
+        "verified": false
+      }
+    ]
+  }
+}

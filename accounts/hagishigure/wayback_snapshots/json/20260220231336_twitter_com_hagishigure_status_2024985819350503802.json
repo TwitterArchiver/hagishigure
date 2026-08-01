@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024985815743438848"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "2024785266523705643",
+    "created_at": "2026-02-20T23:13:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T00:13:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024985819350503802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1936781964679450624",
+          "start": 0,
+          "username": "he24758"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7J5voaP1Yc",
+          "end": 60,
+          "expanded_url": "https://x.com/hagishigure/status/2024985819350503802/photo/1",
+          "media_key": "3_2024985815743438848",
+          "start": 37,
+          "url": "https://t.co/7J5voaP1Yc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024985819350503802",
+    "in_reply_to_user_id": "1936781964679450624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024931093724754260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@he24758 对吧，明明已经故意说得很过分了居然有人说是sweet。 https://t.co/7J5voaP1Yc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 125,
+        "media_key": "3_2024985815743438848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBox3t6XoAAu_St.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024985815743438848"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "2024785266523705643",
+        "created_at": "2026-02-20T23:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T00:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024985819350503802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1936781964679450624",
+              "start": 0,
+              "username": "he24758"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7J5voaP1Yc",
+              "end": 60,
+              "expanded_url": "https://x.com/hagishigure/status/2024985819350503802/photo/1",
+              "media_key": "3_2024985815743438848",
+              "start": 37,
+              "url": "https://t.co/7J5voaP1Yc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024985819350503802",
+        "in_reply_to_user_id": "1936781964679450624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024931093724754260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@he24758 对吧，明明已经故意说得很过分了居然有人说是sweet。 https://t.co/7J5voaP1Yc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936781964679450624",
+        "conversation_id": "2024785266523705643",
+        "created_at": "2026-02-20T19:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T20:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024931093724754260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024931093724754260",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024785266523705643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure 感觉妓女也很……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 136,
+          "like_count": 20930,
+          "listed_count": 0,
+          "media_count": 593,
+          "tweet_count": 5128
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-22T13:43:22.000Z",
+        "description": "",
+        "id": "1936781964679450624",
+        "name": "黎明",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024920967181709312/pdYc_v_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 69,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "he24758",
+        "verified": false
+      }
+    ]
+  }
+}

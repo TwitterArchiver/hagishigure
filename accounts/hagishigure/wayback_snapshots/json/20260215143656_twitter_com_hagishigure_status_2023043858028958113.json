@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity collects general conversations about being happy and wanting happiness.",
+          "id": "920763700193083392",
+          "name": "Happiness"
+        }
+      }
+    ],
+    "conversation_id": "2023043858028958113",
+    "created_at": "2026-02-15T14:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T15:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023043858028958113"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Naotan_Persona…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Naotan_Personal/status/2022994296270639507",
+          "start": 8,
+          "url": "https://t.co/s7qrBXFs40"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023043858028958113",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022994296270639507",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "心配しないで。 https://t.co/s7qrBXFs40"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity collects general conversations about being happy and wanting happiness.",
+              "id": "920763700193083392",
+              "name": "Happiness"
+            }
+          }
+        ],
+        "conversation_id": "2023043858028958113",
+        "created_at": "2026-02-15T14:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T15:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023043858028958113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Naotan_Persona…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Naotan_Personal/status/2022994296270639507",
+              "start": 8,
+              "url": "https://t.co/s7qrBXFs40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023043858028958113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022994296270639507",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "心配しないで。 https://t.co/s7qrBXFs40"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990244187133140992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity collects general conversations about being happy and wanting happiness.",
+              "id": "920763700193083392",
+              "name": "Happiness"
+            }
+          }
+        ],
+        "conversation_id": "2022994296270639507",
+        "created_at": "2026-02-15T11:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T12:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022994296270639507"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022994296270639507",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "🌟睾丸摘出（去勢）が私にくれたもの♪\n・男性ホルモン９割⇧消滅\n・心身共に感じる安心感と幸福感\n・色白い肌（※以前に比べて）\n・化粧ノリの良い顔の肌質\n・更にキメ細かくなった肌質\n・乳の更なる成長と柔らかい触感\n・精神不安定（毎週１.２回の周期的？）\n・集中力の低下（術後１ヵ月程一時的）\n・短期記憶の低下（術後１ヵ月程一時的）\n・気力低下（向上心の低下が凄い）\n・日中の酷い眠気（恐らく体力低下に起因？）\n・気分に左右される毎日\n・親からビックリされたw\n・冷え性（末端冷え性）の悪化\n・食欲増進（少しだけど）\n・体毛半減（元々少ない→全滅間近）\n・涙脆くなること結構多い？\n・極度の寂しさ（特に夜しんどい）\n・安心感を求めるようになった\n・今後一生、子孫を残せない身体\n・毎日が血栓と隣り合わせの生活\n・手術歴なし...と言えなくなった\n・強さが無くなった（例えば、この程度は余裕やん！→ちょっと事前に見てみて良い？...）\n・性転換手術（もしするなら）圧倒的に不利な状況に置かれる\n・肝腎臓とか胃腸元々弱いけど、更に弱くなった感ある...。\n・陰茎の更なる縮小（排尿しにくい感あるけど現状３cmから更に小さくなるか？）\n・抗アンドロゲン剤（男性ホルモン抑制剤）を飲まなくて良くなった（肝臓の負担減は凄く嬉しい）\n・ちょっとで疲れる程に低下した体力\n・生涯に渡り女性ホルモン剤（メスホル）を投与しないと健康に生きれない身体\n・筋力の更なる低下（前は機械の上に台を使わず腕力で登れたのに今は無理）\n・生命保険に入れない（リスク背負ってる点で入れても保険料高いなどのハンデ）\n・性欲は思春期時点で無かったから分からない...。\n\n※前半の項目は個人差あるし一時的なものもあると思うけど、摘出から２ヶ月程で私はこんな感じ♪\nちなみに、年齢２０代、女性ホルモン剤の投与２年以上精神力は強いって自負してて、今までホルモン剤以外の精神系のお薬に頼った経験無くてコレだからw\n\n誰にも相談せずにやったから自業自得ね♪\n当然だけど結果は全部受け入れる。\n今は幸せだけど実情...本気で３０まで生きられるか不安過ぎるってのはあるかな...。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 142,
+          "impression_count": 27420,
+          "like_count": 368,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "🌟睾丸摘出（去勢）が私にくれたもの♪\n・男性ホルモン９割⇧消滅\n・心身共に感じる安心感と幸福感\n・色白い肌（※以前に比べて）\n・化粧ノリの良い顔の肌質\n・更にキメ細かくなった肌質\n・乳の更なる成長と柔らかい触感\n・精神不安定（毎週１.２回の周期的？）\n・集中力の低下（術後１ヵ月程一時的）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 130,
+          "like_count": 19768,
+          "listed_count": 0,
+          "media_count": 565,
+          "tweet_count": 4738
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T02:23:22.000Z",
+        "description": "なおたん本人｜’22 メスホル２年～｜’24 睾丸摘出（去勢）済｜ＧＩＤ診断済｜苦手ならフォロー非推奨｜匿名の質問何でも大歓迎♪\n💌DMご自由に（※返信の確約は出来ません）\n🌟このＸアカウント以外は一切ありません！\n※2025/11/17～YouTubeで告知の通り新しくアカウント開設しました～ヾ(๑╹ꇴ◠๑)ﾉ\"",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@naotan-offici…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@naotan-official/shorts",
+                "start": 0,
+                "url": "https://t.co/zzYIT167tf"
+              }
+            ]
+          }
+        },
+        "id": "1990244187133140992",
+        "location": "東京都",
+        "name": "なおたん",
+        "pinned_tweet_id": "2020822489404690779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990245384334319616/xRPoHWPi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 17,
+          "like_count": 1783,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 269
+        },
+        "url": "https://t.co/zzYIT167tf",
+        "username": "Naotan_Personal",
+        "verified": true
+      }
+    ]
+  }
+}

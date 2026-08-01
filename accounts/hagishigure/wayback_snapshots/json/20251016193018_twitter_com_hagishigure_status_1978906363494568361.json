@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978906347027492864"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1978906363494568361",
+    "created_at": "2025-10-16T19:30:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T20:30:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978906363494568361"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/F39TVcx3N5",
+          "end": 125,
+          "expanded_url": "https://x.com/hagishigure/status/1978906363494568361/photo/1",
+          "media_key": "3_1978906347027492864",
+          "start": 102,
+          "url": "https://t.co/F39TVcx3N5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978906363494568361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "這不是“我們女權”，這是“我們父權”。\n我們才是女權。\n任何女權的核心都是“自由”“平等”“尊嚴”。\n而非“攻擊任何事物”，我們女權會“批判”，但是是基於“邏輯”“理性”，這種是父權的“無理取鬧”而已。 https://t.co/F39TVcx3N5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1679,
+        "media_key": "3_1978906347027492864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Z81oJW8AAuD_P.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978906347027492864"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1978906363494568361",
+        "created_at": "2025-10-16T19:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T20:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978906363494568361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F39TVcx3N5",
+              "end": 125,
+              "expanded_url": "https://x.com/hagishigure/status/1978906363494568361/photo/1",
+              "media_key": "3_1978906347027492864",
+              "start": 102,
+              "url": "https://t.co/F39TVcx3N5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978906363494568361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這不是“我們女權”，這是“我們父權”。\n我們才是女權。\n任何女權的核心都是“自由”“平等”“尊嚴”。\n而非“攻擊任何事物”，我們女權會“批判”，但是是基於“邏輯”“理性”，這種是父權的“無理取鬧”而已。 https://t.co/F39TVcx3N5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 92,
+          "like_count": 3787,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 609
+        },
+        "username": "hagishigure",
+        "verified": true
+      }
+    ]
+  }
+}

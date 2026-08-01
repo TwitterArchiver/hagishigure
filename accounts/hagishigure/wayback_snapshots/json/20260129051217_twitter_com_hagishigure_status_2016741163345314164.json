@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2016320237600440681",
+    "created_at": "2026-01-29T05:12:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T06:12:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1891758826615115776",
+          "start": 0,
+          "username": "FDSawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016741163345314164",
+    "in_reply_to_user_id": "1891758826615115776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016320237600440681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FDSawa 這個東西的答案我曾經用程序和概率論隨機組合計算出來過所有正確的…然後寫書上了用程序自動提交了5k次滿分的…\n所以我一直認為能靠概率論做到perfect的對象那就不要自己做了，麻煩。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1668,
+        "media_key": "3_2016320086513221632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_tob44bAAA7buU.jpg",
+        "width": 1943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016320086513221632"
+          ]
+        },
+        "author_id": "1891758826615115776",
+        "conversation_id": "2016320237600440681",
+        "created_at": "2026-01-28T01:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T02:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cTjIRaq1rr",
+              "end": 27,
+              "expanded_url": "https://x.com/FDSawa/status/2016320237600440681/photo/1",
+              "media_key": "3_2016320086513221632",
+              "start": 4,
+              "url": "https://t.co/cTjIRaq1rr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016320237600440681",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（装傻 https://t.co/cTjIRaq1rr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 127,
+          "like_count": 16953,
+          "listed_count": 0,
+          "media_count": 456,
+          "tweet_count": 3978
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T07:57:16.000Z",
+        "description": "09年生产/芝士， 与你分享！/Legend Never Dies./小废物一只/叫咱喵酱F梦好了喵/没糖吃ww/ISFP-T",
+        "id": "1891758826615115776",
+        "location": "Mondstadt, Teyvat",
+        "name": "FDS（互fo版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891758936828805120/AfUXa-44_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 1141,
+          "like_count": 1240,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 125
+        },
+        "username": "FDSawa",
+        "verified": false
+      }
+    ]
+  }
+}

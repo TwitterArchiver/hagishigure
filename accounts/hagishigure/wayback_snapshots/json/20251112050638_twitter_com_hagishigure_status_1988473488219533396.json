@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1988473488219533396",
+    "created_at": "2025-11-12T05:06:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T06:06:26.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988473439255228915",
+      "1988473488219533396"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kurtzau/status…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/kurtzau/status/1988112823092998295",
+          "start": 47,
+          "url": "https://t.co/9IkhGWsjm6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988473488219533396",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988112823092998295",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哩個時候仲喺度扮自己唔係中國人啦。\n笑死。又唔見你反國安法。又要威又要戴頭盔又怕死又做土匪。 https://t.co/9IkhGWsjm6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1290,
+        "media_key": "3_1988112640108048384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5cx6acasAAZK_N.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1988473439255228915",
+        "created_at": "2025-11-12T05:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T06:06:26.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988473439255228915",
+          "1988473488219533396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kurtzau/status…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/kurtzau/status/1988112823092998295",
+              "start": 47,
+              "url": "https://t.co/9IkhGWsjm6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988473439255228915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988112823092998295",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哩個時候仲喺度扮自己唔係中國人啦。\n笑死。又唔見你反國安法。又要威又要戴頭盔又怕死又做土匪。 https://t.co/9IkhGWsjm6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1988473488219533396",
+        "created_at": "2025-11-12T05:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T06:06:26.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988473439255228915",
+          "1988473488219533396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kurtzau/status…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/kurtzau/status/1988112823092998295",
+              "start": 47,
+              "url": "https://t.co/9IkhGWsjm6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988473488219533396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988112823092998295",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哩個時候仲喺度扮自己唔係中國人啦。\n笑死。又唔見你反國安法。又要威又要戴頭盔又怕死又做土匪。 https://t.co/9IkhGWsjm6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988112640108048384"
+          ]
+        },
+        "author_id": "269825965",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1988112823092998295",
+        "created_at": "2025-11-11T05:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T06:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988112823092998295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "facebook.com/share/p/1BmQ39…",
+              "end": 27,
+              "expanded_url": "https://www.facebook.com/share/p/1BmQ391wLg/",
+              "start": 4,
+              "unwound_url": "https://www.facebook.com/share/p/1BmQ391wLg/",
+              "url": "https://t.co/yB3qTMhjN3"
+            },
+            {
+              "display_url": "pic.x.com/xBSGo1sGz6",
+              "end": 51,
+              "expanded_url": "https://x.com/kurtzau/status/1988112823092998295/photo/1",
+              "media_key": "3_1988112640108048384",
+              "start": 28,
+              "url": "https://t.co/xBSGo1sGz6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988112823092998295",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 20190,
+          "like_count": 274,
+          "quote_count": 7,
+          "reply_count": 12,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "亂源 \nhttps://t.co/yB3qTMhjN3 https://t.co/xBSGo1sGz6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 103,
+          "like_count": 8325,
+          "listed_count": 0,
+          "media_count": 279,
+          "tweet_count": 1890
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2011-03-21T14:30:34.000Z",
+        "description": "HongKonger \nMotorcycle Rider - CBR250RRMC22\nACTIONAIR IPSC Shooter - Marui HiCapa & CQBR Block1\nEnglish⭕️ - 廣東話⭕️ - 中文⭕️ - 日本語△",
+        "id": "269825965",
+        "location": "Hong Kong",
+        "name": "AK_Kurtz Au 🇭🇰",
+        "pinned_tweet_id": "1900060460684116203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819721987704721408/WLdaa3bF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 1028,
+          "like_count": 20932,
+          "listed_count": 5,
+          "media_count": 1007,
+          "tweet_count": 7027
+        },
+        "username": "kurtzau",
+        "verified": false
+      }
+    ]
+  }
+}

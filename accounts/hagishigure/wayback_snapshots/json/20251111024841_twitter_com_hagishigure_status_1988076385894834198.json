@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1987869292235563365",
+    "created_at": "2025-11-11T02:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T03:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988076385894834198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1364519178170892298",
+          "start": 0,
+          "username": "SS7D_0015"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988076385894834198",
+    "in_reply_to_user_id": "1364519178170892298",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987869292235563365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SS7D_0015 喲？稀客啊。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1987869287869276160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ZUlctbYAAv_d6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1987869292235563365",
+        "created_at": "2025-11-11T02:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T03:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988076385894834198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1364519178170892298",
+              "start": 0,
+              "username": "SS7D_0015"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988076385894834198",
+        "in_reply_to_user_id": "1364519178170892298",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987869292235563365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SS7D_0015 喲？稀客啊。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987869287869276160"
+          ]
+        },
+        "author_id": "1364519178170892298",
+        "conversation_id": "1987869292235563365",
+        "created_at": "2025-11-10T13:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T14:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987869292235563365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cVqH34xeDo",
+              "end": 67,
+              "expanded_url": "https://x.com/SS7D_0015/status/1987869292235563365/photo/1",
+              "media_key": "3_1987869287869276160",
+              "start": 44,
+              "url": "https://t.co/cVqH34xeDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987869292235563365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出点雌激素，泰补200三盒580包邮\n凝胶110两支200包邮\n诺坤复85三盒以上包邮 https://t.co/cVqH34xeDo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 103,
+          "like_count": 8169,
+          "listed_count": 0,
+          "media_count": 276,
+          "tweet_count": 1849
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-24T10:15:27.000Z",
+        "description": "法！我有艾滋病😈hpv👿滴虫病👿衣原体感染👿乙型肝炎👿腹股沟肉芽肿👿阴虱病👿疥疮病👿生殖器疱疹👿我祈求🥺🙏🏻上天能再爱❤️我一次☝🏻我祈求🥺🙏🏻上天能再爱❤️我一次☝🏻我祈求🥺🙏🏻上天能再爱❤️我一次☝🏻",
+        "id": "1364519178170892298",
+        "location": "西安東站",
+        "name": "阿语语语语语语.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963635333352112128/6Kuaftcv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 299,
+          "like_count": 1580,
+          "listed_count": 7,
+          "media_count": 1124,
+          "tweet_count": 6555
+        },
+        "username": "SS7D_0015",
+        "verified": false
+      }
+    ]
+  }
+}

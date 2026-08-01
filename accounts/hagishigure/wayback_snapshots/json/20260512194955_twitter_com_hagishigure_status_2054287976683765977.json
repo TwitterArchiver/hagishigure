@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2054287976683765977",
+    "created_at": "2026-05-12T19:49:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T20:49:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054287976683765977"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ukitheocog/sta…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/ukitheocog/status/2054142665667858848",
+          "start": 53,
+          "url": "https://t.co/t491mCmZJh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054287976683765977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054142665667858848",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "写法意北美哲学的本硕可以找我。毕竟最近对阿甘本，阿伦特，本雅明，朗西埃，巴迪欧又有点手痒了想写点什么。😋 https://t.co/t491mCmZJh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 760,
+        "media_key": "3_2054142658986278912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHH3XLagAAQO8W.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2054287976683765977",
+        "created_at": "2026-05-12T19:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T20:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054287976683765977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ukitheocog/sta…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/ukitheocog/status/2054142665667858848",
+              "start": 53,
+              "url": "https://t.co/t491mCmZJh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054287976683765977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054142665667858848",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "写法意北美哲学的本硕可以找我。毕竟最近对阿甘本，阿伦特，本雅明，朗西埃，巴迪欧又有点手痒了想写点什么。😋 https://t.co/t491mCmZJh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054142658986278912"
+          ]
+        },
+        "author_id": "1423233845235646474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2054142665667858848",
+        "created_at": "2026-05-12T10:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T11:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054142665667858848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I60BAhtaHP",
+              "end": 160,
+              "expanded_url": "https://x.com/ukitheocog/status/2054142665667858848/photo/1",
+              "media_key": "3_2054142658986278912",
+              "start": 137,
+              "url": "https://t.co/I60BAhtaHP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054142665667858848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 36425,
+          "like_count": 237,
+          "quote_count": 5,
+          "reply_count": 16,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "现在确实越来越多博士毕业不好找教职，也不想去企业被压榨，做起了校外导师...\n(好像是辅导本硕博学位论文、sci各区期刊论文, 按单结算. 一些找过校外导师的人说什么比自己导师还关心自己, 服务态度也非常好, 第一次感受到做研究的乐趣🥲但是有一说一, 现代的学校教育确实烂 https://t.co/I60BAhtaHP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 148,
+          "like_count": 28755,
+          "listed_count": 3,
+          "media_count": 762,
+          "tweet_count": 6902
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-05T10:46:16.000Z",
+        "description": "梦沉在海平面以下, 在最后的黑暗里变成太阳升起 /主要研究方向脑科学, 黑洞物理, 量子引力 / 成都→東京→香港 / ADHD",
+        "id": "1423233845235646474",
+        "location": "Dept. App. Math",
+        "name": "Monsoon",
+        "pinned_tweet_id": "1655455168140550144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904406209941442560/doFwjR0m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7884,
+          "following_count": 463,
+          "like_count": 29280,
+          "listed_count": 33,
+          "media_count": 345,
+          "tweet_count": 4995
+        },
+        "username": "ukitheocog",
+        "verified": false
+      }
+    ]
+  }
+}

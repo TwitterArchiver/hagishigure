@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995839259459420165",
+        "3_1995839259727855617"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1995454946875986004",
+    "created_at": "2025-12-02T12:55:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T13:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995839268502343860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1772694954051248128",
+          "start": 0,
+          "username": "Amia_aki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vv3thFXjxn",
+          "end": 33,
+          "expanded_url": "https://x.com/hagishigure/status/1995839268502343860/photo/1",
+          "media_key": "3_1995839259459420165",
+          "start": 10,
+          "url": "https://t.co/Vv3thFXjxn"
+        },
+        {
+          "display_url": "pic.x.com/Vv3thFXjxn",
+          "end": 33,
+          "expanded_url": "https://x.com/hagishigure/status/1995839268502343860/photo/1",
+          "media_key": "3_1995839259727855617",
+          "start": 10,
+          "url": "https://t.co/Vv3thFXjxn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995839268502343860",
+    "in_reply_to_user_id": "1772694954051248128",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995454946875986004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amia_aki https://t.co/Vv3thFXjxn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_1995839259459420165",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7KlO2jbgAUl8XH.jpg",
+        "width": 2048
+      },
+      {
+        "height": 946,
+        "media_key": "3_1995839259727855617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7KlO3jbgAEahTk.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1995454899765559298",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7FHqLHWwAIsd1s.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1995454899773943808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7FHqLJWsAAbkoS.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1995454899769733120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7FHqLIWcAAItJ4.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995839259459420165",
+            "3_1995839259727855617"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1995454946875986004",
+        "created_at": "2025-12-02T12:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T13:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995839268502343860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1772694954051248128",
+              "start": 0,
+              "username": "Amia_aki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vv3thFXjxn",
+              "end": 33,
+              "expanded_url": "https://x.com/hagishigure/status/1995839268502343860/photo/1",
+              "media_key": "3_1995839259459420165",
+              "start": 10,
+              "url": "https://t.co/Vv3thFXjxn"
+            },
+            {
+              "display_url": "pic.x.com/Vv3thFXjxn",
+              "end": 33,
+              "expanded_url": "https://x.com/hagishigure/status/1995839268502343860/photo/1",
+              "media_key": "3_1995839259727855617",
+              "start": 10,
+              "url": "https://t.co/Vv3thFXjxn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995839268502343860",
+        "in_reply_to_user_id": "1772694954051248128",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995454946875986004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amia_aki https://t.co/Vv3thFXjxn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995454899765559298",
+            "3_1995454899773943808",
+            "3_1995454899769733120"
+          ]
+        },
+        "author_id": "1772694954051248128",
+        "conversation_id": "1995454946875986004",
+        "created_at": "2025-12-01T11:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T12:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995454946875986004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ZkvvJvIS6",
+              "end": 32,
+              "expanded_url": "https://x.com/Amia_aki/status/1995454946875986004/photo/1",
+              "media_key": "3_1995454899765559298",
+              "start": 9,
+              "url": "https://t.co/2ZkvvJvIS6"
+            },
+            {
+              "display_url": "pic.x.com/2ZkvvJvIS6",
+              "end": 32,
+              "expanded_url": "https://x.com/Amia_aki/status/1995454946875986004/photo/1",
+              "media_key": "3_1995454899773943808",
+              "start": 9,
+              "url": "https://t.co/2ZkvvJvIS6"
+            },
+            {
+              "display_url": "pic.x.com/2ZkvvJvIS6",
+              "end": 32,
+              "expanded_url": "https://x.com/Amia_aki/status/1995454946875986004/photo/1",
+              "media_key": "3_1995454899769733120",
+              "start": 9,
+              "url": "https://t.co/2ZkvvJvIS6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995454946875986004",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 256,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日份enana https://t.co/2ZkvvJvIS6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 112,
+          "like_count": 11485,
+          "listed_count": 0,
+          "media_count": 372,
+          "tweet_count": 2676
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-26T18:39:54.000Z",
+        "description": "你好，这里是自热饭/水树子，MTF，17岁esfp/esfj/enfp 171cm/52kg HRT:2024/8/17 B站id：秋山水树子\n🚪68随机刷新\n晓山瑞希激推 喵喵喵",
+        "id": "1772694954051248128",
+        "name": "秋山水树子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972819981554581504/EwVr3wd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 35,
+          "like_count": 1324,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 82
+        },
+        "username": "Amia_aki",
+        "verified": false
+      }
+    ]
+  }
+}

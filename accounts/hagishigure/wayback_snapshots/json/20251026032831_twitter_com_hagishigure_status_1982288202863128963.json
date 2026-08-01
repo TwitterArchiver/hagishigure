@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1981896967052517446",
+    "created_at": "2025-10-26T03:28:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T04:28:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982288202863128963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "892248576591413248",
+          "start": 0,
+          "username": "xiwuaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982288202863128963",
+    "in_reply_to_user_id": "892248576591413248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982285208469565823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiwuaya 你智商本來就是需要交稅的，交點稅怎麼了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1981896967052517446",
+        "created_at": "2025-10-26T03:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T04:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982288202863128963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "892248576591413248",
+              "start": 0,
+              "username": "xiwuaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982288202863128963",
+        "in_reply_to_user_id": "892248576591413248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982285208469565823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiwuaya 你智商本來就是需要交稅的，交點稅怎麼了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "892248576591413248",
+        "conversation_id": "1981896967052517446",
+        "created_at": "2025-10-26T03:16:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T04:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982285208469565823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982285208469565823",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981896967052517446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure 买不起，告辞。就算买得起最多也就在制糖厂买根线，虽然制糖厂是靠卖线发家的，但感觉现在买他家的线也有点智商税了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 99,
+          "like_count": 5722,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 1143
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2017-08-01T05:00:12.000Z",
+        "description": "一个爱哭鬼罢了…… | 大概算是个音游人，主玩rotaeno，pjsk，偶尔会出勤maimai | 逐渐退推中…锁推审fo，没啥大问题的基本会过的…",
+        "id": "892248576591413248",
+        "location": "梦里",
+        "name": "汐雾aya🍥（逃避现实ver.）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770107790549483520/k0RbihGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1831,
+          "following_count": 3834,
+          "like_count": 65282,
+          "listed_count": 10,
+          "media_count": 184,
+          "tweet_count": 2216
+        },
+        "username": "xiwuaya",
+        "verified": false
+      }
+    ]
+  }
+}

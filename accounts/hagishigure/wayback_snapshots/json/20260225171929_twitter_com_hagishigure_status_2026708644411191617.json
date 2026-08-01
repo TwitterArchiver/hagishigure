@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2026708644411191617",
+    "created_at": "2026-02-25T17:19:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T18:19:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026708644411191617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1380490984673353734",
+          "start": 3,
+          "username": "nyahapi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026708644411191617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "1697612064976781781",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyahapi: 決めた、国立行く。国立大学に行きます。現状として6年連続ニッコマ不合格というあまりにも勉強向いて無さがあるし私大の高い学費払えないしそもそも今から他の理数系をやっても間に合わないかもしれない。つまり時間の無駄ではあるがやります、なぜなら来年ニッコマも国…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2026708644411191617",
+        "created_at": "2026-02-25T17:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T18:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026708644411191617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1380490984673353734",
+              "start": 3,
+              "username": "nyahapi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026708644411191617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "1697612064976781781",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyahapi: 決めた、国立行く。国立大学に行きます。現状として6年連続ニッコマ不合格というあまりにも勉強向いて無さがあるし私大の高い学費払えないしそもそも今から他の理数系をやっても間に合わないかもしれない。つまり時間の無駄ではあるがやります、なぜなら来年ニッコマも国…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1380490984673353734",
+        "conversation_id": "1697612064976781781",
+        "created_at": "2023-09-01T14:07:11.000Z",
+        "edit_controls": {
+          "editable_until": "2023-09-01T15:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1697612064976781781"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1697612064976781781",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 1293258,
+          "like_count": 534,
+          "quote_count": 41,
+          "reply_count": 11,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "決めた、国立行く。国立大学に行きます。現状として6年連続ニッコマ不合格というあまりにも勉強向いて無さがあるし私大の高い学費払えないしそもそも今から他の理数系をやっても間に合わないかもしれない。つまり時間の無駄ではあるがやります、なぜなら来年ニッコマも国立大も合格するから"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 137,
+          "like_count": 22206,
+          "listed_count": 2,
+          "media_count": 630,
+          "tweet_count": 5463
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-09T12:01:23.000Z",
+        "description": "七転八倒で終わらせない",
+        "id": "1380490984673353734",
+        "name": "幸ちぇる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881344444773085184/iDoiCtLy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55095,
+          "following_count": 585,
+          "like_count": 8709,
+          "listed_count": 84,
+          "media_count": 131,
+          "tweet_count": 2048
+        },
+        "username": "nyahapi",
+        "verified": false
+      }
+    ]
+  }
+}

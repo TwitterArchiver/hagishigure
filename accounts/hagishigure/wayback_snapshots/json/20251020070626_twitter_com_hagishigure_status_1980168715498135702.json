@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1980168715498135702",
+    "created_at": "2025-10-20T07:06:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T08:06:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980168715498135702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_toffee/s…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/amber_toffee/status/1980154317614240159",
+          "start": 58,
+          "url": "https://t.co/Bfg1Q54N4Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980168715498135702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980154317614240159",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我對女權的判定標準祇有三點，基於女性的：自由，尊嚴，平等。\n同樣，這三點也適用於男權。\n父權是永遠無法做到這些的。 https://t.co/Bfg1Q54N4Z"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1980168715498135702",
+        "created_at": "2025-10-20T07:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T08:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980168715498135702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/amber_toffee/status/1980154317614240159",
+              "start": 58,
+              "url": "https://t.co/Bfg1Q54N4Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980168715498135702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980154317614240159",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我對女權的判定標準祇有三點，基於女性的：自由，尊嚴，平等。\n同樣，這三點也適用於男權。\n父權是永遠無法做到這些的。 https://t.co/Bfg1Q54N4Z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "1980143016749703354",
+        "created_at": "2025-10-20T06:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T07:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980154317614240159"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980154317614240159",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 603,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980143997784854728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以如果当我们提到女权时想到的是农村女性土地权益、反家暴法律援助、男性强制共休产假以及我们在女权社群里欣赏或者讨厌的那几个人，而对面提到女权的时候只能想到彩礼诬告6b4t，那我会认为我们谈论的其实完全不是一个东西，且这种代际(?)差异本身就是女权在行动策略和自组织形式的衰退导致的效果"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 95,
+          "like_count": 4399,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 778
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "ଳ ❤︎ @noaayoyaoaya / ☭ / mtf / intp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber🪼",
+        "pinned_tweet_id": "1946964550160355612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18455,
+          "following_count": 2335,
+          "like_count": 33848,
+          "listed_count": 56,
+          "media_count": 697,
+          "tweet_count": 16733
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      }
+    ],
+    "conversation_id": "2016964403825168756",
+    "created_at": "2026-01-29T19:59:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T20:59:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016964403825168756"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1chbineine1ink…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/1chbineine1inke/status/2016485758589116435",
+          "start": 141,
+          "url": "https://t.co/coAFE81zTW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016964403825168756",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016485758589116435",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不對。德國是高地德語，高地德語和荷蘭語同源，荷蘭語是低地法蘭克語，它們同屬西日爾曼語支，法語，阿斯圖利亞語，加利西亞語，艾米莉亞語才是屬於意大利語族的拉丁-法利希語支的存古特徵的羅曼語族的高戶-伊比利亞語支，而西日爾曼語支不存在意大利語族的存古特徵，它和古諾爾斯語來自日爾曼語族。 https://t.co/coAFE81zTW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2016964403825168756",
+        "created_at": "2026-01-29T19:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T20:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016964403825168756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1chbineine1ink…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/1chbineine1inke/status/2016485758589116435",
+              "start": 141,
+              "url": "https://t.co/coAFE81zTW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016964403825168756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016485758589116435",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不對。德國是高地德語，高地德語和荷蘭語同源，荷蘭語是低地法蘭克語，它們同屬西日爾曼語支，法語，阿斯圖利亞語，加利西亞語，艾米莉亞語才是屬於意大利語族的拉丁-法利希語支的存古特徵的羅曼語族的高戶-伊比利亞語支，而西日爾曼語支不存在意大利語族的存古特徵，它和古諾爾斯語來自日爾曼語族。 https://t.co/coAFE81zTW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540698144429596673",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2016485758589116435",
+        "created_at": "2026-01-28T12:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T13:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016485758589116435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pingguo022/sta…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/pingguo022/status/2016352382381326707",
+              "start": 122,
+              "url": "https://t.co/tRTbS4aQA2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016485758589116435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1379,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016352382381326707",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我生物爹就这样😅\n跟他出门路上必然让我写作业背书，在摇摇晃晃的车厢写字，有的时候嫌我写字乱把一整篇刚写完的作业撕了天天让我练字说以后有用（结果我直接润了个拉丁文国家）\n我妈要外出打工甚至我爷去世之前那几个小时还让我做张英语卷子给他们表示一下😅 https://t.co/tRTbS4aQA2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 127,
+          "like_count": 16985,
+          "listed_count": 0,
+          "media_count": 456,
+          "tweet_count": 3986
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T14:07:33.000Z",
+        "description": "Die Hohenzollernbrücke ist eine Brücke über den Rhein in Köln in Höhe von Stromkilometer 688,5, die Hauptbahnhof und Deutzer Bahnhof verbindet.",
+        "id": "1540698144429596673",
+        "name": "Hohenzollernbrücke",
+        "pinned_tweet_id": "2015674989047947406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009372240891019264/_Es0_6UF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 466,
+          "like_count": 2759,
+          "listed_count": 2,
+          "media_count": 212,
+          "tweet_count": 3463
+        },
+        "username": "1chbineine1inke",
+        "verified": false
+      }
+    ]
+  }
+}

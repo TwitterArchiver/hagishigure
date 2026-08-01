@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991097275939270656"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1991062756225901016",
+    "created_at": "2025-11-19T10:52:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T11:52:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991097278912946405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1704469304077611008",
+          "start": 0,
+          "username": "jiaoyanboluooo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4oHjJzu3h2",
+          "end": 39,
+          "expanded_url": "https://x.com/hagishigure/status/1991097278912946405/photo/1",
+          "media_key": "3_1991097275939270656",
+          "start": 16,
+          "url": "https://t.co/4oHjJzu3h2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991097278912946405",
+    "in_reply_to_user_id": "1704469304077611008",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991062756225901016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiaoyanboluooo https://t.co/4oHjJzu3h2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 376,
+        "media_key": "3_1991097275939270656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6HMbFWbsAApa9B.jpg",
+        "width": 628
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991097275939270656"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1991062756225901016",
+        "created_at": "2025-11-19T10:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T11:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991097278912946405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1704469304077611008",
+              "start": 0,
+              "username": "jiaoyanboluooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4oHjJzu3h2",
+              "end": 39,
+              "expanded_url": "https://x.com/hagishigure/status/1991097278912946405/photo/1",
+              "media_key": "3_1991097275939270656",
+              "start": 16,
+              "url": "https://t.co/4oHjJzu3h2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991097278912946405",
+        "in_reply_to_user_id": "1704469304077611008",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991062756225901016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiaoyanboluooo https://t.co/4oHjJzu3h2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1704469304077611008",
+        "conversation_id": "1991062756225901016",
+        "created_at": "2025-11-19T08:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T09:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991062756225901016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/N552AA/status/…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/N552AA/status/1991024377333493857",
+              "start": 28,
+              "url": "https://t.co/4s3NqpCe91"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991062756225901016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991024377333493857",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真希望你买到真的盐了\n痛苦3\\4十分钟对比几个月好多了 https://t.co/4s3NqpCe91"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 108,
+          "like_count": 9701,
+          "listed_count": 0,
+          "media_count": 334,
+          "tweet_count": 2270
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/双相喵/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/已出柜/不知道什么党/不要靠近我，我只会让你伤心/对象 @mtf_in_china/主人： @Amour761",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "mtf_in_china"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "Amour761"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "location": "狗笼里",
+        "name": "椒盐菠萝🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845701516545638400/CJz4quM6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3769,
+          "following_count": 2891,
+          "like_count": 17615,
+          "listed_count": 9,
+          "media_count": 943,
+          "tweet_count": 3556
+        },
+        "username": "jiaoyanboluooo",
+        "verified": false
+      }
+    ]
+  }
+}

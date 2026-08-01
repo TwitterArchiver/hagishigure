@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980183401626779648"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1980164327023030313",
+    "created_at": "2025-10-20T08:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T09:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980183404105941038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1466141467274010633",
+          "start": 0,
+          "username": "cyanvtb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8XyxYwJ6eR",
+          "end": 36,
+          "expanded_url": "https://x.com/hagishigure/status/1980183404105941038/photo/1",
+          "media_key": "3_1980183401626779648",
+          "start": 13,
+          "url": "https://t.co/8XyxYwJ6eR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980183404105941038",
+    "in_reply_to_user_id": "1466141467274010633",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980164327023030313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cyanvtb 苄基。 https://t.co/8XyxYwJ6eR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 407,
+        "media_key": "3_1980183401626779648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3sGT_QWwAAkqzl.png",
+        "width": 467
+      },
+      {
+        "height": 1163,
+        "media_key": "3_1980164320571879424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3r09UyW8AAGiTS.jpg",
+        "width": 1484
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980183401626779648"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1980164327023030313",
+        "created_at": "2025-10-20T08:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T09:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980183404105941038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1466141467274010633",
+              "start": 0,
+              "username": "cyanvtb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8XyxYwJ6eR",
+              "end": 36,
+              "expanded_url": "https://x.com/hagishigure/status/1980183404105941038/photo/1",
+              "media_key": "3_1980183401626779648",
+              "start": 13,
+              "url": "https://t.co/8XyxYwJ6eR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980183404105941038",
+        "in_reply_to_user_id": "1466141467274010633",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980164327023030313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cyanvtb 苄基。 https://t.co/8XyxYwJ6eR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980164320571879424"
+          ]
+        },
+        "author_id": "1466141467274010633",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1980164327023030313",
+        "created_at": "2025-10-20T06:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T07:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980164327023030313"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 10,
+              "tag": "CyanTechMeme"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F6cK7YJfQt",
+              "end": 47,
+              "expanded_url": "https://x.com/cyanvtb/status/1980164327023030313/photo/1",
+              "media_key": "3_1980164320571879424",
+              "start": 24,
+              "url": "https://t.co/F6cK7YJfQt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980164327023030313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 648,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "能不能不要变基？😫 #CyanTechMeme https://t.co/F6cK7YJfQt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 95,
+          "like_count": 4441,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 786
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-01T20:25:55.000Z",
+        "description": "✧ 在人间迷路的小小黑客猫娘 ✧ 好像是YouTube简中订阅第一VTuber ✧ 女孩子，百合已订婚 @linaasahi ✧ 前谷歌工程师，偶尔是画师/唱见 英语EN @cyannyan6 ʚ 永远不毕业 ɞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 52,
+                "username": "linaasahi"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "cyannyan6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cyan.yt/magic",
+                "end": 23,
+                "expanded_url": "http://cyan.yt/magic",
+                "start": 0,
+                "url": "https://t.co/KZ2gCJbRgO"
+              }
+            ]
+          }
+        },
+        "id": "1466141467274010633",
+        "location": "Tokyo-to, Japan",
+        "name": "Cyan是小盐🧂✨ / 尊贵的爱亦凡会员",
+        "pinned_tweet_id": "1977237553192616183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936417185808719872/PR6k56Hy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6521,
+          "following_count": 889,
+          "like_count": 11055,
+          "listed_count": 24,
+          "media_count": 553,
+          "tweet_count": 5042
+        },
+        "url": "https://t.co/KZ2gCJbRgO",
+        "username": "cyanvtb",
+        "verified": false
+      }
+    ]
+  }
+}

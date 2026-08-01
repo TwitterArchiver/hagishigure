@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2060013767950487725",
+    "created_at": "2026-05-28T21:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T22:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060114934525009965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1221562724829691905",
+          "start": 0,
+          "username": "gozZoazYckXOXcW"
+        },
+        {
+          "end": 29,
+          "id": "1469665357908824064",
+          "start": 17,
+          "username": "Takagi_0620"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060114934525009965",
+    "in_reply_to_user_id": "1221562724829691905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060088969459868126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gozZoazYckXOXcW @Takagi_0620 也没见你接受得了这样的。我不就是吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2060013767950487725",
+        "created_at": "2026-05-28T21:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T22:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060114934525009965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1221562724829691905",
+              "start": 0,
+              "username": "gozZoazYckXOXcW"
+            },
+            {
+              "end": 29,
+              "id": "1469665357908824064",
+              "start": 17,
+              "username": "Takagi_0620"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060114934525009965",
+        "in_reply_to_user_id": "1221562724829691905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060088969459868126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gozZoazYckXOXcW @Takagi_0620 也没见你接受得了这样的。我不就是吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1221562724829691905",
+        "conversation_id": "2060013767950487725",
+        "created_at": "2026-05-28T20:00:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T21:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060088969459868126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1469665357908824064",
+              "start": 0,
+              "username": "Takagi_0620"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060088969459868126",
+        "in_reply_to_user_id": "1469665357908824064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060013767950487725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Takagi_0620 摸摸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 154,
+          "like_count": 30006,
+          "listed_count": 3,
+          "media_count": 781,
+          "tweet_count": 7194
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-26T22:37:11.000Z",
+        "description": "Amab  |公开频道：https://t.co/o7u3PzZ637 |联系方式:https://t.co/GnRL4ruaVX |点赞不代表赞同观点 |Μαsтоdоn：@yongyiwang |Βsκу：@yongyiwang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "yongyiwang"
+              },
+              {
+                "end": 116,
+                "start": 105,
+                "username": "yongyiwang"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/bakayong",
+                "end": 35,
+                "expanded_url": "https://t.me/bakayong",
+                "start": 12,
+                "url": "https://t.co/o7u3PzZ637"
+              },
+              {
+                "display_url": "t.me/Yongyi_dm_bot",
+                "end": 65,
+                "expanded_url": "http://t.me/Yongyi_dm_bot",
+                "start": 42,
+                "url": "https://t.co/GnRL4ruaVX"
+              }
+            ]
+          }
+        },
+        "id": "1221562724829691905",
+        "name": "永仪#咸鱼版",
+        "pinned_tweet_id": "1534197498281328640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862179978751684609/NWGhr4LD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26276,
+          "following_count": 3038,
+          "like_count": 32016,
+          "listed_count": 31,
+          "media_count": 767,
+          "tweet_count": 15414
+        },
+        "username": "gozZoazYckXOXcW",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-11T13:48:41.000Z",
+        "description": "是一只文学少女",
+        "id": "1469665357908824064",
+        "location": "Union of Britain ",
+        "name": "KaedeRen",
+        "pinned_tweet_id": "2058207553402888533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058120950688907264/YQRDzsNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18617,
+          "following_count": 374,
+          "like_count": 11855,
+          "listed_count": 20,
+          "media_count": 62,
+          "tweet_count": 1059
+        },
+        "username": "Takagi_0620",
+        "verified": false
+      }
+    ]
+  }
+}

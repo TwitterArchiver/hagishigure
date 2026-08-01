@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1975160136345010403",
+    "created_at": "2025-10-06T11:24:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T12:24:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975160136345010403"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/memecrashes/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/memecrashes/status/1974926388588425585",
+          "start": 7,
+          "url": "https://t.co/5AKJf8bQhR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975160136345010403",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974926388588425585",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "《我的數據》 https://t.co/5AKJf8bQhR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1040,
+        "media_key": "3_1974926370175127552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2hZEe_XEAAl5uN.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1975160136345010403",
+        "created_at": "2025-10-06T11:24:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T12:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975160136345010403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/memecrashes/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/memecrashes/status/1974926388588425585",
+              "start": 7,
+              "url": "https://t.co/5AKJf8bQhR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975160136345010403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974926388588425585",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《我的數據》 https://t.co/5AKJf8bQhR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974926370175127552"
+          ]
+        },
+        "author_id": "1035856038912827392",
+        "conversation_id": "1974926388588425585",
+        "created_at": "2025-10-05T19:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T20:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974926388588425585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XXZDUMy37u",
+              "end": 23,
+              "expanded_url": "https://x.com/memecrashes/status/1974926388588425585/photo/1",
+              "media_key": "3_1974926370175127552",
+              "start": 0,
+              "url": "https://t.co/XXZDUMy37u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974926388588425585",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 156,
+          "impression_count": 105607,
+          "like_count": 4870,
+          "quote_count": 72,
+          "reply_count": 19,
+          "retweet_count": 274
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XXZDUMy37u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 85,
+          "like_count": 1538,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 264
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2018-09-01T11:44:59.000Z",
+        "description": "currently working on our PhD (imaginary issues no one cares about except a really really really specific audience)",
+        "id": "1035856038912827392",
+        "name": "A meme page to check every time MatLab crashes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707352666953723904/3QEmx-s-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342990,
+          "following_count": 264,
+          "like_count": 3399,
+          "listed_count": 725,
+          "media_count": 5630,
+          "tweet_count": 6690
+        },
+        "username": "memecrashes",
+        "verified": true
+      }
+    ]
+  }
+}

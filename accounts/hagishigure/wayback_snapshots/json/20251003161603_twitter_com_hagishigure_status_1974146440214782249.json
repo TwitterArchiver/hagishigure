@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1974136499378794611",
+    "created_at": "2025-10-03T16:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T17:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974146440214782249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1356583549",
+          "start": 0,
+          "username": "kagurazakayashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974146440214782249",
+    "in_reply_to_user_id": "1356583549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974136499378794611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kagurazakayashi 親，这边也能给到您一个解释，就是這個工單確實已經交接了呢，这个事情确实是发生了，也是很抱歉，这边给您补偿5張0元優惠券您看可以吗？真的很不好意思哈，这边也是有点失误，也确实是有认识到错误的，您看这样能行吗，您别生气。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1974136499378794611",
+        "created_at": "2025-10-03T16:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T17:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974146440214782249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1356583549",
+              "start": 0,
+              "username": "kagurazakayashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974146440214782249",
+        "in_reply_to_user_id": "1356583549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974136499378794611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagurazakayashi 親，这边也能给到您一个解释，就是這個工單確實已經交接了呢，这个事情确实是发生了，也是很抱歉，这边给您补偿5張0元優惠券您看可以吗？真的很不好意思哈，这边也是有点失误，也确实是有认识到错误的，您看这样能行吗，您别生气。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356583549",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Red Hat",
+              "id": "1037073332359725057",
+              "name": "Red Hat"
+            }
+          }
+        ],
+        "conversation_id": "1974136499378794611",
+        "created_at": "2025-10-03T15:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T16:34:14.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974135914445312050",
+          "1974136499378794611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/landiantech/st…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/landiantech/status/1974042947894296921",
+              "start": 127,
+              "url": "https://t.co/tkAGbgpX7q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974136499378794611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974042947894296921",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "黑客：人工；回复：工单已交接。\n黑客：转人工；回复：工单已交接。\n黑客：人工服务；回复：工单已交接。\n黑客：人工客服；回复：工单已交接。\n黑客：cnm我直接公开数据\n数据：\n客户：转人工；回复：工单已交接。\n客户：人工服务；回复：工单已交接。\n………… https://t.co/tkAGbgpX7q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n||宣誓人——🪼諾諾||🪼沒有標籤，也不需要定義自己||正因神愛世人，世人才予以神的敬稱||",
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 76,
+          "like_count": 640,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 100
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2013-04-16T10:37:57.000Z",
+        "description": "2023.7之前的所有内容已经清空，这里是3周目，希望认识更多友人。没有头像和推文的还有广告人乐子人还是别点关注哦，会被拉黑的。女装不发18x。之前脚本批量B过人可能误B，照片 #雅诗自曝 。二次元纯净版+备号 @KagurazakaMasae 。更多见置顶推🩵🩷",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 94,
+                "start": 89,
+                "tag": "雅诗自曝"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 122,
+                "start": 106,
+                "username": "KagurazakaMasae"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KagurazakaYashi",
+                "end": 23,
+                "expanded_url": "https://t.me/KagurazakaYashi",
+                "start": 0,
+                "url": "https://t.co/s9yovgrsWF"
+              }
+            ]
+          }
+        },
+        "id": "1356583549",
+        "location": "東京都新宿区神楽坂５丁目７",
+        "name": "神楽坂雅詩🏳️‍⚧️",
+        "pinned_tweet_id": "1700827655258690027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951643207277920256/bEnBTuS1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14406,
+          "following_count": 5492,
+          "like_count": 17767,
+          "listed_count": 60,
+          "media_count": 481,
+          "tweet_count": 3802
+        },
+        "url": "https://t.co/s9yovgrsWF",
+        "username": "kagurazakayashi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1995848534244163703",
+    "created_at": "2025-12-02T13:32:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T14:32:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995848534244163703"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Tiana_Celine_2…",
+          "end": 132,
+          "expanded_url": "https://twitter.com/Tiana_Celine_23/status/1995124076960993369",
+          "start": 109,
+          "url": "https://t.co/UWbz8fwLIF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995848534244163703",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995124076960993369",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Você me diz, as características femininas vêm das mulheres ou as mulheres vêm das características femininas? https://t.co/UWbz8fwLIF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 183669,
+        "height": 972,
+        "media_key": "13_1995123768717709312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1995123768717709312/img/xi8PHNYrS4wzxF5J.jpg",
+        "public_metrics": {
+          "view_count": 3256952
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995123768717709312/vid/avc1/320x432/7XlHr8475u7vdwOd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995123768717709312/vid/avc1/480x648/lY1r8e8WOPmHpDeI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1995123768717709312/vid/avc1/720x972/L9DpZTwM5BZF22Es.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1995123768717709312/pl/-t31JiNBFUV3ALgd.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1995848534244163703",
+        "created_at": "2025-12-02T13:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T14:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995848534244163703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Tiana_Celine_2…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/Tiana_Celine_23/status/1995124076960993369",
+              "start": 109,
+              "url": "https://t.co/UWbz8fwLIF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995848534244163703",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995124076960993369",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Você me diz, as características femininas vêm das mulheres ou as mulheres vêm das características femininas? https://t.co/UWbz8fwLIF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1995123768717709312"
+          ]
+        },
+        "author_id": "1807090440841404416",
+        "conversation_id": "1995124076960993369",
+        "created_at": "2025-11-30T13:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T14:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995124076960993369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5K0z0ZJP3I",
+              "end": 70,
+              "expanded_url": "https://x.com/Tiana_Celine_23/status/1995124076960993369/video/1",
+              "media_key": "13_1995123768717709312",
+              "start": 47,
+              "url": "https://t.co/5K0z0ZJP3I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995124076960993369",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21649,
+          "impression_count": 13285009,
+          "like_count": 30719,
+          "quote_count": 2148,
+          "reply_count": 668,
+          "retweet_count": 2980
+        },
+        "reply_settings": "everyone",
+        "text": "Gestures to make you more elegant and feminine https://t.co/5K0z0ZJP3I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 113,
+          "like_count": 11506,
+          "listed_count": 0,
+          "media_count": 372,
+          "tweet_count": 2680
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T16:35:40.000Z",
+        "description": "🎶 Classic Music, Classical Dance 💃🏻🕺🏻, Art 🎨, Movie 🎥 and more...\n#dance #kindness #music #art #funny #movie 💎✨",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 66,
+                "tag": "dance"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "tag": "kindness"
+              },
+              {
+                "end": 89,
+                "start": 83,
+                "tag": "music"
+              },
+              {
+                "end": 94,
+                "start": 90,
+                "tag": "art"
+              },
+              {
+                "end": 101,
+                "start": 95,
+                "tag": "funny"
+              },
+              {
+                "end": 108,
+                "start": 102,
+                "tag": "movie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shenyun.org",
+                "end": 23,
+                "expanded_url": "https://www.shenyun.org",
+                "start": 0,
+                "url": "https://t.co/6J4hJakGQV"
+              }
+            ]
+          }
+        },
+        "id": "1807090440841404416",
+        "name": "🌷🦋 Love Music 🎶 & Dance 💃🏻🕺🏻",
+        "pinned_tweet_id": "1950937993554153662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819571321430593536/NBjQzS9z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93382,
+          "following_count": 1736,
+          "like_count": 1419,
+          "listed_count": 229,
+          "media_count": 6426,
+          "tweet_count": 7204
+        },
+        "url": "https://t.co/6J4hJakGQV",
+        "username": "Tiana_Celine_23",
+        "verified": true
+      }
+    ]
+  }
+}

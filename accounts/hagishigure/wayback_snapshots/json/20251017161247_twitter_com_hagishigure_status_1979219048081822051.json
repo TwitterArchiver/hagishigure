@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1979076613321998520",
+    "created_at": "2025-10-17T16:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T17:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979219048081822051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "968171213968367617",
+          "start": 0,
+          "username": "YaoYao38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979219048081822051",
+    "in_reply_to_user_id": "968171213968367617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979076613321998520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YaoYao38324 哦不…That’s warrior…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_1979076581730480128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3cXql1W8AAXz5w.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1979076613321998520",
+        "created_at": "2025-10-17T16:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T17:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979219048081822051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "968171213968367617",
+              "start": 0,
+              "username": "YaoYao38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979219048081822051",
+        "in_reply_to_user_id": "968171213968367617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979076613321998520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YaoYao38324 哦不…That’s warrior…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979076581730480128"
+          ]
+        },
+        "author_id": "968171213968367617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1979076613321998520",
+        "created_at": "2025-10-17T06:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T07:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979076613321998520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H1zGr8HJYp",
+              "end": 161,
+              "expanded_url": "https://x.com/YaoYao38324/status/1979076613321998520/photo/1",
+              "media_key": "3_1979076581730480128",
+              "start": 138,
+              "url": "https://t.co/H1zGr8HJYp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979076613321998520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3203,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天梳头，没看到梳子上趴着个大蜘蛛，握上去的时候才感觉手感古怪，看清是什么后被吓得猛然松手…\n\n这小家伙倒好，不慌不忙地从桌子上吐丝荡了下去，消失在黑暗中\n\n后来在reddit上查到好像是一种毒蜘蛛？我甚至还轻微挤压了它，还好它没咬我… 反正只要不烦扰我，就可以住在我屋里！ https://t.co/H1zGr8HJYp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 92,
+          "like_count": 3973,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 687
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-26T17:09:39.000Z",
+        "description": "LGBT+🏳️‍🌈/ 百合 另一只猫猫@garrulous_abyss/ Lapsed catholic/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "garrulous_abyss"
+              }
+            ]
+          }
+        },
+        "id": "968171213968367617",
+        "name": "衣我以夜1314🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120593152675842/87SNjEFj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1805,
+          "following_count": 663,
+          "like_count": 70345,
+          "listed_count": 13,
+          "media_count": 73,
+          "tweet_count": 13858
+        },
+        "username": "YaoYao38324",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2033396666984960434",
+    "created_at": "2026-03-16T16:16:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T17:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033578178036253148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1600024316552179713",
+          "start": 0,
+          "username": "mutsumi_sakiko"
+        },
+        {
+          "end": 28,
+          "id": "1236555368936816640",
+          "start": 16,
+          "username": "USC87465573"
+        },
+        {
+          "end": 42,
+          "id": "1520686487540740097",
+          "start": 29,
+          "username": "KokonaKokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033578178036253148",
+    "in_reply_to_user_id": "1600024316552179713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033529728947343824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mutsumi_sakiko @USC87465573 @KokonaKokoro 我已经测试过了，在UK注册的账号一直显示UK，在HK注册的账号一直显示HK，只和你账号注册的ip有关，和使用ip无关。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2033396666984960434",
+        "created_at": "2026-03-16T16:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T17:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033578178036253148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1600024316552179713",
+              "start": 0,
+              "username": "mutsumi_sakiko"
+            },
+            {
+              "end": 28,
+              "id": "1236555368936816640",
+              "start": 16,
+              "username": "USC87465573"
+            },
+            {
+              "end": 42,
+              "id": "1520686487540740097",
+              "start": 29,
+              "username": "KokonaKokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033578178036253148",
+        "in_reply_to_user_id": "1600024316552179713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033529728947343824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mutsumi_sakiko @USC87465573 @KokonaKokoro 我已经测试过了，在UK注册的账号一直显示UK，在HK注册的账号一直显示HK，只和你账号注册的ip有关，和使用ip无关。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600024316552179713",
+        "conversation_id": "2033396666984960434",
+        "created_at": "2026-03-16T13:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T14:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033529728947343824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1236555368936816640",
+              "start": 0,
+              "username": "USC87465573"
+            },
+            {
+              "end": 26,
+              "id": "1520686487540740097",
+              "start": 13,
+              "username": "KokonaKokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033529728947343824",
+        "in_reply_to_user_id": "1236555368936816640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033529370753610191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@USC87465573 @KokonaKokoro 其实我挺好奇这个cn怎么来的，大多数时间我用的港服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 143,
+          "like_count": 25639,
+          "listed_count": 2,
+          "media_count": 685,
+          "tweet_count": 6123
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-06T07:08:19.000Z",
+        "description": "07已成年mtf/x | 无证含糖 | 非二元偏f跨性别，同类可以找我互fo，但最好说一声 |  大概是个泛性恋喵 | 171cm/55kg | 苦逼高三文科生。。有点地雷 | 药娘共产主义）",
+        "id": "1600024316552179713",
+        "name": "mutsumi睦头🏳️‍⚧️🍥💛🤍💜🖤☭🚩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998058486715072512/Shc3tli3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 286,
+          "like_count": 3309,
+          "listed_count": 4,
+          "media_count": 25,
+          "tweet_count": 1082
+        },
+        "username": "mutsumi_sakiko",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-08T07:32:37.000Z",
+        "description": "just earn more money,try to go to better place;modern liberalist and universalist!!!",
+        "id": "1236555368936816640",
+        "location": "dunno",
+        "name": "Cowboy 🇺🇸🇪🇺🇬🇧🇨🇦🇨🇭🇦🇺🇸🇬🇭🇰🇺🇦🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012532183919898624/hrWkDqbd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 568,
+          "like_count": 23805,
+          "listed_count": 5,
+          "media_count": 439,
+          "tweet_count": 14087
+        },
+        "username": "USC87465573",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-01T08:48:29.000Z",
+        "description": "在日华人，哲学新手，温和自由主义/存在主义。喜欢键政。欢迎任何理性讨论。",
+        "id": "1520686487540740097",
+        "location": "Japan 🇯🇵",
+        "name": "心心心奈 🇯🇵⛩️",
+        "pinned_tweet_id": "2030202518916264057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030198840868151296/VmC4hx0R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 780,
+          "like_count": 9450,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2036
+        },
+        "username": "KokonaKokoro",
+        "verified": false
+      }
+    ]
+  }
+}

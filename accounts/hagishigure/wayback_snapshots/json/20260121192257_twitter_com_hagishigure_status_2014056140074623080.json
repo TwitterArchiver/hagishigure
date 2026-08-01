@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014056129257709569"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2014055953361178659",
+    "created_at": "2026-01-21T19:22:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T20:22:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014056140074623080"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MoCUNCEGh7",
+          "end": 34,
+          "expanded_url": "https://x.com/hagishigure/status/2014056140074623080/photo/1",
+          "media_key": "3_2014056129257709569",
+          "start": 11,
+          "url": "https://t.co/MoCUNCEGh7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014056140074623080",
+    "in_reply_to_user_id": "1965393379224944645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014055953361178659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "幾個月前玩的東西了。 https://t.co/MoCUNCEGh7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1375,
+        "media_key": "3_2014056129257709569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_NdYO4aoAELd_W.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014056129257709569"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014055953361178659",
+        "created_at": "2026-01-21T19:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T20:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014056140074623080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MoCUNCEGh7",
+              "end": 34,
+              "expanded_url": "https://x.com/hagishigure/status/2014056140074623080/photo/1",
+              "media_key": "3_2014056129257709569",
+              "start": 11,
+              "url": "https://t.co/MoCUNCEGh7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014056140074623080",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014055953361178659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "幾個月前玩的東西了。 https://t.co/MoCUNCEGh7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2014055953361178659",
+        "created_at": "2026-01-21T19:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T20:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014055953361178659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hagishigure/st…",
+              "end": 45,
+              "expanded_url": "https://x.com/hagishigure/status/1986039996189704646",
+              "start": 22,
+              "url": "https://t.co/6ZUOei9z1G"
+            },
+            {
+              "display_url": "x.com/taikongjile/st…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/taikongjile/status/2014015354637606941",
+              "start": 46,
+              "url": "https://t.co/3z8a6GOhHc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014055953361178659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014015354637606941",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你還是比不上我們這群老東西的時代進步能力。\nhttps://t.co/6ZUOei9z1G https://t.co/3z8a6GOhHc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 122,
+          "like_count": 15752,
+          "listed_count": 0,
+          "media_count": 427,
+          "tweet_count": 3654
+        },
+        "username": "hagishigure",
+        "verified": false
+      }
+    ]
+  }
+}

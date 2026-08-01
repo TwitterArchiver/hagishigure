@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2060699854511231463",
+    "created_at": "2026-05-30T12:28:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060699854511231463"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20606…",
+          "end": 34,
+          "expanded_url": "https://x.com/i/status/2060677650780389751",
+          "start": 11,
+          "url": "https://t.co/7bofExtBEW"
+        },
+        {
+          "display_url": "x.com/Oyama_Mihari01…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/Oyama_Mihari01/status/2060386497325617195",
+          "start": 35,
+          "url": "https://t.co/g5cmJqs38g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060699854511231463",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060386497325617195",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "土弔就喜欢这么说话。\nhttps://t.co/7bofExtBEW https://t.co/g5cmJqs38g"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2060699854511231463",
+        "created_at": "2026-05-30T12:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060699854511231463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20606…",
+              "end": 34,
+              "expanded_url": "https://x.com/i/status/2060677650780389751",
+              "start": 11,
+              "url": "https://t.co/7bofExtBEW"
+            },
+            {
+              "display_url": "x.com/Oyama_Mihari01…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Oyama_Mihari01/status/2060386497325617195",
+              "start": 35,
+              "url": "https://t.co/g5cmJqs38g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060699854511231463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060386497325617195",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "土弔就喜欢这么说话。\nhttps://t.co/7bofExtBEW https://t.co/g5cmJqs38g"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015624869665456129",
+        "conversation_id": "2060385954842747135",
+        "created_at": "2026-05-29T15:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060386497325617195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1920490291708243968",
+              "start": 0,
+              "username": "h191980276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060386497325617195",
+        "in_reply_to_user_id": "1920490291708243968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 924,
+          "like_count": 0,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060385954842747135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h191980276 我本人是跨女性骚扰受害者，谁跟你造谣了😃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 154,
+          "like_count": 30078,
+          "listed_count": 3,
+          "media_count": 783,
+          "tweet_count": 7209
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-26T03:19:07.000Z",
+        "description": "女子力の高い女の子💕| 写真家 📸| クリア系🌈| 音楽と日常 🎼| Pansexuality🌊\n• JP / EN / 中文 OK!\n• LGBTQフレンドリー\n• 気軽にフォローしてください！ ˗ˏˋ♥︎︎ˎˊ˗\n~ Thanks for the love₊⁺♡₊⁺~\n^ ̳- ‧̫ • ̳^ฅ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kingyosama?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kingyosama?igsh=MWc5Z3JoNTA3ampmeQ%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/gQ3LtlxQgH"
+              }
+            ]
+          }
+        },
+        "id": "2015624869665456129",
+        "location": "Wubba lubba dub dub！",
+        "name": "OyamaMihari🌈",
+        "pinned_tweet_id": "2060300733166260501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059949776414842880/igOrD6AZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 386,
+          "like_count": 598,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 671
+        },
+        "url": "https://t.co/gQ3LtlxQgH",
+        "username": "Oyama_Mihari01",
+        "verified": false
+      }
+    ]
+  }
+}

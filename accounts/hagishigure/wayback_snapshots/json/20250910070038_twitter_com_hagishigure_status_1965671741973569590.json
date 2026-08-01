@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1965616051032563919",
+    "created_at": "2025-09-10T07:00:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T08:00:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965671741973569590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "961655526466633728",
+          "start": 0,
+          "username": "amatsuuni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965671741973569590",
+    "in_reply_to_user_id": "961655526466633728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965616051032563919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amatsuuni おい!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1965616051032563919",
+        "created_at": "2025-09-10T07:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T08:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965671741973569590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "961655526466633728",
+              "start": 0,
+              "username": "amatsuuni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965671741973569590",
+        "in_reply_to_user_id": "961655526466633728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965616051032563919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amatsuuni おい!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "961655526466633728",
+        "conversation_id": "1965616051032563919",
+        "created_at": "2025-09-10T03:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T04:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965616051032563919"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965616051032563919",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 176405,
+          "like_count": 333,
+          "quote_count": 5,
+          "reply_count": 26,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "は？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "私そんな不幸せそうに見えるの..表层人格是元气文学少女，低落时就会变成单方面拒绝交流的阴郁系人格，《妄想症paranoid》激推。是INFP，大概是梦想家。也許是mtf。梦想是世界和平。",
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "萩時雨🍥🌈",
+        "pinned_tweet_id": "1965421455061254216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965395319631572992/1JnrHCO3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 0,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-08T17:38:39.000Z",
+        "description": "元本垢乗っ取られてます！通報→ @zirzayo_ /さぶ @ziraichan_p / いんふぉ @ziraichan_info モデル @ankrouge /PR大使 @PR_kukiwakame ❤︎歌い手界1の問題児とは私の事❤︎ 私の盗撮はご自由にどうぞ。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "zirzayo_"
+              },
+              {
+                "end": 42,
+                "start": 30,
+                "username": "ziraichan_p"
+              },
+              {
+                "end": 65,
+                "start": 50,
+                "username": "ziraichan_info"
+              },
+              {
+                "end": 79,
+                "start": 70,
+                "username": "ankrouge"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "PR_kukiwakame"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ziraichan?si=…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@ziraichan?si=Ez2SnLtB97xmUnEG",
+                "start": 0,
+                "url": "https://t.co/6k6VIrFo58"
+              }
+            ]
+          }
+        },
+        "id": "961655526466633728",
+        "location": "炎上マスター！燃やしてけ世界を！燃やしてけ私を！",
+        "name": "地雷チャン@No.1推し活インフルエンサー/歌い手",
+        "pinned_tweet_id": "1959249859715932578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929553709966794752/ez-ewdfY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61012,
+          "following_count": 561,
+          "like_count": 51723,
+          "listed_count": 118,
+          "media_count": 2240,
+          "tweet_count": 10292
+        },
+        "url": "https://t.co/6k6VIrFo58",
+        "username": "amatsuuni",
+        "verified": true
+      }
+    ]
+  }
+}

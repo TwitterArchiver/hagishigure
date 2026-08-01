@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1983082867447214515",
+    "created_at": "2025-10-28T08:11:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T09:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983084292172628324"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1983084292172628324",
+    "in_reply_to_user_id": "1965393379224944645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983082867447214515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我於她而言，或是亮度極高的藍色中的一層灰，或是已經丟棄的某一段時間，海天之下的雨，碎裂的彩色，數論的謬誤，從未有過的悖論，似是寒或遠，未名的霧，遙遠的陸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1983082867447214515",
+        "created_at": "2025-10-28T08:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T09:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983084292172628324"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983084292172628324",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983082867447214515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我於她而言，或是亮度極高的藍色中的一層灰，或是已經丟棄的某一段時間，海天之下的雨，碎裂的彩色，數論的謬誤，從未有過的悖論，似是寒或遠，未名的霧，遙遠的陸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1983082867447214515",
+        "created_at": "2025-10-28T08:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T09:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983082867447214515"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983082867447214515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我曾經也想抱著她隨她一起墜入深淵。\n透明的浮沫制止了我，帶我找回了我因混沌丟失的熱烈。\n自此，情感溫存於季風与寒冬之中。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 100,
+          "like_count": 6184,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 1285
+        },
+        "username": "hagishigure",
+        "verified": true
+      }
+    ]
+  }
+}

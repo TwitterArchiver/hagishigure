@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989882080764071936",
+        "3_1989882099638407168",
+        "3_1989882110308749312"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1989882117162242232",
+    "created_at": "2025-11-16T02:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T03:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989882117162242232"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8fq52yklng",
+          "end": 39,
+          "expanded_url": "https://x.com/hagishigure/status/1989882117162242232/photo/1",
+          "media_key": "3_1989882080764071936",
+          "start": 16,
+          "url": "https://t.co/8fq52yklng"
+        },
+        {
+          "display_url": "pic.x.com/8fq52yklng",
+          "end": 39,
+          "expanded_url": "https://x.com/hagishigure/status/1989882117162242232/photo/1",
+          "media_key": "3_1989882099638407168",
+          "start": 16,
+          "url": "https://t.co/8fq52yklng"
+        },
+        {
+          "display_url": "pic.x.com/8fq52yklng",
+          "end": 39,
+          "expanded_url": "https://x.com/hagishigure/status/1989882117162242232/photo/1",
+          "media_key": "3_1989882110308749312",
+          "start": 16,
+          "url": "https://t.co/8fq52yklng"
+        },
+        {
+          "display_url": "x.com/rfEfKrdtsS3470…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/rfEfKrdtsS34706/status/1989221346996547640",
+          "start": 40,
+          "url": "https://t.co/eucKgzBK6S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989882117162242232",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989221346996547640",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "1860，1626，1804🤡 https://t.co/8fq52yklng https://t.co/eucKgzBK6S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 972,
+        "media_key": "3_1989882080764071936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G517NajbkAAHT-2.jpg",
+        "width": 1279
+      },
+      {
+        "height": 875,
+        "media_key": "3_1989882099638407168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G517Og3bEAAW6dh.jpg",
+        "width": 1279
+      },
+      {
+        "height": 809,
+        "media_key": "3_1989882110308749312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G517PInbkAAh-vs.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1547,
+        "media_key": "3_1989221312737472514",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5siPp1acAIUt4w.jpg",
+        "width": 1136
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989882080764071936",
+            "3_1989882099638407168",
+            "3_1989882110308749312"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1989882117162242232",
+        "created_at": "2025-11-16T02:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T03:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989882117162242232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8fq52yklng",
+              "end": 39,
+              "expanded_url": "https://x.com/hagishigure/status/1989882117162242232/photo/1",
+              "media_key": "3_1989882080764071936",
+              "start": 16,
+              "url": "https://t.co/8fq52yklng"
+            },
+            {
+              "display_url": "pic.x.com/8fq52yklng",
+              "end": 39,
+              "expanded_url": "https://x.com/hagishigure/status/1989882117162242232/photo/1",
+              "media_key": "3_1989882099638407168",
+              "start": 16,
+              "url": "https://t.co/8fq52yklng"
+            },
+            {
+              "display_url": "pic.x.com/8fq52yklng",
+              "end": 39,
+              "expanded_url": "https://x.com/hagishigure/status/1989882117162242232/photo/1",
+              "media_key": "3_1989882110308749312",
+              "start": 16,
+              "url": "https://t.co/8fq52yklng"
+            },
+            {
+              "display_url": "x.com/rfEfKrdtsS3470…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/rfEfKrdtsS34706/status/1989221346996547640",
+              "start": 40,
+              "url": "https://t.co/eucKgzBK6S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989882117162242232",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989221346996547640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1860，1626，1804🤡 https://t.co/8fq52yklng https://t.co/eucKgzBK6S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989221312737472514"
+          ]
+        },
+        "author_id": "1957812160421400576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1989221346996547640",
+        "created_at": "2025-11-14T06:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T07:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989221346996547640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8thVA3hGcP",
+              "end": 54,
+              "expanded_url": "https://x.com/rfEfKrdtsS34706/status/1989221346996547640/photo/1",
+              "media_key": "3_1989221312737472514",
+              "start": 31,
+              "url": "https://t.co/8thVA3hGcP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989221346996547640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 19342,
+          "like_count": 53,
+          "quote_count": 26,
+          "reply_count": 48,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "各位測試一下自己中了多少馬列的毒\n\n我認同零個，精神十分健康 https://t.co/8thVA3hGcP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 108,
+          "like_count": 9019,
+          "listed_count": 0,
+          "media_count": 306,
+          "tweet_count": 2047
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-19T14:29:36.000Z",
+        "description": "廣府人，右翼 ，華統民國派，（廣東沙文主義、三民主義、蔣主義、一民主義、反共主義、泛亞主義、文化保守主義、法團主義、反馬克思主義）  堅守禮義廉恥和，四維八德，復興中華民國",
+        "id": "1957812160421400576",
+        "name": "三民主義者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986798495593066497/bkoE7GqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 265,
+          "like_count": 5727,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 718
+        },
+        "username": "rfEfKrdtsS34706",
+        "verified": false
+      }
+    ]
+  }
+}

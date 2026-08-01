@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2026724030896656653",
+    "created_at": "2026-02-25T18:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T19:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026724030896656653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 26,
+          "id": "1424779836938022913",
+          "start": 13,
+          "username": "amber_toffee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Miatta_Leon/st…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/Miatta_Leon/status/2026698137361117251",
+          "start": 49,
+          "url": "https://t.co/aiLIPPWN5n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026724030896656653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026698137361117251",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "懂了。马上制造焦虑水母。\n@amber_toffee 我说句老实话，你也不像是读过花路的祥子。😗 https://t.co/aiLIPPWN5n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 607,
+        "media_key": "3_2026698126808199170",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCBHNVtaMAI7D8F.jpg",
+        "width": 1072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2026724030896656653",
+        "created_at": "2026-02-25T18:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T19:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026724030896656653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1424779836938022913",
+              "start": 13,
+              "username": "amber_toffee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Miatta_Leon/st…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/Miatta_Leon/status/2026698137361117251",
+              "start": 49,
+              "url": "https://t.co/aiLIPPWN5n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026724030896656653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026698137361117251",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "懂了。马上制造焦虑水母。\n@amber_toffee 我说句老实话，你也不像是读过花路的祥子。😗 https://t.co/aiLIPPWN5n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026698126808199170"
+          ]
+        },
+        "author_id": "1622346900824522752",
+        "conversation_id": "2026698137361117251",
+        "created_at": "2026-02-25T16:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T17:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026698137361117251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hNNkYR58dM",
+              "end": 31,
+              "expanded_url": "https://x.com/Miatta_Leon/status/2026698137361117251/photo/1",
+              "media_key": "3_2026698126808199170",
+              "start": 8,
+              "url": "https://t.co/hNNkYR58dM"
+            },
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/amber_toffee/status/2026689717673082977",
+              "start": 32,
+              "url": "https://t.co/wRJiNi3Vva"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026698137361117251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 323,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026689717673082977",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "康米哲友的對話 https://t.co/hNNkYR58dM https://t.co/wRJiNi3Vva"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 137,
+          "like_count": 22227,
+          "listed_count": 2,
+          "media_count": 631,
+          "tweet_count": 5475
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "ᴘʜᴅ @wgsi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "☭ 🏳️‍⚧️ (she/her/她)",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22353,
+          "following_count": 2602,
+          "like_count": 36924,
+          "listed_count": 7,
+          "media_count": 458,
+          "tweet_count": 19453
+        },
+        "username": "amber_toffee",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T21:30:30.000Z",
+        "description": "02年MtF-X/筹备hrt中，祝自己come out顺利/留学香港/INFP-T兼谱系障碍兼轻度焦虑性抑郁，负能量警告/不键政，不发黄",
+        "id": "1622346900824522752",
+        "location": "香港",
+        "name": "MiattaLeon🌹🏳️‍⚧️🌳🌺🌊",
+        "pinned_tweet_id": "1666442104552275969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1625844243708403713/DHBDCWDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2711,
+          "following_count": 5122,
+          "like_count": 283180,
+          "listed_count": 16,
+          "media_count": 780,
+          "tweet_count": 47032
+        },
+        "username": "Miatta_Leon",
+        "verified": false
+      }
+    ]
+  }
+}

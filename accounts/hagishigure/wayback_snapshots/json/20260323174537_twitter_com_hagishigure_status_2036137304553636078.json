@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2036087884952777095",
+    "created_at": "2026-03-23T17:45:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T18:45:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036137304553636078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1899847034305495040",
+          "start": 0,
+          "username": "xiokidemnm95417"
+        },
+        {
+          "end": 29,
+          "id": "1780369819310981120",
+          "start": 17,
+          "username": "520illusion"
+        },
+        {
+          "end": 41,
+          "id": "1759231886390648832",
+          "start": 30,
+          "username": "seiya_help"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036137304553636078",
+    "in_reply_to_user_id": "1899847034305495040",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036109752003158046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiokidemnm95417 @520illusion @seiya_help"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2036087884952777095",
+        "created_at": "2026-03-23T17:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T18:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036137304553636078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1899847034305495040",
+              "start": 0,
+              "username": "xiokidemnm95417"
+            },
+            {
+              "end": 29,
+              "id": "1780369819310981120",
+              "start": 17,
+              "username": "520illusion"
+            },
+            {
+              "end": 41,
+              "id": "1759231886390648832",
+              "start": 30,
+              "username": "seiya_help"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036137304553636078",
+        "in_reply_to_user_id": "1899847034305495040",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036109752003158046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiokidemnm95417 @520illusion @seiya_help"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899847034305495040",
+        "conversation_id": "2036087884952777095",
+        "created_at": "2026-03-23T15:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T16:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036109752003158046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780369819310981120",
+              "start": 0,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036109752003158046",
+        "in_reply_to_user_id": "1780369819310981120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036087884952777095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520illusion 可以给个渠道吗..找不到糖商了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 147,
+          "like_count": 26412,
+          "listed_count": 2,
+          "media_count": 698,
+          "tweet_count": 6266
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-12T15:36:56.000Z",
+        "description": "出厂日期08，是小药娘一枚(≧▽≦)，吃糖日期是25.9.15\n社恐，是一个变态受虐狂，喜欢捆绑喵",
+        "id": "1899847034305495040",
+        "location": "云南昆明",
+        "name": "伊汐🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899869575006543872/FG5r3fgB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "username": "xiokidemnm95417",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "All in crypto | 08 | 🏳‍⚧ | 杂鱼 | 杭州南京合肥武汉随机刷新 想和可爱的人面面 | illusion | 抑郁幻想向 | 坠落星空 | 梦幻主义 | 蓝 | 氯硝西泮 | 终将成为你 | 我向神明祈祷 许你岁岁平安",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/ecnOMDHn8U"
+              }
+            ]
+          }
+        },
+        "id": "1780369819310981120",
+        "location": "浙江省宁波市3号线地铁中兴大桥南站A出口",
+        "name": "ill",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028863680889372672/zT5FAaR9_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4144,
+          "following_count": 435,
+          "like_count": 8945,
+          "listed_count": 7,
+          "media_count": 671,
+          "tweet_count": 5265
+        },
+        "url": "https://t.co/ecnOMDHn8U",
+        "username": "520illusion",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-18T15:02:52.000Z",
+        "description": "救援协会的几小只 只是偶尔用せいや的账号而已❤️|Venus：@   |Mercury：@hoshiamechyan|Satur：@kasaihitomii|Nipton：@  |Mars：@Meow5tr|\n是多恒星系统救援协会的官方账号|https://t.co/6aRSuRHveW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 44,
+                "username": "hoshiamechyan"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "kasaihitomii"
+              },
+              {
+                "end": 103,
+                "start": 95,
+                "username": "Meow5tr"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Galaxia.wiki",
+                "end": 144,
+                "expanded_url": "http://Galaxia.wiki",
+                "start": 121,
+                "url": "https://t.co/6aRSuRHveW"
+              }
+            ]
+          }
+        },
+        "id": "1759231886390648832",
+        "name": "星夜ネコ🪼（正经医学援助ing",
+        "pinned_tweet_id": "1759233635562205602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959042412279734277/1WeE5ObI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 10,
+          "like_count": 236,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 55
+        },
+        "username": "seiya_help",
+        "verified": true
+      }
+    ]
+  }
+}

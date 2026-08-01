@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2012412175109763139",
+    "created_at": "2026-01-17T06:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T07:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012412175109763139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 27,
+          "id": "1754494415152766976",
+          "start": 15,
+          "username": "NagiExpress"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/ceobrus/status…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/ceobrus/status/2012113472839184751",
+          "start": 28,
+          "url": "https://t.co/WSBJiUJyST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012412175109763139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012113472839184751",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "南梁被波及了，北朝还会远吗。 @NagiExpress https://t.co/WSBJiUJyST"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2012412175109763139",
+        "created_at": "2026-01-17T06:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T07:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012412175109763139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1754494415152766976",
+              "start": 15,
+              "username": "NagiExpress"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ceobrus/status…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/ceobrus/status/2012113472839184751",
+              "start": 28,
+              "url": "https://t.co/WSBJiUJyST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012412175109763139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012113472839184751",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "南梁被波及了，北朝还会远吗。 @NagiExpress https://t.co/WSBJiUJyST"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903701047589343232",
+        "conversation_id": "2012042132547088629",
+        "created_at": "2026-01-16T10:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T11:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012113472839184751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1685784710285266944",
+              "start": 0,
+              "username": "mhtqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012113472839184751",
+        "in_reply_to_user_id": "1685784710285266944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1969,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012042132547088629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mhtqwq 这下南梁也被波及了，那北魏还会远吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 120,
+          "like_count": 15161,
+          "listed_count": 1,
+          "media_count": 416,
+          "tweet_count": 3523
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "重庆身上有一种很明确的信号：\n“老子条件不行，但我偏要做出点样子”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/vic…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/victoria/",
+                "start": 0,
+                "url": "https://t.co/O8fBywpcGi"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "location": "沙坪坝",
+        "name": "精神Nagi🥥",
+        "pinned_tweet_id": "2010357082399367298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980213866878455808/WzDevz15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4675,
+          "following_count": 2081,
+          "like_count": 20527,
+          "listed_count": 6,
+          "media_count": 1796,
+          "tweet_count": 17767
+        },
+        "url": "https://t.co/O8fBywpcGi",
+        "username": "NagiExpress",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-23T06:51:21.000Z",
+        "description": "愿所有人都找到属于自己的永恒站🥨",
+        "id": "1903701047589343232",
+        "name": "小方🥨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010350007103483904/YZzbcGg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4210,
+          "following_count": 1641,
+          "like_count": 9541,
+          "listed_count": 9,
+          "media_count": 65,
+          "tweet_count": 927
+        },
+        "username": "ceobrus",
+        "verified": false
+      }
+    ]
+  }
+}

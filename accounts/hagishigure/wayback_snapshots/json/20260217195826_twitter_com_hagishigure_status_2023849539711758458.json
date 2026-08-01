@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2023603829795942905",
+    "created_at": "2026-02-17T19:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T20:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023849539711758458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2884726859",
+          "start": 0,
+          "username": "xcc112233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023849539711758458",
+    "in_reply_to_user_id": "2884726859",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023603829795942905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xcc112233 non-demanding co-existence."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1977,
+        "media_key": "3_2023603821143093257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBVI9C1bcAk1gdP.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1887,
+        "media_key": "3_2023603821122121737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBVI9CwbcAk9qwr.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1164,
+        "media_key": "3_2023603821147234304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBVI9C2aoAAGj0H.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2023603829795942905",
+        "created_at": "2026-02-17T19:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T20:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023849539711758458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2884726859",
+              "start": 0,
+              "username": "xcc112233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023849539711758458",
+        "in_reply_to_user_id": "2884726859",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023603829795942905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xcc112233 non-demanding co-existence."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023603821143093257",
+            "3_2023603821122121737",
+            "3_2023603821147234304"
+          ]
+        },
+        "author_id": "2884726859",
+        "conversation_id": "2023603829795942905",
+        "created_at": "2026-02-17T03:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T04:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023603829795942905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GDAnbwASbm",
+              "end": 74,
+              "expanded_url": "https://x.com/xcc112233/status/2023603829795942905/photo/1",
+              "media_key": "3_2023603821143093257",
+              "start": 51,
+              "url": "https://t.co/GDAnbwASbm"
+            },
+            {
+              "display_url": "pic.x.com/GDAnbwASbm",
+              "end": 74,
+              "expanded_url": "https://x.com/xcc112233/status/2023603829795942905/photo/1",
+              "media_key": "3_2023603821122121737",
+              "start": 51,
+              "url": "https://t.co/GDAnbwASbm"
+            },
+            {
+              "display_url": "pic.x.com/GDAnbwASbm",
+              "end": 74,
+              "expanded_url": "https://x.com/xcc112233/status/2023603829795942905/photo/1",
+              "media_key": "3_2023603821147234304",
+              "start": 51,
+              "url": "https://t.co/GDAnbwASbm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023603829795942905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 26555,
+          "like_count": 304,
+          "quote_count": 10,
+          "reply_count": 9,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "一只“brat”的占有欲\n这种性格的人看似漫不经心，实则深藏占有欲，通过小动作和反常行为确认你的存在 https://t.co/GDAnbwASbm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 130,
+          "like_count": 20100,
+          "listed_count": 0,
+          "media_count": 572,
+          "tweet_count": 4861
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-19T20:39:26.000Z",
+        "description": "bdsm｜6年dom｜坐标:徐州｜深度挖掘奴性肉体与灵魂羁绊｜严厉又温柔，手狠但尊重｜知识科普🐧1687738454 v：xjhg1111",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xcc112233",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xcc112233",
+                "start": 0,
+                "url": "https://t.co/2OWhEX85k5"
+              }
+            ]
+          }
+        },
+        "id": "2884726859",
+        "location": "江苏徐州  ",
+        "name": "白先生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681005961287180290/EIIxfQWb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3109,
+          "following_count": 28,
+          "like_count": 536,
+          "listed_count": 3,
+          "media_count": 85,
+          "tweet_count": 207
+        },
+        "url": "https://t.co/2OWhEX85k5",
+        "username": "xcc112233",
+        "verified": false
+      }
+    ]
+  }
+}

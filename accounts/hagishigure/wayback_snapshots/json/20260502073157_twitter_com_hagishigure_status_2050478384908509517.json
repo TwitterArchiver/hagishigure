@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2050478384908509517",
+    "created_at": "2026-05-02T07:31:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T08:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050478384908509517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1789184782825615360",
+          "start": 3,
+          "username": "nonsweetsuger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050478384908509517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050431910640542046",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nonsweetsuger: @ PopoWrld999 跨伴精神病在25年8月份期间失踪于上海徐汇区精神病院,时间超过常规封闭治疗周期。\n我在今年4月份自费前往试图与之取得联系,无果。600号所有成人男性封闭病房查无此人，可能居住于其他病院或陷于其他可能。\n因个人问题…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050431892365922304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHSY8USaUAAS9ia.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050431892672192512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHSY8VbboAAoT7F.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050431895230705664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHSY8e9bcAAnuGX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2050478384908509517",
+        "created_at": "2026-05-02T07:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T08:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050478384908509517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1789184782825615360",
+              "start": 3,
+              "username": "nonsweetsuger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050478384908509517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050431910640542046",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nonsweetsuger: @ PopoWrld999 跨伴精神病在25年8月份期间失踪于上海徐汇区精神病院,时间超过常规封闭治疗周期。\n我在今年4月份自费前往试图与之取得联系,无果。600号所有成人男性封闭病房查无此人，可能居住于其他病院或陷于其他可能。\n因个人问题…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050431892365922304",
+            "3_2050431892672192512",
+            "3_2050431895230705664"
+          ]
+        },
+        "author_id": "1789184782825615360",
+        "conversation_id": "2050431910640542046",
+        "created_at": "2026-05-02T04:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T05:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050431910640542046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WeRLPRVPR5",
+              "end": 179,
+              "expanded_url": "https://x.com/nonsweetsuger/status/2050431910640542046/photo/1",
+              "media_key": "3_2050431892365922304",
+              "start": 156,
+              "url": "https://t.co/WeRLPRVPR5"
+            },
+            {
+              "display_url": "pic.x.com/WeRLPRVPR5",
+              "end": 179,
+              "expanded_url": "https://x.com/nonsweetsuger/status/2050431910640542046/photo/1",
+              "media_key": "3_2050431892672192512",
+              "start": 156,
+              "url": "https://t.co/WeRLPRVPR5"
+            },
+            {
+              "display_url": "pic.x.com/WeRLPRVPR5",
+              "end": 179,
+              "expanded_url": "https://x.com/nonsweetsuger/status/2050431910640542046/photo/1",
+              "media_key": "3_2050431895230705664",
+              "start": 156,
+              "url": "https://t.co/WeRLPRVPR5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050431910640542046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 845,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "@ PopoWrld999 跨伴精神病在25年8月份期间失踪于上海徐汇区精神病院,时间超过常规封闭治疗周期。\n我在今年4月份自费前往试图与之取得联系,无果。600号所有成人男性封闭病房查无此人，可能居住于其他病院或陷于其他可能。\n因个人问题已无力再查。\n约2月前账号被冻结 。\n如还有意帮助者私我,可提供信息… https://t.co/WeRLPRVPR5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 149,
+          "like_count": 28062,
+          "listed_count": 2,
+          "media_count": 747,
+          "tweet_count": 6680
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-11T06:44:59.000Z",
+        "description": "悲伤的设计狗/非二元有男友",
+        "id": "1789184782825615360",
+        "name": "不甜的某糖 nonsweetsuger 🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1820497848582201477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790064536709730304/6xzaU-q8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 756,
+          "like_count": 23604,
+          "listed_count": 2,
+          "media_count": 491,
+          "tweet_count": 10728
+        },
+        "username": "nonsweetsuger",
+        "verified": false
+      }
+    ]
+  }
+}

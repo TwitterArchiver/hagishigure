@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2024487681850274255",
+    "created_at": "2026-02-19T14:14:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T15:14:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024487681850274255"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ServalCandle/s…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/ServalCandle/status/2024447448996073951",
+          "start": 38,
+          "url": "https://t.co/rFaF73UUFE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024487681850274255",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024447448996073951",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "挺羡慕你们这种羁绊的。\n我送走的人没有十个也有八个了。\n但有0个人在意我。 https://t.co/rFaF73UUFE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1285,
+        "media_key": "3_2024447440309669895",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBhIOJIbUAcCqUW.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2024447440326447104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBhIOJMbUAAO7BS.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2024487681850274255",
+        "created_at": "2026-02-19T14:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T15:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024487681850274255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ServalCandle/s…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/ServalCandle/status/2024447448996073951",
+              "start": 38,
+              "url": "https://t.co/rFaF73UUFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024487681850274255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024447448996073951",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "挺羡慕你们这种羁绊的。\n我送走的人没有十个也有八个了。\n但有0个人在意我。 https://t.co/rFaF73UUFE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024447440309669895",
+            "3_2024447440326447104"
+          ]
+        },
+        "author_id": "705777407794352129",
+        "conversation_id": "2024447448996073951",
+        "created_at": "2026-02-19T11:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024447448996073951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Du0rSi6AMw",
+              "end": 137,
+              "expanded_url": "https://x.com/ServalCandle/status/2024447448996073951/photo/1",
+              "media_key": "3_2024447440309669895",
+              "start": 114,
+              "url": "https://t.co/Du0rSi6AMw"
+            },
+            {
+              "display_url": "pic.x.com/Du0rSi6AMw",
+              "end": 137,
+              "expanded_url": "https://x.com/ServalCandle/status/2024447448996073951/photo/1",
+              "media_key": "3_2024447440326447104",
+              "start": 114,
+              "url": "https://t.co/Du0rSi6AMw"
+            },
+            {
+              "display_url": "x.com/servalcandle/s…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/servalcandle/status/2024218608298316027",
+              "start": 138,
+              "url": "https://t.co/99KInHScoM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024447448996073951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1581,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024218608298316027",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然十有八九是有人翻她手机一不小心打出去的（（（\n\n但是也快到头七了\n\n在多伦多的各位如果想可以去烧点\n\n唐人街的宗教用品店有卖的，开车找个能烧烤的公园拿个铁桶烧就可以\n\n笨猫的话…在北京反而不知道该怎么烧纸了\n等我研究研究的 https://t.co/Du0rSi6AMw https://t.co/99KInHScoM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 132,
+          "like_count": 20562,
+          "listed_count": 0,
+          "media_count": 582,
+          "tweet_count": 5011
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "頭像是自拍 / 癲貓精靈 笨貓不靈 (｡-_-｡)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "🐈🥖Pain chat🥯🙀",
+        "name": "🌸猫宮すみか🎀🎍",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016599737370365954/FsaeDbNg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33520,
+          "following_count": 350,
+          "like_count": 229782,
+          "listed_count": 106,
+          "media_count": 8757,
+          "tweet_count": 57004
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

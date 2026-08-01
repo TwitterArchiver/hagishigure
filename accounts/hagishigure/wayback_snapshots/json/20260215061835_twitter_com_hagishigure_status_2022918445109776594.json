@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022918430605938688"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2022918445109776594",
+    "created_at": "2026-02-15T06:18:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T07:18:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022918445109776594"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HmO2z0WzAR",
+          "end": 82,
+          "expanded_url": "https://x.com/hagishigure/status/2022918445109776594/photo/1",
+          "media_key": "3_2022918430605938688",
+          "start": 59,
+          "url": "https://t.co/HmO2z0WzAR"
+        },
+        {
+          "display_url": "x.com/WoShiGaoYulian…",
+          "end": 106,
+          "expanded_url": "https://twitter.com/WoShiGaoYuliang/status/2022782797207810210",
+          "start": 83,
+          "url": "https://t.co/Lfc3VKK6dr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022918445109776594",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022782797207810210",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "天呐，省赛这种水也有人吹吗。🤭\n我教的学生都拿银牌。🤭\n你只能暴露出连省赛只要陪跑就能省三等奖起步都不知道的事实。🤭 https://t.co/HmO2z0WzAR https://t.co/Lfc3VKK6dr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1084,
+        "media_key": "3_2022918430605938688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBLZmEHbkAAcoT7.jpg",
+        "width": 969
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022918430605938688"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022918445109776594",
+        "created_at": "2026-02-15T06:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T07:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022918445109776594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HmO2z0WzAR",
+              "end": 82,
+              "expanded_url": "https://x.com/hagishigure/status/2022918445109776594/photo/1",
+              "media_key": "3_2022918430605938688",
+              "start": 59,
+              "url": "https://t.co/HmO2z0WzAR"
+            },
+            {
+              "display_url": "x.com/WoShiGaoYulian…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/WoShiGaoYuliang/status/2022782797207810210",
+              "start": 83,
+              "url": "https://t.co/Lfc3VKK6dr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022918445109776594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022782797207810210",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天呐，省赛这种水也有人吹吗。🤭\n我教的学生都拿银牌。🤭\n你只能暴露出连省赛只要陪跑就能省三等奖起步都不知道的事实。🤭 https://t.co/HmO2z0WzAR https://t.co/Lfc3VKK6dr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529448037885833216",
+        "conversation_id": "2022749695831920991",
+        "created_at": "2026-02-14T21:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T22:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022782797207810210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022782797207810210",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022749695831920991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure 🤭参加省赛的人群不会问出这种问题，你并没有想反驳我，你只是想借机抒发自己的优越感同时再狠狠踩一脚图中的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 130,
+          "like_count": 19699,
+          "listed_count": 0,
+          "media_count": 565,
+          "tweet_count": 4723
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T13:03:35.000Z",
+        "description": "2001年5月至2004年4月，任汉东省吕州市政法委副书记。\n2004年4月至2010年3月，担任汉东省吕州市委常委、政法委书记，并兼任吕州市政府副市长、党组副书记。\n2013年5月至2013年7月，担任汉东省委副书记、吕州市委书记。\n2013年7月至今，担任汉东省委常委、省委副书记、政法委书记。",
+        "id": "1529448037885833216",
+        "location": "汉东省 京州市 省委大院",
+        "name": "高育良",
+        "pinned_tweet_id": "1941784806347747656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010613987281690624/lso4A3FU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1641,
+          "following_count": 534,
+          "like_count": 24956,
+          "listed_count": 4,
+          "media_count": 700,
+          "tweet_count": 9430
+        },
+        "username": "WoShiGaoYuliang",
+        "verified": false
+      }
+    ]
+  }
+}

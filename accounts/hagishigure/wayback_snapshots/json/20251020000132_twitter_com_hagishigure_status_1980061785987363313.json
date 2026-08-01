@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1979844539142852894",
+    "created_at": "2025-10-20T00:01:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T01:01:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980061785987363313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1323990790729707520",
+          "start": 0,
+          "username": "DawnSayu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980061785987363313",
+    "in_reply_to_user_id": "1323990790729707520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979844539142852894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DawnSayu 啊😦？\n我當時初一的時候在國際學校学都是直接講滿射的概念🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1979844539142852894",
+        "created_at": "2025-10-20T00:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T01:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980061785987363313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1323990790729707520",
+              "start": 0,
+              "username": "DawnSayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980061785987363313",
+        "in_reply_to_user_id": "1323990790729707520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979844539142852894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DawnSayu 啊😦？\n我當時初一的時候在國際學校学都是直接講滿射的概念🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1323990790729707520",
+        "conversation_id": "1979844539142852894",
+        "created_at": "2025-10-19T09:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T10:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979844539142852894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "xhslink.com/o/AXlNINITIOz",
+              "end": 42,
+              "expanded_url": "http://xhslink.com/o/AXlNINITIOz",
+              "start": 19,
+              "unwound_url": "https://www.xiaohongshu.com/discovery/item/68f35e8700000000070011e7?app_platform=ios&app_version=9.4&share_from_user_hidden=true&xsec_source=app_share&type=video&xsec_token=CBl3QlmoKcseX36MjIvXG7I7cqhlyvJVikyZ-eW4S0zUI=&author_share=1&xhsshare=CopyLink&shareRedId=N0s6QUg2OUE2NzUyOTgwNjY0OTc9Nz1P&apptime=1760866677&share_id=8733c05d5c294321906d28ba53796b5d",
+              "url": "https://t.co/9IxjS8kmMK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979844539142852894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/o/AXlNINITIOz",
+                "end": 42,
+                "expanded_url": "http://xhslink.com/o/AXlNINITIOz",
+                "start": 19,
+                "url": "https://t.co/rBIvbsShSX"
+              }
+            ]
+          },
+          "text": "一个视频拆解清楚同济线代的防自学设计 https://t.co/rBIvbsShSX \n这个问题可以放到所有的中文教程上。\n比如说，我花了很多年，直到我都学到变分法了，我才理解高中数学必修一那个对函数的定义。\n（就是很多人困惑的，为什么到了高中，y变成了f（x）。\n我见过无数个老师想解释这个问题，但是解释的那叫一个令人发指。\n因为这个问题如果你没学到泛函分析，你还真的很难解释。\n你想在高中生能理解的范围内解释清楚，除非你真的理解了它是什么，否则就别想了。\n虽然它非常简单，f就是对x做了什么，f（x）就是对x做了f这个动作。\n比如f（x）=2x，那么f就是“把自变量乘2”。\n为什么说到泛函就好理解了呢?\n因为泛函里这玩意变成了变量，你不理解下一步进行不下去了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个视频拆解清楚同济线代的防自学设计 https://t.co/9IxjS8kmMK \n这个问题可以放到所有的中文教程上。\n比如说，我花了很多年，直到我都学到变分法了，我才理解高中数学必修一那个对函数的定义。\n（就是很多人困惑的，为什么到了高中，y变成了f（x）。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 94,
+          "like_count": 4379,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 774
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-04T14:09:52.000Z",
+        "description": "混乱中立｜ゴッドファイター｜LGBTQ+｜润学成功｜理想主義者INTP｜女｜たまに不適切な発言を｜反アパルトヘイト｜ソフトウェアエンジニア｜アニメが好き｜東京都在住｜肉が嫌い｜进步派｜6b4t｜男が嫌い｜恋人募集中",
+        "id": "1323990790729707520",
+        "location": "パラディ島",
+        "name": "雪桜さゆ",
+        "pinned_tweet_id": "1516680912351920133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851934230361862144/KUQ4nqmz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 1010,
+          "like_count": 2657,
+          "listed_count": 7,
+          "media_count": 241,
+          "tweet_count": 13951
+        },
+        "username": "DawnSayu",
+        "verified": false
+      }
+    ]
+  }
+}

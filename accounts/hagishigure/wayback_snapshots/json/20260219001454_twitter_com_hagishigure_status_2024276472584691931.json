@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2024133935035293823",
+    "created_at": "2026-02-19T00:14:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T01:14:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024276472584691931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1675133488524328961",
+          "start": 0,
+          "username": "Kietter387803"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024276472584691931",
+    "in_reply_to_user_id": "1675133488524328961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024133935035293823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kietter387803 3号琥珀精粹。不过是纯个人爱好的判定，因为我经常用广藿香精油和红没药醇去配香。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024133917645910016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcrEuMasAAVnzm.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024133917645873152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcrEuMaIAAB_Gz.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024133917650096128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcrEuNakAAigU9.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024133917645955073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcrEuMbYAE1dkh.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2024133935035293823",
+        "created_at": "2026-02-19T00:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T01:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024276472584691931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1675133488524328961",
+              "start": 0,
+              "username": "Kietter387803"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024276472584691931",
+        "in_reply_to_user_id": "1675133488524328961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024133935035293823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kietter387803 3号琥珀精粹。不过是纯个人爱好的判定，因为我经常用广藿香精油和红没药醇去配香。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024133917645910016",
+            "3_2024133917645873152",
+            "3_2024133917650096128",
+            "3_2024133917645955073"
+          ]
+        },
+        "author_id": "1675133488524328961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          }
+        ],
+        "conversation_id": "2024133935035293823",
+        "created_at": "2026-02-18T14:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024133935035293823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9mRbnBWCBC",
+              "end": 61,
+              "expanded_url": "https://x.com/Kietter387803/status/2024133935035293823/photo/1",
+              "media_key": "3_2024133917645910016",
+              "start": 38,
+              "url": "https://t.co/9mRbnBWCBC"
+            },
+            {
+              "display_url": "pic.x.com/9mRbnBWCBC",
+              "end": 61,
+              "expanded_url": "https://x.com/Kietter387803/status/2024133935035293823/photo/1",
+              "media_key": "3_2024133917645873152",
+              "start": 38,
+              "url": "https://t.co/9mRbnBWCBC"
+            },
+            {
+              "display_url": "pic.x.com/9mRbnBWCBC",
+              "end": 61,
+              "expanded_url": "https://x.com/Kietter387803/status/2024133935035293823/photo/1",
+              "media_key": "3_2024133917650096128",
+              "start": 38,
+              "url": "https://t.co/9mRbnBWCBC"
+            },
+            {
+              "display_url": "pic.x.com/9mRbnBWCBC",
+              "end": 61,
+              "expanded_url": "https://x.com/Kietter387803/status/2024133935035293823/photo/1",
+              "media_key": "3_2024133917645955073",
+              "start": 38,
+              "url": "https://t.co/9mRbnBWCBC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024133935035293823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 307,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家可以帮我参谋一下嘛，我想买香水，在这些中选出2款……\n麻烦大家啦！！！ https://t.co/9mRbnBWCBC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 131,
+          "like_count": 20348,
+          "listed_count": 0,
+          "media_count": 579,
+          "tweet_count": 4951
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T13:25:30.000Z",
+        "description": "不是博主就是一个臭玩香水的。。。绝赞心悸应激患者，隐藏中二少女…☪️🔯喵呜～很喜欢你们，如果能多多看我就更喜欢了。正确的是，快点看着我啊…………@Linyue7523",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 72,
+                "username": "Linyue7523"
+              }
+            ]
+          }
+        },
+        "id": "1675133488524328961",
+        "location": "日本104-0045 tokyo, chuo city",
+        "name": "kiehésitent",
+        "pinned_tweet_id": "2016142502802415956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017536799367958529/5I3hycbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6449,
+          "following_count": 1516,
+          "like_count": 24291,
+          "listed_count": 17,
+          "media_count": 3571,
+          "tweet_count": 21323
+        },
+        "username": "Kietter387803",
+        "verified": false
+      }
+    ]
+  }
+}

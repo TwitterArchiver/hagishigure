@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989882681531011072"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1989534829801869381",
+    "created_at": "2025-11-16T02:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T03:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989882698568274340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1681902931564703744",
+          "start": 0,
+          "username": "aim20371231"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zfU2cC8NG7",
+          "end": 83,
+          "expanded_url": "https://x.com/hagishigure/status/1989882698568274340/photo/1",
+          "media_key": "3_1989882681531011072",
+          "start": 60,
+          "url": "https://t.co/zfU2cC8NG7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989882698568274340",
+    "in_reply_to_user_id": "1681902931564703744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989534829801869381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aim20371231 康德：「理性為自我立法」。\n能用唯物主義去碰瓷唯心主義的康德哲學這人也是對哲學七竅通了六竅。 https://t.co/zfU2cC8NG7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 809,
+        "media_key": "3_1989882681531011072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G517wYlbkAAJS6a.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989882681531011072"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1989534829801869381",
+        "created_at": "2025-11-16T02:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T03:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989882698568274340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1681902931564703744",
+              "start": 0,
+              "username": "aim20371231"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zfU2cC8NG7",
+              "end": 83,
+              "expanded_url": "https://x.com/hagishigure/status/1989882698568274340/photo/1",
+              "media_key": "3_1989882681531011072",
+              "start": 60,
+              "url": "https://t.co/zfU2cC8NG7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989882698568274340",
+        "in_reply_to_user_id": "1681902931564703744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989534829801869381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aim20371231 康德：「理性為自我立法」。\n能用唯物主義去碰瓷唯心主義的康德哲學這人也是對哲學七竅通了六竅。 https://t.co/zfU2cC8NG7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681902931564703744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1989534829801869381",
+        "created_at": "2025-11-15T03:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T04:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989534829801869381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rfefkrdtss3470…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/rfefkrdtss34706/status/1989221346996547640",
+              "start": 29,
+              "url": "https://t.co/NhIlly7S60"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989534829801869381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 9998,
+          "like_count": 169,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989221346996547640",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃……除了第一条之外似乎大部分都和马克思主义没啥关系…… https://t.co/NhIlly7S60"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 108,
+          "like_count": 9019,
+          "listed_count": 0,
+          "media_count": 307,
+          "tweet_count": 2048
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-20T05:44:55.000Z",
+        "description": "天之道其犹张弓与？高者抑之，下者举之，有余者损之，不足者补之。天之道损有余而补不足，人之道则不然，损不足以奉有余。",
+        "id": "1681902931564703744",
+        "name": "川和工团安卡🚩🇦🇶🔥",
+        "pinned_tweet_id": "1833033560737112138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988147155736104960/glvMHmQH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2592,
+          "following_count": 1944,
+          "like_count": 150743,
+          "listed_count": 23,
+          "media_count": 2458,
+          "tweet_count": 47424
+        },
+        "username": "aim20371231",
+        "verified": false
+      }
+    ]
+  }
+}

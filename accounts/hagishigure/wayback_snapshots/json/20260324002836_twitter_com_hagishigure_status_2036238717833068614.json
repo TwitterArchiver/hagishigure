@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2036238717833068614",
+    "created_at": "2026-03-24T00:28:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T01:28:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036238717833068614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1751226460994670592",
+          "start": 0,
+          "username": "Amour_isld"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Arnobrando5340…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/Arnobrando5340/status/2036156547731169452",
+          "start": 24,
+          "url": "https://t.co/lLGRaqcaQU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036238717833068614",
+    "in_reply_to_user_id": "1751226460994670592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036156547731169452",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amour_isld 你好，这个视频眼熟吗。 https://t.co/lLGRaqcaQU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14139,
+        "height": 910,
+        "media_key": "13_2036156456899321858",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036156456899321858/img/iHbvUWWbAjyoVGgc.jpg",
+        "public_metrics": {
+          "view_count": 24092
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036156456899321858/vid/avc1/320x404/LG0yb6wWetQUSKZk.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036156456899321858/vid/avc1/480x606/P-4GS8WLLvB0OJpn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036156456899321858/vid/avc1/720x910/ELBOn5gvK9QTE_Cj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036156456899321858/pl/bHdaO3o3tsaDyEPX.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2036238717833068614",
+        "created_at": "2026-03-24T00:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T01:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036238717833068614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1751226460994670592",
+              "start": 0,
+              "username": "Amour_isld"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Arnobrando5340…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Arnobrando5340/status/2036156547731169452",
+              "start": 24,
+              "url": "https://t.co/lLGRaqcaQU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036238717833068614",
+        "in_reply_to_user_id": "1751226460994670592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036156547731169452",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amour_isld 你好，这个视频眼熟吗。 https://t.co/lLGRaqcaQU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036156456899321858"
+          ]
+        },
+        "author_id": "1844905165087809548",
+        "conversation_id": "2036156547731169452",
+        "created_at": "2026-03-23T19:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T20:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036156547731169452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aBJ1uvOaoa",
+              "end": 38,
+              "expanded_url": "https://x.com/Arnobrando5340/status/2036156547731169452/video/1",
+              "media_key": "13_2036156456899321858",
+              "start": 15,
+              "url": "https://t.co/aBJ1uvOaoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036156547731169452",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 462,
+          "impression_count": 49376,
+          "like_count": 1678,
+          "quote_count": 11,
+          "reply_count": 9,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "そろそろ寝させてください、、 https://t.co/aBJ1uvOaoa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 147,
+          "like_count": 26455,
+          "listed_count": 2,
+          "media_count": 699,
+          "tweet_count": 6275
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-27T12:51:49.000Z",
+        "description": "01大龄cos身高178，体重55kg，精神不好，可以找我聊天。暂时清水推了",
+        "id": "1751226460994670592",
+        "location": "江苏淮安",
+        "name": "风又音理",
+        "pinned_tweet_id": "1973329009661583460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021825446195916800/V67_RE2s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16145,
+          "following_count": 259,
+          "like_count": 414,
+          "listed_count": 62,
+          "media_count": 247,
+          "tweet_count": 706
+        },
+        "username": "Amour_isld",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T00:57:26.000Z",
+        "description": "",
+        "id": "1844905165087809548",
+        "name": "うら",
+        "pinned_tweet_id": "2035770524991910052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035059341586501632/vKgiW99w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 1356,
+          "like_count": 1,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 382
+        },
+        "username": "Arnobrando5340",
+        "verified": false
+      }
+    ]
+  }
+}

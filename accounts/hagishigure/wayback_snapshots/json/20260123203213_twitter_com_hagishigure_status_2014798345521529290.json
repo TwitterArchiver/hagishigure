@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2014798345521529290",
+    "created_at": "2026-01-23T20:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T21:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014798345521529290"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/realNyarime/st…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/realNyarime/status/2014755278080901132",
+          "start": 61,
+          "url": "https://t.co/auiVeOG0fn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014798345521529290",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014755278080901132",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "沒有任何安全白皮書安全得過自己从OpenWRT深度硬化架構的墻和樹莓派。\n比起信白皮書安全不如自己花十年世界学安全架構。 https://t.co/auiVeOG0fn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2014749372656029696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_XT4TyakAAjanf.jpg",
+        "width": 2160
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2014749372651864066",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_XT4TxbAAIEiG5.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2014798345521529290",
+        "created_at": "2026-01-23T20:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T21:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014798345521529290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/realNyarime/status/2014755278080901132",
+              "start": 61,
+              "url": "https://t.co/auiVeOG0fn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014798345521529290",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014755278080901132",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "沒有任何安全白皮書安全得過自己从OpenWRT深度硬化架構的墻和樹莓派。\n比起信白皮書安全不如自己花十年世界学安全架構。 https://t.co/auiVeOG0fn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014749372656029696",
+            "3_2014749372651864066"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Traffic",
+              "id": "1037076073719025664",
+              "name": "Traffic"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2014755278080901132",
+        "created_at": "2026-01-23T17:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T18:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014755278080901132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n8kOB8CvHX",
+              "end": 178,
+              "expanded_url": "https://x.com/realNyarime/status/2014755278080901132/photo/1",
+              "media_key": "3_2014749372656029696",
+              "start": 155,
+              "url": "https://t.co/n8kOB8CvHX"
+            },
+            {
+              "display_url": "pic.x.com/n8kOB8CvHX",
+              "end": 178,
+              "expanded_url": "https://x.com/realNyarime/status/2014755278080901132/photo/1",
+              "media_key": "3_2014749372651864066",
+              "start": 155,
+              "url": "https://t.co/n8kOB8CvHX"
+            },
+            {
+              "display_url": "x.com/Snowden/status…",
+              "end": 202,
+              "expanded_url": "https://twitter.com/Snowden/status/1175430722733129729",
+              "start": 179,
+              "url": "https://t.co/DuyXDqqPZs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014755278080901132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最近身边的好多朋友都换了Pixel，问了一圈都是刷成GrapheneOS（石墨烯）并重新上BL锁使用的。\n连曝光“棱镜门”的斯诺登都表示，“如果要配置一台手机，会采用GrapheneOS作为基础系统。”（见引用）\n先说答案：没那么神奇，但极端！\n\n我也找了台Pixel刷了一下，体验上有点像鸿蒙4.2的感觉。\n系统中「GMSCompat」的功能，不需要像microG那样signature spoofing伪装成GMS，而是直接沙盒化Google Play，限制GMS的权限。\n\n解锁、刷系统、上锁，完全没问题。可以说这个系统专为Pixel定制，但MEETS_STRONG_INTEGRITY缺失依然无法通过Play Integrity。可能会导致一些依赖Play Integrity的金融类APP无法使用，从而降低体验。\n\n为什么开头说这个系统极端？除了一段时间没有解锁会自动重启的功能外，它还可以设置两个密码。\n除了正常解锁的密码，还有个“格机”密码。一旦输入，将清除硬件存储中的所有密钥，包括用于加密驱动器上数据的密钥，以及清除eUICC芯片中的eSIM Profile和重新启动。\n\n除非能扛得住“大记忆恢复术”，不然人永远是最脆弱的一环。\n再怎么隐私保护，还不如多释放几个干扰弹。大数据不怕你藏起来，因为迟早是要暴露的，而是怕收集到错误的讯息、干扰了判断。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 9870,
+          "like_count": 70,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1175430722733129729",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最近身边的好多朋友都换了Pixel，问了一圈都是刷成GrapheneOS（石墨烯）并重新上BL锁使用的。\n连曝光“棱镜门”的斯诺登都表示，“如果要配置一台手机，会采用GrapheneOS作为基础系统。”（见引用）\n先说答案：没那么神奇，但极端！\n\n我也找了台Pixel刷了一下，体验上有点像鸿蒙4.2的感觉。 https://t.co/n8kOB8CvHX https://t.co/DuyXDqqPZs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 122,
+          "like_count": 16020,
+          "listed_count": 0,
+          "media_count": 437,
+          "tweet_count": 3736
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime, Founder of Naixi Networks | ❄️ | Developer | 可以叫我希酱 | 玩eSIM上奶昔论坛 | zh-cn/en | INTJ｜❤️ @realYingxi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdX0vr"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004236585307660288/g_ZbI7zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10188,
+          "following_count": 587,
+          "like_count": 9743,
+          "listed_count": 34,
+          "media_count": 795,
+          "tweet_count": 6700
+        },
+        "url": "https://t.co/Gp1bHdX0vr",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

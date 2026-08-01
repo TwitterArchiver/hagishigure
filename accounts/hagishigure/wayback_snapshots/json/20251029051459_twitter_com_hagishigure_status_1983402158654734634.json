@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1983047325879808388",
+    "created_at": "2025-10-29T05:14:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T06:14:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983402158654734634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1783824424367755264",
+          "start": 0,
+          "username": "Charon_Nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983402158654734634",
+    "in_reply_to_user_id": "1783824424367755264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983047325879808388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Charon_Nya ほんまに…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1983047325879808388",
+        "created_at": "2025-10-29T05:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T06:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983402158654734634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1783824424367755264",
+              "start": 0,
+              "username": "Charon_Nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983402158654734634",
+        "in_reply_to_user_id": "1783824424367755264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983047325879808388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Charon_Nya ほんまに…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783824424367755264",
+        "conversation_id": "1983047325879808388",
+        "created_at": "2025-10-28T05:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T06:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983047325879808388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaoyi198964/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/xiaoyi198964/status/1982770945841676361",
+              "start": 4,
+              "url": "https://t.co/2cuag8kOoT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983047325879808388",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5242,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982770945841676361",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑得我 https://t.co/2cuag8kOoT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 100,
+          "like_count": 6283,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 1322
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-26T11:44:28.000Z",
+        "description": "向往着幸福的 xnh（存疑）｜人机INFJ(O﹃O)｜现在还是准男大x｜快来fo我！（=v=）",
+        "id": "1783824424367755264",
+        "location": "Shenzhen",
+        "name": "𝘾𝙝𝙖𝙧𝙤𝙣卡戎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867063046641987584/jVynAskx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3221,
+          "following_count": 442,
+          "like_count": 19158,
+          "listed_count": 2,
+          "media_count": 368,
+          "tweet_count": 2348
+        },
+        "username": "Charon_Nya",
+        "verified": true
+      }
+    ]
+  }
+}

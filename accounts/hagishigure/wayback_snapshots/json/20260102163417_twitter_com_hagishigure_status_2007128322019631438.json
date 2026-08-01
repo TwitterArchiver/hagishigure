@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2007074557765865882",
+    "created_at": "2026-01-02T16:34:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T17:34:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007128322019631438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1374034349700444161",
+          "start": 0,
+          "username": "pizyj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007128322019631438",
+    "in_reply_to_user_id": "1374034349700444161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007074557765865882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pizyj 我14年就在葫芦侠做破解组的来着…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2007074553240150016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9qPrBea4AAocEb.jpg",
+        "width": 931
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2007074554502676482",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9qPrGLbgAINJYk.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2007074557765865882",
+        "created_at": "2026-01-02T16:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T17:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007128322019631438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1374034349700444161",
+              "start": 0,
+              "username": "pizyj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007128322019631438",
+        "in_reply_to_user_id": "1374034349700444161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007074557765865882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pizyj 我14年就在葫芦侠做破解组的来着…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007074553240150016",
+            "3_2007074554502676482"
+          ]
+        },
+        "author_id": "1374034349700444161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2007074557765865882",
+        "created_at": "2026-01-02T13:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T14:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007074557765865882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AgGrdlbhJH",
+              "end": 43,
+              "expanded_url": "https://x.com/pizyj/status/2007074557765865882/photo/1",
+              "media_key": "3_2007074553240150016",
+              "start": 20,
+              "url": "https://t.co/AgGrdlbhJH"
+            },
+            {
+              "display_url": "pic.x.com/AgGrdlbhJH",
+              "end": 43,
+              "expanded_url": "https://x.com/pizyj/status/2007074557765865882/photo/1",
+              "media_key": "3_2007074554502676482",
+              "start": 20,
+              "url": "https://t.co/AgGrdlbhJH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007074557765865882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 487,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩点安卓破解游戏\n感觉自己一下子年轻了 https://t.co/AgGrdlbhJH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 117,
+          "like_count": 14241,
+          "listed_count": 0,
+          "media_count": 398,
+          "tweet_count": 3292
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-22T16:24:59.000Z",
+        "description": "什么猫？什么猫？猞猁猫？灵白猫？猫小白？是switch/sub/m，厌蠢，最喜欢体验新鲜东西。现在和@rollingcat0100住一起，刷新了一个主子@HzShibari86 ，一个大猫@NekomiyaKoharu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "rollingcat0100"
+              },
+              {
+                "end": 88,
+                "start": 76,
+                "username": "HzShibari86"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "NekomiyaKoharu"
+              }
+            ]
+          }
+        },
+        "id": "1374034349700444161",
+        "location": "猫罐头",
+        "name": "灵白猫不是哈基米南北绿豆汤",
+        "pinned_tweet_id": "1995771051234783575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899500314749030403/grMD1iNl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61875,
+          "following_count": 5388,
+          "like_count": 43865,
+          "listed_count": 71,
+          "media_count": 9999,
+          "tweet_count": 55024
+        },
+        "username": "pizyj",
+        "verified": false
+      }
+    ]
+  }
+}

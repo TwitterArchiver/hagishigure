@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985836198515159040",
+        "3_1985836198548684800"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407811550987972617",
+          "name": "Industries"
+        }
+      }
+    ],
+    "conversation_id": "1985836203380465801",
+    "created_at": "2025-11-04T22:27:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T23:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985836203380465801"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mk7ZN4Jr4j",
+          "end": 179,
+          "expanded_url": "https://x.com/hagishigure/status/1985836203380465801/photo/1",
+          "media_key": "3_1985836198515159040",
+          "start": 156,
+          "url": "https://t.co/Mk7ZN4Jr4j"
+        },
+        {
+          "display_url": "pic.x.com/Mk7ZN4Jr4j",
+          "end": 179,
+          "expanded_url": "https://x.com/hagishigure/status/1985836203380465801/photo/1",
+          "media_key": "3_1985836198548684800",
+          "start": 156,
+          "url": "https://t.co/Mk7ZN4Jr4j"
+        },
+        {
+          "display_url": "x.com/Compute_King/s…",
+          "end": 203,
+          "expanded_url": "https://twitter.com/Compute_King/status/1985696257030152276",
+          "start": 180,
+          "url": "https://t.co/EiIM1DrrWH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985836203380465801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985696257030152276",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "。我來省流。\n通過氨基吡啶發現由於電子定位效應等因素硝基會鏈接到氮上面後續會進行Sandmeyer反應。\n用氯源通過單電子轉移取代獲得脫胺的氯化產物。\nPatrick Fier評價：這是一類我們不知道原理但是衹要看見了就會應用的反應。\nTobias Ritter評價：必須進行安全性評估以確認這在工業上的價值。 https://t.co/Mk7ZN4Jr4j https://t.co/EiIM1DrrWH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 344,
+        "media_key": "3_1985836198515159040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G48bgEqbsAAOwe-.jpg",
+        "width": 1279
+      },
+      {
+        "height": 804,
+        "media_key": "3_1985836198548684800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G48bgEybQAAMeW5.jpg",
+        "width": 1279
+      },
+      {
+        "height": 561,
+        "media_key": "3_1985688731341504516",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G46VYWobQAQttzI.jpg",
+        "width": 951
+      },
+      {
+        "height": 640,
+        "media_key": "3_1985693805341970432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G46Z_swaEAArSQe.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985836198515159040",
+            "3_1985836198548684800"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          }
+        ],
+        "conversation_id": "1985836203380465801",
+        "created_at": "2025-11-04T22:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T23:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985836203380465801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mk7ZN4Jr4j",
+              "end": 179,
+              "expanded_url": "https://x.com/hagishigure/status/1985836203380465801/photo/1",
+              "media_key": "3_1985836198515159040",
+              "start": 156,
+              "url": "https://t.co/Mk7ZN4Jr4j"
+            },
+            {
+              "display_url": "pic.x.com/Mk7ZN4Jr4j",
+              "end": 179,
+              "expanded_url": "https://x.com/hagishigure/status/1985836203380465801/photo/1",
+              "media_key": "3_1985836198548684800",
+              "start": 156,
+              "url": "https://t.co/Mk7ZN4Jr4j"
+            },
+            {
+              "display_url": "x.com/Compute_King/s…",
+              "end": 203,
+              "expanded_url": "https://twitter.com/Compute_King/status/1985696257030152276",
+              "start": 180,
+              "url": "https://t.co/EiIM1DrrWH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985836203380465801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985696257030152276",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "。我來省流。\n通過氨基吡啶發現由於電子定位效應等因素硝基會鏈接到氮上面後續會進行Sandmeyer反應。\n用氯源通過單電子轉移取代獲得脫胺的氯化產物。\nPatrick Fier評價：這是一類我們不知道原理但是衹要看見了就會應用的反應。\nTobias Ritter評價：必須進行安全性評估以確認這在工業上的價值。 https://t.co/Mk7ZN4Jr4j https://t.co/EiIM1DrrWH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985688731341504516",
+            "3_1985693805341970432"
+          ]
+        },
+        "author_id": "1838111417851056128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1985696257030152276",
+        "created_at": "2025-11-04T13:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T14:01:35.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985693909134213627",
+          "1985695897272152455",
+          "1985696257030152276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oR5l21s8qR",
+              "end": 187,
+              "expanded_url": "https://x.com/Compute_King/status/1985696257030152276/photo/1",
+              "media_key": "3_1985688731341504516",
+              "start": 164,
+              "url": "https://t.co/oR5l21s8qR"
+            },
+            {
+              "display_url": "pic.x.com/oR5l21s8qR",
+              "end": 187,
+              "expanded_url": "https://x.com/Compute_King/status/1985696257030152276/photo/1",
+              "media_key": "3_1985693805341970432",
+              "start": 164,
+              "url": "https://t.co/oR5l21s8qR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985696257030152276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "nature.com/articles/s4158…",
+                "end": 209,
+                "expanded_url": "https://www.nature.com/articles/s41586-025-09791-5",
+                "start": 186,
+                "url": "https://t.co/oXWBUvodox"
+              },
+              {
+                "display_url": "zhihu.com/question/19672…",
+                "end": 1253,
+                "expanded_url": "https://www.zhihu.com/question/1967266374289200532/answer/1967779608364574083",
+                "start": 1230,
+                "url": "https://t.co/BePAV8VtoF"
+              }
+            ]
+          },
+          "text": "中国科学家登上《Nature》：攻克140年化学难题，或大幅降低抗癌药成本\n\n笔者注：最近国内高校在Nature都爆表了呀。。。这个国际顶级学术期刊上个星期刊发了来自中国科学院大学，杭州高等研究院，化学与材料科学学院张夏衡研究团队的最新成果：“Direct deaminative functionalization with N-nitroamines”。\n\n论文链接：https://t.co/oXWBUvodox\n\n这项研究解决了困扰有机合成领域超过140年的核心难题，被国际同行高度评价。作为审稿人之一，辉瑞制药高级研发总监Scott Bagley称其为“true tour de force（真正的杰作）”。。。\n\n破解百年化学瓶颈\n\n一个世纪以来，化学家们在将芳香胺结构转化为其他功能性化合物时，几乎都依赖通过“重氮盐”中间体的反应路径。\n\n然而，这一传统路线不仅反应步骤繁琐、收率低、纯化成本高，更由于重氮盐极不稳定、易爆炸，极大地限制了工业化生产安全与规模。\n\n张夏衡团队提出了一种以N-硝胺为媒介的“直接脱氨官能团化”策略。该方法能够在温和条件下，直接将惰性的芳香C–N键一步转化为C–X、C–O、C–N、C–C等多种化学键，反应安全、高效且可放大至公斤级生产，为有机合成开辟了一条全新路径。\n\n这一方法不仅从根本上摒弃了高危中间体“重氮盐”，还在安全性、成本与效率方面实现多重突破。这是一个颠覆性的进展，将为多个市场带来了革命性的转变。。。\n\n或将颠覆抗癌药合成成本结构\n\n张夏衡团队测试了170余种化学底物，包括传统方法极难转化的复杂分子，如间位氨基吡啶、多氮杂环及多种药物分子，转化成功率达到46%至83%。\n\n更具代表性的是，研究团队把好几步反应放在一个锅里一次性做完。比如，他们用三步一锅法高效合成了一种抗炎药“依托考昔”，成功将原本复杂的多步反应路线极大简化。实验结果表明，该反应在千克级规模下收率高达90%，显示出强大的工业可行性。\n\n业内人士指出，这项技术有望应用于多种重磅药物的第二代或第三代仿制药工艺中，包括PARP抑制剂，BTK抑制剂和酪氨酸激酶抑制剂等，从而显著降低全生命周期成本，使高端抗癌药更易被患者负担。\n\n距离“诺奖级成果”还有多远？\n\n纵观诺贝尔化学奖历史，Heck、Negishi、Suzuki的钯催化交叉偶联反应（2010年获奖）与List、MacMillan的不对称有机催化（2021年获奖）均经历了20至40年的时间验证。。。\n\n张夏衡团队的成果同样具备原创性强、应用广泛、潜力深远等关键特征，但仍需未来数年到十数年在全球范围内获得更广泛验证与引用。。。\n\n从实验室到工业化，从方法学创新到实际应用，张夏衡团队的这项研究为全球化学与制药产业提供了全新的范式。\n它不仅展示了中国科学家在基础化学领域的原创能力，也为“让高科技抗癌药更亲民”带来了现实希望。。。\n\n张夏衡团队\n\n这里还有个有意思的评论：\nhttps://t.co/BePAV8VtoF"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 63221,
+          "like_count": 299,
+          "quote_count": 7,
+          "reply_count": 24,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "中国科学家登上《Nature》：攻克140年化学难题，或大幅降低抗癌药成本\n\n笔者注：最近国内高校在Nature都爆表了呀。。。这个国际顶级学术期刊上个星期刊发了来自中国科学院大学，杭州高等研究院，化学与材料科学学院张夏衡研究团队的最新成果：“Direct deaminative functionalization with https://t.co/oR5l21s8qR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 103,
+          "like_count": 7427,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 1612
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-23T07:01:43.000Z",
+        "description": "Husband, Father, Life-time Learner, Creator and Innovator. AI and HPC Computing Guru in Decentralized Manner. (本账号发布的所有内容均不构成投资建议,请勿转发!)",
+        "id": "1838111417851056128",
+        "location": "Earth",
+        "name": "Compute King",
+        "pinned_tweet_id": "1891049365894238564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838112469690314752/ibylXVMX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17295,
+          "following_count": 527,
+          "like_count": 16947,
+          "listed_count": 298,
+          "media_count": 954,
+          "tweet_count": 7040
+        },
+        "username": "Compute_King",
+        "verified": true
+      }
+    ]
+  }
+}

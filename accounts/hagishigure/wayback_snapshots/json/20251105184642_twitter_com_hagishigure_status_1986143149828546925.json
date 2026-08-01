@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986143142815670277"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1986143149828546925",
+    "created_at": "2025-11-05T18:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T19:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986143149828546925"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Reinforcement learning (RL) models describe how humans and animals learn by trial-and-error to select actions that maximize rewards and minimize punishments. Traditional RL models focus exclusively on choices, thereby ignoring the interactions between choice preference and response time (RT), or how …",
+          "display_url": "pubmed.ncbi.nlm.nih.gov/31175616/",
+          "end": 91,
+          "expanded_url": "https://pubmed.ncbi.nlm.nih.gov/31175616/",
+          "start": 68,
+          "status": 200,
+          "title": "Decomposing the effects of context valence and feedback information on speed and accuracy during reinforcement learning: a meta-analytical approach using diffusion decision modeling - PubMed",
+          "unwound_url": "https://pubmed.ncbi.nlm.nih.gov/31175616/",
+          "url": "https://t.co/ZcKnB966MI"
+        },
+        {
+          "description": "We show that while a primate chooses between two reaching actions, its motor system first represents both options and later reflects selection between them. When two potential targets appeared, many (43%) task-related, directionally tuned cells in dorsal premotor cortex (PMd) discharged if one of th …",
+          "display_url": "pubmed.ncbi.nlm.nih.gov/15748854/",
+          "end": 115,
+          "expanded_url": "https://pubmed.ncbi.nlm.nih.gov/15748854/",
+          "images": [
+            {
+              "height": 830,
+              "url": "https://pbs.twimg.com/news_img/1986143151569182723/XPA-XsKB?format=jpg&name=orig",
+              "width": 1600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1986143151569182723/XPA-XsKB?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 92,
+          "status": 200,
+          "title": "Neural correlates of reaching decisions in dorsal premotor cortex: specification of multiple direction choices and final selection of action - PubMed",
+          "unwound_url": "https://pubmed.ncbi.nlm.nih.gov/15748854/",
+          "url": "https://t.co/C7WHcalBWO"
+        },
+        {
+          "description": "We develop a theoretical framework that shows how mesencephalic dopamine systems could distribute to their targets a signal that represents information about future expectations. In particular, we show how activity in the cerebral cortex can make predictions about future receipt of reward and how fl …",
+          "display_url": "pubmed.ncbi.nlm.nih.gov/8774460/",
+          "end": 139,
+          "expanded_url": "https://pubmed.ncbi.nlm.nih.gov/8774460/",
+          "images": [
+            {
+              "height": 830,
+              "url": "https://pbs.twimg.com/news_img/1986143151221080065/biqRrQRH?format=jpg&name=orig",
+              "width": 1600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1986143151221080065/biqRrQRH?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 116,
+          "status": 200,
+          "title": "A framework for mesencephalic dopamine systems based on predictive Hebbian learning - PubMed",
+          "unwound_url": "https://pubmed.ncbi.nlm.nih.gov/8774460/",
+          "url": "https://t.co/WLjEu4nJac"
+        },
+        {
+          "display_url": "pic.x.com/VqaiyzfQ5c",
+          "end": 163,
+          "expanded_url": "https://x.com/hagishigure/status/1986143149828546925/photo/1",
+          "media_key": "3_1986143142815670277",
+          "start": 140,
+          "url": "https://t.co/VqaiyzfQ5c"
+        },
+        {
+          "display_url": "x.com/shaogefenhao/s…",
+          "end": 187,
+          "expanded_url": "https://twitter.com/shaogefenhao/status/1986005542662549682",
+          "start": 164,
+          "url": "https://t.co/ry2S65al7Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986143149828546925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986005542662549682",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可以閱讀CBU的Prof. John Duncan的這個特刊。\n當然，我這裡還有三篇簡要講述了為什麼教授他人對自學更有用的paper。\nhttps://t.co/ZcKnB966MI\nhttps://t.co/C7WHcalBWO\nhttps://t.co/WLjEu4nJac https://t.co/VqaiyzfQ5c https://t.co/ry2S65al7Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 694,
+        "media_key": "3_1986143142815670277",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5AyqlSbIAUcsdr.jpg",
+        "width": 1377
+      },
+      {
+        "height": 422,
+        "media_key": "3_1986004442739802113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4-0hLPagAEEcHg.png",
+        "width": 696
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986143142815670277"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1986143149828546925",
+        "created_at": "2025-11-05T18:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T19:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986143149828546925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Reinforcement learning (RL) models describe how humans and animals learn by trial-and-error to select actions that maximize rewards and minimize punishments. Traditional RL models focus exclusively on choices, thereby ignoring the interactions between choice preference and response time (RT), or how …",
+              "display_url": "pubmed.ncbi.nlm.nih.gov/31175616/",
+              "end": 91,
+              "expanded_url": "https://pubmed.ncbi.nlm.nih.gov/31175616/",
+              "start": 68,
+              "status": 200,
+              "title": "Decomposing the effects of context valence and feedback information on speed and accuracy during reinforcement learning: a meta-analytical approach using diffusion decision modeling - PubMed",
+              "unwound_url": "https://pubmed.ncbi.nlm.nih.gov/31175616/",
+              "url": "https://t.co/ZcKnB966MI"
+            },
+            {
+              "description": "We show that while a primate chooses between two reaching actions, its motor system first represents both options and later reflects selection between them. When two potential targets appeared, many (43%) task-related, directionally tuned cells in dorsal premotor cortex (PMd) discharged if one of th …",
+              "display_url": "pubmed.ncbi.nlm.nih.gov/15748854/",
+              "end": 115,
+              "expanded_url": "https://pubmed.ncbi.nlm.nih.gov/15748854/",
+              "images": [
+                {
+                  "height": 830,
+                  "url": "https://pbs.twimg.com/news_img/1986143151569182723/XPA-XsKB?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1986143151569182723/XPA-XsKB?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 92,
+              "status": 200,
+              "title": "Neural correlates of reaching decisions in dorsal premotor cortex: specification of multiple direction choices and final selection of action - PubMed",
+              "unwound_url": "https://pubmed.ncbi.nlm.nih.gov/15748854/",
+              "url": "https://t.co/C7WHcalBWO"
+            },
+            {
+              "description": "We develop a theoretical framework that shows how mesencephalic dopamine systems could distribute to their targets a signal that represents information about future expectations. In particular, we show how activity in the cerebral cortex can make predictions about future receipt of reward and how fl …",
+              "display_url": "pubmed.ncbi.nlm.nih.gov/8774460/",
+              "end": 139,
+              "expanded_url": "https://pubmed.ncbi.nlm.nih.gov/8774460/",
+              "images": [
+                {
+                  "height": 830,
+                  "url": "https://pbs.twimg.com/news_img/1986143151221080065/biqRrQRH?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1986143151221080065/biqRrQRH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 116,
+              "status": 200,
+              "title": "A framework for mesencephalic dopamine systems based on predictive Hebbian learning - PubMed",
+              "unwound_url": "https://pubmed.ncbi.nlm.nih.gov/8774460/",
+              "url": "https://t.co/WLjEu4nJac"
+            },
+            {
+              "display_url": "pic.x.com/VqaiyzfQ5c",
+              "end": 163,
+              "expanded_url": "https://x.com/hagishigure/status/1986143149828546925/photo/1",
+              "media_key": "3_1986143142815670277",
+              "start": 140,
+              "url": "https://t.co/VqaiyzfQ5c"
+            },
+            {
+              "display_url": "x.com/shaogefenhao/s…",
+              "end": 187,
+              "expanded_url": "https://twitter.com/shaogefenhao/status/1986005542662549682",
+              "start": 164,
+              "url": "https://t.co/ry2S65al7Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986143149828546925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986005542662549682",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以閱讀CBU的Prof. John Duncan的這個特刊。\n當然，我這裡還有三篇簡要講述了為什麼教授他人對自學更有用的paper。\nhttps://t.co/ZcKnB966MI\nhttps://t.co/C7WHcalBWO\nhttps://t.co/WLjEu4nJac https://t.co/VqaiyzfQ5c https://t.co/ry2S65al7Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986004442739802113"
+          ]
+        },
+        "author_id": "1810481842761674752",
+        "conversation_id": "1986005542662549682",
+        "created_at": "2025-11-05T09:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T10:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986005542662549682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1edWvTXhfI",
+              "end": 165,
+              "expanded_url": "https://x.com/shaogefenhao/status/1986005542662549682/photo/1",
+              "media_key": "3_1986004442739802113",
+              "start": 142,
+              "url": "https://t.co/1edWvTXhfI"
+            },
+            {
+              "display_url": "x.com/sitinme/status…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/sitinme/status/1985881083205009501",
+              "start": 166,
+              "url": "https://t.co/ycgfQ0YQvB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986005542662549682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这就是为什么大多数人无法自学的原因：过于高估自己\n\n每次毕业生培训，讲的东西很多学生就会说，就这？我们以前实验室多么牛叉，巴拉巴拉，然后给个题搞不出来\n\n去做架构咨询，被人嘲笑你们不就是拉人一点点梳理在墙上贴便利贴嘛，这有啥，我晚上回去就给你整理出来，然后各种逻辑、场景经不起推敲。\n\n说实话很多培训、咨询的工作真的没啥含金量，就是找个由头把大家的速度拖慢，啥材料网上没有。\n\n搞快了，只是眼睛会了，手其实没会。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 27399,
+          "like_count": 188,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985881083205009501",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是为什么大多数人无法自学的原因：过于高估自己\n\n每次毕业生培训，讲的东西很多学生就会说，就这？我们以前实验室多么牛叉，巴拉巴拉，然后给个题搞不出来\n\n去做架构咨询，被人嘲笑你们不就是拉人一点点梳理在墙上贴便利贴嘛，这有啥，我晚上回去就给你整理出来，然后各种逻辑、场景经不起推敲。 https://t.co/1edWvTXhfI https://t.co/ycgfQ0YQvB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 103,
+          "like_count": 7615,
+          "listed_count": 0,
+          "media_count": 257,
+          "tweet_count": 1665
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-09T01:11:40.000Z",
+        "description": "🐒 技术管理者\n📚 技术书作者（《程序员的认知心得》等）\n🔩 被反复毒打的创业者 \n📐 记录对世界游戏规则的认知\nX  闲逛/quote/评论家(自封 😂)\n🌍 分享英语学习、AI 、编程、好书",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shaogefenhao.com",
+                "end": 23,
+                "expanded_url": "http://shaogefenhao.com",
+                "start": 0,
+                "url": "https://t.co/OUFDdMHm5e"
+              }
+            ]
+          }
+        },
+        "id": "1810481842761674752",
+        "name": "少个分号",
+        "pinned_tweet_id": "1985723630412816856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810481997447598080/29VPjdy__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10522,
+          "following_count": 152,
+          "like_count": 874,
+          "listed_count": 67,
+          "media_count": 302,
+          "tweet_count": 2446
+        },
+        "url": "https://t.co/OUFDdMHm5e",
+        "username": "shaogefenhao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2016626562985038283",
+    "created_at": "2026-01-28T21:36:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T22:36:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016626562985038283"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Hiro1232040/st…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/Hiro1232040/status/2016426958939422961",
+          "start": 29,
+          "url": "https://t.co/EV9uLbS5Vf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016626562985038283",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016426958939422961",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "正しい。これはまさにポスト植民地主義の表現の一部である。 https://t.co/EV9uLbS5Vf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2016426918841860096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vJmWUawAAzBnR.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2016626562985038283",
+        "created_at": "2026-01-28T21:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T22:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016626562985038283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Hiro1232040/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Hiro1232040/status/2016426958939422961",
+              "start": 29,
+              "url": "https://t.co/EV9uLbS5Vf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016626562985038283",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016426958939422961",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "正しい。これはまさにポスト植民地主義の表現の一部である。 https://t.co/EV9uLbS5Vf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016426918841860096"
+          ]
+        },
+        "author_id": "2008243423204306946",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2016400414829326476",
+        "created_at": "2026-01-28T08:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T09:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016426958939422961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1920485491880964097",
+              "start": 0,
+              "username": "Marin_Feminist"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QPoXMBAY5y",
+              "end": 172,
+              "expanded_url": "https://x.com/Hiro1232040/status/2016426958939422961/photo/1",
+              "media_key": "3_2016426918841860096",
+              "start": 149,
+              "url": "https://t.co/QPoXMBAY5y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016426958939422961",
+        "in_reply_to_user_id": "1920485491880964097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 25793,
+          "like_count": 548,
+          "quote_count": 6,
+          "reply_count": 10,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016400414829326476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Marin_Feminist 個人的には昔は弱者男性でも下駄を履かせてもらって、女性より上だという感覚だったのが、最近は「強者女性」より明らかに下になっているので、そこに怒りを覚えているんだと思うんですよね\nそしてまだまだ弱者男性より恵まれない弱者女性もいるけれど、それは透明化されちゃっている https://t.co/QPoXMBAY5y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 127,
+          "like_count": 16853,
+          "listed_count": 0,
+          "media_count": 454,
+          "tweet_count": 3963
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-05T18:25:32.000Z",
+        "description": "綺麗事、理想ではなく、現実に立脚してフェミニズムやリベラリズムを語りたいです\n誤字多めはご容赦ください",
+        "id": "2008243423204306946",
+        "name": "Hiro🐧 The Feminist Ally",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011768484431384576/v2YbA3q8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 110,
+          "like_count": 4762,
+          "listed_count": 4,
+          "media_count": 19,
+          "tweet_count": 1964
+        },
+        "username": "Hiro1232040",
+        "verified": false
+      }
+    ]
+  }
+}

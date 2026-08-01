@@ -1,0 +1,581 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050554233489915904"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2050554251709948324",
+    "created_at": "2026-05-02T12:33:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T13:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050554251709948324"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/V24t9HpnWL",
+          "end": 23,
+          "expanded_url": "https://x.com/hagishigure/status/2050554251709948324/photo/1",
+          "media_key": "3_2050554233489915904",
+          "start": 0,
+          "url": "https://t.co/V24t9HpnWL"
+        },
+        {
+          "display_url": "x.com/Shiro_Shihi/st…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/Shiro_Shihi/status/2050487158507810889",
+          "start": 24,
+          "url": "https://t.co/LeH27kaOJJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050554251709948324",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050487158507810889",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/V24t9HpnWL https://t.co/LeH27kaOJJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2050554233489915904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUINgfXAAAf4oE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2050487151113170944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHTLMzKacAAvDWk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050554233489915904"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2050554251709948324",
+        "created_at": "2026-05-02T12:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T13:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050554251709948324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V24t9HpnWL",
+              "end": 23,
+              "expanded_url": "https://x.com/hagishigure/status/2050554251709948324/photo/1",
+              "media_key": "3_2050554233489915904",
+              "start": 0,
+              "url": "https://t.co/V24t9HpnWL"
+            },
+            {
+              "display_url": "x.com/Shiro_Shihi/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Shiro_Shihi/status/2050487158507810889",
+              "start": 24,
+              "url": "https://t.co/LeH27kaOJJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050554251709948324",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050487158507810889",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/V24t9HpnWL https://t.co/LeH27kaOJJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050487151113170944"
+          ]
+        },
+        "author_id": "1303730760818384897",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2050487158507810889",
+        "created_at": "2026-05-02T08:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T09:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050487158507810889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wUvc5WyaL0",
+              "end": 45,
+              "expanded_url": "https://x.com/Shiro_Shihi/status/2050487158507810889/photo/1",
+              "media_key": "3_2050487151113170944",
+              "start": 22,
+              "url": "https://t.co/wUvc5WyaL0"
+            },
+            {
+              "display_url": "x.com/jonasfroeller/…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/jonasfroeller/status/2050288312213004578",
+              "start": 46,
+              "url": "https://t.co/KqlnKkyN5D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050487158507810889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1571,
+          "impression_count": 1223412,
+          "like_count": 8529,
+          "quote_count": 340,
+          "reply_count": 145,
+          "retweet_count": 1372
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050288312213004578",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日本企業がGitHubを構築した場合はこう https://t.co/wUvc5WyaL0 https://t.co/KqlnKkyN5D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 149,
+          "like_count": 28126,
+          "listed_count": 2,
+          "media_count": 751,
+          "tweet_count": 6693
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-09T16:24:13.000Z",
+        "description": "ENFP-T ｜ 漠然としすぎている自称天才微少女（永遠の1/16歳）｜空即是色、色即是空。専門はニューラルネットワークと量子耐性暗号 ｜ 主に技術系の投稿はQiitaにしてます https://t.co/wLUPh5P2dp ｜ 元 #kosen23s",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 127,
+                "start": 118,
+                "tag": "kosen23s"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Qiita.com/Shiro_Shihi",
+                "end": 113,
+                "expanded_url": "https://Qiita.com/Shiro_Shihi",
+                "start": 90,
+                "url": "https://t.co/wLUPh5P2dp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shihiro.com",
+                "end": 23,
+                "expanded_url": "https://shihiro.com",
+                "start": 0,
+                "url": "https://t.co/5TjSAxOP7J"
+              }
+            ]
+          }
+        },
+        "id": "1303730760818384897",
+        "location": "限界惰性今世絶望ニート(笑)",
+        "name": "くるくるコーラ🥤",
+        "pinned_tweet_id": "1948956446265409769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027923253872988160/Am2Z_dfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3160,
+          "following_count": 2853,
+          "like_count": 119745,
+          "listed_count": 9,
+          "media_count": 3283,
+          "tweet_count": 41908
+        },
+        "url": "https://t.co/5TjSAxOP7J",
+        "username": "Shiro_Shihi",
+        "verified": false
+      }
+    ]
+  }
+}

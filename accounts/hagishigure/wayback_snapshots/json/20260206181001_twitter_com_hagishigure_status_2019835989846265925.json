@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2019835989846265925",
+    "created_at": "2026-02-06T18:10:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T19:10:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019835989846265925"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huihoo/status/…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/huihoo/status/2019678445803040771",
+          "start": 53,
+          "url": "https://t.co/luS7CGbqT0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019835989846265925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019678445803040771",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我学复流形的。\n确实对纯数自学，尤其初学者（指至少拥有数学分析和高等数学基础的基础的学生）很有帮助。\n👍 https://t.co/luS7CGbqT0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2019835989846265925",
+        "created_at": "2026-02-06T18:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T19:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019835989846265925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huihoo/status/…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/huihoo/status/2019678445803040771",
+              "start": 53,
+              "url": "https://t.co/luS7CGbqT0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019835989846265925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019678445803040771",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我学复流形的。\n确实对纯数自学，尤其初学者（指至少拥有数学分析和高等数学基础的基础的学生）很有帮助。\n👍 https://t.co/luS7CGbqT0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "19838082",
+        "conversation_id": "2019678445803040771",
+        "created_at": "2026-02-06T07:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T08:35:42.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019676357861732402",
+          "2019678445803040771"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019678445803040771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "00aleph00.notion.site/Ultimate-Self-…",
+                "end": 448,
+                "expanded_url": "https://00aleph00.notion.site/Ultimate-Self-Study-Guide-to-Learning-Pure-Math-15973221c1c18026ac1edbed599f231b",
+                "start": 425,
+                "url": "https://t.co/TUlUcjKuxo"
+              }
+            ]
+          },
+          "text": "一个学习纯数学 (pure mathematics) 的终极自学指南，供参考：\n\n1、Real Analysis 实分析\n2、Linear Algebra 线性代数\n3、Point Set Topology 点集拓扑学\n4、Complex Analysis 复分析\n5、Group Theory / Ring Theory 群论/环论\n6、Galois Theory 伽罗瓦理论\n7、Differential Geometry 微分几何\n8、Algebraic Topology 代数拓扑\n\n包含有教科书、视频和练习的列表\n\n涵盖了本科数学课程的所有内容：从实分析到代数拓扑等更高级的主题\n\n一些注意事项：\n\n1、这是 4 年的学习内容\n它涵盖了标准的本科数学课程，每门学科都至少需要 4 个月才可能学懂\n2、尽可能多地做题\n对于每个主题，都需要大量练习\n3、反复阅读这些书\n作者通常只有在读过 4 遍教科书后才能真正理解它，相信这也适合大多数人\n\nhttps://t.co/TUlUcjKuxo\n\n我们在一生学习过程中，大多都是在自学的状态中度过的\n\n能遇到良师益友和贵人实属弥足珍贵，可遇不可求\n\n而开放的互联网也给了我们大多数人提供了各种学习渠道和资源，找到适合自己的自学方法和指南"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1207,
+          "impression_count": 45050,
+          "like_count": 983,
+          "quote_count": 6,
+          "reply_count": 14,
+          "retweet_count": 200
+        },
+        "reply_settings": "everyone",
+        "text": "一个学习纯数学 (pure mathematics) 的终极自学指南，供参考：\n\n1、Real Analysis 实分析\n2、Linear Algebra 线性代数\n3、Point Set Topology 点集拓扑学\n4、Complex Analysis 复分析\n5、Group Theory / Ring Theory 群论/环论\n6、Galois Theory 伽罗瓦理论\n7、Differential Geometry 微分几何"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 128,
+          "like_count": 18385,
+          "listed_count": 0,
+          "media_count": 509,
+          "tweet_count": 4308
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-31T23:47:35.000Z",
+        "description": "透过简单与美丽认识真理",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "forge.huihoo.com/news",
+                "end": 23,
+                "expanded_url": "https://forge.huihoo.com/news",
+                "start": 0,
+                "url": "https://t.co/N8MfxxGD5X"
+              }
+            ]
+          }
+        },
+        "id": "19838082",
+        "location": "Chengdu, China",
+        "name": "Huihoo灰狐",
+        "pinned_tweet_id": "1574663438172794884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1233132661608071169/_PRc7chX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20647,
+          "following_count": 1807,
+          "like_count": 4089,
+          "listed_count": 181,
+          "media_count": 937,
+          "tweet_count": 6633
+        },
+        "url": "https://t.co/N8MfxxGD5X",
+        "username": "huihoo",
+        "verified": true
+      }
+    ]
+  }
+}

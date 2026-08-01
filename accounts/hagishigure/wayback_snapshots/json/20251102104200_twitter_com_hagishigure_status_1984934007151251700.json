@@ -1,0 +1,590 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "1984925108729708849",
+    "created_at": "2025-11-02T10:42:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T11:42:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984934007151251700"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "初音ミク",
+          "probability": 0.438,
+          "start": 19,
+          "type": "Person"
+        },
+        {
+          "end": 39,
+          "normalized_text": "哔哩哔哩",
+          "probability": 0.3409,
+          "start": 36,
+          "type": "Person"
+        },
+        {
+          "end": 82,
+          "normalized_text": "ツユ - どんな結末がお望みだい",
+          "probability": 0.2374,
+          "start": 67,
+          "type": "Other"
+        },
+        {
+          "end": 91,
+          "normalized_text": "哔哩哔哩",
+          "probability": 0.3444,
+          "start": 88,
+          "type": "Person"
+        },
+        {
+          "end": 145,
+          "normalized_text": "MEIKO",
+          "probability": 0.5703,
+          "start": 141,
+          "type": "Person"
+        },
+        {
+          "end": 148,
+          "normalized_text": "余花",
+          "probability": 0.5172,
+          "start": 147,
+          "type": "Person"
+        },
+        {
+          "end": 164,
+          "normalized_text": "2DMV",
+          "probability": 0.4555,
+          "start": 161,
+          "type": "Person"
+        },
+        {
+          "end": 181,
+          "normalized_text": "题原创曲",
+          "probability": 0.3048,
+          "start": 178,
+          "type": "Person"
+        },
+        {
+          "end": 187,
+          "normalized_text": "哔哩哔哩",
+          "probability": 0.5517,
+          "start": 184,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1741993395910811648",
+          "start": 0,
+          "username": "AnIncandescence"
+        }
+      ],
+      "urls": [
+        {
+          "description": "https://www.youtube.com/watch?v=gJqsFNNCIX0https://nico.ms/sm42505311『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』25時、ナイトコードで。への書き下ろし楽曲▽ inst　→　https://www.dropbox.com/scl/fo/kezem1lhq7q26arbvzmy8/AOj_TcrfYwOZ-rCj, 视频播放量 487912、弹幕量 435、点赞数 29369、投硬币枚数 5049、收藏人数 27643、转发人数 5356, 视频作者 阿赫official, 作者简介 音楽作品転載者丨如有条件请前往源地址支持原作丨不保证有每个人都爱听的音乐及个人言论丨闲聊群709433915丨购物群346648328，相关视频：【東方手書き】夜雀食堂～掟破りの生姜焼き～，演劇 (Engeki) — 25时，在Nightcord x 巡音流歌 | 歌词分配 | 中字，【25時、ナイトコードで。 × 巡音ルカ】演劇（戏剧）【3DMV／『世界计划 多彩舞台』主题原创曲 SEKAI ver.】【中文CC字幕】，【中文CC字幕】【宵崎奏】命に嫌われている。【2DMV／『世界计划 多彩舞台』收录曲 Another Vocal ver.】，そこに在る、光。(Soko ni Aru, Hikari.) — 25时，在Nightcord | 歌词分配 | 中字，ノンブレス・オブリージュ (Non-Breath Oblige) — 25时，在Nightcord x 初音未来 | 歌词分配 | 中字，【初音ミク／中文字幕】电影【Ayase】，【初音ミク】ザムザ（萨姆沙）【てにをは】，【初音ミク】再生【Picon(ピコン)】【中文字幕】，【40mP x 一二三 (12340mP) 】连接繁星【初音未来】",
+          "display_url": "b23.tv/kakaVA4",
+          "end": 65,
+          "expanded_url": "https://b23.tv/kakaVA4",
+          "start": 42,
+          "status": 200,
+          "title": "【初音ミク】演劇（戏剧）【ナノウ】_哔哩哔哩_bilibili",
+          "unwound_url": "https://www.bilibili.com/video/BV1Su411V7RD/?buvid=XU655986C35ABD51655FBA6E9435892EDC2A4&from_spmid=united.player-video-detail.relatedvideo.0&is_story_h5=false&mid=aIzCctw44mRL7HLLh9yxYX8FTQ%2FSZMtL1rElX6M3iMo%3D&p=1&plat_id=114&share_from=ugc&share_medium=android&share_plat=android&share_session_id=8108d79c-1355-4475-b5cc-4e89319c47a0&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1762080106&unique_k=kakaVA4&up_id=797614",
+          "url": "https://t.co/SWolXmFiCg"
+        },
+        {
+          "display_url": "b23.tv/y1EZLoY",
+          "end": 117,
+          "expanded_url": "https://b23.tv/y1EZLoY",
+          "start": 94,
+          "url": "https://t.co/nSgWlbfelt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984934007151251700",
+    "in_reply_to_user_id": "1741993395910811648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "b23.tv/kakaVA4",
+            "end": 48,
+            "expanded_url": "https://b23.tv/kakaVA4",
+            "start": 25,
+            "url": "https://t.co/lXKaFJ7Aiw"
+          },
+          {
+            "display_url": "b23.tv/y1EZLoY",
+            "end": 100,
+            "expanded_url": "https://b23.tv/y1EZLoY",
+            "start": 77,
+            "url": "https://t.co/430saP1zdh"
+          },
+          {
+            "display_url": "b23.tv/EFcf0bh",
+            "end": 196,
+            "expanded_url": "https://b23.tv/EFcf0bh",
+            "start": 173,
+            "url": "https://t.co/fX2Rb2uyOX"
+          },
+          {
+            "display_url": "b23.tv/dO6cN4b",
+            "end": 294,
+            "expanded_url": "https://b23.tv/dO6cN4b",
+            "start": 271,
+            "url": "https://t.co/6GB4NPcxZS"
+          }
+        ]
+      },
+      "text": "【【初音ミク】演劇（戏剧）【ナノウ】-哔哩哔哩】 https://t.co/lXKaFJ7Aiw\n【ツユ - どんな結末がお望みだい？ MV-哔哩哔哩】 https://t.co/430saP1zdh\n【【中文字幕】【25時、ナイトコードで。 × MEIKO】余花にみとれて（心醉余花）【2DMV／『世界计划 多彩舞台』主题原创曲】-哔哩哔哩】 https://t.co/fX2Rb2uyOX\n【【中文CC字幕】【25時、ナイトコードで。】そこに在る、光。（光芒，就在那里。）【2DMV／『世界计划 多彩舞台』剧场版主题原创曲】-哔哩哔哩】 https://t.co/6GB4NPcxZS"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984933326344380547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnIncandescence 【【初音ミク】演劇（戏剧）【ナノウ】-哔哩哔哩】 https://t.co/SWolXmFiCg\n【ツユ - どんな結末がお望みだい？ MV-哔哩哔哩】 https://t.co/nSgWlbfelt\n【【中文字幕】【25時、ナイトコードで。 × MEIKO】余花にみとれて（心醉余花）【2DMV／『世界计划 多彩舞台』主题原创曲】-哔哩哔哩】"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "1984925108729708849",
+        "created_at": "2025-11-02T10:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T11:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984934007151251700"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "初音ミク",
+              "probability": 0.438,
+              "start": 19,
+              "type": "Person"
+            },
+            {
+              "end": 39,
+              "normalized_text": "哔哩哔哩",
+              "probability": 0.3409,
+              "start": 36,
+              "type": "Person"
+            },
+            {
+              "end": 82,
+              "normalized_text": "ツユ - どんな結末がお望みだい",
+              "probability": 0.2374,
+              "start": 67,
+              "type": "Other"
+            },
+            {
+              "end": 91,
+              "normalized_text": "哔哩哔哩",
+              "probability": 0.3444,
+              "start": 88,
+              "type": "Person"
+            },
+            {
+              "end": 145,
+              "normalized_text": "MEIKO",
+              "probability": 0.5703,
+              "start": 141,
+              "type": "Person"
+            },
+            {
+              "end": 148,
+              "normalized_text": "余花",
+              "probability": 0.5172,
+              "start": 147,
+              "type": "Person"
+            },
+            {
+              "end": 164,
+              "normalized_text": "2DMV",
+              "probability": 0.4555,
+              "start": 161,
+              "type": "Person"
+            },
+            {
+              "end": 181,
+              "normalized_text": "题原创曲",
+              "probability": 0.3048,
+              "start": 178,
+              "type": "Person"
+            },
+            {
+              "end": 187,
+              "normalized_text": "哔哩哔哩",
+              "probability": 0.5517,
+              "start": 184,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1741993395910811648",
+              "start": 0,
+              "username": "AnIncandescence"
+            }
+          ],
+          "urls": [
+            {
+              "description": "https://www.youtube.com/watch?v=gJqsFNNCIX0https://nico.ms/sm42505311『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』25時、ナイトコードで。への書き下ろし楽曲▽ inst　→　https://www.dropbox.com/scl/fo/kezem1lhq7q26arbvzmy8/AOj_TcrfYwOZ-rCj, 视频播放量 487912、弹幕量 435、点赞数 29369、投硬币枚数 5049、收藏人数 27643、转发人数 5356, 视频作者 阿赫official, 作者简介 音楽作品転載者丨如有条件请前往源地址支持原作丨不保证有每个人都爱听的音乐及个人言论丨闲聊群709433915丨购物群346648328，相关视频：【東方手書き】夜雀食堂～掟破りの生姜焼き～，演劇 (Engeki) — 25时，在Nightcord x 巡音流歌 | 歌词分配 | 中字，【25時、ナイトコードで。 × 巡音ルカ】演劇（戏剧）【3DMV／『世界计划 多彩舞台』主题原创曲 SEKAI ver.】【中文CC字幕】，【中文CC字幕】【宵崎奏】命に嫌われている。【2DMV／『世界计划 多彩舞台』收录曲 Another Vocal ver.】，そこに在る、光。(Soko ni Aru, Hikari.) — 25时，在Nightcord | 歌词分配 | 中字，ノンブレス・オブリージュ (Non-Breath Oblige) — 25时，在Nightcord x 初音未来 | 歌词分配 | 中字，【初音ミク／中文字幕】电影【Ayase】，【初音ミク】ザムザ（萨姆沙）【てにをは】，【初音ミク】再生【Picon(ピコン)】【中文字幕】，【40mP x 一二三 (12340mP) 】连接繁星【初音未来】",
+              "display_url": "b23.tv/kakaVA4",
+              "end": 65,
+              "expanded_url": "https://b23.tv/kakaVA4",
+              "start": 42,
+              "status": 200,
+              "title": "【初音ミク】演劇（戏剧）【ナノウ】_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1Su411V7RD/?buvid=XU655986C35ABD51655FBA6E9435892EDC2A4&from_spmid=united.player-video-detail.relatedvideo.0&is_story_h5=false&mid=aIzCctw44mRL7HLLh9yxYX8FTQ%2FSZMtL1rElX6M3iMo%3D&p=1&plat_id=114&share_from=ugc&share_medium=android&share_plat=android&share_session_id=8108d79c-1355-4475-b5cc-4e89319c47a0&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1762080106&unique_k=kakaVA4&up_id=797614",
+              "url": "https://t.co/SWolXmFiCg"
+            },
+            {
+              "display_url": "b23.tv/y1EZLoY",
+              "end": 117,
+              "expanded_url": "https://b23.tv/y1EZLoY",
+              "start": 94,
+              "url": "https://t.co/nSgWlbfelt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984934007151251700",
+        "in_reply_to_user_id": "1741993395910811648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "b23.tv/kakaVA4",
+                "end": 48,
+                "expanded_url": "https://b23.tv/kakaVA4",
+                "start": 25,
+                "url": "https://t.co/lXKaFJ7Aiw"
+              },
+              {
+                "display_url": "b23.tv/y1EZLoY",
+                "end": 100,
+                "expanded_url": "https://b23.tv/y1EZLoY",
+                "start": 77,
+                "url": "https://t.co/430saP1zdh"
+              },
+              {
+                "display_url": "b23.tv/EFcf0bh",
+                "end": 196,
+                "expanded_url": "https://b23.tv/EFcf0bh",
+                "start": 173,
+                "url": "https://t.co/fX2Rb2uyOX"
+              },
+              {
+                "display_url": "b23.tv/dO6cN4b",
+                "end": 294,
+                "expanded_url": "https://b23.tv/dO6cN4b",
+                "start": 271,
+                "url": "https://t.co/6GB4NPcxZS"
+              }
+            ]
+          },
+          "text": "【【初音ミク】演劇（戏剧）【ナノウ】-哔哩哔哩】 https://t.co/lXKaFJ7Aiw\n【ツユ - どんな結末がお望みだい？ MV-哔哩哔哩】 https://t.co/430saP1zdh\n【【中文字幕】【25時、ナイトコードで。 × MEIKO】余花にみとれて（心醉余花）【2DMV／『世界计划 多彩舞台』主题原创曲】-哔哩哔哩】 https://t.co/fX2Rb2uyOX\n【【中文CC字幕】【25時、ナイトコードで。】そこに在る、光。（光芒，就在那里。）【2DMV／『世界计划 多彩舞台』剧场版主题原创曲】-哔哩哔哩】 https://t.co/6GB4NPcxZS"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984933326344380547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnIncandescence 【【初音ミク】演劇（戏剧）【ナノウ】-哔哩哔哩】 https://t.co/SWolXmFiCg\n【ツユ - どんな結末がお望みだい？ MV-哔哩哔哩】 https://t.co/nSgWlbfelt\n【【中文字幕】【25時、ナイトコードで。 × MEIKO】余花にみとれて（心醉余花）【2DMV／『世界计划 多彩舞台』主题原创曲】-哔哩哔哩】"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741993395910811648",
+        "conversation_id": "1984925108729708849",
+        "created_at": "2025-11-02T10:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T11:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984933326344380547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984933326344380547",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984932625937842547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure 谢谢，但是我打不开这个链接？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 102,
+          "like_count": 6963,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 1489
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-02T01:22:57.000Z",
+        "description": "猫，诗歌，精神动力学。艺术，朝闻道，波粒二象性。不断寻找着广播塔的星际候鸟。 | “我们彻夜飞旋，直至没入火焰。” | 匿名提问箱⬇️ | 🚪88/158",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anincandescenc…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anincandescence1",
+                "start": 0,
+                "url": "https://t.co/iO6MRJNm9j"
+              }
+            ]
+          }
+        },
+        "id": "1741993395910811648",
+        "location": "天鹅座X-1",
+        "name": "炽烈已极",
+        "pinned_tweet_id": "1976277813784457417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967287311504465922/Z7d-hW5p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1256,
+          "following_count": 213,
+          "like_count": 11044,
+          "listed_count": 4,
+          "media_count": 832,
+          "tweet_count": 4229
+        },
+        "url": "https://t.co/iO6MRJNm9j",
+        "username": "AnIncandescence",
+        "verified": false
+      }
+    ]
+  }
+}

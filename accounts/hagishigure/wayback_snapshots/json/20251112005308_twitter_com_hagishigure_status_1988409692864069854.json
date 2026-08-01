@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1988409692864069854",
+    "created_at": "2025-11-12T00:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T01:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988409692864069854"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seroglumax/sta…",
+          "end": 92,
+          "expanded_url": "https://twitter.com/seroglumax/status/1987823070250447186",
+          "start": 69,
+          "url": "https://t.co/x0rNDBUFkI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988409692864069854",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987823070250447186",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "拿著你的一進去就推廣告的網站滾出地球。\n想要提供權威證據還用這種anti-personal的web你是真正的anti-personal。 https://t.co/x0rNDBUFkI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1988409692864069854",
+        "created_at": "2025-11-12T00:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T01:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988409692864069854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seroglumax/sta…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/seroglumax/status/1987823070250447186",
+              "start": 69,
+              "url": "https://t.co/x0rNDBUFkI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988409692864069854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987823070250447186",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拿著你的一進去就推廣告的網站滾出地球。\n想要提供權威證據還用這種anti-personal的web你是真正的anti-personal。 https://t.co/x0rNDBUFkI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971208789853675520",
+        "conversation_id": "1987822962230378577",
+        "created_at": "2025-11-10T10:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T11:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987823070250447186"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "相关来",
+              "probability": 0.6304,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Vitamin C is an essential nutrient, widely recognized for its antioxidant properties and its roles in many critical processes and pathways.",
+              "display_url": "foundmyfitness.com/topics/vitamin…",
+              "end": 30,
+              "expanded_url": "https://www.foundmyfitness.com/topics/vitamin-c",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1987823113053278209/k2N3G7Km?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1987823113053278209/k2N3G7Km?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 7,
+              "status": 200,
+              "title": "FoundMyFitness Topic - Vitamin C",
+              "unwound_url": "https://www.foundmyfitness.com/topics/vitamin-c",
+              "url": "https://t.co/WDFgBnjwvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987823070250447186",
+        "in_reply_to_user_id": "1971208789853675520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 978,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987822962230378577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "相关来源包括：https://t.co/WDFgBnjwvo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 103,
+          "like_count": 8292,
+          "listed_count": 0,
+          "media_count": 279,
+          "tweet_count": 1880
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-25T13:43:46.000Z",
+        "description": "Space Orbit Laser Satellite",
+        "id": "1971208789853675520",
+        "name": "seroglu",
+        "pinned_tweet_id": "1978987904866087169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971248808110727168/N67JCK6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 106,
+          "like_count": 564,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 510
+        },
+        "username": "seroglumax",
+        "verified": false
+      }
+    ]
+  }
+}

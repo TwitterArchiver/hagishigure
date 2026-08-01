@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2050493586332905926",
+    "created_at": "2026-05-02T08:32:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T09:32:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050493586332905926"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vikingmute/sta…",
+          "end": 125,
+          "expanded_url": "https://twitter.com/vikingmute/status/2050212242130657506",
+          "start": 102,
+          "url": "https://t.co/N0yVOTw2Bo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050493586332905926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050212242130657506",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只写代码的蠢货是这样的。\n你对我这种同时写哲学写论文，写代码，做调研，做药妆配方，写实验方案，写小说，画稿子的人来说，妳爹的来一句让ai写代码会变蠢？别逗我笑了好吗，我再不让ai帮我编译都忙不过来了。😅 https://t.co/N0yVOTw2Bo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2050493586332905926",
+        "created_at": "2026-05-02T08:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T09:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050493586332905926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vikingmute/sta…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/vikingmute/status/2050212242130657506",
+              "start": 102,
+              "url": "https://t.co/N0yVOTw2Bo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050493586332905926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050212242130657506",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只写代码的蠢货是这样的。\n你对我这种同时写哲学写论文，写代码，做调研，做药妆配方，写实验方案，写小说，画稿子的人来说，妳爹的来一句让ai写代码会变蠢？别逗我笑了好吗，我再不让ai帮我编译都忙不过来了。😅 https://t.co/N0yVOTw2Bo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "296593919",
+        "conversation_id": "2050212242130657506",
+        "created_at": "2026-05-01T13:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T14:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050212242130657506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/astnkennedy/st…",
+              "end": 183,
+              "expanded_url": "https://twitter.com/astnkennedy/status/2049942673608352236",
+              "start": 160,
+              "url": "https://t.co/GLNVF873Zt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050212242130657506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这是最近看到很真诚的帖子，我之前有一阵也感同身受：\n\n“我今年22岁，但 Claude Code正在把我的大脑搞崩。\n\n过去6个月里，我每天都开着 6 到 8 个Claude Code终端窗口，就等着它回复，然后 75% 的情况下只是按一下回车继续。这件事真的对我产生了影响。\n\n和几个朋友聊天时，他们也有相同的感觉。\n\n我们都没以前那么反应敏锐了。\n\n我不知道是不是只有我们这样，还是其他20多岁的年轻人也有同感，但我最近一直在思考这个问题。”\n\n我的做法是，不要 Vibe Coding，不要开那么多任务并行，最多并行 3 个任务，review AI 的代码，不要无脑点继续，从 AI 生成的代码中提取知识点提升自己，将学到的新知识写在文档中甚至是纸上，否则当你停下来的时候，会时不时陷入一种空虚感当中。\n\n一天规定固定的时间编码，不要在手机上 Coding，每天外出晒太阳，散步，运动，流汗，观察自然，放空自己，享受无聊。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 164,
+          "impression_count": 56981,
+          "like_count": 280,
+          "quote_count": 8,
+          "reply_count": 27,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049942673608352236",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是最近看到很真诚的帖子，我之前有一阵也感同身受：\n\n“我今年22岁，但 Claude Code正在把我的大脑搞崩。\n\n过去6个月里，我每天都开着 6 到 8 个Claude Code终端窗口，就等着它回复，然后 75% 的情况下只是按一下回车继续。这件事真的对我产生了影响。\n\n和几个朋友聊天时，他们也有相同的感觉。 https://t.co/GLNVF873Zt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 149,
+          "like_count": 28075,
+          "listed_count": 2,
+          "media_count": 748,
+          "tweet_count": 6683
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2011-05-11T02:08:52.000Z",
+        "description": "独立开发者 自由职业\n作品 \nTinyShip https://t.co/o0BI6W8DRb  现代化全栈 SaaS 开发平台，支持国内外双市场 Monorepo 架构 三框架支持\n简单简历 https://t.co/xMu5JFIGnr 五分钟打造程序员的金牌简历",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tinyship.cn",
+                "end": 47,
+                "expanded_url": "http://tinyship.cn",
+                "start": 24,
+                "url": "https://t.co/o0BI6W8DRb"
+              },
+              {
+                "display_url": "easycv.cn",
+                "end": 120,
+                "expanded_url": "http://easycv.cn",
+                "start": 97,
+                "url": "https://t.co/xMu5JFIGnr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vikingz.me",
+                "end": 23,
+                "expanded_url": "http://vikingz.me",
+                "start": 0,
+                "url": "https://t.co/6Zj0nAx1OI"
+              }
+            ]
+          }
+        },
+        "id": "296593919",
+        "location": "Shanghai",
+        "name": "Viking",
+        "pinned_tweet_id": "1998566358779617506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/725179208528322560/TPjU7qop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65878,
+          "following_count": 279,
+          "like_count": 1227,
+          "listed_count": 709,
+          "media_count": 1632,
+          "tweet_count": 3314
+        },
+        "url": "https://t.co/6Zj0nAx1OI",
+        "username": "vikingmute",
+        "verified": true
+      }
+    ]
+  }
+}

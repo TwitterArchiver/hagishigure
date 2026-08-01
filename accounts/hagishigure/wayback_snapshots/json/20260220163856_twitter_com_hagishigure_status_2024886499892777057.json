@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2024886499892777057",
+    "created_at": "2026-02-20T16:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T17:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024886499892777057"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hagishigure/st…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/hagishigure/status/2024785266523705643",
+          "start": 41,
+          "url": "https://t.co/DBNK0aM4Ap"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024886499892777057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024785266523705643",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的dirty talk真的很糟糕吗。怎么都说是sweet talk。挺绝望的。 https://t.co/DBNK0aM4Ap"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2024886499892777057",
+        "created_at": "2026-02-20T16:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T17:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024886499892777057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hagishigure/st…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/hagishigure/status/2024785266523705643",
+              "start": 41,
+              "url": "https://t.co/DBNK0aM4Ap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024886499892777057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024785266523705643",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的dirty talk真的很糟糕吗。怎么都说是sweet talk。挺绝望的。 https://t.co/DBNK0aM4Ap"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2024785266523705643",
+        "created_at": "2026-02-20T09:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T10:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024785266523705643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024785266523705643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3147,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我搞不清楚Dirty talk里到底谁在喜欢母*这些称呼。\n毕竟我平时更习惯的是叫宝宝，或者直接不带称呼的说一句「乖，过来」，我的Dirty talk里最过分的应该是「妓女」这个词。\n母*哪怕是对方自称都会让我失去一大部分的兴趣（这种兴趣一般是把对方当新玩具的好奇心？）。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 136,
+          "like_count": 20916,
+          "listed_count": 0,
+          "media_count": 592,
+          "tweet_count": 5125
+        },
+        "username": "hagishigure",
+        "verified": true
+      }
+    ]
+  }
+}

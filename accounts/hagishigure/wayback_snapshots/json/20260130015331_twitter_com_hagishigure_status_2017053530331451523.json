@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2016905779056693729",
+    "created_at": "2026-01-30T01:53:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T02:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017053530331451523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "940931345001299970",
+          "start": 0,
+          "username": "pxwwu_chan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017053530331451523",
+    "in_reply_to_user_id": "940931345001299970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016905779056693729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pxwwu_chan 我们玩架构的也没钱玩了。🙄💅\n随便炒吧反正最后都得靠我们架构师去做产品。🙄💅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1066,
+        "media_key": "3_2016905767572697088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_19HA2bcAAzM2e.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1796,
+        "media_key": "3_2016905774765850624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_19HbpaQAAQ4Fz.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2016905779056693729",
+        "created_at": "2026-01-30T01:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T02:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017053530331451523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "940931345001299970",
+              "start": 0,
+              "username": "pxwwu_chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017053530331451523",
+        "in_reply_to_user_id": "940931345001299970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016905779056693729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pxwwu_chan 我们玩架构的也没钱玩了。🙄💅\n随便炒吧反正最后都得靠我们架构师去做产品。🙄💅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016905767572697088",
+            "3_2016905774765850624"
+          ]
+        },
+        "author_id": "940931345001299970",
+        "conversation_id": "2016905779056693729",
+        "created_at": "2026-01-29T16:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T17:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016905779056693729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ELdqnom5H8",
+              "end": 39,
+              "expanded_url": "https://x.com/pxwwu_chan/status/2016905779056693729/photo/1",
+              "media_key": "3_2016905767572697088",
+              "start": 16,
+              "url": "https://t.co/ELdqnom5H8"
+            },
+            {
+              "display_url": "pic.x.com/ELdqnom5H8",
+              "end": 39,
+              "expanded_url": "https://x.com/pxwwu_chan/status/2016905779056693729/photo/1",
+              "media_key": "3_2016905774765850624",
+              "start": 16,
+              "url": "https://t.co/ELdqnom5H8"
+            },
+            {
+              "display_url": "x.com/pxwwu_chan/sta…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/pxwwu_chan/status/1989705377290625323",
+              "start": 40,
+              "url": "https://t.co/VZdiA4hGTC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016905779056693729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1376,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989705377290625323",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "硬盘现价已超越掌机本体购入价🌚 https://t.co/ELdqnom5H8 https://t.co/VZdiA4hGTC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 127,
+          "like_count": 17027,
+          "listed_count": 0,
+          "media_count": 457,
+          "tweet_count": 3998
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-13T13:08:09.000Z",
+        "description": "🦋：@pxwwu.com|已摆烂の02年老阿姨|176cm|伪音摆烂中|🩷：MoeDreamAria（已销号）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "pxwwu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pxwwu.com",
+                "end": 23,
+                "expanded_url": "http://pxwwu.com",
+                "start": 0,
+                "url": "https://t.co/kiprkGLP3Z"
+              }
+            ]
+          }
+        },
+        "id": "940931345001299970",
+        "location": "阿莉亚的被窝",
+        "name": "pxwwu🦀🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011275549809975297/b_0xZEp8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12644,
+          "following_count": 3155,
+          "like_count": 176509,
+          "listed_count": 44,
+          "media_count": 3699,
+          "tweet_count": 18112
+        },
+        "url": "https://t.co/kiprkGLP3Z",
+        "username": "pxwwu_chan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2009005053248753708",
+    "created_at": "2026-01-07T20:51:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T21:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009005053248753708"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Abs0lutHydra/s…",
+          "end": 120,
+          "expanded_url": "https://twitter.com/Abs0lutHydra/status/2008837053979762757",
+          "start": 97,
+          "url": "https://t.co/E2ma5yQH6P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009005053248753708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008837053979762757",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你会发现，学形而上学的在中国连哲学教师的职位都找不到。因为中国的教育體系根本不会涉及哲学。\n所以中国出身的后现代形而上学或性别研究PhD在国际是很受欢迎的，Ta们往往能发掘中文语境的独特叙事。 https://t.co/E2ma5yQH6P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 702,
+        "media_key": "3_2008835121428967424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-DQ5lEaMAAa6pE.jpg",
+        "width": 2047
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2009005053248753708",
+        "created_at": "2026-01-07T20:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T21:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009005053248753708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Abs0lutHydra/s…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/Abs0lutHydra/status/2008837053979762757",
+              "start": 97,
+              "url": "https://t.co/E2ma5yQH6P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009005053248753708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008837053979762757",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你会发现，学形而上学的在中国连哲学教师的职位都找不到。因为中国的教育體系根本不会涉及哲学。\n所以中国出身的后现代形而上学或性别研究PhD在国际是很受欢迎的，Ta们往往能发掘中文语境的独特叙事。 https://t.co/E2ma5yQH6P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008835121428967424"
+          ]
+        },
+        "author_id": "2907026474",
+        "conversation_id": "2008837053979762757",
+        "created_at": "2026-01-07T09:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T10:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008837053979762757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uMQ55S9OTj",
+              "end": 168,
+              "expanded_url": "https://x.com/Abs0lutHydra/status/2008837053979762757/photo/1",
+              "media_key": "3_2008835121428967424",
+              "start": 145,
+              "url": "https://t.co/uMQ55S9OTj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008837053979762757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1398,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "算了下读博的收入\n（包括了所有收入，包括助研费奖学金课题组补助等等\n24天/8h+2h是一个保守的假设 一般情况下是随时待命的\n读博能成功地通过大量脑力劳动让你精疲力竭 让你只能被拴在这个体系里当牛马\n想去家教？你还记得初高中知识？你还有时间备课？\n想干便利店员/摇奶茶之类的？你有时间？ https://t.co/uMQ55S9OTj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 119,
+          "like_count": 14671,
+          "listed_count": 0,
+          "media_count": 405,
+          "tweet_count": 3415
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-22T10:47:41.000Z",
+        "description": "MtF, feel free to call me with any pronouns. Electronics engineer, interested in DSP and Amateur Radio. Ph.D student in AI based EDA. \n亲妹妹@cv41___midway",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 138,
+                "username": "cv41___midway"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pfmrlib.github.io",
+                "end": 23,
+                "expanded_url": "http://pfmrlib.github.io",
+                "start": 0,
+                "url": "https://t.co/7r7dlsQT0G"
+              }
+            ]
+          }
+        },
+        "id": "2907026474",
+        "name": "Hiryuu Concordea",
+        "pinned_tweet_id": "1828300445972124037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883407152666263552/QWpBbBxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 642,
+          "like_count": 5806,
+          "listed_count": 1,
+          "media_count": 739,
+          "tweet_count": 3525
+        },
+        "url": "https://t.co/7r7dlsQT0G",
+        "username": "Abs0lutHydra",
+        "verified": false
+      }
+    ]
+  }
+}

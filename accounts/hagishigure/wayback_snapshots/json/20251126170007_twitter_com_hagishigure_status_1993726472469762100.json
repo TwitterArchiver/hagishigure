@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1993026425222484125",
+    "created_at": "2025-11-26T17:00:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T18:00:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993726472469762100"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "Cick",
+          "probability": 0.6791,
+          "start": 31,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1746469344325021697",
+          "start": 0,
+          "username": "suzumiyasuzume"
+        },
+        {
+          "end": 30,
+          "id": "1519186606380490756",
+          "start": 16,
+          "username": "baihupingxue1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993726472469762100",
+    "in_reply_to_user_id": "1746469344325021697",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993026425222484125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suzumiyasuzume @baihupingxue1 Cick 「foc」 to for error."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_1993026304749490176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6im3VqaUAA7kap.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1993026425222484125",
+        "created_at": "2025-11-26T17:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T18:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993726472469762100"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "Cick",
+              "probability": 0.6791,
+              "start": 31,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1746469344325021697",
+              "start": 0,
+              "username": "suzumiyasuzume"
+            },
+            {
+              "end": 30,
+              "id": "1519186606380490756",
+              "start": 16,
+              "username": "baihupingxue1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993726472469762100",
+        "in_reply_to_user_id": "1746469344325021697",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993026425222484125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suzumiyasuzume @baihupingxue1 Cick 「foc」 to for error."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993026304749490176"
+          ]
+        },
+        "author_id": "1746469344325021697",
+        "conversation_id": "1993026425222484125",
+        "created_at": "2025-11-24T18:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T19:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993026425222484125"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "霜月平",
+              "probability": 0.7655,
+              "start": 3,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mSJ5LYHA0b",
+              "end": 31,
+              "expanded_url": "https://x.com/suzumiyasuzume/status/1993026425222484125/photo/1",
+              "media_key": "3_1993026304749490176",
+              "start": 8,
+              "url": "https://t.co/mSJ5LYHA0b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993026425222484125",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 26498,
+          "like_count": 943,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "画师：霜月平雪 https://t.co/mSJ5LYHA0b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 110,
+          "like_count": 10749,
+          "listed_count": 0,
+          "media_count": 359,
+          "tweet_count": 2538
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T09:48:45.000Z",
+        "description": "中国からのvtb\n绿色山葵猫【？】\n精神不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/6610851",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/6610851",
+                "start": 0,
+                "url": "https://t.co/NOpi9MEXwy"
+              }
+            ]
+          }
+        },
+        "id": "1746469344325021697",
+        "location": "日本",
+        "name": "雀宮スズメ",
+        "pinned_tweet_id": "1746822756044554701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988293388714864643/IztdwT6t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12764,
+          "following_count": 736,
+          "like_count": 818,
+          "listed_count": 20,
+          "media_count": 88,
+          "tweet_count": 754
+        },
+        "url": "https://t.co/NOpi9MEXwy",
+        "username": "suzumiyasuzume",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-27T05:28:14.000Z",
+        "description": "只会给世间带来不幸的恶魔，终将在阳光下消散",
+        "id": "1519186606380490756",
+        "location": "Hong Kong",
+        "name": "霜月平雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665794782084603904/r4Wdf9dh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 86,
+          "like_count": 784,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 561
+        },
+        "username": "baihupingxue1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1987814216280293543",
+    "created_at": "2025-11-10T14:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T15:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987897217550844051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1746469344325021697",
+          "start": 0,
+          "username": "suzumiyasuzume"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987897217550844051",
+    "in_reply_to_user_id": "1746469344325021697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987814216280293543",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suzumiyasuzume 沒有我要的1:1等身矽膠娃娃。失望離去。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987814121040183296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5YiaUQbAAAdg96.jpg",
+        "width": 510
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987814121673572352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5YiaWnbwAAu2e-.jpg",
+        "width": 266
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987814121023385600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5YiaUMasAA6S-h.jpg",
+        "width": 298
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987814121002426368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5YiaUHa4AAvLyR.jpg",
+        "width": 277
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1987814216280293543",
+        "created_at": "2025-11-10T14:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T15:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987897217550844051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1746469344325021697",
+              "start": 0,
+              "username": "suzumiyasuzume"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987897217550844051",
+        "in_reply_to_user_id": "1746469344325021697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987814216280293543",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suzumiyasuzume 沒有我要的1:1等身矽膠娃娃。失望離去。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987814121040183296",
+            "3_1987814121673572352",
+            "3_1987814121023385600",
+            "3_1987814121002426368"
+          ]
+        },
+        "author_id": "1746469344325021697",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1987814216280293543",
+        "created_at": "2025-11-10T09:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T10:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987814216280293543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6H24dwPRSA",
+              "end": 104,
+              "expanded_url": "https://x.com/suzumiyasuzume/status/1987814216280293543/photo/1",
+              "media_key": "3_1987814121040183296",
+              "start": 81,
+              "url": "https://t.co/6H24dwPRSA"
+            },
+            {
+              "display_url": "pic.x.com/6H24dwPRSA",
+              "end": 104,
+              "expanded_url": "https://x.com/suzumiyasuzume/status/1987814216280293543/photo/1",
+              "media_key": "3_1987814121673572352",
+              "start": 81,
+              "url": "https://t.co/6H24dwPRSA"
+            },
+            {
+              "display_url": "pic.x.com/6H24dwPRSA",
+              "end": 104,
+              "expanded_url": "https://x.com/suzumiyasuzume/status/1987814216280293543/photo/1",
+              "media_key": "3_1987814121023385600",
+              "start": 81,
+              "url": "https://t.co/6H24dwPRSA"
+            },
+            {
+              "display_url": "pic.x.com/6H24dwPRSA",
+              "end": 104,
+              "expanded_url": "https://x.com/suzumiyasuzume/status/1987814216280293543/photo/1",
+              "media_key": "3_1987814121002426368",
+              "start": 81,
+              "url": "https://t.co/6H24dwPRSA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987814216280293543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 6224,
+          "like_count": 149,
+          "quote_count": 4,
+          "reply_count": 21,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "重大发表\n喵德斯企业店\n舰长优先 猫fu 11.13 12.00\n通贩                   11.15 12.00\n无料画师:b站 vst_鲨鱼 https://t.co/6H24dwPRSA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 103,
+          "like_count": 8080,
+          "listed_count": 0,
+          "media_count": 276,
+          "tweet_count": 1837
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-14T09:48:45.000Z",
+        "description": "中国からのvtb\n绿色山葵猫【？】\n精神不稳定\n头像，头图画师：@kitsuneOAO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "kitsuneOAO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/6610851",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/6610851",
+                "start": 0,
+                "url": "https://t.co/NOpi9MEpH0"
+              }
+            ]
+          }
+        },
+        "id": "1746469344325021697",
+        "location": "日本",
+        "name": "雀宮スズメ",
+        "pinned_tweet_id": "1746822756044554701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984604439991500802/5Wv1Qq9i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11891,
+          "following_count": 704,
+          "like_count": 700,
+          "listed_count": 19,
+          "media_count": 78,
+          "tweet_count": 644
+        },
+        "url": "https://t.co/NOpi9MEpH0",
+        "username": "suzumiyasuzume",
+        "verified": false
+      }
+    ]
+  }
+}

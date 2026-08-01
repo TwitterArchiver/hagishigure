@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025928271263576064"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "2025835652387078265",
+    "created_at": "2026-02-23T13:38:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T14:38:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025928284928667691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976995735532138496",
+          "start": 0,
+          "username": "JanboMikan"
+        },
+        {
+          "end": 22,
+          "id": "1757245330641633280",
+          "start": 12,
+          "username": "rinnodoka"
+        },
+        {
+          "end": 34,
+          "id": "1386539491054088198",
+          "start": 23,
+          "username": "yoooyoyooy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3nf6rSPVws",
+          "end": 84,
+          "expanded_url": "https://x.com/hagishigure/status/2025928284928667691/photo/1",
+          "media_key": "3_2025928271263576064",
+          "start": 61,
+          "url": "https://t.co/3nf6rSPVws"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025928284928667691",
+    "in_reply_to_user_id": "1976995735532138496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025835652387078265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JanboMikan @rinnodoka @yoooyoyooy 宝宝，多余的话我就不说了，我们321上链接好吗。🥺 https://t.co/3nf6rSPVws"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025928271263576064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB2LB2UWMAAgW1U.jpg",
+        "width": 946
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2025835327827619840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB02f1CaMAAC-eg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025928271263576064"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "2025835652387078265",
+        "created_at": "2026-02-23T13:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T14:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025928284928667691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            },
+            {
+              "end": 22,
+              "id": "1757245330641633280",
+              "start": 12,
+              "username": "rinnodoka"
+            },
+            {
+              "end": 34,
+              "id": "1386539491054088198",
+              "start": 23,
+              "username": "yoooyoyooy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3nf6rSPVws",
+              "end": 84,
+              "expanded_url": "https://x.com/hagishigure/status/2025928284928667691/photo/1",
+              "media_key": "3_2025928271263576064",
+              "start": 61,
+              "url": "https://t.co/3nf6rSPVws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025928284928667691",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025835652387078265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan @rinnodoka @yoooyoyooy 宝宝，多余的话我就不说了，我们321上链接好吗。🥺 https://t.co/3nf6rSPVws"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025835327827619840"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2025835652387078265",
+        "created_at": "2026-02-23T07:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T08:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025835652387078265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rrkkWB8woa",
+              "end": 25,
+              "expanded_url": "https://x.com/JanboMikan/status/2025835652387078265/photo/1",
+              "media_key": "3_2025835327827619840",
+              "start": 2,
+              "url": "https://t.co/rrkkWB8woa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025835652387078265",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1598,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🥰 https://t.co/rrkkWB8woa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 137,
+          "like_count": 21716,
+          "listed_count": 0,
+          "media_count": 615,
+          "tweet_count": 5353
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6302,
+          "following_count": 349,
+          "like_count": 9622,
+          "listed_count": 25,
+          "media_count": 152,
+          "tweet_count": 5038
+        },
+        "username": "JanboMikan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-13T03:28:39.000Z",
+        "description": "早安，午安，晚安｜🍥She｜适度远离政治｜遇到困难睡大觉｜本体是猫，喜欢发猫｜🐟 @shizo_nana",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "shizo_nana"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nodoka.world",
+                "end": 23,
+                "expanded_url": "https://nodoka.world",
+                "start": 0,
+                "url": "https://t.co/jsK1fmf0GE"
+              }
+            ]
+          }
+        },
+        "id": "1757245330641633280",
+        "location": "猫猫窝",
+        "name": "ノドか",
+        "pinned_tweet_id": "2016516400265961728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005857943758213120/34Npy49J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 294,
+          "like_count": 14638,
+          "listed_count": 4,
+          "media_count": 496,
+          "tweet_count": 2430
+        },
+        "url": "https://t.co/jsK1fmf0GE",
+        "username": "rinnodoka",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-26T04:36:01.000Z",
+        "description": "一般通过｜CN/EN/JP｜请在置顶查看自我介绍",
+        "id": "1386539491054088198",
+        "name": "佑",
+        "pinned_tweet_id": "1985683100014428393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014169201640894464/W-mxPe5l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 820,
+          "like_count": 223707,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 4540
+        },
+        "username": "yoooyoyooy",
+        "verified": false
+      }
+    ]
+  }
+}

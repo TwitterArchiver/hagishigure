@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2024962960515629200",
+    "created_at": "2026-02-21T00:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T01:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025011798529769542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1778600109154172928",
+          "start": 0,
+          "username": "KMS_PzEUGIN_III"
+        },
+        {
+          "end": 31,
+          "id": "1597427191272603648",
+          "start": 17,
+          "username": "gherojamslava"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025011798529769542",
+    "in_reply_to_user_id": "1778600109154172928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024999524725375470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KMS_PzEUGIN_III @gherojamslava 我不管，给我用meine。😠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2024962960515629200",
+        "created_at": "2026-02-21T00:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T01:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025011798529769542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1778600109154172928",
+              "start": 0,
+              "username": "KMS_PzEUGIN_III"
+            },
+            {
+              "end": 31,
+              "id": "1597427191272603648",
+              "start": 17,
+              "username": "gherojamslava"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025011798529769542",
+        "in_reply_to_user_id": "1778600109154172928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024999524725375470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KMS_PzEUGIN_III @gherojamslava 我不管，给我用meine。😠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778600109154172928",
+        "conversation_id": "2024962960515629200",
+        "created_at": "2026-02-21T00:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T01:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024999524725375470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1597427191272603648",
+              "start": 0,
+              "username": "gherojamslava"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024999524725375470",
+        "in_reply_to_user_id": "1597427191272603648",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024962960515629200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gherojamslava mein furier！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 136,
+          "like_count": 20987,
+          "listed_count": 0,
+          "media_count": 594,
+          "tweet_count": 5145
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-12T01:44:56.000Z",
+        "description": "屎踢姆账号：482729448/跑路小账@lappydaisuki/ 像垃圾袋这样实用的东西有时候也装满了风",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "lappydaisuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kms_pzeugin_iii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kms_pzeugin_iii",
+                "start": 0,
+                "url": "https://t.co/NKw2JIeEm8"
+              }
+            ]
+          }
+        },
+        "id": "1778600109154172928",
+        "location": "8°45′9.49″N 167°40′59.60″E",
+        "name": "KMS-PrinzEugin",
+        "pinned_tweet_id": "1943389207017275820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790573689211346944/mT4Zy9tR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 3149,
+          "like_count": 37995,
+          "listed_count": 5,
+          "media_count": 810,
+          "tweet_count": 10844
+        },
+        "url": "https://t.co/NKw2JIeEm8",
+        "username": "KMS_PzEUGIN_III",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T03:08:35.000Z",
+        "description": "语言学爱好者|极左分子|语言权利|革命则自由，自由则多元\n*personnellement, je déteste la langue anglaise",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sgnikukukyrysk…",
+                "end": 23,
+                "expanded_url": "https://t.me/sgnikukukyrysket",
+                "start": 0,
+                "url": "https://t.co/s7NyjdQM0o"
+              }
+            ]
+          }
+        },
+        "id": "1597427191272603648",
+        "location": "TERRA",
+        "name": "ΣωΑΠλα |そあぷら゚|SoAPla|ሶአፕለ|소압라|सोअप्ल",
+        "pinned_tweet_id": "1852634948232220674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855112448778682368/uKGJ3wMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2024,
+          "following_count": 925,
+          "like_count": 158727,
+          "listed_count": 14,
+          "media_count": 792,
+          "tweet_count": 29382
+        },
+        "url": "https://t.co/s7NyjdQM0o",
+        "username": "gherojamslava",
+        "verified": false
+      }
+    ]
+  }
+}

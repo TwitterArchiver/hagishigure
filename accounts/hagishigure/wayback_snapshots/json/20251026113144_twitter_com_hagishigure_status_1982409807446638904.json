@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1982381799755157775",
+    "created_at": "2025-10-26T11:31:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T12:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982409807446638904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1420377473901072390",
+          "start": 0,
+          "username": "Timfurry233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982409807446638904",
+    "in_reply_to_user_id": "1420377473901072390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982381799755157775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Timfurry233 所以這個詞又不是tag專屬詞，這是英文形容詞「毛茸茸的」，封禁一個形容詞幹什麼，無語"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3168,
+        "media_key": "3_1982381647572918272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4LVmvjWYAAhM4u.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3168,
+        "media_key": "3_1982381647585525760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4LVmvmWwAA6drD.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3168,
+        "media_key": "3_1982381647577202688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4LVmvkXwAAFaKN.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1982381799755157775",
+        "created_at": "2025-10-26T11:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T12:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982409807446638904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420377473901072390",
+              "start": 0,
+              "username": "Timfurry233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982409807446638904",
+        "in_reply_to_user_id": "1420377473901072390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982381799755157775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Timfurry233 所以這個詞又不是tag專屬詞，這是英文形容詞「毛茸茸的」，封禁一個形容詞幹什麼，無語"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982381647572918272",
+            "3_1982381647585525760",
+            "3_1982381647577202688"
+          ]
+        },
+        "author_id": "1420377473901072390",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1982381799755157775",
+        "created_at": "2025-10-26T09:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T10:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982381799755157775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "b23.tv/F9iyhIK",
+              "end": 72,
+              "expanded_url": "https://b23.tv/F9iyhIK",
+              "start": 49,
+              "status": 200,
+              "title": "验证码_哔哩哔哩",
+              "unwound_url": "https://www.bilibili.com/opus/1126490250112139284?plat_id=186&share_from=dynamic&share_medium=android&share_plat=android&share_session_id=8e82508f-ab4a-4e52-a6ef-c43dc055f6d3&share_source=COPY&share_tag=s_i&spmid=dt.opus-detail.0.0&timestamp=1761471619&unique_k=F9iyhIK",
+              "url": "https://t.co/o2UvPhgQb6"
+            },
+            {
+              "display_url": "pic.x.com/DyZonYTx0f",
+              "end": 96,
+              "expanded_url": "https://x.com/Timfurry233/status/1982381799755157775/photo/1",
+              "media_key": "3_1982381647572918272",
+              "start": 73,
+              "url": "https://t.co/DyZonYTx0f"
+            },
+            {
+              "display_url": "pic.x.com/DyZonYTx0f",
+              "end": 96,
+              "expanded_url": "https://x.com/Timfurry233/status/1982381799755157775/photo/1",
+              "media_key": "3_1982381647585525760",
+              "start": 73,
+              "url": "https://t.co/DyZonYTx0f"
+            },
+            {
+              "display_url": "pic.x.com/DyZonYTx0f",
+              "end": 96,
+              "expanded_url": "https://x.com/Timfurry233/status/1982381799755157775/photo/1",
+              "media_key": "3_1982381647577202688",
+              "start": 73,
+              "url": "https://t.co/DyZonYTx0f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982381799755157775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 342,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "纪念一下，2025年10月22日，B站封禁了\"furry\"词条的图文和专栏，至此进入“福瑞”时代\nhttps://t.co/o2UvPhgQb6 https://t.co/DyZonYTx0f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 99,
+          "like_count": 5768,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 1155
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-28T13:36:23.000Z",
+        "description": "wikifur维基兽！/立志成为维基人/咱是一只furry哦！⚠️偶尔会有🔞内容啦( ˃̶̤́ ꒳ ˂̶̤̀ )，懂一点点前端代码啦，但还很生疏💻中文⭕️English⭕️/日本语❌机翻telegram: https://t.co/5gGVDFMyMd blog: https://t.co/sjwsjkHAB1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/im_furry_Data",
+                "end": 126,
+                "expanded_url": "http://t.me/im_furry_Data",
+                "start": 103,
+                "url": "https://t.co/5gGVDFMyMd"
+              },
+              {
+                "display_url": "furries.fun",
+                "end": 156,
+                "expanded_url": "https://furries.fun",
+                "start": 133,
+                "url": "https://t.co/sjwsjkHAB1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "furries.fun",
+                "end": 23,
+                "expanded_url": "https://furries.fun",
+                "start": 0,
+                "url": "https://t.co/sjwsjkHAB1"
+              }
+            ]
+          }
+        },
+        "id": "1420377473901072390",
+        "location": "毛毛之家: furryhome.cn",
+        "name": "xiaohuangbo🔜大学",
+        "pinned_tweet_id": "1748344306950434910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957346714417037312/nxpCXagl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3872,
+          "following_count": 2653,
+          "like_count": 21795,
+          "listed_count": 18,
+          "media_count": 379,
+          "tweet_count": 2329
+        },
+        "url": "https://t.co/sjwsjkHAB1",
+        "username": "Timfurry233",
+        "verified": false
+      }
+    ]
+  }
+}

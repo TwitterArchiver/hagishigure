@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975175119116087296"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1974956595303059637",
+    "created_at": "2025-10-06T12:23:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T13:23:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975175121267806238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1678651719272611841",
+          "start": 0,
+          "username": "miokawa0701"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4NNpAoHy6x",
+          "end": 36,
+          "expanded_url": "https://x.com/hagishigure/status/1975175121267806238/photo/1",
+          "media_key": "3_1975175119116087296",
+          "start": 13,
+          "url": "https://t.co/4NNpAoHy6x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975175121267806238",
+    "in_reply_to_user_id": "1678651719272611841",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974956595303059637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miokawa0701 https://t.co/4NNpAoHy6x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 447,
+        "media_key": "3_1975175119116087296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2k7TlAasAAx5ek.jpg",
+        "width": 540
+      },
+      {
+        "height": 1195,
+        "media_key": "3_1974956593075597312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2h0jsEWMAA2tyG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975175119116087296"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1974956595303059637",
+        "created_at": "2025-10-06T12:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T13:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975175121267806238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1678651719272611841",
+              "start": 0,
+              "username": "miokawa0701"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4NNpAoHy6x",
+              "end": 36,
+              "expanded_url": "https://x.com/hagishigure/status/1975175121267806238/photo/1",
+              "media_key": "3_1975175119116087296",
+              "start": 13,
+              "url": "https://t.co/4NNpAoHy6x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975175121267806238",
+        "in_reply_to_user_id": "1678651719272611841",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974956595303059637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miokawa0701 https://t.co/4NNpAoHy6x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974956593075597312"
+          ]
+        },
+        "author_id": "1678651719272611841",
+        "conversation_id": "1974956595303059637",
+        "created_at": "2025-10-05T21:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T22:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974956595303059637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MFJ3zfy8vL",
+              "end": 41,
+              "expanded_url": "https://x.com/miokawa0701/status/1974956595303059637/photo/1",
+              "media_key": "3_1974956593075597312",
+              "start": 18,
+              "url": "https://t.co/MFJ3zfy8vL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974956595303059637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4260,
+          "like_count": 113,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "好想和你们这些可爱的小宝宝们贴贴！ https://t.co/MFJ3zfy8vL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 85,
+          "like_count": 1568,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 276
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-11T06:26:00.000Z",
+        "description": "地雷系猫猫♡‖鱼鱼里账号:@_GouFan_‖黑心s小号:@rikokawaii0701‖睿站直播ID:Neko今天吃什么‖匿名提问箱:https://t.co/VYntdcTrLh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "_GouFan_"
+              },
+              {
+                "end": 44,
+                "start": 29,
+                "username": "rikokawaii0701"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/miokawa0701",
+                "end": 91,
+                "expanded_url": "https://confess.ngl.link/miokawa0701",
+                "start": 68,
+                "url": "https://t.co/VYntdcTrLh"
+              }
+            ]
+          }
+        },
+        "id": "1678651719272611841",
+        "location": "London, England",
+        "name": "Neko今天吃什么",
+        "pinned_tweet_id": "1901950528382497105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957255168657174528/49jEx6yA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5585,
+          "following_count": 419,
+          "like_count": 6508,
+          "listed_count": 14,
+          "media_count": 422,
+          "tweet_count": 2122
+        },
+        "username": "miokawa0701",
+        "verified": false
+      }
+    ]
+  }
+}

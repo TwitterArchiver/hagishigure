@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1977963418847195194",
+    "created_at": "2025-10-14T16:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T17:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978142755177079287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1227603655903399936",
+          "start": 0,
+          "username": "K66cheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978142755177079287",
+    "in_reply_to_user_id": "1227603655903399936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977963418847195194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@K66cheng 病弱空城（旅行箱版）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_1977963396667715584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3MjOsUasAAENKi.jpg",
+        "width": 2048
+      },
+      {
+        "height": 946,
+        "media_key": "3_1977963395556245504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3MjOoLbAAA8yeF.jpg",
+        "width": 2048
+      },
+      {
+        "height": 946,
+        "media_key": "3_1977963398269984768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3MjOySbYAAnjmE.jpg",
+        "width": 2048
+      },
+      {
+        "height": 946,
+        "media_key": "3_1977963396827131904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3MjOs6bMAAg-8w.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1977963418847195194",
+        "created_at": "2025-10-14T16:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T17:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978142755177079287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1227603655903399936",
+              "start": 0,
+              "username": "K66cheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978142755177079287",
+        "in_reply_to_user_id": "1227603655903399936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977963418847195194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@K66cheng 病弱空城（旅行箱版）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977963396667715584",
+            "3_1977963395556245504",
+            "3_1977963398269984768",
+            "3_1977963396827131904"
+          ]
+        },
+        "author_id": "1227603655903399936",
+        "conversation_id": "1977963418847195194",
+        "created_at": "2025-10-14T05:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T06:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977963418847195194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g1jij4icH2",
+              "end": 28,
+              "expanded_url": "https://x.com/K66cheng/status/1977963418847195194/photo/1",
+              "media_key": "3_1977963396667715584",
+              "start": 5,
+              "url": "https://t.co/g1jij4icH2"
+            },
+            {
+              "display_url": "pic.x.com/g1jij4icH2",
+              "end": 28,
+              "expanded_url": "https://x.com/K66cheng/status/1977963418847195194/photo/1",
+              "media_key": "3_1977963395556245504",
+              "start": 5,
+              "url": "https://t.co/g1jij4icH2"
+            },
+            {
+              "display_url": "pic.x.com/g1jij4icH2",
+              "end": 28,
+              "expanded_url": "https://x.com/K66cheng/status/1977963418847195194/photo/1",
+              "media_key": "3_1977963398269984768",
+              "start": 5,
+              "url": "https://t.co/g1jij4icH2"
+            },
+            {
+              "display_url": "pic.x.com/g1jij4icH2",
+              "end": 28,
+              "expanded_url": "https://x.com/K66cheng/status/1977963418847195194/photo/1",
+              "media_key": "3_1977963396827131904",
+              "start": 5,
+              "url": "https://t.co/g1jij4icH2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977963418847195194",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出差。。 https://t.co/g1jij4icH2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 90,
+          "like_count": 3306,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 515
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-12T14:42:44.000Z",
+        "description": "伪物空城｜\nMtX HRT 天残党｜\n厨娘女仆 | \n瑶瑶@GK98815227｜\n迪迪@Curandro｜\n皮肤饥渴症终末期患者｜\n喵喵｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 29,
+                "username": "GK98815227"
+              },
+              {
+                "end": 53,
+                "start": 44,
+                "username": "Curandro"
+              }
+            ]
+          }
+        },
+        "id": "1227603655903399936",
+        "location": "北京",
+        "name": "蓝粉白糖🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1892567203943252339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1297561582734467072/wWXPtOUY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5708,
+          "following_count": 2518,
+          "like_count": 19974,
+          "listed_count": 28,
+          "media_count": 1103,
+          "tweet_count": 15715
+        },
+        "username": "K66cheng",
+        "verified": false
+      }
+    ]
+  }
+}

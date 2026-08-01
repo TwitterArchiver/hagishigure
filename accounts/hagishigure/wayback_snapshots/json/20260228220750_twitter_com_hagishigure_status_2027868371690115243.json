@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2025588649887510571",
+    "created_at": "2026-02-28T22:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T23:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027868371690115243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1758324617838788608",
+          "start": 0,
+          "username": "axzamyzed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027868371690115243",
+    "in_reply_to_user_id": "1758324617838788608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "🥴\n你要不要看看这个。虽然是运势k线的，但是也是用的贝叶斯预测惯性的思维。🥴\ndownside_returns = terminal_values[terminal_values < self.params['S0']]\n        downside_risk = np.std(downside_returns) / self.params['S0'] if len(downside_returns) > 0 else 0\n        \n        return {\n            'mean_path': mean_path,\n            'confidence_bands': {\n                'upper_95': mean_path + 1.96 * std_path,\n                'lower_95': mean_path - 1.96 * std_path,\n                'upper_68': mean_path + std_path,\n                'lower_68': mean_path - std_path\n            },\n            'expected_annual_return': expected_return,\n            'annual_volatility': volatility,\n            'sharpe_ratio': expected_return / volatility if volatility > 0 else 0,\n            'downside_risk': downside_risk,\n            'sortino_ratio': expected_return / downside_risk if downside_risk > 0 else 0,\n            'probability_positive': np.mean(terminal_values > self.params['S0']),\n            'probability_10pct_gain': np.mean(terminal_values > self.params['S0'] * 1.1),\n            'probability_10pct_loss': np.mean(terminal_values < self.params['S0'] * 0.9),\n            'value_at_risk_95': np.percentile(terminal_values, 5),\n            'expected_shortfall_95': np.mean(terminal_values[terminal_values <= np.percentile(terminal_values, 5)])\n        }\n    \n    def generate_forecast_report(self):\n        \"\"\"生成运势预测报告\"\"\"\n        simulation_results = self.simulate_calibrated_path()\n        \n        # 分析结果\n        report = {\n            'year': self.current_year,\n            'calibration_summary': {\n                'prior_mu': self.prior_params['mu'],\n                'posterior_mu': self.params['mu'],\n                'mu_change_pct': (self.params['mu'] - self.prior_params['mu']) / self.prior_params['mu'] * 100,\n                'prior_sigma': self.prior_params['sigma'],\n                'posterior_sigma': self.params['sigma'],\n                'sigma_change_pct': (self.params['sigma'] - self.prior_params['sigma']) / self.prior_params['sigma'] * 100,\n                'momentum_factor': self.user_history.get('realized_return', 0)  # 运势惯性\n            },"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025588649887510571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@axzamyzed 🥴\n你要不要看看这个。虽然是运势k线的，但是也是用的贝叶斯预测惯性的思维。🥴\ndownside_returns = terminal_values[terminal_values &lt; self.params['S0']]\n        downside_risk = np.std(downside_returns) / self.params['S0'] if len(downside_returns) &gt; 0 else 0\n        \n        return {"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2025588649887510571",
+        "created_at": "2026-02-28T22:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T23:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027868371690115243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027868371690115243",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "🥴\n你要不要看看这个。虽然是运势k线的，但是也是用的贝叶斯预测惯性的思维。🥴\ndownside_returns = terminal_values[terminal_values < self.params['S0']]\n        downside_risk = np.std(downside_returns) / self.params['S0'] if len(downside_returns) > 0 else 0\n        \n        return {\n            'mean_path': mean_path,\n            'confidence_bands': {\n                'upper_95': mean_path + 1.96 * std_path,\n                'lower_95': mean_path - 1.96 * std_path,\n                'upper_68': mean_path + std_path,\n                'lower_68': mean_path - std_path\n            },\n            'expected_annual_return': expected_return,\n            'annual_volatility': volatility,\n            'sharpe_ratio': expected_return / volatility if volatility > 0 else 0,\n            'downside_risk': downside_risk,\n            'sortino_ratio': expected_return / downside_risk if downside_risk > 0 else 0,\n            'probability_positive': np.mean(terminal_values > self.params['S0']),\n            'probability_10pct_gain': np.mean(terminal_values > self.params['S0'] * 1.1),\n            'probability_10pct_loss': np.mean(terminal_values < self.params['S0'] * 0.9),\n            'value_at_risk_95': np.percentile(terminal_values, 5),\n            'expected_shortfall_95': np.mean(terminal_values[terminal_values <= np.percentile(terminal_values, 5)])\n        }\n    \n    def generate_forecast_report(self):\n        \"\"\"生成运势预测报告\"\"\"\n        simulation_results = self.simulate_calibrated_path()\n        \n        # 分析结果\n        report = {\n            'year': self.current_year,\n            'calibration_summary': {\n                'prior_mu': self.prior_params['mu'],\n                'posterior_mu': self.params['mu'],\n                'mu_change_pct': (self.params['mu'] - self.prior_params['mu']) / self.prior_params['mu'] * 100,\n                'prior_sigma': self.prior_params['sigma'],\n                'posterior_sigma': self.params['sigma'],\n                'sigma_change_pct': (self.params['sigma'] - self.prior_params['sigma']) / self.prior_params['sigma'] * 100,\n                'momentum_factor': self.user_history.get('realized_return', 0)  # 运势惯性\n            },"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025588649887510571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 🥴\n你要不要看看这个。虽然是运势k线的，但是也是用的贝叶斯预测惯性的思维。🥴\ndownside_returns = terminal_values[terminal_values &lt; self.params['S0']]\n        downside_risk = np.std(downside_returns) / self.params['S0'] if len(downside_returns) &gt; 0 else 0\n        \n        return {"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758324617838788608",
+        "conversation_id": "2025588649887510571",
+        "created_at": "2026-02-22T15:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T16:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025588649887510571"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025588649887510571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 255,
+                "id": "2012914101987762177",
+                "start": 242,
+                "username": "TeamTransmtf"
+              }
+            ]
+          },
+          "text": "我们很高兴宣布 Transmtf团队 正式成立！团队目前没有盈利的目标，创建它的初衷就是为了让小号活跃起来，把我的项目集中起来，成为一个能够承载更多项目的平台\n接下来，我的项目都会通过这个团队账号发布，或者我的个人账号发布后由团队账号转发\n团队官网也即将上线，我的美国服务器突然抽风屏蔽了海外访问，包括Cloudflare，等美国那边上班处理\n目前，我的首个项目HRT-Tracker已经迁移至transmtf团队，后续还有更多精彩项目，敬请期待！\n最后，求求大家关注我们的团队账号 @TeamTransmtf 吧！您的支持对我们来说真的非常重要🥹"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 5767,
+          "like_count": 43,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我们很高兴宣布 Transmtf团队 正式成立！团队目前没有盈利的目标，创建它的初衷就是为了让小号活跃起来，把我的项目集中起来，成为一个能够承载更多项目的平台\n接下来，我的项目都会通过这个团队账号发布，或者我的个人账号发布后由团队账号转发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 137,
+          "like_count": 22801,
+          "listed_count": 2,
+          "media_count": 647,
+          "tweet_count": 5620
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "高中在读｜信竞退役｜mtf?mtx?｜温柔友好(=･ω･=)♡ 可能有时候有一点粘人｜若将与我靠近，我愿真诚回应｜随时找我聊天哦～什么都可以｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜最好的阳阳姐姐 @Kiss_light233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Kiss_light233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2025588649887510571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991431781867020288/O7Hp0Gtu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 844,
+          "like_count": 5383,
+          "listed_count": 0,
+          "media_count": 211,
+          "tweet_count": 2977
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

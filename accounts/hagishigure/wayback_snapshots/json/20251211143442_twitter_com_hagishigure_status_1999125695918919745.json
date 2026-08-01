@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10046838569",
+          "name": "Reddit"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "1999125695918919745",
+    "created_at": "2025-12-11T14:34:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T15:34:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999125695918919745"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FLMdongtianfud…",
+          "end": 157,
+          "expanded_url": "https://twitter.com/FLMdongtianfudi/status/1998752672393080839",
+          "start": 134,
+          "url": "https://t.co/Jy1GK7Fxec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999125695918919745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998752672393080839",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "什麼叫浪費，浪費是誰規訓的，什麼產生的，什麼是浪費的本征值，浪費是一種什麼狀態，是什麼劃分了浪費和anti-浪費的行為？\n王陽明在悟之前可以說王陽明在龍場浪費人生了嗎？可以說Budda尋求內在是浪費人生嗎？\n如果不符合社會主流的稱之為浪費，那麼浪費是一種社會主流嗎？ https://t.co/Jy1GK7Fxec"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1998752662653992960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7z-9PNbgAAZA4N.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1999125695918919745",
+        "created_at": "2025-12-11T14:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T15:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999125695918919745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FLMdongtianfud…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/FLMdongtianfudi/status/1998752672393080839",
+              "start": 134,
+              "url": "https://t.co/Jy1GK7Fxec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999125695918919745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998752672393080839",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什麼叫浪費，浪費是誰規訓的，什麼產生的，什麼是浪費的本征值，浪費是一種什麼狀態，是什麼劃分了浪費和anti-浪費的行為？\n王陽明在悟之前可以說王陽明在龍場浪費人生了嗎？可以說Budda尋求內在是浪費人生嗎？\n如果不符合社會主流的稱之為浪費，那麼浪費是一種社會主流嗎？ https://t.co/Jy1GK7Fxec"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998752662653992960"
+          ]
+        },
+        "author_id": "1717206292505460736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1998752672393080839",
+        "created_at": "2025-12-10T13:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T14:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998752672393080839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K3IWaZuOA3",
+              "end": 48,
+              "expanded_url": "https://x.com/FLMdongtianfudi/status/1998752672393080839/photo/1",
+              "media_key": "3_1998752662653992960",
+              "start": 25,
+              "url": "https://t.co/K3IWaZuOA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998752672393080839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1775,
+          "impression_count": 402530,
+          "like_count": 2014,
+          "quote_count": 11,
+          "reply_count": 25,
+          "retweet_count": 325
+        },
+        "reply_settings": "everyone",
+        "text": "reddit热帖\n搞砸了6年的人生，还能重启吗？ https://t.co/K3IWaZuOA3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 115,
+          "like_count": 12296,
+          "listed_count": 0,
+          "media_count": 378,
+          "tweet_count": 2893
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-25T15:47:52.000Z",
+        "description": "📚重度修仙小说爱好者 | 🖥 网络资源收集和分享者 | 💖 资源侵权请私信 |\n更多精选资源将会发布在频道中✈，欢迎加入👇\nTG频道：https://t.co/uFLA61J6Tn \n资源搜索群：https://t.co/O7eEJmLlqF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/FLMdongtianfudi",
+                "end": 90,
+                "expanded_url": "http://t.me/FLMdongtianfudi",
+                "start": 67,
+                "url": "https://t.co/uFLA61J6Tn"
+              },
+              {
+                "display_url": "t.me/FLMziyuansousuo",
+                "end": 121,
+                "expanded_url": "https://t.me/FLMziyuansousuo",
+                "start": 98,
+                "url": "https://t.co/O7eEJmLlqF"
+              }
+            ]
+          }
+        },
+        "id": "1717206292505460736",
+        "name": "Fang知识分享",
+        "pinned_tweet_id": "1998752672393080839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868482286121058305/kTdA4Wis_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44869,
+          "following_count": 275,
+          "like_count": 8,
+          "listed_count": 242,
+          "media_count": 2269,
+          "tweet_count": 2519
+        },
+        "username": "FLMdongtianfudi",
+        "verified": true
+      }
+    ]
+  }
+}

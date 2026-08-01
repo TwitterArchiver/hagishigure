@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2019049668580401353",
+    "created_at": "2026-02-04T16:42:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T17:42:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019089237321146407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1294873066984488960",
+          "start": 0,
+          "username": "Qiji67373"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019089237321146407",
+    "in_reply_to_user_id": "1294873066984488960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019088087121354995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qiji67373 认识。毕竟我都换了七八个号了你不认识我很正常。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2019049668580401353",
+        "created_at": "2026-02-04T16:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T17:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019089237321146407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1294873066984488960",
+              "start": 0,
+              "username": "Qiji67373"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019089237321146407",
+        "in_reply_to_user_id": "1294873066984488960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019088087121354995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qiji67373 认识。毕竟我都换了七八个号了你不认识我很正常。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1294873066984488960",
+        "conversation_id": "2019049668580401353",
+        "created_at": "2026-02-04T16:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T17:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019088087121354995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019088087121354995",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019087360495935835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure ？那我认识你吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 128,
+          "like_count": 18081,
+          "listed_count": 0,
+          "media_count": 498,
+          "tweet_count": 4227
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-16T05:46:22.000Z",
+        "description": "我是一只花蝴蝶，飞呀飞呀飞呀飞",
+        "id": "1294873066984488960",
+        "location": "世纪末花丛中的死之结界",
+        "name": "奇迹",
+        "pinned_tweet_id": "2011728931666407597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005505315278929920/x95ASYHi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 772,
+          "like_count": 4434,
+          "listed_count": 9,
+          "media_count": 507,
+          "tweet_count": 6953
+        },
+        "username": "Qiji67373",
+        "verified": true
+      }
+    ]
+  }
+}

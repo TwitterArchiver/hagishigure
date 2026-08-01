@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Exercise and fitness",
+          "id": "847872878041219072",
+          "name": "Fitness"
+        }
+      },
+      {
+        "domain": {
+          "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+          "id": "162",
+          "name": "Exercise & fitness"
+        },
+        "entity": {
+          "description": "Exercises",
+          "id": "872554146750017536",
+          "name": "Exercises"
+        }
+      }
+    ],
+    "conversation_id": "1981139737915379970",
+    "created_at": "2025-10-22T23:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T00:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981139737915379970"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/7b4twomenriseu…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/7b4twomenriseup/status/1980068609935454518",
+          "start": 52,
+          "url": "https://t.co/8WLZgWvktM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981139737915379970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980068609935454518",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好哦，我看看是你洗褲子麻煩還是這個世界難受。\n0人在乎世界，我們戴這個衹是不想用漂白水洗衣服弄傷衣服。 https://t.co/8WLZgWvktM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1038,
+        "media_key": "3_1980068606495862784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3qd6CEWsAATrbS.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1042,
+        "media_key": "3_1980068606613344256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3qd6CgXUAANdAb.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "1981139737915379970",
+        "created_at": "2025-10-22T23:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T00:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981139737915379970"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/7b4twomenriseu…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/7b4twomenriseup/status/1980068609935454518",
+              "start": 52,
+              "url": "https://t.co/8WLZgWvktM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981139737915379970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980068609935454518",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好哦，我看看是你洗褲子麻煩還是這個世界難受。\n0人在乎世界，我們戴這個衹是不想用漂白水洗衣服弄傷衣服。 https://t.co/8WLZgWvktM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980068606495862784",
+            "3_1980068606613344256"
+          ]
+        },
+        "author_id": "1924283193169215488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "1980068609935454518",
+        "created_at": "2025-10-20T00:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T01:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980068609935454518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Vmmx2p6CV",
+              "end": 144,
+              "expanded_url": "https://x.com/7b4twomenriseup/status/1980068609935454518/photo/1",
+              "media_key": "3_1980068606495862784",
+              "start": 121,
+              "url": "https://t.co/0Vmmx2p6CV"
+            },
+            {
+              "display_url": "pic.x.com/0Vmmx2p6CV",
+              "end": 144,
+              "expanded_url": "https://x.com/7b4twomenriseup/status/1980068609935454518/photo/1",
+              "media_key": "3_1980068606613344256",
+              "start": 121,
+              "url": "https://t.co/0Vmmx2p6CV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980068609935454518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 118875,
+          "like_count": 284,
+          "quote_count": 24,
+          "reply_count": 1,
+          "retweet_count": 22
+        },
+        "reply_settings": "following",
+        "text": "韓女：女人沒義務穿戴月經棉，是因為女人有素質才沒把月經塗滿這個世界，你們敢讓女人不痛快我們就這樣對抗你們\n台女：嚶嚶嚶垃圾桶的衛生棉要包好啊別讓人看到血好髒喔\n知道為什麼韓女的女權運動邀請都不帶台女了嗎？\n好乖，男權的乖乖小寶寶小蛋糕🍼💓💅 https://t.co/0Vmmx2p6CV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 98,
+          "like_count": 5012,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 959
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-19T01:57:34.000Z",
+        "description": "姒婣新號，整理中",
+        "id": "1924283193169215488",
+        "name": "姜姒婣7b4t（ㄋㄧˇㄉㄧㄝㄙˇㄌㄜ·）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947980450221473792/e2VwBhZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 199,
+          "like_count": 1806,
+          "listed_count": 2,
+          "media_count": 172,
+          "tweet_count": 624
+        },
+        "username": "7b4twomenriseup",
+        "verified": false
+      }
+    ]
+  }
+}

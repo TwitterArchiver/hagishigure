@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2019352606225887562",
+    "created_at": "2026-02-05T10:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T11:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019352606225887562"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NotTransYet/st…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/NotTransYet/status/2019145040032067820",
+          "start": 49,
+          "url": "https://t.co/m3vg4mFvam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019352606225887562",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019145040032067820",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Warte, ich muss vielleicht darüber nachdenken... https://t.co/m3vg4mFvam"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2019352606225887562",
+        "created_at": "2026-02-05T10:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T11:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019352606225887562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NotTransYet/st…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/NotTransYet/status/2019145040032067820",
+              "start": 49,
+              "url": "https://t.co/m3vg4mFvam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019352606225887562",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019145040032067820",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Warte, ich muss vielleicht darüber nachdenken... https://t.co/m3vg4mFvam"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1428963552",
+        "conversation_id": "2019145040032067820",
+        "created_at": "2026-02-04T20:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T21:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019145040032067820"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "HRT",
+              "probability": 0.4127,
+              "start": 22,
+              "type": "Organization"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019145040032067820",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 24904,
+          "like_count": 3481,
+          "quote_count": 5,
+          "reply_count": 132,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "Girls!!!!!!!!! I'm on HRT!!!!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 128,
+          "like_count": 18171,
+          "listed_count": 0,
+          "media_count": 502,
+          "tweet_count": 4258
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-14T22:32:52.000Z",
+        "description": "38 🏳️‍⚧️ mtf / In the closet / boymoding 😭😭😭😭😭\nHRT 4/2/2026  🎉🎉🎉🎉🎉\nIf I follow you it's bc I think you are inspiring",
+        "id": "1428963552",
+        "location": "My country 🏳️‍⚧️",
+        "name": "Celeste 🏳️‍⚧️",
+        "pinned_tweet_id": "1959300258401312840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968779091013742592/RXsYP1bJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 1114,
+          "like_count": 11803,
+          "listed_count": 0,
+          "media_count": 429,
+          "tweet_count": 3140
+        },
+        "username": "NotTransYet",
+        "verified": false
+      }
+    ]
+  }
+}

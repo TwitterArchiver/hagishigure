@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1982216344016699433",
+    "created_at": "2025-10-25T22:42:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T23:42:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982216344016699433"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vkrum6870/stat…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/vkrum6870/status/1981938635957047491",
+          "start": 31,
+          "url": "https://t.co/hR52xaAvAk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982216344016699433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981938635957047491",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你被我罵也應該檢討一下自己，因為你活著就應該被我駡。\n＾_＾ https://t.co/hR52xaAvAk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1982216344016699433",
+        "created_at": "2025-10-25T22:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T23:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982216344016699433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vkrum6870/stat…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/vkrum6870/status/1981938635957047491",
+              "start": 31,
+              "url": "https://t.co/hR52xaAvAk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982216344016699433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981938635957047491",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你被我罵也應該檢討一下自己，因為你活著就應該被我駡。\n＾_＾ https://t.co/hR52xaAvAk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844372523242438656",
+        "conversation_id": "1981888890609803362",
+        "created_at": "2025-10-25T04:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T05:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981938635957047491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "791197",
+              "start": 0,
+              "username": "bbcchinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981938635957047491",
+        "in_reply_to_user_id": "791197",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1844,
+          "like_count": 64,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981888890609803362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbcchinese 一堆都說不想按照社會刻板印象生活的生理男= =\n請他們勇敢承認自己就是有異裝癖的男人就可以了，台灣又不是會因為他們穿女裝留長髮就放火燒他們\n\n被排擠的話是不是要檢討一下自己個性有問題，而不是一天到晚怪社會不公啊？\n生理性別是客觀事實，但妄想不是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 99,
+          "like_count": 5683,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1134
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-10T13:41:19.000Z",
+        "description": "反免術換證、反代孕、反有毒進步價值、反對中國人跑來台灣和反對幹小孩的正常常識人\n\n政治正確就是道德態度重於事實的說教，拒絕政治正確",
+        "id": "1844372523242438656",
+        "name": "Vic",
+        "pinned_tweet_id": "1847272663162777698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844374598890160128/mVxjSZ3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 87,
+          "like_count": 12508,
+          "listed_count": 8,
+          "media_count": 723,
+          "tweet_count": 7129
+        },
+        "username": "vkrum6870",
+        "verified": false
+      }
+    ]
+  }
+}

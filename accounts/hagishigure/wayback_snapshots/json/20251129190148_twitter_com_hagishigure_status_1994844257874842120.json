@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994844241034711040"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1994782485398307011",
+    "created_at": "2025-11-29T19:01:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T20:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994844257874842120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "914028453174796293",
+          "start": 0,
+          "username": "Ajisai1207_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4k7BKEb7a4",
+          "end": 36,
+          "expanded_url": "https://x.com/hagishigure/status/1994844257874842120/photo/1",
+          "media_key": "3_1994844241034711040",
+          "start": 13,
+          "url": "https://t.co/4k7BKEb7a4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994844257874842120",
+    "in_reply_to_user_id": "914028453174796293",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994782485398307011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ajisai1207_ https://t.co/4k7BKEb7a4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1981,
+        "media_key": "3_1994844241034711040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G68cRKEbkAAnop0.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994844241034711040"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1994782485398307011",
+        "created_at": "2025-11-29T19:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T20:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994844257874842120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "914028453174796293",
+              "start": 0,
+              "username": "Ajisai1207_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4k7BKEb7a4",
+              "end": 36,
+              "expanded_url": "https://x.com/hagishigure/status/1994844257874842120/photo/1",
+              "media_key": "3_1994844241034711040",
+              "start": 13,
+              "url": "https://t.co/4k7BKEb7a4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994844257874842120",
+        "in_reply_to_user_id": "914028453174796293",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994782485398307011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ajisai1207_ https://t.co/4k7BKEb7a4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "914028453174796293",
+        "conversation_id": "1994782485398307011",
+        "created_at": "2025-11-29T14:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T15:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994782485398307011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/simone_luxem/s…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/simone_luxem/status/1994670336781295752",
+              "start": 142,
+              "url": "https://t.co/ZkhwAnXo4K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994782485398307011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 664,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994670336781295752",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跨友热衷的循环论证。一个人吸毒，说明ta本来就是瘾君子。割手，说明本来就是地雷妹。厌食，说明就是骷髅兵。支持纳粹主义，说明就是新纳粹。因为正常人会被劝退，你既然做了，这行为就表明了你的认同。\n在跨友看来，一个人的决定既是自己自由的，又是与认同绑定的，唯独不是在复杂的环境里被形塑的。 https://t.co/ZkhwAnXo4K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 112,
+          "like_count": 11197,
+          "listed_count": 0,
+          "media_count": 365,
+          "tweet_count": 2611
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-30T07:25:39.000Z",
+        "description": "Идиот",
+        "id": "914028453174796293",
+        "location": "地下室",
+        "name": "紫陽花開🌸",
+        "pinned_tweet_id": "1935689907256594753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968809273300774912/Lvdg3qot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 927,
+          "like_count": 12825,
+          "listed_count": 14,
+          "media_count": 535,
+          "tweet_count": 5918
+        },
+        "username": "Ajisai1207_",
+        "verified": false
+      }
+    ]
+  }
+}

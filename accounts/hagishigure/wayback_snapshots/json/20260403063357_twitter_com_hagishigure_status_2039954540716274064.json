@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2039954540716274064",
+    "created_at": "2026-04-03T06:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T07:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039954540716274064"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KiraRettosei/s…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/KiraRettosei/status/1749728762261012752",
+          "start": 67,
+          "url": "https://t.co/LSWhkSivWo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039954540716274064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1749728762261012752",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在现在跨权打压性别认同扬言性别认同是激跨的时候，我又该当岁月史书让你们跨子重新看看就是有人因为性别认同没得到认可产生足以自杀的焦虑。 https://t.co/LSWhkSivWo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1749728724701093889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GEhJATEbIAE2Fsp.jpg",
+        "width": 1080
+      },
+      {
+        "height": 944,
+        "media_key": "3_1749728738236121089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GEhJBFfbQAEhsmw.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2039954540716274064",
+        "created_at": "2026-04-03T06:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T07:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039954540716274064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KiraRettosei/s…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/KiraRettosei/status/1749728762261012752",
+              "start": 67,
+              "url": "https://t.co/LSWhkSivWo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039954540716274064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1749728762261012752",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在现在跨权打压性别认同扬言性别认同是激跨的时候，我又该当岁月史书让你们跨子重新看看就是有人因为性别认同没得到认可产生足以自杀的焦虑。 https://t.co/LSWhkSivWo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1749728724701093889",
+            "3_1749728738236121089"
+          ]
+        },
+        "author_id": "1431776320019517445",
+        "conversation_id": "1749728762261012752",
+        "created_at": "2024-01-23T09:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-01-23T10:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1749728762261012752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1705046542502305792",
+              "start": 15,
+              "username": "Dethelly"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3jNbsPmYlp",
+              "end": 92,
+              "expanded_url": "https://x.com/KiraRettosei/status/1749728762261012752/photo/1",
+              "media_key": "3_1749728724701093889",
+              "start": 69,
+              "url": "https://t.co/3jNbsPmYlp"
+            },
+            {
+              "display_url": "pic.x.com/3jNbsPmYlp",
+              "end": 92,
+              "expanded_url": "https://x.com/KiraRettosei/status/1749728762261012752/photo/1",
+              "media_key": "3_1749728738236121089",
+              "start": 69,
+              "url": "https://t.co/3jNbsPmYlp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1749728762261012752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 150967,
+          "like_count": 626,
+          "quote_count": 79,
+          "reply_count": 96,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "小朋友们不要死！\n\n今天凌晨 @Dethelly 在性别焦虑的打击下自杀身亡。\n她死后，逝者母亲向作为朋友的我了解情况，以下是发言节选： https://t.co/3jNbsPmYlp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 149,
+          "like_count": 26952,
+          "listed_count": 2,
+          "media_count": 716,
+          "tweet_count": 6403
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-29T00:32:03.000Z",
+        "description": "打扮漂亮/十八岁是天堂/我们的生活甜得像糖\n在电影学院里绽放青春吧！",
+        "id": "1431776320019517445",
+        "location": "🌏地球村！Haidian,Beijing",
+        "name": "🏳️‍⚧️🇺🇦 🎉神采奕奕的劣等生🧐『女高岁月～』",
+        "pinned_tweet_id": "1965938386826572050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710687931382501376/7zaBFCz8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1995,
+          "following_count": 2919,
+          "like_count": 41608,
+          "listed_count": 7,
+          "media_count": 1002,
+          "tweet_count": 18548
+        },
+        "username": "KiraRettosei",
+        "verified": false
+      }
+    ]
+  }
+}

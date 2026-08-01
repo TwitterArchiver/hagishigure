@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973978144903462912"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1973973876054110461",
+    "created_at": "2025-10-03T05:07:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T06:07:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973978150272184720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1526443326437658624",
+          "start": 0,
+          "username": "thanks9874"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r6rYStftPM",
+          "end": 48,
+          "expanded_url": "https://x.com/hagishigure/status/1973978150272184720/photo/1",
+          "media_key": "3_1973978144903462912",
+          "start": 25,
+          "url": "https://t.co/r6rYStftPM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973978150272184720",
+    "in_reply_to_user_id": "1526443326437658624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973973876054110461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thanks9874 原來我已經1300了（（ https://t.co/r6rYStftPM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 951,
+        "media_key": "3_1973978144903462912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2T6qglbAAACTlu.jpg",
+        "width": 1280
+      },
+      {
+        "height": 3200,
+        "media_key": "3_1973973861709590531",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2T2xMcbMAMXjBu.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973978144903462912"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1973973876054110461",
+        "created_at": "2025-10-03T05:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T06:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973978150272184720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1526443326437658624",
+              "start": 0,
+              "username": "thanks9874"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r6rYStftPM",
+              "end": 48,
+              "expanded_url": "https://x.com/hagishigure/status/1973978150272184720/photo/1",
+              "media_key": "3_1973978144903462912",
+              "start": 25,
+              "url": "https://t.co/r6rYStftPM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973978150272184720",
+        "in_reply_to_user_id": "1526443326437658624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973973876054110461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thanks9874 原來我已經1300了（（ https://t.co/r6rYStftPM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973973861709590531"
+          ]
+        },
+        "author_id": "1526443326437658624",
+        "conversation_id": "1973973876054110461",
+        "created_at": "2025-10-03T04:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T05:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973973876054110461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XAsMOz2xI8",
+              "end": 28,
+              "expanded_url": "https://x.com/thanks9874/status/1973973876054110461/photo/1",
+              "media_key": "3_1973973861709590531",
+              "start": 5,
+              "url": "https://t.co/XAsMOz2xI8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973973876054110461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "纪念一下 https://t.co/XAsMOz2xI8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n||宣誓人——🪼諾諾||🪼沒有標籤，也不需要定義自己||正因神愛世人，世人才予以神的敬稱||",
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 76,
+          "like_count": 412,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 50
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-17T06:04:14.000Z",
+        "description": "🏳️‍⚧️mtf‖CHANGSHA‖免费提供医学咨询‖爱人@miku_tofacegirl‖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 29,
+                "username": "miku_tofacegirl"
+              }
+            ]
+          }
+        },
+        "id": "1526443326437658624",
+        "location": "NGC 2237",
+        "name": "🐾闭关型瓜瓜࿐",
+        "pinned_tweet_id": "1830663056109773108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914922548858368000/O4ytHHr5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 378,
+          "like_count": 4283,
+          "listed_count": 5,
+          "media_count": 709,
+          "tweet_count": 13133
+        },
+        "username": "thanks9874",
+        "verified": false
+      }
+    ]
+  }
+}

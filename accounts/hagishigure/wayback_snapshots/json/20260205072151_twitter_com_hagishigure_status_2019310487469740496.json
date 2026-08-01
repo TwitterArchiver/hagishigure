@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Author\n",
+          "id": "808408440301232128",
+          "name": "JK Rowling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Author\n",
+          "id": "808408440301232128",
+          "name": "JK Rowling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166408461485101056",
+          "name": "Authors"
+        }
+      }
+    ],
+    "conversation_id": "2018850475429302684",
+    "created_at": "2026-02-05T07:21:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T08:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019310487469740496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "62513246",
+          "start": 0,
+          "username": "jk_rowling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019310487469740496",
+    "in_reply_to_user_id": "62513246",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018850475429302684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jk_rowling Betrachten Sie die sexuelle Funktion als gesunden Körperteil?  Dann bist du lächerlich. Hör mir zu. Leute wie du, die Frauen daran hindern, keinen Sex zu haben, sind nicht qualifiziert zu sagen, dass du in der Position bist, Frauen zu schützen."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "2018850475429302684",
+        "created_at": "2026-02-05T07:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T08:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019310487469740496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "62513246",
+              "start": 0,
+              "username": "jk_rowling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019310487469740496",
+        "in_reply_to_user_id": "62513246",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018850475429302684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jk_rowling Betrachten Sie die sexuelle Funktion als gesunden Körperteil?  Dann bist du lächerlich. Hör mir zu. Leute wie du, die Frauen daran hindern, keinen Sex zu haben, sind nicht qualifiziert zu sagen, dass du in der Position bist, Frauen zu schützen."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "62513246",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "2018850475429302684",
+        "created_at": "2026-02-04T00:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T01:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018850475429302684"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "Fox Varian",
+              "probability": 0.5796,
+              "start": 24,
+              "type": "Organization"
+            },
+            {
+              "end": 200,
+              "normalized_text": "Varian",
+              "probability": 0.5794,
+              "start": 195,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018850475429302684",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "thefp.com/p/were-all-jus…",
+                "end": 1408,
+                "expanded_url": "https://www.thefp.com/p/were-all-just-winging-it-what-the",
+                "start": 1385,
+                "url": "https://t.co/dW4xXKUzOY"
+              },
+              {
+                "display_url": "thefp.com/p/a-legal-firs…",
+                "end": 2885,
+                "expanded_url": "https://www.thefp.com/p/a-legal-first-that-could-change-gender",
+                "start": 2862,
+                "url": "https://t.co/6Z9rV8wI00"
+              }
+            ]
+          },
+          "text": "A young detransitioner, Fox Varian, has won $2 million damages in a medical malpractice lawsuit, in which she sued the psychologist and surgeon who approved her for a double mastectomy, aged 16. Varian's mother testified that she'd been against the surgery, but was pressured into agreeing because she'd been told that unless her daughter transitioned she was likely to commit suicide.\n\nAs the floodgates open, and more and more detransitioners sue the clinicians who subjected them to an unregulated medical experiment, gender identity activists will almost certainly continue to ignore any evidence that fails to support their preferred narrative. They'll keep insisting that hardly any transitioned people regret their irreversible procedures, that gender clinicians know exactly what they're doing, that surgeries, cross-sex hormones and puberty blockers are of proven benefit and that minors who're denied these treatments will to kill themselves. All of this is a lie.\n\nSpeaking at the WPATH conference in 2021, British endocrinology consultant Leighton Seal admitted 'we are doing procedures here where we don’t have outcome data.' A woman from Utah said she felt gender clinicians like her were making it up as they went along: 'Because I feel like we’re all just winging it, you know? And which is okay, you’re winging it too. But maybe we can just, like, wing it together.' (https://t.co/dW4xXKUzOY)\n\nThis will go down in history as one of the worst medical scandals of all time. Adults inside and outside the medical profession sold troubled young people like Varian the idea that all of their complex trauma would be resolved by removing healthy body parts. \n\nAs more and more detransitioners arrive in court, the public will learn the full extent of the harm done to kids in the name of an ideology. Clinicians performing these 'treatments' will go down in history as barbarous activists who betrayed a sacred oath: to do no harm. But we should never forget how many people outside the medical profession urged these young people on, gleefully assuring them that anyone advising caution was an evil bigot. There are people in elitist professions like publishing and academia, not to mention politicians and celebrities with young fan bases, who did all they could to champion the idea of gender identity, and kept pushing it even as the evidence of harm mounted. They're just as culpable as the clinicians. Too lazy to think more deeply than the fashionable mantras that got them social media likes, too arrogant to look at evidence from anyone outside their political bubble, they've slurred whistleblowers and attacked anyone with valid questions. In doing so, they've created a cultural climate without which this appalling tragedy could not have taken place.\n\nNever forget, because only by learning the lesson can we stop this happening again.\n\nhttps://t.co/6Z9rV8wI00"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2731,
+          "impression_count": 1334246,
+          "like_count": 41948,
+          "quote_count": 633,
+          "reply_count": 1482,
+          "retweet_count": 8964
+        },
+        "reply_settings": "everyone",
+        "text": "A young detransitioner, Fox Varian, has won $2 million damages in a medical malpractice lawsuit, in which she sued the psychologist and surgeon who approved her for a double mastectomy, aged 16. Varian's mother testified that she'd been against the surgery, but was pressured into"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 128,
+          "like_count": 18155,
+          "listed_count": 0,
+          "media_count": 502,
+          "tweet_count": 4254
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-03T13:23:45.000Z",
+        "description": "Author, founder of Lumos and Beira's Place, surname rhymes with bowling, not growling.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jkrowling.com",
+                "end": 23,
+                "expanded_url": "http://www.jkrowling.com",
+                "start": 0,
+                "url": "https://t.co/sQiPGyMaQ2"
+              }
+            ]
+          }
+        },
+        "id": "62513246",
+        "location": "Scotland",
+        "name": "J.K. Rowling",
+        "pinned_tweet_id": "1966256971134234678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003509314766491649/W6_rRwdW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13825859,
+          "following_count": 1157,
+          "like_count": 71466,
+          "listed_count": 30665,
+          "media_count": 1686,
+          "tweet_count": 22481
+        },
+        "url": "https://t.co/sQiPGyMaQ2",
+        "username": "jk_rowling",
+        "verified": true
+      }
+    ]
+  }
+}

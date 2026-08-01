@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2053491669400420507",
+    "created_at": "2026-05-10T21:11:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T22:11:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053583823292497998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1893148438239522816",
+          "start": 0,
+          "username": "Ave_Nagasaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053583823292497998",
+    "in_reply_to_user_id": "1893148438239522816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053570273581117498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ave_Nagasaki 荷兰平民平时说德语的频率比说英语高，你去荷兰说德语本地人会觉得你口音很重，说英语本地人就知道你是旅游的而不是居留的了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2053491669400420507",
+        "created_at": "2026-05-10T21:11:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T22:11:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053583823292497998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1893148438239522816",
+              "start": 0,
+              "username": "Ave_Nagasaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053583823292497998",
+        "in_reply_to_user_id": "1893148438239522816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053570273581117498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ave_Nagasaki 荷兰平民平时说德语的频率比说英语高，你去荷兰说德语本地人会觉得你口音很重，说英语本地人就知道你是旅游的而不是居留的了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893148438239522816",
+        "conversation_id": "2053491669400420507",
+        "created_at": "2026-05-10T20:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T21:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053570273581117498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053570273581117498",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053491669400420507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure 荷兰就是英语水平断崖式领先所有非英语国家的，没有数据纯体感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 148,
+          "like_count": 28713,
+          "listed_count": 2,
+          "media_count": 762,
+          "tweet_count": 6861
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-22T03:59:03.000Z",
+        "description": "love @lamte15072",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "lamte15072"
+              }
+            ]
+          }
+        },
+        "id": "1893148438239522816",
+        "location": "歓楽街",
+        "name": "大博打思惑師",
+        "pinned_tweet_id": "2051475039074345372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051087899106643968/Ib0q8qnq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 270,
+          "like_count": 13019,
+          "listed_count": 3,
+          "media_count": 410,
+          "tweet_count": 6087
+        },
+        "username": "Ave_Nagasaki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2027461271151358075",
+    "created_at": "2026-02-27T19:10:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T20:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027461271151358075"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_7t/status/202…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/_7t/status/2027245706977894799",
+          "start": 62,
+          "url": "https://t.co/CuGXpGRrRv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027461271151358075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027245706977894799",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "新闻学叙事手法展露无遗。最显而易见的两个点：制造对立和叙述无关事实引导舆论。\n无论事实是什么我都对这种新闻学修辞深恶痛绝。 https://t.co/CuGXpGRrRv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 795,
+        "media_key": "3_2027245689588404225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCI5NsBb0AEDAR8.jpg",
+        "width": 340
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2027461271151358075",
+        "created_at": "2026-02-27T19:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T20:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027461271151358075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_7t/status/202…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/_7t/status/2027245706977894799",
+              "start": 62,
+              "url": "https://t.co/CuGXpGRrRv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027461271151358075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027245706977894799",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "新闻学叙事手法展露无遗。最显而易见的两个点：制造对立和叙述无关事实引导舆论。\n无论事实是什么我都对这种新闻学修辞深恶痛绝。 https://t.co/CuGXpGRrRv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027245689588404225"
+          ]
+        },
+        "author_id": "131174050",
+        "conversation_id": "2027245706977894799",
+        "created_at": "2026-02-27T04:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T05:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027245706977894799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NebOKT6OZa",
+              "end": 35,
+              "expanded_url": "https://x.com/_7t/status/2027245706977894799/photo/1",
+              "media_key": "3_2027245689588404225",
+              "start": 12,
+              "url": "https://t.co/NebOKT6OZa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027245706977894799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 5040,
+          "like_count": 42,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "米哈游确实走了一位员工 https://t.co/NebOKT6OZa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 138,
+          "like_count": 22595,
+          "listed_count": 2,
+          "media_count": 640,
+          "tweet_count": 5575
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2010-04-09T13:55:58.000Z",
+        "description": "smile😊 | 乐观、三和大神 | 吃瓜&猎奇分享",
+        "id": "131174050",
+        "name": "笑鸥smile",
+        "pinned_tweet_id": "2026477301379248449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025540649458814976/VEnjJp-O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5661,
+          "following_count": 500,
+          "like_count": 254,
+          "listed_count": 33,
+          "media_count": 1201,
+          "tweet_count": 14309
+        },
+        "username": "_7t",
+        "verified": false
+      }
+    ]
+  }
+}

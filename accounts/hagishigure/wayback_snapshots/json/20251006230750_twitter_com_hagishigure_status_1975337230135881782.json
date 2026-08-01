@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Author\n",
+          "id": "808408440301232128",
+          "name": "JK Rowling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Author\n",
+          "id": "808408440301232128",
+          "name": "JK Rowling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166408461485101056",
+          "name": "Authors"
+        }
+      }
+    ],
+    "conversation_id": "1975337230135881782",
+    "created_at": "2025-10-06T23:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T00:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975337230135881782"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/garrulous_abys…",
+          "end": 102,
+          "expanded_url": "https://twitter.com/garrulous_abyss/status/1975091857219854474",
+          "start": 79,
+          "url": "https://t.co/JenyXkNEAw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975337230135881782",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 336,
+            "start": 317,
+            "tag": "PostmodernFeminism"
+          },
+          {
+            "end": 355,
+            "start": 337,
+            "tag": "GenevaDeclaration"
+          }
+        ]
+      },
+      "text": "正如日內瓦宣言所囑：醫學與倫理不容許種族、信仰或性別之分歧，須以無私服務為本。\nJK Rowling閣下將「生物事實」奉為女性權利之鐵壁，視跨性別為「入侵」\n這是本質主義幻象，違背Butler於《性別麻煩》所言：性別非固定本質，乃權力矩陣中之重複表演（Performativity），強制二元以維繫父權資本。Haraway於《賽博格宣言》更斥之為再生產勞動之枷鎖，將女性綁於「創生神話」，忽略交叉性（intersectionality）之流動——階級、種族交織，視野豈非白人中心之狹隘。\n倫理宣誓要求我們瓦解此牢籠，非以恐慌邊緣化，乃以顛覆性重複（subversive repetition）解放所有「女性」的多元表演。尊嚴不容侵犯。#PostmodernFeminism #GenevaDeclaration"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975091857219854474",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "正如日內瓦宣言所囑：醫學與倫理不容許種族、信仰或性別之分歧，須以無私服務為本。\nJK Rowling閣下將「生物事實」奉為女性權利之鐵壁，視跨性別為「入侵」 https://t.co/JenyXkNEAw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 584,
+        "media_key": "3_1975091852261875712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2jvkzzWYAATavy.jpg",
+        "width": 749
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "1975337230135881782",
+        "created_at": "2025-10-06T23:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T00:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975337230135881782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/garrulous_abys…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/garrulous_abyss/status/1975091857219854474",
+              "start": 79,
+              "url": "https://t.co/JenyXkNEAw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975337230135881782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 336,
+                "start": 317,
+                "tag": "PostmodernFeminism"
+              },
+              {
+                "end": 355,
+                "start": 337,
+                "tag": "GenevaDeclaration"
+              }
+            ]
+          },
+          "text": "正如日內瓦宣言所囑：醫學與倫理不容許種族、信仰或性別之分歧，須以無私服務為本。\nJK Rowling閣下將「生物事實」奉為女性權利之鐵壁，視跨性別為「入侵」\n這是本質主義幻象，違背Butler於《性別麻煩》所言：性別非固定本質，乃權力矩陣中之重複表演（Performativity），強制二元以維繫父權資本。Haraway於《賽博格宣言》更斥之為再生產勞動之枷鎖，將女性綁於「創生神話」，忽略交叉性（intersectionality）之流動——階級、種族交織，視野豈非白人中心之狹隘。\n倫理宣誓要求我們瓦解此牢籠，非以恐慌邊緣化，乃以顛覆性重複（subversive repetition）解放所有「女性」的多元表演。尊嚴不容侵犯。#PostmodernFeminism #GenevaDeclaration"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975091857219854474",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "正如日內瓦宣言所囑：醫學與倫理不容許種族、信仰或性別之分歧，須以無私服務為本。\nJK Rowling閣下將「生物事實」奉為女性權利之鐵壁，視跨性別為「入侵」 https://t.co/JenyXkNEAw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975091852261875712"
+          ]
+        },
+        "author_id": "4752010152",
+        "conversation_id": "1975091857219854474",
+        "created_at": "2025-10-06T06:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T07:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975091857219854474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aDaVvSvJzV",
+              "end": 57,
+              "expanded_url": "https://x.com/garrulous_abyss/status/1975091857219854474/photo/1",
+              "media_key": "3_1975091852261875712",
+              "start": 34,
+              "url": "https://t.co/aDaVvSvJzV"
+            },
+            {
+              "display_url": "x.com/suanrongyouyux…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/suanrongyouyuxu/status/1974971763999351031",
+              "start": 58,
+              "url": "https://t.co/Wxud3VQlTf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975091857219854474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 24139,
+          "like_count": 317,
+          "quote_count": 5,
+          "reply_count": 21,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974971763999351031",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "罗琳就不说了，近些年非常右。。。甚至支持塔利班，跟极右各种贴贴。。 https://t.co/aDaVvSvJzV https://t.co/Wxud3VQlTf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 85,
+          "like_count": 1632,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 286
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//伪全栈工程师//伪科研人员//伪web3研究人员//真·法语学习博主//ADHD确诊//见到Incel、terf、小粉红、魔怔人立刻拉黑\n\n欢迎预约占卜测事 https://t.co/KZBQuE9x4R",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/garrulous_abyss",
+                "end": 138,
+                "expanded_url": "https://buymeacoffee.com/garrulous_abyss",
+                "start": 115,
+                "url": "https://t.co/KZBQuE9x4R"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29866,
+          "following_count": 3622,
+          "like_count": 163273,
+          "listed_count": 102,
+          "media_count": 3595,
+          "tweet_count": 60243
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

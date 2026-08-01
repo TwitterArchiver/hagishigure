@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1986848896237379928",
+    "created_at": "2025-11-07T17:31:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T18:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986848896237379928"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iMoeAya/status…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/iMoeAya/status/1986802228657811698",
+          "start": 30,
+          "url": "https://t.co/saIyisKQ6m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986848896237379928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986802228657811698",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我越發認同中國式政治理念是隨著在中國的時間呈正相關趨勢的。 https://t.co/saIyisKQ6m"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1986848896237379928",
+        "created_at": "2025-11-07T17:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T18:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986848896237379928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iMoeAya/status…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/iMoeAya/status/1986802228657811698",
+              "start": 30,
+              "url": "https://t.co/saIyisKQ6m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986848896237379928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986802228657811698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我越發認同中國式政治理念是隨著在中國的時間呈正相關趨勢的。 https://t.co/saIyisKQ6m"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "961832160377282560",
+        "conversation_id": "1986382212770501004",
+        "created_at": "2025-11-07T14:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T15:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986802228657811698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1892388198724358144",
+              "start": 0,
+              "username": "Woua_QAQ"
+            },
+            {
+              "end": 22,
+              "id": "1225770815251046402",
+              "start": 10,
+              "username": "kagurayami1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986802228657811698",
+        "in_reply_to_user_id": "1892388198724358144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986799852823724062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Woua_QAQ @kagurayami1 中国人真欠管呢，缺诈骗犯来多管管了，下次诈骗犯就不说自己诈骗了，这个叫合同条款不符，无法提供服务。完美👌🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 101,
+          "like_count": 7529,
+          "listed_count": 0,
+          "media_count": 263,
+          "tweet_count": 1699
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-09T05:20:31.000Z",
+        "description": "MTF/神楽坂/m属性⛓️/被B不恼/硬件DIY/玄学党🎧/响酱赛高💖/有主人📝 /Ingress🌱/风景摄影📷 /coser/🏳️‍🌈/G+难民/开发5cm/纯个人向分享推/不卖货🙅🏻‍♀️想要拍出可爱撩人的照片～喜欢请点个♥吧～萌绫会很开心的✧٩(ˊωˋ*)و\n无任何小号,所有自称小号都是冒充",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MoeAya",
+                "end": 23,
+                "expanded_url": "https://t.me/MoeAya",
+                "start": 0,
+                "url": "https://t.co/3v3qwKUA0k"
+              }
+            ]
+          }
+        },
+        "id": "961832160377282560",
+        "location": "新宿 神楽坂",
+        "name": "神楽坂 萌绫🏳️‍⚧️",
+        "pinned_tweet_id": "1913122531071975435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974770448509595648/kkt3Z048_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39149,
+          "following_count": 4637,
+          "like_count": 169599,
+          "listed_count": 138,
+          "media_count": 1112,
+          "tweet_count": 35000
+        },
+        "url": "https://t.co/3v3qwKUA0k",
+        "username": "iMoeAya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2017973235027943906",
+    "created_at": "2026-02-02T04:28:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T05:28:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018179799433297992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1905258429821898752",
+          "start": 0,
+          "username": "MisakaBit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018179799433297992",
+    "in_reply_to_user_id": "1905258429821898752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017973235027943906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MisakaBit llm菜是用的人菜才会菜…有的时候连我自己都不太清楚我优化的思路，就是模模糊糊的觉得这里可以用条件选择来优化微流水线…llm甚至可以直接帮我把我的思路理清楚…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2017973235027943906",
+        "created_at": "2026-02-02T04:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T05:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018179799433297992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1905258429821898752",
+              "start": 0,
+              "username": "MisakaBit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018179799433297992",
+        "in_reply_to_user_id": "1905258429821898752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017973235027943906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MisakaBit llm菜是用的人菜才会菜…有的时候连我自己都不太清楚我优化的思路，就是模模糊糊的觉得这里可以用条件选择来优化微流水线…llm甚至可以直接帮我把我的思路理清楚…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905258429821898752",
+        "conversation_id": "2017973235027943906",
+        "created_at": "2026-02-01T14:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T15:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017973235027943906"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017973235027943906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然大家都在喷LLM很菜 我也在喷\n但是发现金主（BOSS和投资人）真的看重这玩意🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 128,
+          "like_count": 17421,
+          "listed_count": 1,
+          "media_count": 469,
+          "tweet_count": 4094
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T14:00:02.000Z",
+        "description": "接受3年正规HRT治疗计划手术中的顺男并且友跨🍥 | 心理学苦手 | 真人会回fo | 社恐重度，不熟悉之前不私聊不面基 | INFJ | 双極性II型・重度うつ・不安・BPD・ADHD・地雷注意 | 已失去夢想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StarNekOvO",
+                "end": 23,
+                "expanded_url": "https://t.me/StarNekOvO",
+                "start": 0,
+                "url": "https://t.co/AU3CBDyMuO"
+              }
+            ]
+          }
+        },
+        "id": "1905258429821898752",
+        "location": "🌕",
+        "name": "御坂晚🍥",
+        "pinned_tweet_id": "1974208245377233378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015693279015116800/fx2rpsly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 593,
+          "like_count": 5297,
+          "listed_count": 3,
+          "media_count": 143,
+          "tweet_count": 1460
+        },
+        "url": "https://t.co/AU3CBDyMuO",
+        "username": "MisakaBit",
+        "verified": false
+      }
+    ]
+  }
+}

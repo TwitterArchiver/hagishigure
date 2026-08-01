@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2017191474765455453",
+    "created_at": "2026-01-30T14:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T15:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017244761061572768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1562153864",
+          "start": 0,
+          "username": "BigMiIkBottIe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017244761061572768",
+    "in_reply_to_user_id": "1562153864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017191474765455453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BigMiIkBottIe 因為羅曼語族實際上都是意大利語族的衍生。🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2017191474765455453",
+        "created_at": "2026-01-30T14:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T15:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017244761061572768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1562153864",
+              "start": 0,
+              "username": "BigMiIkBottIe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017244761061572768",
+        "in_reply_to_user_id": "1562153864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017191474765455453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BigMiIkBottIe 因為羅曼語族實際上都是意大利語族的衍生。🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1562153864",
+        "conversation_id": "2017191474765455453",
+        "created_at": "2026-01-30T11:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T12:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017191474765455453"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017191474765455453",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天有一個新的實習生過來交流，老闆跟她們介紹我的項目時用的法語，但奶瓶似乎也能聽明白一部分，果然技術類的詞彙在兩種語言裡很多都差不多😺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 127,
+          "like_count": 17194,
+          "listed_count": 0,
+          "media_count": 464,
+          "tweet_count": 4036
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-02T03:54:31.000Z",
+        "description": "400 mL 的大容量奶瓶｜奶牛貓貓娘｜貓咪中心主義｜National Honour ID: XXKM220803KCH55P",
+        "id": "1562153864",
+        "location": "117 公館，廚房的櫃子裏",
+        "name": "奶瓶貓 🍼😺 ᠰᡠᠨ ᠰᡠᠴᡝ ᡴᡝᠰᡳᡴᡝ chat à biberon",
+        "pinned_tweet_id": "1678596763320729600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1570667703274450944/uIwnUF6R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 826,
+          "like_count": 129203,
+          "listed_count": 8,
+          "media_count": 873,
+          "tweet_count": 22434
+        },
+        "username": "BigMiIkBottIe",
+        "verified": false
+      }
+    ]
+  }
+}

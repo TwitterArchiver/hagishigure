@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1997980439617958237",
+    "created_at": "2025-12-09T05:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T06:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998265371309281752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1703297947121901568",
+          "start": 0,
+          "username": "xue_zhi2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998265371309281752",
+    "in_reply_to_user_id": "1703297947121901568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997980439617958237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xue_zhi2008 沒有CrkII-NLRC4不是很認可。😺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 933,
+        "media_key": "3_1997980429807443968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7pAnXra4AAZI0k.jpg",
+        "width": 2075
+      },
+      {
+        "height": 1008,
+        "media_key": "3_1997980429870399488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7pAnX6bgAAFRuH.jpg",
+        "width": 2075
+      },
+      {
+        "height": 800,
+        "media_key": "3_1997980430294007808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7pAnZfbQAAc3WT.jpg",
+        "width": 1440
+      },
+      {
+        "height": 785,
+        "media_key": "3_1997980430155616257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7pAnY-bkAEUUOs.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1997980439617958237",
+        "created_at": "2025-12-09T05:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T06:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998265371309281752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1703297947121901568",
+              "start": 0,
+              "username": "xue_zhi2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998265371309281752",
+        "in_reply_to_user_id": "1703297947121901568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997980439617958237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xue_zhi2008 沒有CrkII-NLRC4不是很認可。😺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997980429807443968",
+            "3_1997980429870399488",
+            "3_1997980430294007808",
+            "3_1997980430155616257"
+          ]
+        },
+        "author_id": "1703297947121901568",
+        "conversation_id": "1997980439617958237",
+        "created_at": "2025-12-08T10:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T11:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997980439617958237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E8kGFIQptJ",
+              "end": 63,
+              "expanded_url": "https://x.com/xue_zhi2008/status/1997980439617958237/photo/1",
+              "media_key": "3_1997980429807443968",
+              "start": 40,
+              "url": "https://t.co/E8kGFIQptJ"
+            },
+            {
+              "display_url": "pic.x.com/E8kGFIQptJ",
+              "end": 63,
+              "expanded_url": "https://x.com/xue_zhi2008/status/1997980439617958237/photo/1",
+              "media_key": "3_1997980429870399488",
+              "start": 40,
+              "url": "https://t.co/E8kGFIQptJ"
+            },
+            {
+              "display_url": "pic.x.com/E8kGFIQptJ",
+              "end": 63,
+              "expanded_url": "https://x.com/xue_zhi2008/status/1997980439617958237/photo/1",
+              "media_key": "3_1997980430294007808",
+              "start": 40,
+              "url": "https://t.co/E8kGFIQptJ"
+            },
+            {
+              "display_url": "pic.x.com/E8kGFIQptJ",
+              "end": 63,
+              "expanded_url": "https://x.com/xue_zhi2008/status/1997980439617958237/photo/1",
+              "media_key": "3_1997980430155616257",
+              "start": 40,
+              "url": "https://t.co/E8kGFIQptJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997980439617958237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1881,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《初见端倪》\n《 放 飞 自 我 》\n《   突 👀 发 👿 恶 👀 疾  》 https://t.co/E8kGFIQptJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 116,
+          "like_count": 12189,
+          "listed_count": 0,
+          "media_count": 377,
+          "tweet_count": 2862
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-17T06:41:15.000Z",
+        "description": "member of @MtFwiki ||\n高三牲/退役CChOer🧪||药理学💊，有机化学🧬，声乐🎙️，明日方舟，maimaiDX||想到什么发什么||我还想和你一起多看看这个世界\n☆🤗期待与你相逢ヾ(◍°∇°◍)ﾉﾞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "MtFwiki"
+              }
+            ]
+          }
+        },
+        "id": "1703297947121901568",
+        "location": "宝批龙宫",
+        "name": "织不唧",
+        "pinned_tweet_id": "1907327813289730421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977381470164656128/k468voe7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2107,
+          "following_count": 541,
+          "like_count": 7830,
+          "listed_count": 6,
+          "media_count": 762,
+          "tweet_count": 2789
+        },
+        "username": "xue_zhi2008",
+        "verified": false
+      }
+    ]
+  }
+}

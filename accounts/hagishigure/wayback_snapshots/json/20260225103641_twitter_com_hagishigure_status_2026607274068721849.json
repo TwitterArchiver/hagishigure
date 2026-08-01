@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026607271220838400"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "2026243614611759417",
+    "created_at": "2026-02-25T10:36:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T11:36:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026607274068721849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766452473840173056",
+          "start": 0,
+          "username": "mikotossd0106"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I4WAAzFXwT",
+          "end": 43,
+          "expanded_url": "https://x.com/hagishigure/status/2026607274068721849/photo/1",
+          "media_key": "3_2026607271220838400",
+          "start": 20,
+          "url": "https://t.co/I4WAAzFXwT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026607274068721849",
+    "in_reply_to_user_id": "1766452473840173056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026243614611759417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikotossd0106 何意味。 https://t.co/I4WAAzFXwT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 436,
+        "media_key": "3_2026607271220838400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB_0k2RXgAANg3A.jpg",
+        "width": 1271
+      },
+      {
+        "height": 2244,
+        "media_key": "3_2026243608467111936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB6p048WgAABWfy.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026607271220838400"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "2026243614611759417",
+        "created_at": "2026-02-25T10:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T11:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026607274068721849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766452473840173056",
+              "start": 0,
+              "username": "mikotossd0106"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I4WAAzFXwT",
+              "end": 43,
+              "expanded_url": "https://x.com/hagishigure/status/2026607274068721849/photo/1",
+              "media_key": "3_2026607271220838400",
+              "start": 20,
+              "url": "https://t.co/I4WAAzFXwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026607274068721849",
+        "in_reply_to_user_id": "1766452473840173056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026243614611759417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikotossd0106 何意味。 https://t.co/I4WAAzFXwT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026243608467111936"
+          ]
+        },
+        "author_id": "1766452473840173056",
+        "conversation_id": "2026243614611759417",
+        "created_at": "2026-02-24T10:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T11:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026243614611759417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2kbVznaFyW",
+              "end": 44,
+              "expanded_url": "https://x.com/mikotossd0106/status/2026243614611759417/photo/1",
+              "media_key": "3_2026243608467111936",
+              "start": 21,
+              "url": "https://t.co/2kbVznaFyW"
+            },
+            {
+              "display_url": "x.com/axzamyzed/stat…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/axzamyzed/status/2026098820531343496",
+              "start": 45,
+              "url": "https://t.co/VYviN6N8rM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026243614611759417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3286,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026098820531343496",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "AIcore和Terminal 是何意味 https://t.co/2kbVznaFyW https://t.co/VYviN6N8rM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 136,
+          "like_count": 22150,
+          "listed_count": 2,
+          "media_count": 628,
+          "tweet_count": 5450
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-09T13:14:37.000Z",
+        "description": "这个人很懒，没留下任何东西",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikotossd.net",
+                "end": 23,
+                "expanded_url": "http://mikotossd.net",
+                "start": 0,
+                "url": "https://t.co/hoi4XcP34Y"
+              }
+            ]
+          }
+        },
+        "id": "1766452473840173056",
+        "location": "成都",
+        "name": "御坂鱼坂",
+        "pinned_tweet_id": "2016170324564574213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996994997015719936/FuxN2D-d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1684,
+          "following_count": 1586,
+          "like_count": 79986,
+          "listed_count": 5,
+          "media_count": 1053,
+          "tweet_count": 4742
+        },
+        "url": "https://t.co/hoi4XcP34Y",
+        "username": "mikotossd0106",
+        "verified": true
+      }
+    ]
+  }
+}

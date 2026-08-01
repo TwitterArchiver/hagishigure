@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2018868364077310356",
+    "created_at": "2026-02-04T05:59:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T06:59:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018927333596430738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424779836938022913",
+          "start": 0,
+          "username": "amber_toffee"
+        },
+        {
+          "end": 25,
+          "id": "704584768457822208",
+          "start": 14,
+          "username": "cz07752269"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018927333596430738",
+    "in_reply_to_user_id": "1424779836938022913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018907016412930266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_toffee @cz07752269 与其想政治你还是先关心一下你自己的状况吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2018868364077310356",
+        "created_at": "2026-02-04T05:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T06:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018927333596430738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            },
+            {
+              "end": 25,
+              "id": "704584768457822208",
+              "start": 14,
+              "username": "cz07752269"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018927333596430738",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018907016412930266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee @cz07752269 与其想政治你还是先关心一下你自己的状况吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "2018868364077310356",
+        "created_at": "2026-02-04T04:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T05:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018907016412930266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "704584768457822208",
+              "start": 0,
+              "username": "cz07752269"
+            },
+            {
+              "end": 24,
+              "id": "1965393379224944645",
+              "start": 12,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018907016412930266",
+        "in_reply_to_user_id": "704584768457822208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018901167951286479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cz07752269 @hagishigure 不知道 反正我小时候玩哲的时候这种小登见太多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 128,
+          "like_count": 17905,
+          "listed_count": 0,
+          "media_count": 490,
+          "tweet_count": 4188
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "",
+        "id": "1424779836938022913",
+        "location": "☭",
+        "name": "amber",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20209,
+          "following_count": 2511,
+          "like_count": 35542,
+          "listed_count": 0,
+          "media_count": 392,
+          "tweet_count": 18323
+        },
+        "username": "amber_toffee",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-01T08:31:14.000Z",
+        "description": "Marxist-Leninist-Maoist\n\n#FreePalestine🇵🇸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 25,
+                "tag": "FreePalestine"
+              }
+            ]
+          }
+        },
+        "id": "704584768457822208",
+        "name": "akxkkwkxl",
+        "pinned_tweet_id": "1843706143711080834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1135936327327764481/9fsC6-UH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 207,
+          "like_count": 110776,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 7714
+        },
+        "username": "cz07752269",
+        "verified": false
+      }
+    ]
+  }
+}

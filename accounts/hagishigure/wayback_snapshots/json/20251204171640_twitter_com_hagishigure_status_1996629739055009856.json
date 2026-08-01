@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1996308824383279497",
+    "created_at": "2025-12-04T17:16:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T18:16:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996629739055009856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1459189957168295944",
+          "start": 0,
+          "username": "NuclearThermal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996629739055009856",
+    "in_reply_to_user_id": "1965393379224944645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996629457722032425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NuclearThermal 那裡有用 1Zpresso K-Ultra 手磨 + V60，衣索比亞日曬耶加雪菲咖啡，Mi è piaciuto molto il sapore."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1996308824383279497",
+        "created_at": "2025-12-04T17:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T18:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996629739055009856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1459189957168295944",
+              "start": 0,
+              "username": "NuclearThermal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996629739055009856",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996629457722032425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NuclearThermal 那裡有用 1Zpresso K-Ultra 手磨 + V60，衣索比亞日曬耶加雪菲咖啡，Mi è piaciuto molto il sapore."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1996308824383279497",
+        "created_at": "2025-12-04T17:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T18:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996629457722032425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1459189957168295944",
+              "start": 0,
+              "username": "NuclearThermal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996629457722032425",
+        "in_reply_to_user_id": "1459189957168295944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996628427500409009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NuclearThermal 不過我更推薦來博洛尼亞市中心附近的Via del Pratello。Es genial allí."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 115,
+          "like_count": 11680,
+          "listed_count": 0,
+          "media_count": 372,
+          "tweet_count": 2731
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-12T16:03:20.000Z",
+        "description": "MtX(Autigender)/AS/ADHD",
+        "id": "1459189957168295944",
+        "name": "Nuclear Thermal Rocket🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1527155675377217537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1459190082980638728/8WjeYDRu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1876,
+          "following_count": 2478,
+          "like_count": 13748,
+          "listed_count": 14,
+          "media_count": 129,
+          "tweet_count": 2963
+        },
+        "username": "NuclearThermal",
+        "verified": false
+      }
+    ]
+  }
+}

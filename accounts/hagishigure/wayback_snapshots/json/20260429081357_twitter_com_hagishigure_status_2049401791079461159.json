@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2049181731710816273",
+    "created_at": "2026-04-29T08:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T09:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049401791079461159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1543464890026713088",
+          "start": 0,
+          "username": "yubanmeimei2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049401791079461159",
+    "in_reply_to_user_id": "1543464890026713088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049379352874500310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yubanmeimei2 我认为儒文化圈，例如韩国，日本，都表现出相同的社会特质，🤔。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2049181731710816273",
+        "created_at": "2026-04-29T08:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049401791079461159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1543464890026713088",
+              "start": 0,
+              "username": "yubanmeimei2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049401791079461159",
+        "in_reply_to_user_id": "1543464890026713088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049379352874500310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yubanmeimei2 我认为儒文化圈，例如韩国，日本，都表现出相同的社会特质，🤔。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543464890026713088",
+        "conversation_id": "2049181731710816273",
+        "created_at": "2026-04-29T06:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049379352874500310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049379352874500310",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049181731710816273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure 就是从众心理。\n中国是一个社交性很强的地方，没有社交性会沦为下一个目标，所以融入远比被孤立要舒服的多。正因如此中国内的社会环境不适合大多数人的生存发展。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 149,
+          "like_count": 27869,
+          "listed_count": 2,
+          "media_count": 741,
+          "tweet_count": 6640
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-03T05:21:27.000Z",
+        "description": "日本语不上手",
+        "id": "1543464890026713088",
+        "location": "China",
+        "name": "怜音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048827480887500800/euw-Qi14_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 40,
+          "like_count": 656,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 193
+        },
+        "username": "yubanmeimei2",
+        "verified": false
+      }
+    ]
+  }
+}

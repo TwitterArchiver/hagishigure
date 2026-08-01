@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Exercise and fitness",
+          "id": "847872878041219072",
+          "name": "Fitness"
+        }
+      },
+      {
+        "domain": {
+          "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+          "id": "162",
+          "name": "Exercise & fitness"
+        },
+        "entity": {
+          "description": "Exercises",
+          "id": "872554146750017536",
+          "name": "Exercises"
+        }
+      }
+    ],
+    "conversation_id": "2050495046223376810",
+    "created_at": "2026-05-02T08:38:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T09:38:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050495046223376810"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/quaintlotus142…",
+          "end": 199,
+          "expanded_url": "https://twitter.com/quaintlotus142/status/2049557444410413219",
+          "start": 176,
+          "url": "https://t.co/EVtQMXgG79"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050495046223376810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049557444410413219",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国人永远意识不到先生指的是前辈的意思，而不是男士的尊称，男士和女士才是同等意思的词语。🤣\n说女士不能称先生就是否定创生性，否定女性也具备非能动性，Barbara Macdonald與Cynthia Rich合著《Look Me in the Eye: Old Women, Aging and Ageism》过，指责女性主義運動的部分真应该看看。🤣 https://t.co/EVtQMXgG79"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049557040003944448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHF9RNRWEAAk4B7.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2050495046223376810",
+        "created_at": "2026-05-02T08:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T09:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050495046223376810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/quaintlotus142…",
+              "end": 199,
+              "expanded_url": "https://twitter.com/quaintlotus142/status/2049557444410413219",
+              "start": 176,
+              "url": "https://t.co/EVtQMXgG79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050495046223376810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049557444410413219",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国人永远意识不到先生指的是前辈的意思，而不是男士的尊称，男士和女士才是同等意思的词语。🤣\n说女士不能称先生就是否定创生性，否定女性也具备非能动性，Barbara Macdonald與Cynthia Rich合著《Look Me in the Eye: Old Women, Aging and Ageism》过，指责女性主義運動的部分真应该看看。🤣 https://t.co/EVtQMXgG79"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049557040003944448"
+          ]
+        },
+        "author_id": "1346651417533173762",
+        "conversation_id": "2049557444410413219",
+        "created_at": "2026-04-29T18:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T19:30:53.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049557047512027160",
+          "2049557444410413219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/emXSs31qPI",
+              "end": 167,
+              "expanded_url": "https://x.com/quaintlotus142/status/2049557444410413219/photo/1",
+              "media_key": "3_2049557040003944448",
+              "start": 144,
+              "url": "https://t.co/emXSs31qPI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049557444410413219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【把“先生”还给男人，把“伟大”还给女性】\n\n清华大学公示林徽因奖学金，开头第一句就是“纪念林徽因先生”。\n\n评论区照旧有那种理中客跳出来科普：哎呀，这是旧传统，是对有杰出成就女性的尊称，没毛病。\n\n没毛病？那毛病大了去了。\n\n这种尊称的本质，就是一种极其隐性的、文化层面的“吃女人”。\n\n它预设了一个荒谬的底层逻辑：女性这个词本身是低级的、承载不了伟大的。 \n\n只有把你从女性的阵营里剔除出去，强行塞进男性的评价体系，把你升格成一名“先生”，你的成就才算得到了主流权力的加冕。\n\n这就是一种文化上的“转基因”，你种下的是女性的坚韧与才华，长出的是女性的果实，成果最后一定得由男人们收割！\n\n女人你种树，男人我摘桃。\n\n为什么杰出的女性要被尊称为“先生”，而杰出的男性从来不被尊称为“女士”？\n\n因为在父权语境里，“女士”是客体，是附属，是弱者。\n\n如果你称呼一个德高望重的男性领袖为“XX女士”，他不但不会觉得受宠若惊，反而会觉得你在羞辱他。\n\n看明白了吗？\n\n当你们觉得把林徽因称为“先生”是抬举她时，你们其实是在潜意识里再次羞辱了全体女性。\n\n林徽因不需要借用男性的性别外壳来彰显权威。\n她作为女性，在战乱中测绘古建、在病榻上书写诗篇、在歧视中开创学科，这份力量本身就足够独立且伟大。\n\n请称呼她林徽因女士。 \n别再用那套爹味十足，看似温情脉脉，实际以抢夺女性成就为目的的“尊称”，去稀释女性本该拥有的光荣。\n\n去你妹的先生。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 54639,
+          "like_count": 956,
+          "quote_count": 24,
+          "reply_count": 161,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "【把“先生”还给男人，把“伟大”还给女性】\n\n清华大学公示林徽因奖学金，开头第一句就是“纪念林徽因先生”。\n\n评论区照旧有那种理中客跳出来科普：哎呀，这是旧传统，是对有杰出成就女性的尊称，没毛病。\n\n没毛病？那毛病大了去了。\n\n这种尊称的本质，就是一种极其隐性的、文化层面的“吃女人”。 https://t.co/emXSs31qPI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 149,
+          "like_count": 28078,
+          "listed_count": 2,
+          "media_count": 748,
+          "tweet_count": 6684
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-06T02:55:05.000Z",
+        "description": "我见诸君多有病，料诸君见我应如是。 一个务实的理想主义者。",
+        "id": "1346651417533173762",
+        "name": "逃跑的韭菜🇺🇸",
+        "pinned_tweet_id": "2004955488643928196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022350193463881730/PRU_m4qT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52407,
+          "following_count": 1677,
+          "like_count": 140202,
+          "listed_count": 134,
+          "media_count": 5828,
+          "tweet_count": 69247
+        },
+        "username": "quaintlotus142",
+        "verified": true
+      }
+    ]
+  }
+}

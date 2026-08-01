@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2000450708781547664",
+    "created_at": "2025-12-15T14:02:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T15:02:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000567192488931604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1824119613162139648",
+          "start": 0,
+          "username": "void__empress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000567192488931604",
+    "in_reply_to_user_id": "1824119613162139648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000450708781547664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@void__empress 大概是靈暈和共在融合論點。投擲一個阿甘本上去看看。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 850,
+        "media_key": "3_2000450689072615425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8MHTYjb0AEZdXJ.png",
+        "width": 697
+      },
+      {
+        "height": 873,
+        "media_key": "3_2000450689072504832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8MHTYjaIAArxyl.png",
+        "width": 701
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2000450708781547664",
+        "created_at": "2025-12-15T14:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T15:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000567192488931604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1824119613162139648",
+              "start": 0,
+              "username": "void__empress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000567192488931604",
+        "in_reply_to_user_id": "1824119613162139648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000450708781547664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@void__empress 大概是靈暈和共在融合論點。投擲一個阿甘本上去看看。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000450689072615425",
+            "3_2000450689072504832"
+          ]
+        },
+        "author_id": "1824119613162139648",
+        "conversation_id": "2000450708781547664",
+        "created_at": "2025-12-15T06:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T07:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000450708781547664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MlqKYEkPcH",
+              "end": 69,
+              "expanded_url": "https://x.com/void__empress/status/2000450708781547664/photo/1",
+              "media_key": "3_2000450689072615425",
+              "start": 46,
+              "url": "https://t.co/MlqKYEkPcH"
+            },
+            {
+              "display_url": "pic.x.com/MlqKYEkPcH",
+              "end": 69,
+              "expanded_url": "https://x.com/void__empress/status/2000450708781547664/photo/1",
+              "media_key": "3_2000450689072504832",
+              "start": 46,
+              "url": "https://t.co/MlqKYEkPcH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000450708781547664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别看巴特勒了，看看别的吧，比如没有未来这本书。虽然这本书没中文版我还得用AI的伟力去翻译。 https://t.co/MlqKYEkPcH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 115,
+          "like_count": 12838,
+          "listed_count": 0,
+          "media_count": 385,
+          "tweet_count": 3043
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T16:23:09.000Z",
+        "description": "泛性恋/友跨友同友queer/计算机本科生\n哲棍/黑格尔派/非主流男权人/新人类主义/超真实主义/杀死母神/超越自然性/泛灵论/逆天反道/反对家庭和国家/m+sub/",
+        "id": "1824119613162139648",
+        "location": "奈落迦",
+        "name": "梦寒天",
+        "pinned_tweet_id": "1981354612390318111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000471329867517952/4HumbUtb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 218,
+          "like_count": 1110,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 535
+        },
+        "username": "void__empress",
+        "verified": false
+      }
+    ]
+  }
+}

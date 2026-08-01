@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1992063023926939819",
+    "created_at": "2025-11-22T12:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T13:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992213547494109204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1015788561088630791",
+          "start": 0,
+          "username": "neko_ruyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992213547494109204",
+    "in_reply_to_user_id": "1015788561088630791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992063023926939819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neko_ruyue 前面的忘了，推上的那個言諾連大學都考不上，聽說已經去當福利姬了，你可別學她。☝️🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1992063023926939819",
+        "created_at": "2025-11-22T12:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T13:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992213547494109204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1015788561088630791",
+              "start": 0,
+              "username": "neko_ruyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992213547494109204",
+        "in_reply_to_user_id": "1015788561088630791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992063023926939819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko_ruyue 前面的忘了，推上的那個言諾連大學都考不上，聽說已經去當福利姬了，你可別學她。☝️🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1015788561088630791",
+        "conversation_id": "1992063023926939819",
+        "created_at": "2025-11-22T02:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T03:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992063023926939819"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992063023926939819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3941,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢大家给的建议但是我是玩抽象没有真的在自学我是大学本科而且学习成绩很好没有考不上大学😭不要乱说😭多说了以后都要说推上那个小猫如月大学都考不上了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 108,
+          "like_count": 10165,
+          "listed_count": 0,
+          "media_count": 347,
+          "tweet_count": 2414
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2018-07-08T02:44:00.000Z",
+        "description": "@Theodos1us 兔狲宝宝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "Theodos1us"
+              }
+            ]
+          }
+        },
+        "id": "1015788561088630791",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "小猫月月",
+        "pinned_tweet_id": "1989006152101949944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830584532141215744/PblY5QNI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33677,
+          "following_count": 4131,
+          "like_count": 151959,
+          "listed_count": 86,
+          "media_count": 2700,
+          "tweet_count": 30198
+        },
+        "username": "neko_ruyue",
+        "verified": false
+      }
+    ]
+  }
+}

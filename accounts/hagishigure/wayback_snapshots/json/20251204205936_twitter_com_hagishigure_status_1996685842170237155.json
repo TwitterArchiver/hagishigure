@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1996202790272778600",
+    "created_at": "2025-12-04T20:59:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T21:59:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996685842170237155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1804849792121499648",
+          "start": 0,
+          "username": "OnlyLenKagamine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996685842170237155",
+    "in_reply_to_user_id": "1804849792121499648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996202790272778600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OnlyLenKagamine 思考太過刻板了。你應該去試圖閱讀一些對你來説更高階的書，並且嘗試弄懂，例如，March那本化學，如果你能邊讀邊思考，實在想不通的去問Ai，對這個階段來說是很好的選擇。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2132,
+        "media_key": "3_1996202782450388992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Pv2rOaEAAmsMH.jpg",
+        "width": 1599
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1996202790272778600",
+        "created_at": "2025-12-04T20:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T21:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996685842170237155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1804849792121499648",
+              "start": 0,
+              "username": "OnlyLenKagamine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996685842170237155",
+        "in_reply_to_user_id": "1804849792121499648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996202790272778600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OnlyLenKagamine 思考太過刻板了。你應該去試圖閱讀一些對你來説更高階的書，並且嘗試弄懂，例如，March那本化學，如果你能邊讀邊思考，實在想不通的去問Ai，對這個階段來說是很好的選擇。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996202782450388992"
+          ]
+        },
+        "author_id": "1804849792121499648",
+        "conversation_id": "1996202790272778600",
+        "created_at": "2025-12-03T13:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T14:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996202790272778600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tziW7hyV48",
+              "end": 35,
+              "expanded_url": "https://x.com/OnlyLenKagamine/status/1996202790272778600/photo/1",
+              "media_key": "3_1996202782450388992",
+              "start": 12,
+              "url": "https://t.co/tziW7hyV48"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996202790272778600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 218069,
+          "like_count": 405,
+          "quote_count": 16,
+          "reply_count": 340,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "猜猜这种人考试能考几分 https://t.co/tziW7hyV48"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 115,
+          "like_count": 11786,
+          "listed_count": 0,
+          "media_count": 374,
+          "tweet_count": 2756
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-23T12:11:51.000Z",
+        "description": "0️⃣🌈｜未成年 韓留中 ｜❤️鏡音レン ｜文案不全真實 R16❗️ lxfs🚪50",
+        "id": "1804849792121499648",
+        "location": "고려대학교",
+        "name": "阿莫Amoris🇹🇼🏳️‍🌈🇰🇷🇨🇳",
+        "pinned_tweet_id": "1993492458463019226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987930366330761216/H76N-a-k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4217,
+          "following_count": 314,
+          "like_count": 25004,
+          "listed_count": 6,
+          "media_count": 69,
+          "tweet_count": 2820
+        },
+        "username": "OnlyLenKagamine",
+        "verified": false
+      }
+    ]
+  }
+}

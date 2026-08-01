@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022825196626022401"
+      ],
+      "media_source_tweet_id": [
+        "2022825203890278757"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+          "id": "847546154439000064",
+          "name": "Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1188908088570470400",
+          "name": "School entrance exams"
+        }
+      }
+    ],
+    "conversation_id": "2026707533973393541",
+    "created_at": "2026-02-25T17:15:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T18:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026707533973393541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1380490984673353734",
+          "start": 3,
+          "username": "nyahapi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pbcK9bCBXH",
+          "end": 97,
+          "expanded_url": "https://x.com/nyahapi/status/2022825203890278757/photo/1",
+          "media_key": "3_2022825196626022401",
+          "start": 74,
+          "url": "https://t.co/pbcK9bCBXH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026707533973393541",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1065
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022825203890278757",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyahapi: 受かれば大学生、落ちれば浪人生引退。\n\n今日が人生最後の大学受験！！！！！！\n\n絶対見せるぞ、9浪大逆転合格！！！！！！ https://t.co/pbcK9bCBXH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1592,
+        "media_key": "3_2022825196626022401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBKEzIeakAEHdYI.jpg",
+        "width": 1916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022825196626022401"
+          ],
+          "media_source_tweet_id": [
+            "2022825203890278757"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+              "id": "847546154439000064",
+              "name": "Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1188908088570470400",
+              "name": "School entrance exams"
+            }
+          }
+        ],
+        "conversation_id": "2026707533973393541",
+        "created_at": "2026-02-25T17:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T18:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026707533973393541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1380490984673353734",
+              "start": 3,
+              "username": "nyahapi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pbcK9bCBXH",
+              "end": 97,
+              "expanded_url": "https://x.com/nyahapi/status/2022825203890278757/photo/1",
+              "media_key": "3_2022825196626022401",
+              "start": 74,
+              "url": "https://t.co/pbcK9bCBXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026707533973393541",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1065
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022825203890278757",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyahapi: 受かれば大学生、落ちれば浪人生引退。\n\n今日が人生最後の大学受験！！！！！！\n\n絶対見せるぞ、9浪大逆転合格！！！！！！ https://t.co/pbcK9bCBXH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022825196626022401"
+          ]
+        },
+        "author_id": "1380490984673353734",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+              "id": "847546154439000064",
+              "name": "Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1188908088570470400",
+              "name": "School entrance exams"
+            }
+          }
+        ],
+        "conversation_id": "2022825203890278757",
+        "created_at": "2026-02-15T00:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T01:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022825203890278757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pbcK9bCBXH",
+              "end": 84,
+              "expanded_url": "https://x.com/nyahapi/status/2022825203890278757/photo/1",
+              "media_key": "3_2022825196626022401",
+              "start": 61,
+              "url": "https://t.co/pbcK9bCBXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022825203890278757",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2164,
+          "impression_count": 5200652,
+          "like_count": 35125,
+          "quote_count": 703,
+          "reply_count": 878,
+          "retweet_count": 1065
+        },
+        "reply_settings": "everyone",
+        "text": "受かれば大学生、落ちれば浪人生引退。\n\n今日が人生最後の大学受験！！！！！！\n\n絶対見せるぞ、9浪大逆転合格！！！！！！ https://t.co/pbcK9bCBXH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 137,
+          "like_count": 22203,
+          "listed_count": 2,
+          "media_count": 630,
+          "tweet_count": 5460
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-09T12:01:23.000Z",
+        "description": "七転八倒で終わらせない",
+        "id": "1380490984673353734",
+        "name": "幸ちぇる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881344444773085184/iDoiCtLy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55094,
+          "following_count": 585,
+          "like_count": 8709,
+          "listed_count": 84,
+          "media_count": 131,
+          "tweet_count": 2048
+        },
+        "username": "nyahapi",
+        "verified": false
+      }
+    ]
+  }
+}

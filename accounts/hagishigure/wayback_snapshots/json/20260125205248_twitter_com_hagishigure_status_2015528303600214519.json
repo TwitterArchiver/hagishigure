@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2015528303600214519",
+    "created_at": "2026-01-25T20:52:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T21:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015528303600214519"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/abskoop/status…",
+          "end": 137,
+          "expanded_url": "https://twitter.com/abskoop/status/2015494254735614208",
+          "start": 114,
+          "url": "https://t.co/nUXoAZYUEv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015528303600214519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015494254735614208",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎喲喂你們怎麼玩我們女權早在四個月前罵過的東西喲。\n又在假裝獨立思考了啊，休息會吧，你的腦子不太會運轉MIPS這種系統，你的腦子祇有單射連最基礎的齊次浮點運算都不具備。\n家庭等於自己獨立擁有的能力啊又在幻想自己當主角了啊親親。 https://t.co/nUXoAZYUEv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2362,
+        "media_key": "3_2015494243343872000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_h5VfVbMAASbPw.jpg",
+        "width": 1259
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2015528303600214519",
+        "created_at": "2026-01-25T20:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T21:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015528303600214519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/abskoop/status…",
+              "end": 137,
+              "expanded_url": "https://twitter.com/abskoop/status/2015494254735614208",
+              "start": 114,
+              "url": "https://t.co/nUXoAZYUEv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015528303600214519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015494254735614208",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎喲喂你們怎麼玩我們女權早在四個月前罵過的東西喲。\n又在假裝獨立思考了啊，休息會吧，你的腦子不太會運轉MIPS這種系統，你的腦子祇有單射連最基礎的齊次浮點運算都不具備。\n家庭等於自己獨立擁有的能力啊又在幻想自己當主角了啊親親。 https://t.co/nUXoAZYUEv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015494243343872000"
+          ]
+        },
+        "author_id": "2262723812",
+        "conversation_id": "2015494254735614208",
+        "created_at": "2026-01-25T18:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T19:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015494254735614208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wuDflq4DQJ",
+              "end": 65,
+              "expanded_url": "https://x.com/abskoop/status/2015494254735614208/photo/1",
+              "media_key": "3_2015494243343872000",
+              "start": 42,
+              "url": "https://t.co/wuDflq4DQJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015494254735614208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 22687,
+          "like_count": 156,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "自己要先有独自拥有的能力🫡\n\n才配得上别人给你\n\n别人凭什么为你原生家庭的遗憾买单 https://t.co/wuDflq4DQJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 125,
+          "like_count": 16347,
+          "listed_count": 0,
+          "media_count": 446,
+          "tweet_count": 3803
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-26T11:26:41.000Z",
+        "description": "❤️🫶🫰😘💕 探索互联网的宝藏工具与资源！从AI到日常小技巧~ 投稿请DM ｜🔔TG频道订阅更新:https://t.co/OmSvNms9yl ｜小号:@ahhhhfs ｜链接打不开用Chrome浏览器😎 #AI #Tech #Tools #InternetTools #Learning",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 107,
+                "start": 104,
+                "tag": "AI"
+              },
+              {
+                "end": 113,
+                "start": 108,
+                "tag": "Tech"
+              },
+              {
+                "end": 120,
+                "start": 114,
+                "tag": "Tools"
+              },
+              {
+                "end": 135,
+                "start": 121,
+                "tag": "InternetTools"
+              },
+              {
+                "end": 145,
+                "start": 136,
+                "tag": "Learning"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 85,
+                "start": 77,
+                "username": "ahhhhfs"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/abskoop",
+                "end": 72,
+                "expanded_url": "http://t.me/abskoop",
+                "start": 49,
+                "url": "https://t.co/OmSvNms9yl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dizhi.abskoop.com",
+                "end": 23,
+                "expanded_url": "https://dizhi.abskoop.com/",
+                "start": 0,
+                "url": "https://t.co/cidh0H49OY"
+              }
+            ]
+          }
+        },
+        "id": "2262723812",
+        "location": "有空翻翻👉",
+        "name": "ahhhhfs",
+        "pinned_tweet_id": "1864977466198257739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1429676617329119233/C_U_KwBv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741245,
+          "following_count": 1203,
+          "like_count": 26094,
+          "listed_count": 2668,
+          "media_count": 23419,
+          "tweet_count": 60189
+        },
+        "url": "https://t.co/cidh0H49OY",
+        "username": "abskoop",
+        "verified": true
+      }
+    ]
+  }
+}

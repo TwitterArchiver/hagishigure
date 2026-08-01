@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2023956315479974010",
+    "created_at": "2026-02-18T03:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T04:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023956315479974010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424779836938022913",
+          "start": 3,
+          "username": "amber_toffee"
+        },
+        {
+          "end": 30,
+          "id": "1887069376031182848",
+          "start": 18,
+          "username": "Mirro_zinuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023956315479974010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023944115575001097",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_toffee: @Mirro_zinuo 不可以 至少会给我造成很多伤害 不许死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2023956315479974010",
+        "created_at": "2026-02-18T03:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T04:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023956315479974010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424779836938022913",
+              "start": 3,
+              "username": "amber_toffee"
+            },
+            {
+              "end": 30,
+              "id": "1887069376031182848",
+              "start": 18,
+              "username": "Mirro_zinuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023956315479974010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023944115575001097",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_toffee: @Mirro_zinuo 不可以 至少会给我造成很多伤害 不许死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "2023942291757363477",
+        "created_at": "2026-02-18T02:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T03:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023944115575001097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1887069376031182848",
+              "start": 0,
+              "username": "Mirro_zinuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023944115575001097",
+        "in_reply_to_user_id": "1887069376031182848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023942291757363477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mirro_zinuo 不可以 至少会给我造成很多伤害 不许死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 131,
+          "like_count": 20192,
+          "listed_count": 0,
+          "media_count": 574,
+          "tweet_count": 4892
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "𝑝ℎ𝑑 @wgsi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "☭ 🏳️‍⚧️",
+        "name": "amber",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22099,
+          "following_count": 2582,
+          "like_count": 36301,
+          "listed_count": 6,
+          "media_count": 448,
+          "tweet_count": 19071
+        },
+        "username": "amber_toffee",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-05T09:23:14.000Z",
+        "description": "糯老師正在復活中… /愛種哈密瓜/舊號@fugu_JUN/以前叫源菌/05年老阿姨離異帶倆娃/MtF/hrt 2019/退役oier退役地偶/占卜神秘學🔮/日常發瘋/想要被世界喜歡/對異性戀我是不贊成也不反對的/焦慮型依戀/❤️@xiaofang23333",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "fugu_JUN"
+              },
+              {
+                "end": 128,
+                "start": 114,
+                "username": "xiaofang23333"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "substack.com/@zinuo?r=5e6x2…",
+                "end": 23,
+                "expanded_url": "https://substack.com/@zinuo?r=5e6x26&utm_medium=ios&utm_source=profile",
+                "start": 0,
+                "url": "https://t.co/4qmIGbYeNa"
+              }
+            ]
+          }
+        },
+        "id": "1887069376031182848",
+        "location": "@TheSparkRainbow",
+        "name": "梓糯🏳️‍⚧️🇹🇼🇨🇦",
+        "pinned_tweet_id": "1961844598973567241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887069534986924032/_g2-66nA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1299,
+          "following_count": 204,
+          "like_count": 3770,
+          "listed_count": 8,
+          "media_count": 251,
+          "tweet_count": 1418
+        },
+        "url": "https://t.co/4qmIGbYeNa",
+        "username": "Mirro_zinuo",
+        "verified": true
+      }
+    ]
+  }
+}

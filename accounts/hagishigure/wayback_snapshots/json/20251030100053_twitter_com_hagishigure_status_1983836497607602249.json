@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1983836497607602249",
+    "created_at": "2025-10-30T10:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T11:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983836497607602249"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vru8JvwdzpO909…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/vru8JvwdzpO909i/status/1983419285663035900",
+          "start": 45,
+          "url": "https://t.co/eb8B1F49MZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983836497607602249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983419285663035900",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你又來國內合法了。你告訴我「日雌」為什麼叫「日雌」。\n連常識都沒學好還是少發推特多看書。 https://t.co/eb8B1F49MZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1983836497607602249",
+        "created_at": "2025-10-30T10:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T11:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983836497607602249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vru8JvwdzpO909…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/vru8JvwdzpO909i/status/1983419285663035900",
+              "start": 45,
+              "url": "https://t.co/eb8B1F49MZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983836497607602249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983419285663035900",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你又來國內合法了。你告訴我「日雌」為什麼叫「日雌」。\n連常識都沒學好還是少發推特多看書。 https://t.co/eb8B1F49MZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1261051528061861888",
+        "conversation_id": "1983333566168916251",
+        "created_at": "2025-10-29T06:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T07:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983419285663035900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "708700717",
+              "start": 0,
+              "username": "GuajavaDuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983419285663035900",
+        "in_reply_to_user_id": "708700717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4574,
+          "like_count": 11,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983333566168916251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuajavaDuo 国内合法的日雌是不允许私人注射的，医疗场所凭处方一针扎完给你放走，不会带走的，所以下次遇到这种非法注射药物跳脸的直接报警注射危险药物没错的🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 100,
+          "like_count": 6399,
+          "listed_count": 0,
+          "media_count": 217,
+          "tweet_count": 1348
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-14T21:51:38.000Z",
+        "description": "累了，随缘营业吧，看缘分🇮🇹",
+        "id": "1261051528061861888",
+        "name": "色即是空 我就是空",
+        "pinned_tweet_id": "1607343017882533888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1327997823741284353/KdS22KIm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 217,
+          "like_count": 4731,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 849
+        },
+        "username": "vru8JvwdzpO909i",
+        "verified": false
+      }
+    ]
+  }
+}

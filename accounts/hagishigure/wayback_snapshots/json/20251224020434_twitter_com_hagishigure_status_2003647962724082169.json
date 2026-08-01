@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2003647962724082169",
+    "created_at": "2025-12-24T02:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T03:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003647962724082169"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ityouknows/sta…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/ityouknows/status/2003413878584353155",
+          "start": 80,
+          "url": "https://t.co/HRyVeTK1fn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003647962724082169",
+    "lang": "it",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003413878584353155",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "順手點个舉報。Se non sei un articolo scritto dall'IA, allora sei naturalmente stupido. https://t.co/HRyVeTK1fn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 822,
+        "media_key": "3_2003410300083838976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G82LDavbIAAUFRU.jpg",
+        "width": 1947
+      },
+      {
+        "height": 1162,
+        "media_key": "3_2003411110561738752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G82LymAacAAyyHm.png",
+        "width": 765
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2003647962724082169",
+        "created_at": "2025-12-24T02:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T03:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003647962724082169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ityouknows/sta…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/ityouknows/status/2003413878584353155",
+              "start": 80,
+              "url": "https://t.co/HRyVeTK1fn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003647962724082169",
+        "lang": "it",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003413878584353155",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "順手點个舉報。Se non sei un articolo scritto dall'IA, allora sei naturalmente stupido. https://t.co/HRyVeTK1fn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003410300083838976",
+            "3_2003411110561738752"
+          ]
+        },
+        "author_id": "873079938",
+        "conversation_id": "2003413878584353155",
+        "created_at": "2025-12-23T10:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T11:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003413878584353155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BwSkJ8yljx",
+              "end": 193,
+              "expanded_url": "https://x.com/ityouknows/status/2003413878584353155/photo/1",
+              "media_key": "3_2003410300083838976",
+              "start": 170,
+              "url": "https://t.co/BwSkJ8yljx"
+            },
+            {
+              "display_url": "pic.x.com/BwSkJ8yljx",
+              "end": 193,
+              "expanded_url": "https://x.com/ityouknows/status/2003413878584353155/photo/1",
+              "media_key": "3_2003411110561738752",
+              "start": 170,
+              "url": "https://t.co/BwSkJ8yljx"
+            },
+            {
+              "display_url": "x.com/ityouknows/sta…",
+              "end": 217,
+              "expanded_url": "https://twitter.com/ityouknows/status/1997218688530108695",
+              "start": 194,
+              "url": "https://t.co/GKjQrgr7HT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003413878584353155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "别再傻傻骗赞了！马斯克早就把 X 的推荐代码开源了。扒完代码才发现，在这个算法里，“点赞”就是弟中弟。\n\n官方权重表直接贴给你们，看懂的流量都已经起飞了：\n\n👍 点赞 (Like)：0.5 分（基本没用） \n🔁 转发 (RT)：1.0 分\n👀 点进详情页停留 2 分钟：10.0 分（完读率很贵） \n💬 直接回复 (Reply)：13.5 分（比点赞强 27 倍！） \n🔥 回复后，作者回复你：75.0 分（这才是核武器！！）\n\n⚠️ 高能预警：被拉黑/点不感兴趣：-74 分被举报：-369 分（直接进小黑屋）\n\n结论非常残忍：一条 100 赞 0 评论的帖子，权重可能不如一条 5 个赞但有 2 个人在评论区吵架的帖子。\n\n想做爆款？记住这 3 条铁律：\n\n1、必须以此引起讨论（哪怕是让人想反驳）。\n2、必须回复评论（那是 75 分的加成，不是礼貌，是流量！）。\n3、把帖子写长一点/做成 Thread（骗停留时长）。\n\n最后一句话：想在 X 上爆，不要只求“赞”，要设计“停留 + 回复 + 来回对话”。\n\n算法喜欢的不是你多会写，而是你能不能让人“参与”。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 676,
+          "impression_count": 84218,
+          "like_count": 559,
+          "quote_count": 23,
+          "reply_count": 62,
+          "retweet_count": 114
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997218688530108695",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别再傻傻骗赞了！马斯克早就把 X 的推荐代码开源了。扒完代码才发现，在这个算法里，“点赞”就是弟中弟。\n\n官方权重表直接贴给你们，看懂的流量都已经起飞了：\n\n👍 点赞 (Like)：0.5 分（基本没用） \n🔁 转发 (RT)：1.0 分\n👀 点进详情页停留 2 分钟：10.0 分（完读率很贵） \n💬 直接回复 (Reply)：13.5 https://t.co/BwSkJ8yljx https://t.co/GKjQrgr7HT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 117,
+          "like_count": 13610,
+          "listed_count": 0,
+          "media_count": 390,
+          "tweet_count": 3180
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-11T06:03:59.000Z",
+        "description": "公众号/知乎【纯洁的微笑】作者，前百人研发总监。6 年自媒体创业、3 年 AI 创业跑通 3 个百万级项目。正在 All in AI+出海+Web3，专门研究普通人如何搞到第一桶 100 万。欢迎链接V puresmilex",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cxy521.com",
+                "end": 23,
+                "expanded_url": "http://www.cxy521.com",
+                "start": 0,
+                "url": "https://t.co/PgPHNyP8oI"
+              }
+            ]
+          }
+        },
+        "id": "873079938",
+        "location": "西安",
+        "name": "纯洁的微笑",
+        "pinned_tweet_id": "1983715633549472008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990613489950601223/etnSg9je_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10886,
+          "following_count": 1944,
+          "like_count": 514,
+          "listed_count": 47,
+          "media_count": 130,
+          "tweet_count": 1483
+        },
+        "url": "https://t.co/PgPHNyP8oI",
+        "username": "ityouknows",
+        "verified": true
+      }
+    ]
+  }
+}

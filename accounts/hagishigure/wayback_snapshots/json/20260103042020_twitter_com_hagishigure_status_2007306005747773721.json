@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007305997501771780"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "2007306005747773721",
+    "created_at": "2026-01-03T04:20:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T05:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007306005747773721"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5zp4ZNFf8k",
+          "end": 48,
+          "expanded_url": "https://x.com/hagishigure/status/2007306005747773721/photo/1",
+          "media_key": "3_2007305997501771780",
+          "start": 25,
+          "url": "https://t.co/5zp4ZNFf8k"
+        },
+        {
+          "display_url": "x.com/0xsakura666/st…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/0xsakura666/status/2007069981071258011",
+          "start": 49,
+          "url": "https://t.co/t7qRnuoBxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007306005747773721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007069981071258011",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感谢灵感。我把塔罗也用上了，用来预测黑天鹅事件。 https://t.co/5zp4ZNFf8k https://t.co/t7qRnuoBxu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2137,
+        "media_key": "3_2007305997501771780",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9tiK2iasAQgv3F.jpg",
+        "width": 1279
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2007069968463253504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9qLgJ2bUAABRAv.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2007069968467464192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9qLgJ3bkAAo2st.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007305997501771780"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "2007306005747773721",
+        "created_at": "2026-01-03T04:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T05:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007306005747773721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5zp4ZNFf8k",
+              "end": 48,
+              "expanded_url": "https://x.com/hagishigure/status/2007306005747773721/photo/1",
+              "media_key": "3_2007305997501771780",
+              "start": 25,
+              "url": "https://t.co/5zp4ZNFf8k"
+            },
+            {
+              "display_url": "x.com/0xsakura666/st…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/0xsakura666/status/2007069981071258011",
+              "start": 49,
+              "url": "https://t.co/t7qRnuoBxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007306005747773721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007069981071258011",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感谢灵感。我把塔罗也用上了，用来预测黑天鹅事件。 https://t.co/5zp4ZNFf8k https://t.co/t7qRnuoBxu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007069968463253504",
+            "3_2007069968467464192"
+          ]
+        },
+        "author_id": "1877637819310739456",
+        "conversation_id": "2007069981071258011",
+        "created_at": "2026-01-02T12:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T13:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007069981071258011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A80prr2hP2",
+              "end": 171,
+              "expanded_url": "https://x.com/0xsakura666/status/2007069981071258011/photo/1",
+              "media_key": "3_2007069968463253504",
+              "start": 148,
+              "url": "https://t.co/A80prr2hP2"
+            },
+            {
+              "display_url": "pic.x.com/A80prr2hP2",
+              "end": 171,
+              "expanded_url": "https://x.com/0xsakura666/status/2007069981071258011/photo/1",
+              "media_key": "3_2007069968467464192",
+              "start": 148,
+              "url": "https://t.co/A80prr2hP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007069981071258011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "lifekline.cn",
+                "end": 232,
+                "expanded_url": "http://lifekline.cn",
+                "start": 209,
+                "url": "https://t.co/5EMJN5XPp2"
+              }
+            ]
+          },
+          "text": "刚刚看到《光明日报》报道了“人生K线”\n\n第一次看到“玄学命理”的正面文章能上到这种国家级的媒体，好像此前的印象都是打压“封建迷信”，这次玄学乘上了AI时代的快车，终于有越来越多的人能够理解了。\n\n感谢党和国家的认可，也许这次“人生K线”不只是小小玩一下，玄学命理或将成为普遍的心理需求。人生K 线的核心价值在于将玄乎复杂的命理文字，转换成人人都能看懂的语言，给予人们正向的心理指导。\n\n请大家认准“人生K线”官方网站https://t.co/5EMJN5XPp2 你们的支持就是我们更新的动力！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 33685,
+          "like_count": 166,
+          "quote_count": 4,
+          "reply_count": 21,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚看到《光明日报》报道了“人生K线”\n\n第一次看到“玄学命理”的正面文章能上到这种国家级的媒体，好像此前的印象都是打压“封建迷信”，这次玄学乘上了AI时代的快车，终于有越来越多的人能够理解了。\n\n感谢党和国家的认可，也许这次“人生K线”不只是小小玩一下，玄学命理或将成为普遍的心理需求。人生K https://t.co/A80prr2hP2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 119,
+          "like_count": 14260,
+          "listed_count": 0,
+          "media_count": 400,
+          "tweet_count": 3299
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T08:45:29.000Z",
+        "description": "build人生K线 @chartlife_ai ，官网 https://t.co/IYgAUtjlFV \n💪ALL in #WEB3 | #玄学 | \n🌸链上ALPHA/玄学命理/交易/Vibe Coding",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 66,
+                "start": 61,
+                "tag": "WEB3"
+              },
+              {
+                "end": 72,
+                "start": 69,
+                "tag": "玄学"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "chartlife_ai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lifekline.cn",
+                "end": 51,
+                "expanded_url": "https://lifekline.cn/",
+                "start": 28,
+                "url": "https://t.co/IYgAUtjlFV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/0xsakura",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/0xsakura",
+                "start": 0,
+                "url": "https://t.co/Dkmpzvy0RN"
+              }
+            ]
+          }
+        },
+        "id": "1877637819310739456",
+        "location": "频道/联系方式👉",
+        "name": "0xSakura樱花🌸",
+        "pinned_tweet_id": "2007069981071258011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932882954671529985/DaoQDXDu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14106,
+          "following_count": 1292,
+          "like_count": 2837,
+          "listed_count": 78,
+          "media_count": 499,
+          "tweet_count": 2351
+        },
+        "url": "https://t.co/Dkmpzvy0RN",
+        "username": "0xsakura666",
+        "verified": true
+      }
+    ]
+  }
+}

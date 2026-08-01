@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978821853428043776"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1978821864077103545",
+    "created_at": "2025-10-16T13:54:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T14:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978821864077103545"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/O4lqsPQuju",
+          "end": 28,
+          "expanded_url": "https://x.com/hagishigure/status/1978821864077103545/photo/1",
+          "media_key": "3_1978821853428043776",
+          "start": 5,
+          "url": "https://t.co/O4lqsPQuju"
+        },
+        {
+          "display_url": "x.com/N_N_DPT/status…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/N_N_DPT/status/1978745177058517431",
+          "start": 29,
+          "url": "https://t.co/2YXN1xKPJp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978821864077103545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978745177058517431",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "浪費錢。 https://t.co/O4lqsPQuju https://t.co/2YXN1xKPJp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 668,
+        "media_key": "3_1978821853428043776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Yv_c9b0AAr8jl.jpg",
+        "width": 934
+      },
+      {
+        "height": 908,
+        "media_key": "3_1978745169441964032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3XqP22bwAALHbk.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978821853428043776"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1978821864077103545",
+        "created_at": "2025-10-16T13:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T14:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978821864077103545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O4lqsPQuju",
+              "end": 28,
+              "expanded_url": "https://x.com/hagishigure/status/1978821864077103545/photo/1",
+              "media_key": "3_1978821853428043776",
+              "start": 5,
+              "url": "https://t.co/O4lqsPQuju"
+            },
+            {
+              "display_url": "x.com/N_N_DPT/status…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/N_N_DPT/status/1978745177058517431",
+              "start": 29,
+              "url": "https://t.co/2YXN1xKPJp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978821864077103545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978745177058517431",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "浪費錢。 https://t.co/O4lqsPQuju https://t.co/2YXN1xKPJp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978745169441964032"
+          ]
+        },
+        "author_id": "522147771",
+        "conversation_id": "1978745177058517431",
+        "created_at": "2025-10-16T08:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T09:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978745177058517431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yx18MUqSLc",
+              "end": 28,
+              "expanded_url": "https://x.com/N_N_DPT/status/1978745177058517431/photo/1",
+              "media_key": "3_1978745169441964032",
+              "start": 5,
+              "url": "https://t.co/yx18MUqSLc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978745177058517431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1161,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以买了 https://t.co/yx18MUqSLc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 91,
+          "like_count": 3745,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 602
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2012-03-12T10:46:19.000Z",
+        "description": "药物科普:https://t.co/pYOLeaidWM\n博客：https://t.co/KtrQvROgFR\ngalgame资源站：https://t.co/WlcdxebtRf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 28,
+                "expanded_url": "https://www.overdose.day",
+                "start": 5,
+                "url": "https://t.co/pYOLeaidWM"
+              },
+              {
+                "display_url": "blog.pr80.bid",
+                "end": 55,
+                "expanded_url": "https://blog.pr80.bid",
+                "start": 32,
+                "url": "https://t.co/KtrQvROgFR"
+              },
+              {
+                "display_url": "pr80.bid",
+                "end": 90,
+                "expanded_url": "https://www.pr80.bid/",
+                "start": 67,
+                "url": "https://t.co/WlcdxebtRf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day/",
+                "start": 0,
+                "url": "https://t.co/c6WOvYAeM8"
+              }
+            ]
+          }
+        },
+        "id": "522147771",
+        "location": "天国",
+        "name": "N,N-二丙基色胺🔯",
+        "pinned_tweet_id": "1966707693030408507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951933777049165825/lU5YAFYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1999,
+          "following_count": 2421,
+          "like_count": 828,
+          "listed_count": 5,
+          "media_count": 181,
+          "tweet_count": 1339
+        },
+        "url": "https://t.co/c6WOvYAeM8",
+        "username": "N_N_DPT",
+        "verified": false
+      }
+    ]
+  }
+}

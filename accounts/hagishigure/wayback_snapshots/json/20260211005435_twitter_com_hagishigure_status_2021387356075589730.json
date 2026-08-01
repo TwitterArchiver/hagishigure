@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Dads",
+          "id": "847545883637891072",
+          "name": "Fatherhood"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Dads",
+          "id": "847545883637891072",
+          "name": "Fatherhood"
+        }
+      }
+    ],
+    "conversation_id": "2021387356075589730",
+    "created_at": "2026-02-11T00:54:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T01:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021387356075589730"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_toffee/s…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/amber_toffee/status/2021386250050040229",
+          "start": 41,
+          "url": "https://t.co/6RtxZU19mv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021387356075589730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021386250050040229",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "水母找到了其他海洋生物，也许其他52hz的频率。\n我得到了一瓶水母酱。皆大欢喜。 https://t.co/6RtxZU19mv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 414,
+        "media_key": "3_2021385673438265346",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA1nj2taAAIaF_F.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "2021387356075589730",
+        "created_at": "2026-02-11T00:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T01:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021387356075589730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/amber_toffee/status/2021386250050040229",
+              "start": 41,
+              "url": "https://t.co/6RtxZU19mv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021387356075589730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021386250050040229",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "水母找到了其他海洋生物，也许其他52hz的频率。\n我得到了一瓶水母酱。皆大欢喜。 https://t.co/6RtxZU19mv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021385673438265346"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "2021386250050040229",
+        "created_at": "2026-02-11T00:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T01:47:55.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021385677150044659",
+          "2021386250050040229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k373kFsoDp",
+              "end": 118,
+              "expanded_url": "https://x.com/amber_toffee/status/2021386250050040229/photo/1",
+              "media_key": "3_2021385673438265346",
+              "start": 95,
+              "url": "https://t.co/k373kFsoDp"
+            },
+            {
+              "display_url": "x.com/nliesbeneath/s…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/nliesbeneath/status/2021365338827526425",
+              "start": 119,
+              "url": "https://t.co/YlYhtwqAnk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021386250050040229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021365338827526425",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "作为男性和跨女群体的双重叛徒，from one traitor to another：谢谢你的勇气，欢迎你。愿一直以来滋养着我（们）的那份恨意，也给予你灭绝母父、再造肉身、毁灭世界的力量。 https://t.co/k373kFsoDp https://t.co/YlYhtwqAnk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 130,
+          "like_count": 19273,
+          "listed_count": 0,
+          "media_count": 557,
+          "tweet_count": 4584
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "☭",
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20279,
+          "following_count": 2562,
+          "like_count": 35922,
+          "listed_count": 0,
+          "media_count": 425,
+          "tweet_count": 18664
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

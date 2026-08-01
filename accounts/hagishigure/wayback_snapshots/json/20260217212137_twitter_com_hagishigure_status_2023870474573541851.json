@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2023870474573541851",
+    "created_at": "2026-02-17T21:21:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T22:21:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023870474573541851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1567630557495926785",
+          "start": 3,
+          "username": "Wrath_of_Violet"
+        },
+        {
+          "end": 35,
+          "id": "1893628742401929216",
+          "start": 21,
+          "username": "Jelly_shotgun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023870474573541851",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023785024097489028",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Wrath_of_Violet: @Jelly_shotgun yeah we have tens of tv shows about cheating and abuse but me being a little gay with it is going to de…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2023870474573541851",
+        "created_at": "2026-02-17T21:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T22:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023870474573541851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1567630557495926785",
+              "start": 3,
+              "username": "Wrath_of_Violet"
+            },
+            {
+              "end": 35,
+              "id": "1893628742401929216",
+              "start": 21,
+              "username": "Jelly_shotgun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023870474573541851",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023785024097489028",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Wrath_of_Violet: @Jelly_shotgun yeah we have tens of tv shows about cheating and abuse but me being a little gay with it is going to de…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567630557495926785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2023764322896490752",
+        "created_at": "2026-02-17T15:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T16:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023785024097489028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1893628742401929216",
+              "start": 0,
+              "username": "Jelly_shotgun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023785024097489028",
+        "in_reply_to_user_id": "1893628742401929216",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1457,
+          "like_count": 87,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023764322896490752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jelly_shotgun yeah we have tens of tv shows about cheating and abuse but me being a little gay with it is going to demolish family values thanks t.c."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 130,
+          "like_count": 20130,
+          "listed_count": 0,
+          "media_count": 574,
+          "tweet_count": 4872
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-07T21:47:27.000Z",
+        "description": "Hey so can I be Mizuki's big sis so I can protect her and we can wear cute dresses together and and\n\n(Minors DNI When NSFW pls)",
+        "id": "1567630557495926785",
+        "name": "Yaren",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844461435973156875/46bSo9_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 671,
+          "like_count": 164591,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 303
+        },
+        "username": "Wrath_of_Violet",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T11:48:07.000Z",
+        "description": "˚˖𓍢ִ໋ 🌊 Daily account for #Carlotta and #Cantarella from #WutheringWaves ⌞ ⌝ #鳴潮  ଳ𓂃 ⤷ AI not supported ˎˊ˗ 🌈",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 26,
+                "tag": "Carlotta"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "tag": "Cantarella"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "tag": "WutheringWaves"
+              },
+              {
+                "end": 80,
+                "start": 77,
+                "tag": "鳴潮"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "daily-cantalotta.straw.page",
+                "end": 23,
+                "expanded_url": "https://daily-cantalotta.straw.page",
+                "start": 0,
+                "url": "https://t.co/9IJuOFXmPP"
+              }
+            ]
+          }
+        },
+        "id": "1893628742401929216",
+        "location": "Scissorscita • she/they",
+        "name": "Daily Cantalotta🪼💎",
+        "pinned_tweet_id": "1928909860134912258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006113526423736320/hpMNaeYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2189,
+          "following_count": 204,
+          "like_count": 7942,
+          "listed_count": 4,
+          "media_count": 1149,
+          "tweet_count": 2981
+        },
+        "url": "https://t.co/9IJuOFXmPP",
+        "username": "Jelly_shotgun",
+        "verified": false
+      }
+    ]
+  }
+}

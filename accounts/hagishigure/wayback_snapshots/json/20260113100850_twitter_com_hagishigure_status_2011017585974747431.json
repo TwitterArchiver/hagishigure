@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2010936931241320531",
+    "created_at": "2026-01-13T10:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T11:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011017585974747431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1992300667395092480",
+          "start": 0,
+          "username": "Albert_C_Anker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011017585974747431",
+    "in_reply_to_user_id": "1992300667395092480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010936931241320531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Albert_C_Anker 看了几眼，怎么又有人喜欢刷题，在看了看id，哦柏树，那喜欢刷题很正常了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 797,
+        "media_key": "3_2010936922211028992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-hIefIbEAAyQJe.jpg",
+        "width": 1079
+      },
+      {
+        "height": 851,
+        "media_key": "3_2010936922223620096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-hIefLbMAAyoAH.jpg",
+        "width": 1080
+      },
+      {
+        "height": 689,
+        "media_key": "3_2010936922563362817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-hIegcbQAEuyyN.jpg",
+        "width": 1080
+      },
+      {
+        "height": 842,
+        "media_key": "3_2010936923402194944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-hIejka0AAdVOk.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2010936931241320531",
+        "created_at": "2026-01-13T10:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T11:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011017585974747431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992300667395092480",
+              "start": 0,
+              "username": "Albert_C_Anker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011017585974747431",
+        "in_reply_to_user_id": "1992300667395092480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010936931241320531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Albert_C_Anker 看了几眼，怎么又有人喜欢刷题，在看了看id，哦柏树，那喜欢刷题很正常了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010936922211028992",
+            "3_2010936922223620096",
+            "3_2010936922563362817",
+            "3_2010936923402194944"
+          ]
+        },
+        "author_id": "1992300667395092480",
+        "conversation_id": "2010936931241320531",
+        "created_at": "2026-01-13T04:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T05:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010936931241320531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "- 点击任意句子可以查看逐句解析 - 好奇还能测出哪些作家？请点击左上角'关于'查看 - 模型最新一次更新为6月17日，更新前后测试结果可能不一样 - 其他疑问？点上方'Q &A",
+              "display_url": "testurtext.us/success.html",
+              "end": 23,
+              "expanded_url": "https://testurtext.us/success.html",
+              "start": 0,
+              "status": 200,
+              "title": "文风测试",
+              "unwound_url": "https://testurtext.us/success.html",
+              "url": "https://t.co/mPCVKcmVgk"
+            },
+            {
+              "display_url": "pic.x.com/P5SyYG7Ceu",
+              "end": 64,
+              "expanded_url": "https://x.com/Albert_C_Anker/status/2010936931241320531/photo/1",
+              "media_key": "3_2010936922211028992",
+              "start": 41,
+              "url": "https://t.co/P5SyYG7Ceu"
+            },
+            {
+              "display_url": "pic.x.com/P5SyYG7Ceu",
+              "end": 64,
+              "expanded_url": "https://x.com/Albert_C_Anker/status/2010936931241320531/photo/1",
+              "media_key": "3_2010936922223620096",
+              "start": 41,
+              "url": "https://t.co/P5SyYG7Ceu"
+            },
+            {
+              "display_url": "pic.x.com/P5SyYG7Ceu",
+              "end": 64,
+              "expanded_url": "https://x.com/Albert_C_Anker/status/2010936931241320531/photo/1",
+              "media_key": "3_2010936922563362817",
+              "start": 41,
+              "url": "https://t.co/P5SyYG7Ceu"
+            },
+            {
+              "display_url": "pic.x.com/P5SyYG7Ceu",
+              "end": 64,
+              "expanded_url": "https://x.com/Albert_C_Anker/status/2010936931241320531/photo/1",
+              "media_key": "3_2010936923402194944",
+              "start": 41,
+              "url": "https://t.co/P5SyYG7Ceu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010936931241320531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 473,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mPCVKcmVgk\n虽然但是我是文盲真没看过多少名家 https://t.co/P5SyYG7Ceu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 119,
+          "like_count": 14979,
+          "listed_count": 0,
+          "media_count": 412,
+          "tweet_count": 3493
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T18:34:34.000Z",
+        "description": "怪话制造机|伪人日记本|情绪稳定的死人|默认友好基本无雷|INFJ sp/so5w6|分裂情感障碍&阿斯伯格人士|社交电量低|看我不爽建议去死|第二人格@theLostCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 76,
+                "username": "theLostCypress"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/BV1z4411Y7tX",
+                "end": 23,
+                "expanded_url": "https://b23.tv/BV1z4411Y7tX",
+                "start": 0,
+                "url": "https://t.co/xiOAWgwQyL"
+              }
+            ]
+          }
+        },
+        "id": "1992300667395092480",
+        "location": "Tromsø, Norway",
+        "name": "死人微活之阿尔伯特",
+        "pinned_tweet_id": "2008818911119311014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776473121787904/mYr6Flus_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 92,
+          "like_count": 467,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 141
+        },
+        "url": "https://t.co/xiOAWgwQyL",
+        "username": "Albert_C_Anker",
+        "verified": false
+      }
+    ]
+  }
+}

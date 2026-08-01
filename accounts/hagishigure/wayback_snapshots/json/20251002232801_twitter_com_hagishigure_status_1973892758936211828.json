@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973892752434999299"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1973607938192449765",
+    "created_at": "2025-10-02T23:28:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T00:28:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973892758936211828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1374034349700444161",
+          "start": 0,
+          "username": "pizyj"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z4zNBzBLLZ",
+          "end": 46,
+          "expanded_url": "https://x.com/hagishigure/status/1973892758936211828/photo/1",
+          "media_key": "3_1973892752434999299",
+          "start": 23,
+          "url": "https://t.co/Z4zNBzBLLZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973892758936211828",
+    "in_reply_to_user_id": "1374034349700444161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973607938192449765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pizyj 可是这是2026，是明年才对🥺 https://t.co/Z4zNBzBLLZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1973892752434999299",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2StAA2bMAMws_4.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1973607933352222720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Op9XFaIAA-aOD.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973892752434999299"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1973607938192449765",
+        "created_at": "2025-10-02T23:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T00:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973892758936211828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1374034349700444161",
+              "start": 0,
+              "username": "pizyj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z4zNBzBLLZ",
+              "end": 46,
+              "expanded_url": "https://x.com/hagishigure/status/1973892758936211828/photo/1",
+              "media_key": "3_1973892752434999299",
+              "start": 23,
+              "url": "https://t.co/Z4zNBzBLLZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973892758936211828",
+        "in_reply_to_user_id": "1374034349700444161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973607938192449765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pizyj 可是这是2026，是明年才对🥺 https://t.co/Z4zNBzBLLZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973607933352222720"
+          ]
+        },
+        "author_id": "1374034349700444161",
+        "conversation_id": "1973607938192449765",
+        "created_at": "2025-10-02T04:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T05:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973607938192449765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cXFa8YKHBV",
+              "end": 45,
+              "expanded_url": "https://x.com/pizyj/status/1973607938192449765/photo/1",
+              "media_key": "3_1973607933352222720",
+              "start": 22,
+              "url": "https://t.co/cXFa8YKHBV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973607938192449765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1201,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们知道吗\n今年除夕和我生日是同一天🥰🥰🥰 https://t.co/cXFa8YKHBV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n||宣誓人——🪼諾諾||🪼沒有標籤，也不需要定義自己||正因神愛世人，世人才予以神的敬稱||",
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 51,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 11
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-22T16:24:59.000Z",
+        "description": "什么猫？什么猫？猞猁猫？灵白猫？猫小白？是switch/sub/m，厌蠢，最喜欢体验新鲜东西。现在和@rollingcat0100住一起，刷新了一个主子@HzShibari86 ，一个大猫@NekomiyaKoharu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "rollingcat0100"
+              },
+              {
+                "end": 88,
+                "start": 76,
+                "username": "HzShibari86"
+              },
+              {
+                "end": 109,
+                "start": 94,
+                "username": "NekomiyaKoharu"
+              }
+            ]
+          }
+        },
+        "id": "1374034349700444161",
+        "location": "猫罐头",
+        "name": "喵小白叫灵白猫（不是狗）",
+        "pinned_tweet_id": "1887077652684824621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899500314749030403/grMD1iNl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61826,
+          "following_count": 5450,
+          "like_count": 43848,
+          "listed_count": 83,
+          "media_count": 9875,
+          "tweet_count": 54636
+        },
+        "username": "pizyj",
+        "verified": false
+      }
+    ]
+  }
+}

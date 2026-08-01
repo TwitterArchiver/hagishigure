@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1324117227465891840",
+          "name": "Japanese imperial family"
+        }
+      }
+    ],
+    "conversation_id": "2021301585956016286",
+    "created_at": "2026-02-10T19:13:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T20:13:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021301585956016286"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Granite77777/s…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/Granite77777/status/2021058262523838477",
+          "start": 34,
+          "url": "https://t.co/ymxpIgOCmP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021301585956016286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021058262523838477",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你怎么不谈谈中国四川的变脸表演呢😘。\n和查理柯克谈恋爱更适合你😘。 https://t.co/ymxpIgOCmP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43600,
+        "height": 1280,
+        "media_key": "13_2020941755185500160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020941755185500160/img/I1AAA8N-PscKavsT.jpg",
+        "public_metrics": {
+          "view_count": 407515
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020941755185500160/vid/avc1/320x568/hQkbXBDpyiMCT_8w.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020941755185500160/vid/avc1/480x852/EnPWq-0-hyt_gDl-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020941755185500160/vid/avc1/720x1280/xV8vVylLJZTRmKOf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020941755185500160/pl/CMwvv4_pot0LZF-z.m3u8?v=73f"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324117227465891840",
+              "name": "Japanese imperial family"
+            }
+          }
+        ],
+        "conversation_id": "2021301585956016286",
+        "created_at": "2026-02-10T19:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T20:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021301585956016286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Granite77777/s…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/Granite77777/status/2021058262523838477",
+              "start": 34,
+              "url": "https://t.co/ymxpIgOCmP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021301585956016286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021058262523838477",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你怎么不谈谈中国四川的变脸表演呢😘。\n和查理柯克谈恋爱更适合你😘。 https://t.co/ymxpIgOCmP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020941755185500160"
+          ],
+          "media_source_tweet_id": [
+            "2020941817806475559"
+          ]
+        },
+        "author_id": "1815745937010216960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324117227465891840",
+              "name": "Japanese imperial family"
+            }
+          }
+        ],
+        "conversation_id": "2021058262523838477",
+        "created_at": "2026-02-10T03:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T04:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021058262523838477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ECfd3CiUdM",
+              "end": 124,
+              "expanded_url": "https://x.com/iAnonPatriot/status/2020941817806475559/video/1",
+              "media_key": "13_2020941755185500160",
+              "start": 101,
+              "url": "https://t.co/ECfd3CiUdM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021058262523838477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 23822,
+          "like_count": 164,
+          "quote_count": 6,
+          "reply_count": 16,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "一个名叫Anna Molly的变装皇后（drag queen）要求亚利桑那州的议员们拒绝一项法案，该法案将把在未成年人面前进行变装表演定为重罪（felony）。\n\n这些人真恶心，我受够了这些怪胎。\n\n https://t.co/ECfd3CiUdM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 130,
+          "like_count": 19243,
+          "listed_count": 0,
+          "media_count": 557,
+          "tweet_count": 4571
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T13:49:30.000Z",
+        "description": "中共不灭，战斗不止！",
+        "id": "1815745937010216960",
+        "location": "New York, USA",
+        "name": "花岗岩³",
+        "pinned_tweet_id": "1845586081023983711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817187489351860224/08LGMoBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13788,
+          "following_count": 567,
+          "like_count": 44530,
+          "listed_count": 52,
+          "media_count": 24056,
+          "tweet_count": 58167
+        },
+        "username": "Granite77777",
+        "verified": true
+      }
+    ]
+  }
+}

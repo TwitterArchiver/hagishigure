@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1982683506036879859",
+    "created_at": "2025-10-27T05:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T06:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982683506036879859"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_toffee/s…",
+          "end": 141,
+          "expanded_url": "https://twitter.com/amber_toffee/status/1982299866614140969",
+          "start": 118,
+          "url": "https://t.co/OSxnGKxI1R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982683506036879859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982299866614140969",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我給一個選項3：沒有「罪」也不用「手術」「改證」也不用「回歸社會」。\n好了，現在選項一和二都不會有人選了。\n2選1本身就是在限制回答在自己預想的範圍之內，給出這種問題那必然是問這個問題的人的水平低劣無法接受有在自己選定範圍以外的答案。 https://t.co/OSxnGKxI1R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982299863220879360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4KLORGWAAA51Eq.jpg",
+        "width": 1114
+      },
+      {
+        "height": 667,
+        "media_key": "3_1982299863216701440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4KLORFWQAAaFDK.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1982683506036879859",
+        "created_at": "2025-10-27T05:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T06:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982683506036879859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/amber_toffee/status/1982299866614140969",
+              "start": 118,
+              "url": "https://t.co/OSxnGKxI1R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982683506036879859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982299866614140969",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我給一個選項3：沒有「罪」也不用「手術」「改證」也不用「回歸社會」。\n好了，現在選項一和二都不會有人選了。\n2選1本身就是在限制回答在自己預想的範圍之內，給出這種問題那必然是問這個問題的人的水平低劣無法接受有在自己選定範圍以外的答案。 https://t.co/OSxnGKxI1R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982299863220879360",
+            "3_1982299863216701440"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "conversation_id": "1982290337356738602",
+        "created_at": "2025-10-26T04:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T05:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982299866614140969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1870780665295474688",
+              "start": 0,
+              "username": "doraneko_rana"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AkJ6AnKpGL",
+              "end": 38,
+              "expanded_url": "https://x.com/amber_toffee/status/1982299866614140969/photo/1",
+              "media_key": "3_1982299863220879360",
+              "start": 15,
+              "url": "https://t.co/AkJ6AnKpGL"
+            },
+            {
+              "display_url": "pic.x.com/AkJ6AnKpGL",
+              "end": 38,
+              "expanded_url": "https://x.com/amber_toffee/status/1982299866614140969/photo/1",
+              "media_key": "3_1982299863216701440",
+              "start": 15,
+              "url": "https://t.co/AkJ6AnKpGL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982299866614140969",
+        "in_reply_to_user_id": "1870780665295474688",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 744,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982296175026872433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doraneko_rana https://t.co/AkJ6AnKpGL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 99,
+          "like_count": 5962,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 1198
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "ଳ ❤︎ @noaayoyaoaya / ☭ / mtf / intp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber🪼",
+        "pinned_tweet_id": "1946964550160355612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18439,
+          "following_count": 2367,
+          "like_count": 34005,
+          "listed_count": 54,
+          "media_count": 712,
+          "tweet_count": 16926
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

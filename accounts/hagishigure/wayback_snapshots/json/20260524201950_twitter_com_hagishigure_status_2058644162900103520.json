@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Babies and toddlers",
+          "id": "864925760624091136",
+          "name": "Babies and toddlers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Family and parenting",
+          "id": "847547282010497024",
+          "name": "Parenting"
+        }
+      }
+    ],
+    "conversation_id": "2058644162900103520",
+    "created_at": "2026-05-24T20:19:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T21:19:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058644162900103520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "158950024",
+          "start": 3,
+          "username": "applepiehouse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058644162900103520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1602
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058460473214075062",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @applepiehouse: 我一輩子都忘不了，剛生完孩子後，醫生對我說的那些話。\n\n醫生說：\n\n「剛剛排出來的胎盤，是母親身體的一部分，也是為了孕育寶寶而存在的『器官』。」\n\n生產結束後，醫生很平靜地開始說明：\n\n「而那個胎盤完成任務、從身體裡剝落下來，也就代表——」…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Babies and toddlers",
+              "id": "864925760624091136",
+              "name": "Babies and toddlers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Family and parenting",
+              "id": "847547282010497024",
+              "name": "Parenting"
+            }
+          }
+        ],
+        "conversation_id": "2058644162900103520",
+        "created_at": "2026-05-24T20:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T21:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058644162900103520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "158950024",
+              "start": 3,
+              "username": "applepiehouse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058644162900103520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1602
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058460473214075062",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @applepiehouse: 我一輩子都忘不了，剛生完孩子後，醫生對我說的那些話。\n\n醫生說：\n\n「剛剛排出來的胎盤，是母親身體的一部分，也是為了孕育寶寶而存在的『器官』。」\n\n生產結束後，醫生很平靜地開始說明：\n\n「而那個胎盤完成任務、從身體裡剝落下來，也就代表——」…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "158950024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Babies and toddlers",
+              "id": "864925760624091136",
+              "name": "Babies and toddlers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Family and parenting",
+              "id": "847547282010497024",
+              "name": "Parenting"
+            }
+          }
+        ],
+        "conversation_id": "2058460473214075062",
+        "created_at": "2026-05-24T08:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T09:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058460473214075062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/monaco315/stat…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/monaco315/status/2058215995723206807",
+              "start": 121,
+              "url": "https://t.co/wL4WNrEbgj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058460473214075062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我一輩子都忘不了，剛生完孩子後，醫生對我說的那些話。\n\n醫生說：\n\n「剛剛排出來的胎盤，是母親身體的一部分，也是為了孕育寶寶而存在的『器官』。」\n\n生產結束後，醫生很平靜地開始說明：\n\n「而那個胎盤完成任務、從身體裡剝落下來，也就代表——」\n\n「現在，媽媽的子宮內側，正裸露著一個跟胎盤一樣大的『巨大傷口』。」\n\n那一刻，我完全說不出話。\n\n醫生接著說：\n\n「請你們想像一下，如果像胃、肝臟那樣的器官，被硬生生從身體裡剝離，會變成什麼樣子？那當然是重症，對吧。」\n\n「產後的身體，其實就等同於需要好幾個月才能痊癒的重傷。」\n\n「惡露不是月經，而是從內臟傷口流出來的血。」\n\n接著，醫生看向我的丈夫，對他說：\n\n「您的太太接下來，是要用一副像剛遭遇交通事故般的身體，在幾乎無法好好睡覺的狀態下餵奶，並且守護寶寶的生命。」\n\n「在這種狀態下，對太太說『飯還沒好嗎？』『家事怎麼沒做？』，就等同於對一個因重傷住院的病人說：『來照顧我。』」\n\n病房裡瞬間安靜了下來。\n\n最後，醫生這樣說：\n\n「現在，您的太太需要的，不是『做家事的角色』。」\n\n「她需要的是，為了讓身心恢復而不可或缺的、絕對的休息。」\n\n「丈夫先生，請不要抱著『我是在幫忙』的心態，而是要有『接下來由我來撐起這個家』的覺悟，去保護您的太太。」\n\n聽見那些話的時候，我才第一次真正明白：\n\n生產不是「孩子出生了就結束」。\n\n母親的身體，是從那一刻開始，一邊拼命修復已經被重創的身體，一邊立刻進入 24 小時育兒。\n\n這個世界上，有太多這樣的故事：\n\n「明明才剛生完，卻因為動得太多而倒下。」\n\n「硬撐著繼續做家事，結果更年期症狀變得更嚴重。」\n\n可是實際上，產後女性常常連自己到底已經勉強到什麼程度，都分不清了。\n\n寶寶一哭就要起來。\n\n要餵奶。\n\n在睡眠不足的狀態下迎來早晨。\n\n可周圍的人卻還是若無其事地問：\n\n「衣服洗了嗎？」\n\n「飯呢？」\n\n「家裡怎麼沒整理？」\n\n但事實上，剛生產完的女性，是必須休息的重症患者。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1386,
+          "impression_count": 375829,
+          "like_count": 7472,
+          "quote_count": 51,
+          "reply_count": 65,
+          "retweet_count": 1602
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058215995723206807",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一輩子都忘不了，剛生完孩子後，醫生對我說的那些話。\n\n醫生說：\n\n「剛剛排出來的胎盤，是母親身體的一部分，也是為了孕育寶寶而存在的『器官』。」\n\n生產結束後，醫生很平靜地開始說明：\n\n「而那個胎盤完成任務、從身體裡剝落下來，也就代表——」 https://t.co/wL4WNrEbgj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 151,
+          "like_count": 29675,
+          "listed_count": 3,
+          "media_count": 777,
+          "tweet_count": 7099
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2010-06-24T02:25:16.000Z",
+        "description": "#女性主義 #Feminism #블루레이디\n🇹🇼 中文（#Taiwan #대만）｜한국어 OK",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "女性主義"
+              },
+              {
+                "end": 15,
+                "start": 6,
+                "tag": "Feminism"
+              },
+              {
+                "end": 22,
+                "start": 16,
+                "tag": "블루레이디"
+              },
+              {
+                "end": 36,
+                "start": 29,
+                "tag": "Taiwan"
+              },
+              {
+                "end": 40,
+                "start": 37,
+                "tag": "대만"
+              }
+            ]
+          }
+        },
+        "id": "158950024",
+        "location": "Taiwan",
+        "name": "蘋果派 애플파이 ❤️‍🔥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1595386729204416513/gVGHFfEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4626,
+          "following_count": 1624,
+          "like_count": 118688,
+          "listed_count": 26,
+          "media_count": 6035,
+          "tweet_count": 76084
+        },
+        "username": "applepiehouse",
+        "verified": true
+      }
+    ]
+  }
+}

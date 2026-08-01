@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2029651372161872157",
+    "created_at": "2026-03-05T20:12:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T21:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029651372161872157"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aoim33/status/…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/aoim33/status/2029611196798898332",
+          "start": 47,
+          "url": "https://t.co/qgdlUfLtzV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029651372161872157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029611196798898332",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "冷知識：在日本，中國是一個地區，不是指代中國人認為的中國。🥴\n看到国就哈気屬於是敏感肌了。🥴 https://t.co/qgdlUfLtzV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029609317993959429",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCqe69_aUAUWHWU.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2029651372161872157",
+        "created_at": "2026-03-05T20:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T21:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029651372161872157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/aoim33/status/2029611196798898332",
+              "start": 47,
+              "url": "https://t.co/qgdlUfLtzV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029651372161872157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029611196798898332",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "冷知識：在日本，中國是一個地區，不是指代中國人認為的中國。🥴\n看到国就哈気屬於是敏感肌了。🥴 https://t.co/qgdlUfLtzV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029609317993959429"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2029611196798898332",
+        "created_at": "2026-03-05T17:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T18:25:45.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029609321320042881",
+          "2029611196798898332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3L2LeLOYL8",
+              "end": 141,
+              "expanded_url": "https://x.com/aoim33/status/2029611196798898332/photo/1",
+              "media_key": "3_2029609317993959429",
+              "start": 118,
+              "url": "https://t.co/3L2LeLOYL8"
+            },
+            {
+              "display_url": "x.com/414E4E4F/statu…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/414E4E4F/status/2029605058107822531",
+              "start": 142,
+              "url": "https://t.co/ZMUQaHw3Ue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029611196798898332",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1324,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029605058107822531",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "冷知识\n在日语里 国 くに 这个字本来就有地区的意思\n于是在现代汉语以及跨文化翻译的语境下，成了第二十二条军规\n因为听话人总是会按照自己的意愿去解读说出来的话\n所以不管怎么说都没用，还不如删了推文然后思密码森呢\n至少还能保住市场不是吗 https://t.co/3L2LeLOYL8 https://t.co/ZMUQaHw3Ue"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 121,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 141,
+          "like_count": 23985,
+          "listed_count": 2,
+          "media_count": 662,
+          "tweet_count": 5792
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD research / Languages / Photography / 音ゲー Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4102,
+          "following_count": 2605,
+          "like_count": 37180,
+          "listed_count": 21,
+          "media_count": 1930,
+          "tweet_count": 8562
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

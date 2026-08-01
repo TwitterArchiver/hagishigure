@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2053104721834172554",
+    "created_at": "2026-05-09T23:04:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T00:04:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053249772820074724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053249772820074724",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053104721834172554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 你好，经鉴定，你和人类不一样，目前鉴定结果是，你是一只兔子。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2053104721834172554",
+        "created_at": "2026-05-09T23:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T00:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053249772820074724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053249772820074724",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053104721834172554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 你好，经鉴定，你和人类不一样，目前鉴定结果是，你是一只兔子。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2053104721834172554",
+        "created_at": "2026-05-09T13:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053104721834172554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CyberKanjousen…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/CyberKanjousen/status/2050934100316578120",
+              "start": 143,
+              "url": "https://t.co/eCPx2Ro8XT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053104721834172554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "朝鲜二次元朴波奇开始写日记了。\n\n不过，诸如「打倒■■■」之类的话语，朴波奇之后再也没敢写过，取而代之的是她在李家里看动画和漫画书的记录。\n\n是的，李家里还有漫画，但大多都是中文的，少数是日文的，两人看不懂一点，只好凭借图画线条来猜测大概剧情。\n\n朴波奇和李的关系日益亲密，但是李告诫 朴波奇，两人尽量不要在学校之类的公共场所接触。朴波奇本以为她是在介意自己「脱北者女儿」的身份，但后来想想并非如此。\n\n李向朴波奇透露了一些她家里的情况。\n\n李的父亲在李还很小的时候就失业了——这里的「失业」并不是被单位辞退，而是单位运营不下去，完全停工，李的父亲在单位只是挂了个名，实际没班可上，当然也没有工资。为了谋求生计，李的父亲就去장마당（朝鲜的黑市）做买卖。\n\n那些存着日漫韩漫的存储介质，以及漫画书，还有其他朴波奇从没见过的玩意儿，都是李的父亲从走私者那里搞来的。\n\n「你知道吗？我感觉学校里那些人都好*朝鲜文明用语*啊。」李亲昵地搂住朴波奇，「但是你不一样，你已经和他们不一样了。」\n\n不一样……吗？朴波奇想起了学校里排练主旋律合唱的那些同学，当时朴波奇由于父亲是脱北者而被禁止参加，李借口生病也没有参加，全班只有她俩没有参加。\n\n「我或许已经和他们不一样了。」朴波奇在日记本里写道。\n\n朴波奇思考片刻，将「或许」划掉了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2464,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050934100316578120",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "朝鲜二次元朴波奇开始写日记了。\n\n不过，诸如「打倒■■■」之类的话语，朴波奇之后再也没敢写过，取而代之的是她在李家里看动画和漫画书的记录。\n\n是的，李家里还有漫画，但大多都是中文的，少数是日文的，两人看不懂一点，只好凭借图画线条来猜测大概剧情。\n\n朴波奇和李的关系日益亲密，但是李告诫 https://t.co/eCPx2Ro8XT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 148,
+          "like_count": 28639,
+          "listed_count": 2,
+          "media_count": 761,
+          "tweet_count": 6836
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2868,
+          "following_count": 811,
+          "like_count": 18942,
+          "listed_count": 9,
+          "media_count": 1008,
+          "tweet_count": 5568
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

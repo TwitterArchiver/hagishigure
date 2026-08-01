@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2030307608360309148",
+    "created_at": "2026-03-07T15:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T16:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030307608360309148"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Yuan67323446/s…",
+          "end": 155,
+          "expanded_url": "https://twitter.com/Yuan67323446/status/2030162574583717935",
+          "start": 132,
+          "url": "https://t.co/9RQzysTBta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030307608360309148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030162574583717935",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我在想要不写一篇：论「把已读不回作为权力意志」的将他者面容与共在作为自身理想化镜像误认的客体化的同一化菲勒斯话语施暴机制。😄\n但我认为忽略吕克南希和阿多诺的论点以及帕菲特的关系R之类的分析哲学的论点写原文这种东西就是生产狭隘的学术垃圾，所以我不会浪费我的时间。😄 https://t.co/9RQzysTBta"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 989,
+        "media_key": "3_2030162564240564224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCyWGI3a4AAN3Lb.jpg",
+        "width": 969
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2030307608360309148",
+        "created_at": "2026-03-07T15:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T16:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030307608360309148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yuan67323446/s…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/Yuan67323446/status/2030162574583717935",
+              "start": 132,
+              "url": "https://t.co/9RQzysTBta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030307608360309148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030162574583717935",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在想要不写一篇：论「把已读不回作为权力意志」的将他者面容与共在作为自身理想化镜像误认的客体化的同一化菲勒斯话语施暴机制。😄\n但我认为忽略吕克南希和阿多诺的论点以及帕菲特的关系R之类的分析哲学的论点写原文这种东西就是生产狭隘的学术垃圾，所以我不会浪费我的时间。😄 https://t.co/9RQzysTBta"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030162564240564224"
+          ]
+        },
+        "author_id": "1297226393005092864",
+        "conversation_id": "2030162574583717935",
+        "created_at": "2026-03-07T06:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T07:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030162574583717935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ifmBB8NVzB",
+              "end": 34,
+              "expanded_url": "https://x.com/Yuan67323446/status/2030162574583717935/photo/1",
+              "media_key": "3_2030162564240564224",
+              "start": 11,
+              "url": "https://t.co/ifmBB8NVzB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030162574583717935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 42359,
+          "like_count": 598,
+          "quote_count": 13,
+          "reply_count": 18,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "顶刊的权威我后知后觉 https://t.co/ifmBB8NVzB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 121,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 141,
+          "like_count": 24370,
+          "listed_count": 2,
+          "media_count": 672,
+          "tweet_count": 5882
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-22T17:37:40.000Z",
+        "description": "快乐冲浪🫰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "norton-cloud.kele812.xyz/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://norton-cloud.kele812.xyz/#/register?code=v5toZYpO",
+                "start": 0,
+                "url": "https://t.co/kGMxkGTENI"
+              }
+            ]
+          }
+        },
+        "id": "1297226393005092864",
+        "location": "自用vpn",
+        "name": "Yuan",
+        "pinned_tweet_id": "2025864346992366050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988279012620464131/UD7eZ_OT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2300,
+          "following_count": 600,
+          "like_count": 17245,
+          "listed_count": 13,
+          "media_count": 894,
+          "tweet_count": 11632
+        },
+        "url": "https://t.co/kGMxkGTENI",
+        "username": "Yuan67323446",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022723570581815296"
+      ],
+      "media_source_tweet_id": [
+        "2022723576391176391"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "2022853663035638076",
+    "created_at": "2026-02-15T02:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T03:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022853663035638076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1894887456647921664",
+          "start": 3,
+          "username": "snugglepuffLite"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bvYuhJ4fnz",
+          "end": 44,
+          "expanded_url": "https://x.com/snugglepuffLite/status/2022723576391176391/photo/1",
+          "media_key": "3_2022723570581815296",
+          "start": 21,
+          "url": "https://t.co/bvYuhJ4fnz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022853663035638076",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1032
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022723576391176391",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @snugglepuffLite: https://t.co/bvYuhJ4fnz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022723570581815296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBIoXt9WwAAXiuh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022723570581815296"
+          ],
+          "media_source_tweet_id": [
+            "2022723576391176391"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "2022853663035638076",
+        "created_at": "2026-02-15T02:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T03:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022853663035638076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1894887456647921664",
+              "start": 3,
+              "username": "snugglepuffLite"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bvYuhJ4fnz",
+              "end": 44,
+              "expanded_url": "https://x.com/snugglepuffLite/status/2022723576391176391/photo/1",
+              "media_key": "3_2022723570581815296",
+              "start": 21,
+              "url": "https://t.co/bvYuhJ4fnz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022853663035638076",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1032
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022723576391176391",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @snugglepuffLite: https://t.co/bvYuhJ4fnz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022723570581815296"
+          ]
+        },
+        "author_id": "1894887456647921664",
+        "conversation_id": "2022723576391176391",
+        "created_at": "2026-02-14T17:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T18:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022723576391176391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bvYuhJ4fnz",
+              "end": 23,
+              "expanded_url": "https://x.com/snugglepuffLite/status/2022723576391176391/photo/1",
+              "media_key": "3_2022723570581815296",
+              "start": 0,
+              "url": "https://t.co/bvYuhJ4fnz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022723576391176391",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1279,
+          "impression_count": 68287,
+          "like_count": 10261,
+          "quote_count": 30,
+          "reply_count": 9,
+          "retweet_count": 1032
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bvYuhJ4fnz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 130,
+          "like_count": 19682,
+          "listed_count": 0,
+          "media_count": 564,
+          "tweet_count": 4719
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-26T23:09:41.000Z",
+        "description": "🔞: @snugglepuff26 , comms: https://t.co/ZId4boOu16",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "snugglepuff26"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "snugglepuff.carrd.co",
+                "end": 50,
+                "expanded_url": "http://snugglepuff.carrd.co",
+                "start": 27,
+                "url": "https://t.co/ZId4boOu16"
+              }
+            ]
+          }
+        },
+        "id": "1894887456647921664",
+        "name": "snugglepuff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022722268867235845/DKjBIHde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4500,
+          "following_count": 36,
+          "like_count": 3,
+          "listed_count": 8,
+          "media_count": 9,
+          "tweet_count": 14
+        },
+        "username": "snugglepuffLite",
+        "verified": false
+      }
+    ]
+  }
+}

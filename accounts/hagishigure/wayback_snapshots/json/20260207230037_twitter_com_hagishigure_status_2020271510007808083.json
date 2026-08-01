@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020271506798895105"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "2020131462641508642",
+    "created_at": "2026-02-07T23:00:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T00:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020271510007808083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810873766119100416",
+          "start": 0,
+          "username": "RainEngine2024"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HnAQdDJE9n",
+          "end": 58,
+          "expanded_url": "https://x.com/hagishigure/status/2020271510007808083/photo/1",
+          "media_key": "3_2020271506798895105",
+          "start": 35,
+          "url": "https://t.co/HnAQdDJE9n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020271510007808083",
+    "in_reply_to_user_id": "1810873766119100416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020131462641508642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2024 我在22年都已經做過50倍的凝膠了。 https://t.co/HnAQdDJE9n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 275,
+        "media_key": "3_2020271506798895105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAlyO0iXYAEcszj.jpg",
+        "width": 1267
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020271506798895105"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "2020131462641508642",
+        "created_at": "2026-02-07T23:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T00:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020271510007808083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HnAQdDJE9n",
+              "end": 58,
+              "expanded_url": "https://x.com/hagishigure/status/2020271510007808083/photo/1",
+              "media_key": "3_2020271506798895105",
+              "start": 35,
+              "url": "https://t.co/HnAQdDJE9n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020271510007808083",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020131462641508642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 我在22年都已經做過50倍的凝膠了。 https://t.co/HnAQdDJE9n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810873766119100416",
+        "conversation_id": "2020131462641508642",
+        "created_at": "2026-02-07T13:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T14:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020131462641508642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020131462641508642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3362,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可能全网首个15倍凝胶会出现在我手上（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 128,
+          "like_count": 18696,
+          "listed_count": 0,
+          "media_count": 536,
+          "tweet_count": 4409
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "小米合作伙伴/米家线下运营/互联网小透明/喜欢拍照记录生活/爱好折腾数码产品/PM前请征得同意否则Ban/回复消息可能不及时还请谅解/最棒的女孩子w @Sokei_ko_nya/ GMT+8/ZH-CN/EN-US is OK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "Sokei_ko_nya"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2001491202013827260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004323467546841088/arnUFBzl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6278,
+          "following_count": 744,
+          "like_count": 47108,
+          "listed_count": 6,
+          "media_count": 1056,
+          "tweet_count": 7040
+        },
+        "username": "RainEngine2024",
+        "verified": true
+      }
+    ]
+  }
+}

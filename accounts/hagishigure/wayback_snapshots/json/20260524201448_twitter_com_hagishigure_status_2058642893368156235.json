@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058642878788751360"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "2058642893368156235",
+    "created_at": "2026-05-24T20:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T21:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058642893368156235"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IE7Scxe7sU",
+          "end": 46,
+          "expanded_url": "https://x.com/hagishigure/status/2058642893368156235/photo/1",
+          "media_key": "3_2058642878788751360",
+          "start": 23,
+          "url": "https://t.co/IE7Scxe7sU"
+        },
+        {
+          "display_url": "x.com/siyu060910/sta…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/siyu060910/status/2058601411701784980",
+          "start": 47,
+          "url": "https://t.co/KGvw8ea8BF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058642893368156235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058601411701784980",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🥴，第一题：看图写文(100字)。（10分） https://t.co/IE7Scxe7sU https://t.co/KGvw8ea8BF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1688,
+        "media_key": "3_2058642878788751360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJHEyoWXUAAGJzv.jpg",
+        "width": 1279
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058601404802154497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGfEhtaQAERvbc.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058642878788751360"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "2058642893368156235",
+        "created_at": "2026-05-24T20:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T21:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058642893368156235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IE7Scxe7sU",
+              "end": 46,
+              "expanded_url": "https://x.com/hagishigure/status/2058642893368156235/photo/1",
+              "media_key": "3_2058642878788751360",
+              "start": 23,
+              "url": "https://t.co/IE7Scxe7sU"
+            },
+            {
+              "display_url": "x.com/siyu060910/sta…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/siyu060910/status/2058601411701784980",
+              "start": 47,
+              "url": "https://t.co/KGvw8ea8BF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058642893368156235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058601411701784980",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥴，第一题：看图写文(100字)。（10分） https://t.co/IE7Scxe7sU https://t.co/KGvw8ea8BF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058601404802154497"
+          ]
+        },
+        "author_id": "1824324977379905537",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058601411701784980",
+        "created_at": "2026-05-24T17:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T18:26:17.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058600484043436294",
+          "2058601411701784980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/khpRqh4diI",
+              "end": 126,
+              "expanded_url": "https://x.com/siyu060910/status/2058601411701784980/photo/1",
+              "media_key": "3_2058601404802154497",
+              "start": 103,
+              "url": "https://t.co/khpRqh4diI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058601411701784980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 869,
+          "like_count": 13,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "寒涟漪的推特号好像因为公开聊ltp的话题没了。。。各位推友谨慎聊该话题，x所在的受监管的地区对ltp人群管理的非常严格，基本也是入刑的，说的就是美加，pronhub都禁幼女来着（）建议不要在这讨论类似话题 https://t.co/khpRqh4diI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 151,
+          "like_count": 29668,
+          "listed_count": 3,
+          "media_count": 777,
+          "tweet_count": 7097
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-16T05:59:28.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️｜https://t.co/0hXlAGwWRx项目主要志愿者｜tg导航频道https://t.co/np7tbdIbrP内涵联系方式｜可提供社群资源、紧急庇护、自杀干预、资金求助、反扭转等服务｜我是中国人、我始终热爱这片土地｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "inthesunshine.asia",
+                "end": 33,
+                "expanded_url": "https://inthesunshine.asia/",
+                "start": 10,
+                "url": "https://t.co/0hXlAGwWRx"
+              },
+              {
+                "display_url": "t.me/seele_2345",
+                "end": 70,
+                "expanded_url": "https://t.me/seele_2345",
+                "start": 47,
+                "url": "https://t.co/np7tbdIbrP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "inthesunshine.asia/#contact",
+                "end": 23,
+                "expanded_url": "https://inthesunshine.asia/#contact",
+                "start": 0,
+                "url": "https://t.co/KusRjCTsTB"
+              }
+            ]
+          }
+        },
+        "id": "1824324977379905537",
+        "location": "5.20KM",
+        "name": "Seele",
+        "pinned_tweet_id": "2058258075287732733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043059786330312704/Smm3G5ah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7468,
+          "following_count": 88,
+          "like_count": 542,
+          "listed_count": 11,
+          "media_count": 287,
+          "tweet_count": 873
+        },
+        "url": "https://t.co/KusRjCTsTB",
+        "username": "siyu060910",
+        "verified": true
+      }
+    ]
+  }
+}

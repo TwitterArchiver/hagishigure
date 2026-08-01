@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Dads",
+          "id": "847545883637891072",
+          "name": "Fatherhood"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Dads",
+          "id": "847545883637891072",
+          "name": "Fatherhood"
+        }
+      }
+    ],
+    "conversation_id": "1979151610908676473",
+    "created_at": "2025-10-17T11:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T12:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979154171686457415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1069931275698335744",
+          "start": 0,
+          "username": "TponyS_xiaoma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979154171686457415",
+    "in_reply_to_user_id": "1965393379224944645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "父性功能是象徵性的「第三者」，強制分離孩子與母親的融合，引入「閹割」（castration）——一種父權制的符號暴力，將慾望導向他者的匱乏而非直接滿足。\n 無論大他者「存在」與否（作為實體或僅為幻想），它皆源自這父權邏輯。\n伊底帕斯三角（父-母-子）將多元慾望簡化為父權禁忌，強化男性能量（phallus）作為普世能指，壓抑女性與非規範慾望。\n這不是歷史事實，而是結構性幻想，永遠「死從一開始」（dead from the very beginning）。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979153888457744665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TponyS_xiaoma 父性功能是象徵性的「第三者」，強制分離孩子與母親的融合，引入「閹割」（castration）——一種父權制的符號暴力，將慾望導向他者的匱乏而非直接滿足。\n 無論大他者「存在」與否（作為實體或僅為幻想），它皆源自這父權邏輯。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "1979151610908676473",
+        "created_at": "2025-10-17T11:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T12:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979154171686457415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1069931275698335744",
+              "start": 0,
+              "username": "TponyS_xiaoma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979154171686457415",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "父性功能是象徵性的「第三者」，強制分離孩子與母親的融合，引入「閹割」（castration）——一種父權制的符號暴力，將慾望導向他者的匱乏而非直接滿足。\n 無論大他者「存在」與否（作為實體或僅為幻想），它皆源自這父權邏輯。\n伊底帕斯三角（父-母-子）將多元慾望簡化為父權禁忌，強化男性能量（phallus）作為普世能指，壓抑女性與非規範慾望。\n這不是歷史事實，而是結構性幻想，永遠「死從一開始」（dead from the very beginning）。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979153888457744665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TponyS_xiaoma 父性功能是象徵性的「第三者」，強制分離孩子與母親的融合，引入「閹割」（castration）——一種父權制的符號暴力，將慾望導向他者的匱乏而非直接滿足。\n 無論大他者「存在」與否（作為實體或僅為幻想），它皆源自這父權邏輯。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1979151610908676473",
+        "created_at": "2025-10-17T11:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T12:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979153888457744665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1069931275698335744",
+              "start": 0,
+              "username": "TponyS_xiaoma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979153888457744665",
+        "in_reply_to_user_id": "1069931275698335744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在拉岡的理論中，大他者是象徵秩序（Symbolic Order）的化身，一個由語言、法則與社會規範構成的無意識結構，主體透過進入此秩序而分裂（spaltung），產生慾望的永恆匱乏。伊底帕斯情結在此扮演關鍵角色：孩子在鏡像階段（mirror stage）後，面對母親的慾望（maternal desire）時，遭遇父性功能（paternal function，或「父之名」，Name-of-the-Father）的介入"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979153831142346985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TponyS_xiaoma 在拉岡的理論中，大他者是象徵秩序（Symbolic Order）的化身，一個由語言、法則與社會規範構成的無意識結構，主體透過進入此秩序而分裂（spaltung），產生慾望的永恆匱乏。伊底帕斯情結在此扮演關鍵角色：孩子在鏡像階段（mirror stage）後，面對母親的慾望（maternal"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 92,
+          "like_count": 3890,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 648
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-04T12:27:49.000Z",
+        "description": "",
+        "id": "1069931275698335744",
+        "location": "浙江",
+        "name": "TponyS",
+        "pinned_tweet_id": "1971978210486505664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882716350759788544/hkD4Er1f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15585,
+          "following_count": 346,
+          "like_count": 3641,
+          "listed_count": 118,
+          "media_count": 661,
+          "tweet_count": 5748
+        },
+        "username": "TponyS_xiaoma",
+        "verified": false
+      }
+    ]
+  }
+}

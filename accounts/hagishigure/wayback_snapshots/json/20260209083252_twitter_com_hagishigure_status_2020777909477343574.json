@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2020777909477343574",
+    "created_at": "2026-02-09T08:32:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T09:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020777909477343574"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Nevernessian/s…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/Nevernessian/status/2019013479483785547",
+          "start": 45,
+          "url": "https://t.co/DCUDxevXKQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020777909477343574",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019013479483785547",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "另外一个版本：\n多年以后\n你也死了\n发现活着经历过的一切没有意义。\n你本来不需要经历的。 https://t.co/DCUDxevXKQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2020777909477343574",
+        "created_at": "2026-02-09T08:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T09:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020777909477343574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nevernessian/s…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/Nevernessian/status/2019013479483785547",
+              "start": 45,
+              "url": "https://t.co/DCUDxevXKQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020777909477343574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019013479483785547",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "另外一个版本：\n多年以后\n你也死了\n发现活着经历过的一切没有意义。\n你本来不需要经历的。 https://t.co/DCUDxevXKQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "906829343480938496",
+        "conversation_id": "2019011647910948867",
+        "created_at": "2026-02-04T11:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T12:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019013479483785547"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019013479483785547",
+        "in_reply_to_user_id": "906829343480938496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 310,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019011650284818890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "另外一个版本：\n多年以后\n你也进入了srs群\n发现群里最多的还是年纪很小家里出钱陪着一起来的小妹妹\n而你的经历让你摆脱了那些对“改变人生的大事”感到紧张亢奋、剧烈情绪起伏的家庭氛围，很有意义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 129,
+          "like_count": 18937,
+          "listed_count": 0,
+          "media_count": 545,
+          "tweet_count": 4479
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-10T10:38:58.000Z",
+        "description": "穷打工的👩‍💼不善良😈所以也不怎么焦虑🤷‍♀️没有社群联系🙅‍♀️性冷淡😐相关专业出身但不会coding⌨️掌勺但不懂美食🍚前电务但不懂铁路🚆更不懂民航✈️不懂数学🔢不懂语言学🔡不懂军武🔫也不会拍照📷不懂穿搭👗裤子比裙子多👖但是mtf🤔\n@nevernessian@m.cmx.im",
+        "id": "906829343480938496",
+        "name": "魏淑淑淑芬芬芬",
+        "pinned_tweet_id": "1892401849107415113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1486710720834117636/8z2GHsnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2493,
+          "following_count": 94,
+          "like_count": 5525,
+          "listed_count": 7,
+          "media_count": 821,
+          "tweet_count": 6269
+        },
+        "username": "Nevernessian",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1989907257006714942",
+    "created_at": "2025-11-16T06:52:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T07:52:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989949584693760070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1912109703133646848",
+          "start": 0,
+          "username": "jzm1919810"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Scientific Reports - Dextromethorphan Exhibits Anti-inflammatory and Immunomodulatory Effects in a Murine Model of Collagen-Induced Arthritis and in Human Rheumatoid Arthritis",
+          "display_url": "nature.com/articles/s4159…",
+          "end": 60,
+          "expanded_url": "https://www.nature.com/articles/s41598-017-11378-8",
+          "images": [
+            {
+              "height": 2300,
+              "url": "https://pbs.twimg.com/news_img/1989949588628021248/yJ8FC9Jh?format=jpg&name=orig",
+              "width": 1438
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1989949588628021248/yJ8FC9Jh?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 37,
+          "status": 200,
+          "title": "Dextromethorphan Exhibits Anti-inflammatory and Immunomodulatory Effects in a Murine Model of Collagen-Induced Arthritis and in Human Rheumatoid Arthritis",
+          "unwound_url": "https://www.nature.com/articles/s41598-017-11378-8?error=cookies_not_supported&code=4be1161d-588e-4a96-a665-da5522fce4b9",
+          "url": "https://t.co/zecVBKCbE9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989949584693760070",
+    "in_reply_to_user_id": "1912109703133646848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989948835054125284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jzm1919810 少了，我補一個，抑鬱症屬於神經炎症，右美沙芬抗炎。https://t.co/zecVBKCbE9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 648,
+        "media_key": "3_1989946474764156928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G521xo5bwAAImsg.png",
+        "width": 1848
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1989907257006714942",
+        "created_at": "2025-11-16T06:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T07:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989949584693760070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1912109703133646848",
+              "start": 0,
+              "username": "jzm1919810"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Scientific Reports - Dextromethorphan Exhibits Anti-inflammatory and Immunomodulatory Effects in a Murine Model of Collagen-Induced Arthritis and in Human Rheumatoid Arthritis",
+              "display_url": "nature.com/articles/s4159…",
+              "end": 60,
+              "expanded_url": "https://www.nature.com/articles/s41598-017-11378-8",
+              "images": [
+                {
+                  "height": 2300,
+                  "url": "https://pbs.twimg.com/news_img/1989949588628021248/yJ8FC9Jh?format=jpg&name=orig",
+                  "width": 1438
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1989949588628021248/yJ8FC9Jh?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 37,
+              "status": 200,
+              "title": "Dextromethorphan Exhibits Anti-inflammatory and Immunomodulatory Effects in a Murine Model of Collagen-Induced Arthritis and in Human Rheumatoid Arthritis",
+              "unwound_url": "https://www.nature.com/articles/s41598-017-11378-8?error=cookies_not_supported&code=4be1161d-588e-4a96-a665-da5522fce4b9",
+              "url": "https://t.co/zecVBKCbE9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989949584693760070",
+        "in_reply_to_user_id": "1912109703133646848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989948835054125284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jzm1919810 少了，我補一個，抑鬱症屬於神經炎症，右美沙芬抗炎。https://t.co/zecVBKCbE9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989946474764156928"
+          ]
+        },
+        "author_id": "1912109703133646848",
+        "conversation_id": "1989907257006714942",
+        "created_at": "2025-11-16T06:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T07:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989948835054125284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NX8I4Jaeqm",
+              "end": 200,
+              "expanded_url": "https://x.com/jzm1919810/status/1989948835054125284/photo/1",
+              "media_key": "3_1989946474764156928",
+              "start": 177,
+              "url": "https://t.co/NX8I4Jaeqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989948835054125284",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989907257006714942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure DXO的u亲和太低，算不上真阿片。tianeptine是真阿片。让我提出一个怪假设：\n1.抑郁者DMN活跃，海马网络随时产生记忆回放，也就是\"反刍\"\n2.解离微微压制PFC信号，难管理回放方向性\n3.DXM微微抗烟碱，扰乱记忆回放，使它情感色彩混淆\n4.DXM有血清素风味，更添一分安宁\n5.还是健全人时的健全情感被DXM调动 https://t.co/NX8I4Jaeqm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 108,
+          "like_count": 9069,
+          "listed_count": 0,
+          "media_count": 308,
+          "tweet_count": 2058
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-15T11:44:19.000Z",
+        "description": "もしも願いが葉うなら 夜の空へとほうり投げて与えて",
+        "id": "1912109703133646848",
+        "name": "Zemin Jiang",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 68,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 235
+        },
+        "username": "jzm1919810",
+        "verified": false
+      }
+    ]
+  }
+}

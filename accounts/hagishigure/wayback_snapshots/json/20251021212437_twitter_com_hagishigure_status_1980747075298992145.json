@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980747061663272960",
+        "3_1980747062049132544"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1980389050818392343",
+    "created_at": "2025-10-21T21:24:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T22:24:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980747075298992145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "622036546",
+          "start": 0,
+          "username": "overdose_six"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jom6L0lFEC",
+          "end": 52,
+          "expanded_url": "https://x.com/hagishigure/status/1980747075298992145/photo/1",
+          "media_key": "3_1980747061663272960",
+          "start": 29,
+          "url": "https://t.co/jom6L0lFEC"
+        },
+        {
+          "display_url": "pic.x.com/jom6L0lFEC",
+          "end": 52,
+          "expanded_url": "https://x.com/hagishigure/status/1980747075298992145/photo/1",
+          "media_key": "3_1980747062049132544",
+          "start": 29,
+          "url": "https://t.co/jom6L0lFEC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980747075298992145",
+    "in_reply_to_user_id": "622036546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980389050818392343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_six 論文表明，不受消化系統影響。 https://t.co/jom6L0lFEC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980747061663272960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G30G9UhWkAAyh_4.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1980747062049132544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G30G9V9WUAAZ1S-.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980747061663272960",
+            "3_1980747062049132544"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1980389050818392343",
+        "created_at": "2025-10-21T21:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T22:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980747075298992145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "622036546",
+              "start": 0,
+              "username": "overdose_six"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jom6L0lFEC",
+              "end": 52,
+              "expanded_url": "https://x.com/hagishigure/status/1980747075298992145/photo/1",
+              "media_key": "3_1980747061663272960",
+              "start": 29,
+              "url": "https://t.co/jom6L0lFEC"
+            },
+            {
+              "display_url": "pic.x.com/jom6L0lFEC",
+              "end": 52,
+              "expanded_url": "https://x.com/hagishigure/status/1980747075298992145/photo/1",
+              "media_key": "3_1980747062049132544",
+              "start": 29,
+              "url": "https://t.co/jom6L0lFEC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980747075298992145",
+        "in_reply_to_user_id": "622036546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980389050818392343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_six 論文表明，不受消化系統影響。 https://t.co/jom6L0lFEC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "622036546",
+        "conversation_id": "1980389050818392343",
+        "created_at": "2025-10-20T21:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T22:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980389050818392343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Angeldust_g/st…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/Angeldust_g/status/1980307386243100952",
+              "start": 84,
+              "url": "https://t.co/NthSfn8UPO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980389050818392343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1719,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980307386243100952",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "普瑞巴林主要通过小肠被动扩散吸收 空腹时 胃排空速度更快 药物能更快到达小肠吸收部位 导致峰浓度升高约30% 达峰时间 缩短约1小时 且空腹可以提高普瑞巴林生物利用度 https://t.co/NthSfn8UPO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 98,
+          "like_count": 4776,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 879
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "化学极乐百科:https://t.co/BlAoDIjruc | 药物代购 | 报告投稿 | 里账号:@fuck_8964 | 提问箱:https://t.co/b5c8bbmW1y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 30,
+                "expanded_url": "http://overdose.day",
+                "start": 7,
+                "url": "https://t.co/BlAoDIjruc"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 91,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 68,
+                "url": "https://t.co/b5c8bbmW1y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/BlAoDIjruc"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980694433151467520/szS4Q9Eh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1853,
+          "following_count": 76,
+          "like_count": 10856,
+          "listed_count": 8,
+          "media_count": 435,
+          "tweet_count": 3108
+        },
+        "url": "https://t.co/BlAoDIjruc",
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

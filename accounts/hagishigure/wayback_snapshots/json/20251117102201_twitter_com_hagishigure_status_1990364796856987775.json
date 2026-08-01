@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "1990364796856987775",
+    "created_at": "2025-11-17T10:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T11:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990364796856987775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1886106136124030976",
+          "start": 3,
+          "username": "tunyaoisi_"
+        }
+      ],
+      "urls": [
+        {
+          "description": "メンヘラでも許してくれるよね? だって君のこと、大好きなんだもん。 SNSにアップする度に万バズで話題のメンヘラ女子シリーズがついに、待望の書籍化! 平凡なのになぜかモテる男子大学生「俺くん」を取り巻く、タイプの異なる4人のメンヘラ女子。 素直で従順、とにかく自分だけを見てほしい甘えん坊な王道メンヘラ。 人見知りで内向的、なのに実はエッチなことに興味深々な幼なじみネガティブメンヘラ。 名前も知らないのに怖いくらいの勢いで迫ってくる、美しいヤンデレ系メンヘラ。 年上お姉さんでエッチないたずらでいつもからかってくる、謎多き美人メンヘラ。 ありとあらゆる手で迫ってくる美女たちに、一息つく...",
+          "display_url": "amazon.co.jp/dp/4046846704/",
+          "end": 74,
+          "expanded_url": "http://amazon.co.jp/dp/4046846704/",
+          "images": [
+            {
+              "height": 1000,
+              "url": "https://pbs.twimg.com/news_img/1990194689488871424/iieDN01m?format=jpg&name=orig",
+              "width": 1910
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1990194689488871424/iieDN01m?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 51,
+          "status": 200,
+          "title": "君への湿度100ぱーせんと",
+          "unwound_url": "https://www.amazon.co.jp/dp/4046846704/",
+          "url": "https://t.co/PIhIt1eh3j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990364796856987775",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990194639912292666",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tunyaoisi_: 単行本が発売中です🕺ひなたちゃんも出てきます\nｾﾞﾋ  ﾖﾝﾃﾞﾈ\n\nhttps://t.co/PIhIt1eh3j"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "1990364796856987775",
+        "created_at": "2025-11-17T10:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T11:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990364796856987775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1886106136124030976",
+              "start": 3,
+              "username": "tunyaoisi_"
+            }
+          ],
+          "urls": [
+            {
+              "description": "メンヘラでも許してくれるよね? だって君のこと、大好きなんだもん。 SNSにアップする度に万バズで話題のメンヘラ女子シリーズがついに、待望の書籍化! 平凡なのになぜかモテる男子大学生「俺くん」を取り巻く、タイプの異なる4人のメンヘラ女子。 素直で従順、とにかく自分だけを見てほしい甘えん坊な王道メンヘラ。 人見知りで内向的、なのに実はエッチなことに興味深々な幼なじみネガティブメンヘラ。 名前も知らないのに怖いくらいの勢いで迫ってくる、美しいヤンデレ系メンヘラ。 年上お姉さんでエッチないたずらでいつもからかってくる、謎多き美人メンヘラ。 ありとあらゆる手で迫ってくる美女たちに、一息つく...",
+              "display_url": "amazon.co.jp/dp/4046846704/",
+              "end": 74,
+              "expanded_url": "http://amazon.co.jp/dp/4046846704/",
+              "images": [
+                {
+                  "height": 1000,
+                  "url": "https://pbs.twimg.com/news_img/1990194689488871424/iieDN01m?format=jpg&name=orig",
+                  "width": 1910
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1990194689488871424/iieDN01m?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 51,
+              "status": 200,
+              "title": "君への湿度100ぱーせんと",
+              "unwound_url": "https://www.amazon.co.jp/dp/4046846704/",
+              "url": "https://t.co/PIhIt1eh3j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990364796856987775",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990194639912292666",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tunyaoisi_: 単行本が発売中です🕺ひなたちゃんも出てきます\nｾﾞﾋ  ﾖﾝﾃﾞﾈ\n\nhttps://t.co/PIhIt1eh3j"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886106136124030976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "1990192436216504471",
+        "created_at": "2025-11-16T23:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T00:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990194639912292666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "メンヘラでも許してくれるよね? だって君のこと、大好きなんだもん。 SNSにアップする度に万バズで話題のメンヘラ女子シリーズがついに、待望の書籍化! 平凡なのになぜかモテる男子大学生「俺くん」を取り巻く、タイプの異なる4人のメンヘラ女子。 素直で従順、とにかく自分だけを見てほしい甘えん坊な王道メンヘラ。 人見知りで内向的、なのに実はエッチなことに興味深々な幼なじみネガティブメンヘラ。 名前も知らないのに怖いくらいの勢いで迫ってくる、美しいヤンデレ系メンヘラ。 年上お姉さんでエッチないたずらでいつもからかってくる、謎多き美人メンヘラ。 ありとあらゆる手で迫ってくる美女たちに、一息つく...",
+              "display_url": "amazon.co.jp/dp/4046846704/",
+              "end": 58,
+              "expanded_url": "http://amazon.co.jp/dp/4046846704/",
+              "images": [
+                {
+                  "height": 1000,
+                  "url": "https://pbs.twimg.com/news_img/1990194689488871424/iieDN01m?format=jpg&name=orig",
+                  "width": 1910
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1990194689488871424/iieDN01m?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 35,
+              "status": 200,
+              "title": "君への湿度100ぱーせんと",
+              "unwound_url": "https://www.amazon.co.jp/dp/4046846704/",
+              "url": "https://t.co/PIhIt1eh3j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990194639912292666",
+        "in_reply_to_user_id": "1886106136124030976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 25813,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990192436216504471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "単行本が発売中です🕺ひなたちゃんも出てきます\nｾﾞﾋ  ﾖﾝﾃﾞﾈ\n\nhttps://t.co/PIhIt1eh3j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 109,
+          "like_count": 9308,
+          "listed_count": 0,
+          "media_count": 317,
+          "tweet_count": 2150
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-02T17:36:05.000Z",
+        "description": "書き下ろしの単行本📚→https://t.co/k4FdX8KLme【fanbox🤍】https://t.co/HWjnFJX0Yu【fantia🖤】https://t.co/hqA9oq7yfV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amazon.co.jp/dp/4046846704/",
+                "end": 34,
+                "expanded_url": "http://amazon.co.jp/dp/4046846704/",
+                "start": 11,
+                "url": "https://t.co/k4FdX8KLme"
+              },
+              {
+                "display_url": "tunyaoisi.fanbox.cc",
+                "end": 66,
+                "expanded_url": "https://tunyaoisi.fanbox.cc/",
+                "start": 43,
+                "url": "https://t.co/HWjnFJX0Yu"
+              },
+              {
+                "display_url": "fantia.jp/fanclubs/523909",
+                "end": 98,
+                "expanded_url": "https://fantia.jp/fanclubs/523909",
+                "start": 75,
+                "url": "https://t.co/hqA9oq7yfV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/tunyaoisi",
+                "end": 23,
+                "expanded_url": "https://lit.link/tunyaoisi",
+                "start": 0,
+                "url": "https://t.co/pxjjaDQ8vh"
+              }
+            ]
+          }
+        },
+        "id": "1886106136124030976",
+        "location": "@tunyaoisi",
+        "name": "tunyaoisi",
+        "pinned_tweet_id": "1979130069768638507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932440043148423168/kNzkyCVU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89961,
+          "following_count": 0,
+          "like_count": 172,
+          "listed_count": 265,
+          "media_count": 155,
+          "tweet_count": 218
+        },
+        "url": "https://t.co/pxjjaDQ8vh",
+        "username": "tunyaoisi_",
+        "verified": false
+      }
+    ]
+  }
+}

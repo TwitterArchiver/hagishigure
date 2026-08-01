@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1985769657836675320",
+    "created_at": "2025-11-05T09:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T10:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986005999074070882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1614594152062406656",
+          "start": 0,
+          "username": "fnggnjn1"
+        },
+        {
+          "end": 20,
+          "id": "1659962043460354050",
+          "start": 10,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986005999074070882",
+    "in_reply_to_user_id": "1614594152062406656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986004879681396804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fnggnjn1 @SalviaSWC 你再用Grok4省流，我就把你上次在草群裡發电的語音給Grok讓ai分析一下你發生了什麼。😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1985769657836675320",
+        "created_at": "2025-11-05T09:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T10:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986005999074070882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1614594152062406656",
+              "start": 0,
+              "username": "fnggnjn1"
+            },
+            {
+              "end": 20,
+              "id": "1659962043460354050",
+              "start": 10,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986005999074070882",
+        "in_reply_to_user_id": "1614594152062406656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986004879681396804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fnggnjn1 @SalviaSWC 你再用Grok4省流，我就把你上次在草群裡發电的語音給Grok讓ai分析一下你發生了什麼。😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1614594152062406656",
+        "conversation_id": "1985769657836675320",
+        "created_at": "2025-11-05T09:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T10:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986004879681396804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 23,
+              "id": "1965393379224944645",
+              "start": 11,
+              "username": "hagishigure"
+            }
+          ],
+          "urls": [
+            {
+              "description": "线程讨论详细分析 这个X（前Twitter）线程的讨论源于一个关于药物副作用、科学方法论与哲学指导的辩论，焦点主要集中在“所有药物是否必然有副作用”这一核心问题上，同时涉及科学与哲学（特别是马克思主义哲学）的关系、药物知识的专业性，以及一些具体药物（如“月尘”和“死藤水”）的细节。整个对话呈现出强烈的对抗性和个人攻击色彩，从抽象的哲学批判迅速转向专业领域的互怼，甚至涉及对对方知识背景的质疑。以下我将按时间线和逻辑结构，尽可能详细地拆解讨论内容、参与者观点、论据使用、情绪演变以及潜在背景知识，帮助你全面理解他们在争论什么。 1. 讨论起源：哲学视角下的药物“对立统一”论（@BelovedUren8964 的初始帖子，ID: 1985684542133555627） 帖子内容： “一切药物都是一分为二，对立统一。药物总是有两个对立面。你们月尘如果只有完全的解离，没有副作用，就不符合实际。全世界的药都分裂嘛。” 核心观点：作者使用马克思主义哲学的核心概念“对立统一”（辩证唯物主义中的矛盾论）来论证药物本质上是双刃剑——任何药物都同时具有疗效（正面对立面）和副作用（负面对立面）。这里特别针对“月尘”（一种网络俚语，常指代解离性药物，如3-MeO-PCP或类似合成卡西酮/解离剂，在psychedelic或harm reduction社区中流行），批评某些人（可能是“月尘”支持者）将它理想化为“完全解离无副作用”的物质，这不符合“实际”（即辩证法的普遍规律）。 语气与意图：半调侃半严肃，使用“分裂嘛”这样的口语化表达，带有抽象的哲学思辨风格。作者的bio显示其对药物过量（OD）持支持态度（“支持为OD正名”），并有强烈的反人类/反性别等极端观点，这可能暗示其对药物双重性的讨论带有个人情感投射。帖子获得16赞、1转推、6引用，显示在小众药物讨论圈有一定共鸣，但也引发了后续争议。 潜在背景： “月尘”在中文互联网药物社区（如Reddit或X上的harm reduction群）常被描述为一种强烈的解离体验药物（dissociative），类似于氯胺酮（ketamine），但更合成化。作者的论点借用马哲（马克思主义哲学）来“接地气”，但这也埋下了后续冲突的种子——因为它将哲学强加于科学事实。 2. 第一轮回应：科学方法论 vs. 哲学指导（@RXdruglab 的引用帖子，ID: 19",
+              "display_url": "x.com/i/grok/share/j…",
+              "end": 47,
+              "expanded_url": "https://x.com/i/grok/share/jkhyd3ZOR7ay8FjqVm2oXNvLj",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/1986004928494792704/fIlp4CE-?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1986004928494792704/fIlp4CE-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "https://x.com/hagishigure/status/1985769657836675320用简体中文，尽可能详细的分析他们在讨论什么",
+              "unwound_url": "https://x.com/i/grok/share/jkhyd3ZOR7ay8FjqVm2oXNvLj",
+              "url": "https://t.co/ZyVSQaRfrz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986004879681396804",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986003225586327976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC @hagishigure https://t.co/ZyVSQaRfrz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 103,
+          "like_count": 7492,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 1629
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-15T12:04:03.000Z",
+        "description": "药理药化药设研究者 物种：蛆 可以叫我蛆老师 提供用药及药理咨询（不包括任何已列管毒品！） 蛆蛆要涨粉🥺🥺🥺 不推荐任何人使用我提到的药品",
+        "id": "1614594152062406656",
+        "location": "北京安定医院",
+        "name": "Delirium⌬",
+        "pinned_tweet_id": "1919232126148362586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920055699050221568/hsi-1UL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 60,
+          "like_count": 315,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 776
+        },
+        "username": "fnggnjn1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "07丨上海丨退役OIer丨虚无主义者丨\n非必要不键政🥺丨\nSay Know to Drugs 💊丨\n会发各种东西丨欢迎任何人🌈丨互fo🉑🥰丨如果没回fo的话，请私信哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC",
+                "end": 23,
+                "expanded_url": "https://github.com/SalviaSWC",
+                "start": 0,
+                "url": "https://t.co/NJRjXJi1ON"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984830293103046656/fgZKegRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 657,
+          "like_count": 10364,
+          "listed_count": 7,
+          "media_count": 149,
+          "tweet_count": 3247
+        },
+        "url": "https://t.co/NJRjXJi1ON",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

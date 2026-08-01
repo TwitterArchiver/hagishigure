@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018712495850991616"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "2018638513483489519",
+    "created_at": "2026-02-03T15:45:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T16:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018712514784047108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2015245884397953024",
+          "start": 0,
+          "username": "yw515859"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lwR897TV5Y",
+          "end": 33,
+          "expanded_url": "https://x.com/hagishigure/status/2018712514784047108/photo/1",
+          "media_key": "3_2018712495850991616",
+          "start": 10,
+          "url": "https://t.co/lwR897TV5Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018712514784047108",
+    "in_reply_to_user_id": "2015245884397953024",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018711752318321096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yw515859 https://t.co/lwR897TV5Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018712495850991616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAPoUcLXMAAUK-L.jpg",
+        "width": 508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018712495850991616"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "2018638513483489519",
+        "created_at": "2026-02-03T15:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T16:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018712514784047108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2015245884397953024",
+              "start": 0,
+              "username": "yw515859"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lwR897TV5Y",
+              "end": 33,
+              "expanded_url": "https://x.com/hagishigure/status/2018712514784047108/photo/1",
+              "media_key": "3_2018712495850991616",
+              "start": 10,
+              "url": "https://t.co/lwR897TV5Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018712514784047108",
+        "in_reply_to_user_id": "2015245884397953024",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018711752318321096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yw515859 https://t.co/lwR897TV5Y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015245884397953024",
+        "conversation_id": "2018638513483489519",
+        "created_at": "2026-02-03T15:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T16:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018711752318321096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018711752318321096",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018639435655778480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure 这里面有一个很大的误区，心理有问题，心理痛苦，应该找心理咨询师去疗愈，而不是自己去学习心理咨询师的技术。路走弯了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 128,
+          "like_count": 17821,
+          "listed_count": 0,
+          "media_count": 489,
+          "tweet_count": 4174
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T02:11:45.000Z",
+        "description": "★ 国家高级心理咨询师\n★ 资深心理咨询专家、督导师\n★ 累计超过50000小时个案咨询经验\n★ 独立执业23年，个案康复20000人以上\n★ 多种先进前沿的疗愈技术和优良的进口工具，独特的理念方法\n★ 擅长：抑郁、焦虑、失眠、恐惧、强迫、儿童青少年心理障碍、情绪压力、原生家庭\n↓各类学习资料，免费分享↓",
+        "id": "2015245884397953024",
+        "name": "心理咨询师_易老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015753606855806976/NnU5iKq6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 13,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "username": "yw515859",
+        "verified": false
+      }
+    ]
+  }
+}

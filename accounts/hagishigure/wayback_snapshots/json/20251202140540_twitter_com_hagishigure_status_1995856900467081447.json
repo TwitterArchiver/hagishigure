@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1995856900467081447",
+    "created_at": "2025-12-02T14:05:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T15:05:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995856900467081447"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "Deus",
+          "probability": 0.8422,
+          "start": 21,
+          "type": "Other"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/EnarialP/statu…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/EnarialP/status/1992972111225192855",
+          "start": 52,
+          "url": "https://t.co/lyzcsqXOpw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995856900467081447",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992972111225192855",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "O seu filho sabe que Deus não existe absolutamente? https://t.co/lyzcsqXOpw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1995856900467081447",
+        "created_at": "2025-12-02T14:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T15:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995856900467081447"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Deus",
+              "probability": 0.8422,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/EnarialP/statu…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/EnarialP/status/1992972111225192855",
+              "start": 52,
+              "url": "https://t.co/lyzcsqXOpw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995856900467081447",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992972111225192855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "O seu filho sabe que Deus não existe absolutamente? https://t.co/lyzcsqXOpw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1453797660834545668",
+        "conversation_id": "1992506988346200473",
+        "created_at": "2025-11-24T15:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T16:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992972111225192855"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 60,
+              "normalized_text": "Emperor",
+              "probability": 0.4441,
+              "start": 54,
+              "type": "Other"
+            },
+            {
+              "end": 168,
+              "normalized_text": "Dame",
+              "probability": 0.3487,
+              "start": 165,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "543804241",
+              "start": 0,
+              "username": "DrJules1968"
+            },
+            {
+              "end": 27,
+              "id": "1542175841840398337",
+              "start": 13,
+              "username": "RoisinMichaux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992972111225192855",
+        "in_reply_to_user_id": "543804241",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992851587354833398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrJules1968 @RoisinMichaux He is like the kid in the Emperor's New clothes fairy tale. He loves the panto but will tell everyone who will listen that the pantomime Dame is a man pretending to be a woman. There is no way he could be convinced to call someone he knows to be a man \"she\" - I wouldn't even try."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 114,
+          "like_count": 11524,
+          "listed_count": 0,
+          "media_count": 372,
+          "tweet_count": 2684
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-28T18:56:01.000Z",
+        "description": "Feminist. #Adulthumanfemale.  Pro-choice. \nAtheist. \nGender idealogy atheist. #GargoyleofBeelzebub",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 10,
+                "tag": "Adulthumanfemale"
+              },
+              {
+                "end": 98,
+                "start": 78,
+                "tag": "GargoyleofBeelzebub"
+              }
+            ]
+          }
+        },
+        "id": "1453797660834545668",
+        "location": "Terf Island ",
+        "name": "Enarial Perry",
+        "pinned_tweet_id": "1578311470777257984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903520995840827392/JKA5AaBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2486,
+          "following_count": 744,
+          "like_count": 562032,
+          "listed_count": 7,
+          "media_count": 6634,
+          "tweet_count": 60020
+        },
+        "username": "EnarialP",
+        "verified": false
+      }
+    ]
+  }
+}

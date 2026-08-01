@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2047742444272329204",
+    "created_at": "2026-04-24T18:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T19:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047742444272329204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1803314964284985344",
+          "start": 3,
+          "username": "jinluomiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047742444272329204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047708560101114020",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jinluomiao: 今天下午去找姐姐了。。姐姐抱着我哭了好久。。我知道。她生理期刚过。。很难受。。我什么都没做。。只是给他点了麦当劳。。静静的坐在他旁边。。看他像个小孩一样在吃。。吃的满嘴都是油。。和我这么多年。。都是她在照顾我。。好久都没有看到她像个小孩子一样了…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047708557215473664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrsFWRbIAACsJI.jpg",
+        "width": 833
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2047742444272329204",
+        "created_at": "2026-04-24T18:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T19:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047742444272329204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1803314964284985344",
+              "start": 3,
+              "username": "jinluomiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047742444272329204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047708560101114020",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jinluomiao: 今天下午去找姐姐了。。姐姐抱着我哭了好久。。我知道。她生理期刚过。。很难受。。我什么都没做。。只是给他点了麦当劳。。静静的坐在他旁边。。看他像个小孩一样在吃。。吃的满嘴都是油。。和我这么多年。。都是她在照顾我。。好久都没有看到她像个小孩子一样了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047708557215473664"
+          ]
+        },
+        "author_id": "1803314964284985344",
+        "conversation_id": "2047708560101114020",
+        "created_at": "2026-04-24T16:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T17:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047708560101114020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SYP7QCQ4Ww",
+              "end": 146,
+              "expanded_url": "https://x.com/jinluomiao/status/2047708560101114020/photo/1",
+              "media_key": "3_2047708557215473664",
+              "start": 123,
+              "url": "https://t.co/SYP7QCQ4Ww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047708560101114020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天下午去找姐姐了。。姐姐抱着我哭了好久。。我知道。她生理期刚过。。很难受。。我什么都没做。。只是给他点了麦当劳。。静静的坐在他旁边。。看他像个小孩一样在吃。。吃的满嘴都是油。。和我这么多年。。都是她在照顾我。。好久都没有看到她像个小孩子一样了 https://t.co/SYP7QCQ4Ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 149,
+          "like_count": 27660,
+          "listed_count": 2,
+          "media_count": 739,
+          "tweet_count": 6576
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-19T06:32:58.000Z",
+        "description": "阿瑾。。。笨蛋阿瑾\n05年-05日-05月\nINFP\n有主人啦。\n休学中\n情绪状况良好\n调养身体中\n170cm-72kg\n互fo请私信我哦\n幻想友一：大洛洛\n幻想友二：小渺渺\n小号：@jinluomiao5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "jinluomiao5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jinluomiao2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jinluomiao2",
+                "start": 0,
+                "url": "https://t.co/k5FIDi3qlJ"
+              }
+            ]
+          }
+        },
+        "id": "1803314964284985344",
+        "location": "主人需要阿瑾的每一个地方",
+        "name": "小阿瑾",
+        "pinned_tweet_id": "2032833985257287964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038122196045045760/v8L3Bn_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3731,
+          "following_count": 826,
+          "like_count": 23358,
+          "listed_count": 6,
+          "media_count": 304,
+          "tweet_count": 5157
+        },
+        "url": "https://t.co/k5FIDi3qlJ",
+        "username": "jinluomiao",
+        "verified": false
+      }
+    ]
+  }
+}

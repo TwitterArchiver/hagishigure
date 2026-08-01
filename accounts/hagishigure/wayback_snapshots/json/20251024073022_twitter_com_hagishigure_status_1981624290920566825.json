@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981624287078293504"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1981624290920566825",
+    "created_at": "2025-10-24T07:30:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T08:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981624290920566825"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UrDD77UZBa",
+          "end": 29,
+          "expanded_url": "https://x.com/hagishigure/status/1981624290920566825/photo/1",
+          "media_key": "3_1981624287078293504",
+          "start": 6,
+          "url": "https://t.co/UrDD77UZBa"
+        },
+        {
+          "display_url": "x.com/Citricat_miaow…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/Citricat_miaow/status/1981555359941595171",
+          "start": 30,
+          "url": "https://t.co/xBNTqY2VIE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981624290920566825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981555359941595171",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "添加圖片。 https://t.co/UrDD77UZBa https://t.co/xBNTqY2VIE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_1981624287078293504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Akyj2WoAArupH.jpg",
+        "width": 480
+      },
+      {
+        "height": 1593,
+        "media_key": "3_1981555330426261504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3_mEwTW0AAkOXJ.png",
+        "width": 602
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981624287078293504"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1981624290920566825",
+        "created_at": "2025-10-24T07:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T08:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981624290920566825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UrDD77UZBa",
+              "end": 29,
+              "expanded_url": "https://x.com/hagishigure/status/1981624290920566825/photo/1",
+              "media_key": "3_1981624287078293504",
+              "start": 6,
+              "url": "https://t.co/UrDD77UZBa"
+            },
+            {
+              "display_url": "x.com/Citricat_miaow…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Citricat_miaow/status/1981555359941595171",
+              "start": 30,
+              "url": "https://t.co/xBNTqY2VIE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981624290920566825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981555359941595171",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "添加圖片。 https://t.co/UrDD77UZBa https://t.co/xBNTqY2VIE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981555330426261504"
+          ]
+        },
+        "author_id": "1564251283984650241",
+        "conversation_id": "1981555359941595171",
+        "created_at": "2025-10-24T02:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T03:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981555359941595171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VyX2O6OeFo",
+              "end": 29,
+              "expanded_url": "https://x.com/Citricat_miaow/status/1981555359941595171/photo/1",
+              "media_key": "3_1981555330426261504",
+              "start": 6,
+              "url": "https://t.co/VyX2O6OeFo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981555359941595171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎转世灵童 https://t.co/VyX2O6OeFo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 98,
+          "like_count": 5271,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 1012
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-29T13:59:12.000Z",
+        "description": "Language: Chinese, English Neurondiverse",
+        "id": "1564251283984650241",
+        "location": "Mitochondria ",
+        "name": "Citric acid",
+        "pinned_tweet_id": "1941305177346277612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663411578467938305/ypoACmu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 515,
+          "like_count": 10666,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 4986
+        },
+        "username": "Citricat_miaow",
+        "verified": false
+      }
+    ]
+  }
+}

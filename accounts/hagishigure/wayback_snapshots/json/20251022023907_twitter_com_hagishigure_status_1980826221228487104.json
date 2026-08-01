@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1980826221228487104",
+    "created_at": "2025-10-22T02:39:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T03:39:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980826221228487104"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/anqirocks/stat…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/anqirocks/status/1980594878678724833",
+          "start": 35,
+          "url": "https://t.co/zdfsgWlT9h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980826221228487104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980594878678724833",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人也一樣的。一個正常價值觀的菲林閱讀xhs在一天內將會變成源石粉末。 https://t.co/zdfsgWlT9h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1980594868796694528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3x8ih6WoAA-yT8.jpg",
+        "width": 740
+      },
+      {
+        "height": 1208,
+        "media_key": "3_1980594868821938176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3x8iiAX0AAsuOW.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1980826221228487104",
+        "created_at": "2025-10-22T02:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T03:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980826221228487104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/anqirocks/stat…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/anqirocks/status/1980594878678724833",
+              "start": 35,
+              "url": "https://t.co/zdfsgWlT9h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980826221228487104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980594878678724833",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人也一樣的。一個正常價值觀的菲林閱讀xhs在一天內將會變成源石粉末。 https://t.co/zdfsgWlT9h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980594868796694528",
+            "3_1980594868821938176"
+          ]
+        },
+        "author_id": "800153130977542146",
+        "conversation_id": "1980594878678724833",
+        "created_at": "2025-10-21T11:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T12:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980594878678724833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Us7V334NTF",
+              "end": 68,
+              "expanded_url": "https://x.com/anqirocks/status/1980594878678724833/photo/1",
+              "media_key": "3_1980594868796694528",
+              "start": 45,
+              "url": "https://t.co/Us7V334NTF"
+            },
+            {
+              "display_url": "pic.x.com/Us7V334NTF",
+              "end": 68,
+              "expanded_url": "https://x.com/anqirocks/status/1980594878678724833/photo/1",
+              "media_key": "3_1980594868821938176",
+              "start": 45,
+              "url": "https://t.co/Us7V334NTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980594878678724833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 16021,
+          "like_count": 143,
+          "quote_count": 11,
+          "reply_count": 8,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "在训练 AI 的时候，如果强迫 AI 大量阅读社交媒体，会对 AI 造成不可逆的脑损伤。 https://t.co/Us7V334NTF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 98,
+          "like_count": 4848,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 910
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2016-11-20T01:45:47.000Z",
+        "description": "💻 Gen AI product @BytedanceTalk @capcutapp 📍Beijing/ Shenzhen 🦾 May we have guts and patience to create 小马过河",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "BytedanceTalk"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "capcutapp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anqi.rocks",
+                "end": 23,
+                "expanded_url": "https://anqi.rocks",
+                "start": 0,
+                "url": "https://t.co/iMrlSZBkQq"
+              }
+            ]
+          }
+        },
+        "id": "800153130977542146",
+        "name": "AnqiRocks 安琪",
+        "pinned_tweet_id": "1738844930204913917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1149162437431590914/uPJXAs0B_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9093,
+          "following_count": 982,
+          "like_count": 17087,
+          "listed_count": 85,
+          "media_count": 1970,
+          "tweet_count": 13414
+        },
+        "url": "https://t.co/iMrlSZBkQq",
+        "username": "anqirocks",
+        "verified": true
+      }
+    ]
+  }
+}

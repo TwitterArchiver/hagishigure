@@ -1,0 +1,706 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": "Judo",
+          "id": "1067867511612354561",
+          "name": "Judo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1402708318829694976",
+          "name": "Fireworks festivals"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Martial arts",
+          "id": "847901828964466688",
+          "name": "Martial arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Judo",
+          "id": "1067867511612354561",
+          "name": "Judo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1324489219360784384",
+          "name": "Summer festivals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1402708318829694976",
+          "name": "Fireworks festivals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1994548877442334920",
+    "created_at": "2025-11-28T23:28:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T00:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994548877442334920"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 45,
+          "normalized_text": "THIS IS PENIS",
+          "probability": 0.8517,
+          "start": 33,
+          "type": "Other"
+        },
+        {
+          "end": 62,
+          "normalized_text": "山添大地",
+          "probability": 0.8888,
+          "start": 59,
+          "type": "Person"
+        },
+        {
+          "end": 72,
+          "normalized_text": "上尾花火大会",
+          "probability": 0.4998,
+          "start": 67,
+          "type": "Other"
+        },
+        {
+          "end": 78,
+          "normalized_text": "和木直樹",
+          "probability": 0.8949,
+          "start": 75,
+          "type": "Person"
+        },
+        {
+          "end": 90,
+          "normalized_text": "美深トロッコ王国",
+          "probability": 0.3724,
+          "start": 83,
+          "type": "Other"
+        },
+        {
+          "end": 97,
+          "normalized_text": "山添大地",
+          "probability": 0.9194,
+          "start": 94,
+          "type": "Person"
+        },
+        {
+          "end": 107,
+          "normalized_text": "ヴァギニング",
+          "probability": 0.4873,
+          "start": 102,
+          "type": "Person"
+        },
+        {
+          "end": 114,
+          "normalized_text": "和木直樹",
+          "probability": 0.8888,
+          "start": 111,
+          "type": "Person"
+        },
+        {
+          "end": 127,
+          "normalized_text": "ワクワク感ネパール",
+          "probability": 0.4866,
+          "start": 119,
+          "type": "Other"
+        },
+        {
+          "end": 134,
+          "normalized_text": "山添大地",
+          "probability": 0.9135,
+          "start": 131,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "191830183",
+          "start": 3,
+          "username": "neru_sleep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994548877442334920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 114
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994361053006975208",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neru_sleep: ポルチオ志摩トリビュートアルバム「THIS IS PENIS」\n1. 柔道の受身 / 山添大地\n2. 上尾花火大会/ 和木直樹\n3. 美深トロッコ王国 / 山添大地\n4. ヴァギニング / 和木直樹\n5. ワクワク感ネパール / 山添大地\n6.…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Judo",
+              "id": "1067867511612354561",
+              "name": "Judo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1402708318829694976",
+              "name": "Fireworks festivals"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Martial arts",
+              "id": "847901828964466688",
+              "name": "Martial arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Judo",
+              "id": "1067867511612354561",
+              "name": "Judo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324489219360784384",
+              "name": "Summer festivals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1402708318829694976",
+              "name": "Fireworks festivals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1994548877442334920",
+        "created_at": "2025-11-28T23:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T00:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994548877442334920"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "THIS IS PENIS",
+              "probability": 0.8517,
+              "start": 33,
+              "type": "Other"
+            },
+            {
+              "end": 62,
+              "normalized_text": "山添大地",
+              "probability": 0.8888,
+              "start": 59,
+              "type": "Person"
+            },
+            {
+              "end": 72,
+              "normalized_text": "上尾花火大会",
+              "probability": 0.4998,
+              "start": 67,
+              "type": "Other"
+            },
+            {
+              "end": 78,
+              "normalized_text": "和木直樹",
+              "probability": 0.8949,
+              "start": 75,
+              "type": "Person"
+            },
+            {
+              "end": 90,
+              "normalized_text": "美深トロッコ王国",
+              "probability": 0.3724,
+              "start": 83,
+              "type": "Other"
+            },
+            {
+              "end": 97,
+              "normalized_text": "山添大地",
+              "probability": 0.9194,
+              "start": 94,
+              "type": "Person"
+            },
+            {
+              "end": 107,
+              "normalized_text": "ヴァギニング",
+              "probability": 0.4873,
+              "start": 102,
+              "type": "Person"
+            },
+            {
+              "end": 114,
+              "normalized_text": "和木直樹",
+              "probability": 0.8888,
+              "start": 111,
+              "type": "Person"
+            },
+            {
+              "end": 127,
+              "normalized_text": "ワクワク感ネパール",
+              "probability": 0.4866,
+              "start": 119,
+              "type": "Other"
+            },
+            {
+              "end": 134,
+              "normalized_text": "山添大地",
+              "probability": 0.9135,
+              "start": 131,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "191830183",
+              "start": 3,
+              "username": "neru_sleep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994548877442334920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 114
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994361053006975208",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neru_sleep: ポルチオ志摩トリビュートアルバム「THIS IS PENIS」\n1. 柔道の受身 / 山添大地\n2. 上尾花火大会/ 和木直樹\n3. 美深トロッコ王国 / 山添大地\n4. ヴァギニング / 和木直樹\n5. ワクワク感ネパール / 山添大地\n6.…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "191830183",
+        "conversation_id": "1994361053006975208",
+        "created_at": "2025-11-28T11:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T12:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994361053006975208"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "THIS IS PENIS",
+              "probability": 0.8582,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 46,
+              "normalized_text": "山添大地",
+              "probability": 0.7694,
+              "start": 43,
+              "type": "Person"
+            },
+            {
+              "end": 56,
+              "normalized_text": "上尾花火大会",
+              "probability": 0.4385,
+              "start": 51,
+              "type": "Other"
+            },
+            {
+              "end": 62,
+              "normalized_text": "和木直樹",
+              "probability": 0.9028,
+              "start": 59,
+              "type": "Person"
+            },
+            {
+              "end": 74,
+              "normalized_text": "美深トロッコ王国",
+              "probability": 0.2718,
+              "start": 67,
+              "type": "Place"
+            },
+            {
+              "end": 81,
+              "normalized_text": "山添大地",
+              "probability": 0.8036,
+              "start": 78,
+              "type": "Person"
+            },
+            {
+              "end": 91,
+              "normalized_text": "ヴァギニング",
+              "probability": 0.4655,
+              "start": 86,
+              "type": "Person"
+            },
+            {
+              "end": 98,
+              "normalized_text": "和木直樹",
+              "probability": 0.8967,
+              "start": 95,
+              "type": "Person"
+            },
+            {
+              "end": 111,
+              "normalized_text": "ネパール",
+              "probability": 0.39,
+              "start": 108,
+              "type": "Place"
+            },
+            {
+              "end": 118,
+              "normalized_text": "山添大地",
+              "probability": 0.8296,
+              "start": 115,
+              "type": "Person"
+            },
+            {
+              "end": 129,
+              "normalized_text": "ドュ",
+              "probability": 0.6383,
+              "start": 128,
+              "type": "Person"
+            },
+            {
+              "end": 136,
+              "normalized_text": "和木直樹",
+              "probability": 0.8983,
+              "start": 133,
+              "type": "Person"
+            },
+            {
+              "end": 156,
+              "normalized_text": "何故ペニスを散水車に改造したのか",
+              "probability": 0.4259,
+              "start": 141,
+              "type": "Other"
+            },
+            {
+              "end": 163,
+              "normalized_text": "山添大地",
+              "probability": 0.8669,
+              "start": 160,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994361053006975208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 45459,
+          "like_count": 1127,
+          "quote_count": 51,
+          "reply_count": 12,
+          "retweet_count": 114
+        },
+        "reply_settings": "everyone",
+        "text": "ポルチオ志摩トリビュートアルバム「THIS IS PENIS」\n1. 柔道の受身 / 山添大地\n2. 上尾花火大会/ 和木直樹\n3. 美深トロッコ王国 / 山添大地\n4. ヴァギニング / 和木直樹\n5. ワクワク感ネパール / 山添大地\n6. ('_')ドュ / 和木直樹\n7. 何故ペニスを散水車に改造したのか / 山添大地\n8. 聖典 ( Bonus T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 111,
+          "like_count": 11065,
+          "listed_count": 0,
+          "media_count": 363,
+          "tweet_count": 2587
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-17T13:31:40.000Z",
+        "description": "japanese songwriting ninja\nYouTube / https://t.co/rmHHRsP9zr\nNicoNico  / https://t.co/8Jd82jJpNY\nInstagram / https://t.co/MtOYuWaN99\nBusiness / info@neru-official.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "goo.gl/bXQVc0",
+                "end": 60,
+                "expanded_url": "http://goo.gl/bXQVc0",
+                "start": 37,
+                "url": "https://t.co/rmHHRsP9zr"
+              },
+              {
+                "display_url": "goo.gl/VFQYtP",
+                "end": 96,
+                "expanded_url": "http://goo.gl/VFQYtP",
+                "start": 73,
+                "url": "https://t.co/8Jd82jJpNY"
+              },
+              {
+                "display_url": "goo.gl/nM8Ldf",
+                "end": 132,
+                "expanded_url": "http://goo.gl/nM8Ldf",
+                "start": 109,
+                "url": "https://t.co/MtOYuWaN99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "neruworks.blog.fc2.com",
+                "end": 23,
+                "expanded_url": "http://neruworks.blog.fc2.com/",
+                "start": 0,
+                "url": "https://t.co/Kg1gIzH8TU"
+              }
+            ]
+          }
+        },
+        "id": "191830183",
+        "location": "楽曲利用のガイドラインは下記URLをご参照下さい。",
+        "name": "Neru",
+        "pinned_tweet_id": "1424295941893279745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/829627160801341440/II2gtFdo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590500,
+          "following_count": 269,
+          "like_count": 1080,
+          "listed_count": 3108,
+          "media_count": 154,
+          "tweet_count": 1045
+        },
+        "url": "https://t.co/Kg1gIzH8TU",
+        "username": "neru_sleep",
+        "verified": true
+      }
+    ]
+  }
+}

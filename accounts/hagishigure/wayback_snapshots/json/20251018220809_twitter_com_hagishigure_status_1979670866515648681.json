@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1979487664480133249",
+    "created_at": "2025-10-18T22:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T23:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979670866515648681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1894692288963792896",
+          "start": 0,
+          "username": "dongxlian114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979670866515648681",
+    "in_reply_to_user_id": "1894692288963792896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979487664480133249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dongxlian114514 我的評價是拉康流派滾出心理學。\n好好的阿德勒不學学拉康這種一切都是伊斯帕底情結衍生物的東西。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 302,
+        "media_key": "16_1979487642614943744",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G3iNhe9W0AA8opm.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G3iNhe9W0AA8opm.mp4"
+          }
+        ],
+        "width": 300
+      },
+      {
+        "height": 1638,
+        "media_key": "3_1979480287382790144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3iG1WlW4AASpgx.jpg",
+        "width": 737
+      },
+      {
+        "height": 256,
+        "media_key": "3_1979479951339388928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3iGhyuXgAA8IEq.jpg",
+        "width": 296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1979487664480133249",
+        "created_at": "2025-10-18T22:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T23:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979670866515648681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1894692288963792896",
+              "start": 0,
+              "username": "dongxlian114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979670866515648681",
+        "in_reply_to_user_id": "1894692288963792896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979487664480133249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dongxlian114514 我的評價是拉康流派滾出心理學。\n好好的阿德勒不學学拉康這種一切都是伊斯帕底情結衍生物的東西。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1979487642614943744",
+            "3_1979480287382790144",
+            "3_1979479951339388928"
+          ]
+        },
+        "author_id": "1894692288963792896",
+        "conversation_id": "1979487664480133249",
+        "created_at": "2025-10-18T10:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T11:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979487664480133249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GyxT8Fr0P7",
+              "end": 160,
+              "expanded_url": "https://x.com/dongxlian114514/status/1979487664480133249/photo/1",
+              "media_key": "16_1979487642614943744",
+              "start": 137,
+              "url": "https://t.co/GyxT8Fr0P7"
+            },
+            {
+              "display_url": "pic.x.com/GyxT8Fr0P7",
+              "end": 160,
+              "expanded_url": "https://x.com/dongxlian114514/status/1979487664480133249/photo/1",
+              "media_key": "3_1979480287382790144",
+              "start": 137,
+              "url": "https://t.co/GyxT8Fr0P7"
+            },
+            {
+              "display_url": "pic.x.com/GyxT8Fr0P7",
+              "end": 160,
+              "expanded_url": "https://x.com/dongxlian114514/status/1979487664480133249/photo/1",
+              "media_key": "3_1979479951339388928",
+              "start": 137,
+              "url": "https://t.co/GyxT8Fr0P7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979487664480133249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 297,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有一段时间认为我浏览大量伪娘文化（因为这是XP）被困在了一个有关男娘，性少数群体的信息茧房里。今天这种想法被打破了，因为我发现我关注过的一些社会，心理甚至是鉴证类up主都开始做有关伪娘文化的内容。伪娘文化对大众生活，娱乐空间的扩张是实实在在的，并不是个别人的爱好，性癖。 https://t.co/GyxT8Fr0P7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 94,
+          "like_count": 4187,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 737
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-26T10:15:20.000Z",
+        "description": "没有摆脱低级趣味的人/MTF：Male transformer/Decepticon",
+        "id": "1894692288963792896",
+        "location": "北京中南海",
+        "name": "祥の乂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894697758595952640/7HTAs6Og_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 79,
+          "like_count": 403,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 255
+        },
+        "username": "dongxlian114514",
+        "verified": false
+      }
+    ]
+  }
+}

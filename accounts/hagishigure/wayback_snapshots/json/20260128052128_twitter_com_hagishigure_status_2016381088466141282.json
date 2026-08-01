@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2016381088466141282",
+    "created_at": "2026-01-28T05:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T06:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016381088466141282"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NoContextError…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/NoContextErrors/status/2015736447232610418",
+          "start": 44,
+          "url": "https://t.co/jXGRlx3oOj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016381088466141282",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015736447232610418",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "私はシールを私のオナニー棒に貼って、それから私は丸一日絶頂して、とてもすばらしいです。 https://t.co/jXGRlx3oOj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 52268,
+        "height": 1024,
+        "media_key": "7_2015736406350733312",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2015736406350733312/pu/img/MDRpDPC3s6QcwOuF.jpg",
+        "public_metrics": {
+          "view_count": 362202
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015736406350733312/pu/vid/avc1/320x568/tAb-MM4QKo2prZJO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015736406350733312/pu/vid/avc1/480x852/jX-qusfSxdCH-0TV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015736406350733312/pu/vid/avc1/576x1024/Xtn48g--HRA-M5_f.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2015736406350733312/pu/pl/OI_p0OFA4ZaAvTdm.m3u8?v=ccd"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2016381088466141282",
+        "created_at": "2026-01-28T05:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T06:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016381088466141282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NoContextError…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/NoContextErrors/status/2015736447232610418",
+              "start": 44,
+              "url": "https://t.co/jXGRlx3oOj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016381088466141282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015736447232610418",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "私はシールを私のオナニー棒に貼って、それから私は丸一日絶頂して、とてもすばらしいです。 https://t.co/jXGRlx3oOj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2015736406350733312"
+          ]
+        },
+        "author_id": "1488025195981852672",
+        "conversation_id": "2015736447232610418",
+        "created_at": "2026-01-26T10:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T11:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015736447232610418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KVlr298ejw",
+              "end": 23,
+              "expanded_url": "https://x.com/NoContextErrors/status/2015736447232610418/video/1",
+              "media_key": "7_2015736406350733312",
+              "start": 0,
+              "url": "https://t.co/KVlr298ejw"
+            },
+            {
+              "display_url": "x.com/NoContextError…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/NoContextErrors/status/2014040323635192216",
+              "start": 24,
+              "url": "https://t.co/BgumpiG4f8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015736447232610418",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 526,
+          "impression_count": 1415447,
+          "like_count": 1939,
+          "quote_count": 83,
+          "reply_count": 87,
+          "retweet_count": 134
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014040323635192216",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/KVlr298ejw https://t.co/BgumpiG4f8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 127,
+          "like_count": 16749,
+          "listed_count": 0,
+          "media_count": 453,
+          "tweet_count": 3940
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-31T05:43:53.000Z",
+        "description": "誤字脱字・誤爆ツイート・放送事故・やらかし・ミスなど DMでネタ提供募集してます Amazonアソシエイト参加中",
+        "id": "1488025195981852672",
+        "name": "誤爆",
+        "pinned_tweet_id": "2014561790978646239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554364864277073921/UfRymkQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162569,
+          "following_count": 19,
+          "like_count": 3630,
+          "listed_count": 310,
+          "media_count": 4480,
+          "tweet_count": 8712
+        },
+        "username": "NoContextErrors",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2048726924869124566",
+    "created_at": "2026-04-28T08:00:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T09:00:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049036007673041176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "48307320",
+          "start": 0,
+          "username": "beardomination"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049036007673041176",
+    "in_reply_to_user_id": "48307320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048726924869124566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@beardomination 我选择deepseek。😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2048726913175420928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6KRd2agAAuxuE.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2048726913171247104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6KRd1a0AAneBS.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2048726913368420352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6KRekbcAASlGy.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2048726924869124566",
+        "created_at": "2026-04-28T08:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T09:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049036007673041176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "48307320",
+              "start": 0,
+              "username": "beardomination"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049036007673041176",
+        "in_reply_to_user_id": "48307320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048726924869124566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@beardomination 我选择deepseek。😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048726913175420928",
+            "3_2048726913171247104",
+            "3_2048726913368420352"
+          ]
+        },
+        "author_id": "48307320",
+        "conversation_id": "2048726924869124566",
+        "created_at": "2026-04-27T11:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048726924869124566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CBIBOeAmVi",
+              "end": 33,
+              "expanded_url": "https://x.com/beardomination/status/2048726924869124566/photo/1",
+              "media_key": "3_2048726913175420928",
+              "start": 10,
+              "url": "https://t.co/CBIBOeAmVi"
+            },
+            {
+              "display_url": "pic.x.com/CBIBOeAmVi",
+              "end": 33,
+              "expanded_url": "https://x.com/beardomination/status/2048726924869124566/photo/1",
+              "media_key": "3_2048726913171247104",
+              "start": 10,
+              "url": "https://t.co/CBIBOeAmVi"
+            },
+            {
+              "display_url": "pic.x.com/CBIBOeAmVi",
+              "end": 33,
+              "expanded_url": "https://x.com/beardomination/status/2048726924869124566/photo/1",
+              "media_key": "3_2048726913368420352",
+              "start": 10,
+              "url": "https://t.co/CBIBOeAmVi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048726924869124566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 399,
+          "impression_count": 96465,
+          "like_count": 1126,
+          "quote_count": 9,
+          "reply_count": 65,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "请选择你的人工智障 https://t.co/CBIBOeAmVi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 149,
+          "like_count": 27807,
+          "listed_count": 2,
+          "media_count": 740,
+          "tweet_count": 6623
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-18T10:14:47.000Z",
+        "description": "熊与人的悲欢并不相通，所以我决定把你们全部挂树。小号：@RealFoodyCat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "RealFoodyCat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/littlemoebear",
+                "end": 23,
+                "expanded_url": "https://t.me/littlemoebear",
+                "start": 0,
+                "url": "https://t.co/TbQer6WryJ"
+              }
+            ]
+          }
+        },
+        "id": "48307320",
+        "location": "Bearia",
+        "name": "🐻",
+        "pinned_tweet_id": "1347367420718039040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1405420343968243714/M7EO8Jg2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13873,
+          "following_count": 576,
+          "like_count": 3099,
+          "listed_count": 95,
+          "media_count": 1997,
+          "tweet_count": 57234
+        },
+        "url": "https://t.co/TbQer6WryJ",
+        "username": "beardomination",
+        "verified": false
+      }
+    ]
+  }
+}

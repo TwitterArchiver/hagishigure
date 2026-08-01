@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023431374703857664",
+        "3_2023431401899438083"
+      ],
+      "media_source_tweet_id": [
+        "2023431585958351265",
+        "2023431585958351265"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "2024637442184085967",
+    "created_at": "2026-02-20T00:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T01:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024637442184085967"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "TME",
+          "probability": 0.3951,
+          "start": 16,
+          "type": "Other"
+        },
+        {
+          "end": 65,
+          "normalized_text": "Ray",
+          "probability": 0.4152,
+          "start": 63,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1575864254418149377",
+          "start": 3,
+          "username": "AnnaTLeigh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4Q8VMBXllb",
+          "end": 128,
+          "expanded_url": "https://x.com/AnnaTLeigh/status/2023431585958351265/photo/1",
+          "media_key": "3_2023431374703857664",
+          "start": 105,
+          "url": "https://t.co/4Q8VMBXllb"
+        },
+        {
+          "display_url": "pic.x.com/4Q8VMBXllb",
+          "end": 128,
+          "expanded_url": "https://x.com/AnnaTLeigh/status/2023431585958351265/photo/1",
+          "media_key": "3_2023431401899438083",
+          "start": 105,
+          "url": "https://t.co/4Q8VMBXllb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024637442184085967",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023431585958351265",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AnnaTLeigh: TME artists love deploying the Masculinization Ray against real or fictional trans women https://t.co/4Q8VMBXllb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 783,
+        "media_key": "3_2023431374703857664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBSsHVyakAAhh0b.png",
+        "width": 588
+      },
+      {
+        "height": 833,
+        "media_key": "3_2023431401899438083",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBSsI7GWMAMTosg.png",
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023431374703857664",
+            "3_2023431401899438083"
+          ],
+          "media_source_tweet_id": [
+            "2023431585958351265",
+            "2023431585958351265"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "2024637442184085967",
+        "created_at": "2026-02-20T00:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T01:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024637442184085967"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "TME",
+              "probability": 0.3951,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 65,
+              "normalized_text": "Ray",
+              "probability": 0.4152,
+              "start": 63,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1575864254418149377",
+              "start": 3,
+              "username": "AnnaTLeigh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Q8VMBXllb",
+              "end": 128,
+              "expanded_url": "https://x.com/AnnaTLeigh/status/2023431585958351265/photo/1",
+              "media_key": "3_2023431374703857664",
+              "start": 105,
+              "url": "https://t.co/4Q8VMBXllb"
+            },
+            {
+              "display_url": "pic.x.com/4Q8VMBXllb",
+              "end": 128,
+              "expanded_url": "https://x.com/AnnaTLeigh/status/2023431585958351265/photo/1",
+              "media_key": "3_2023431401899438083",
+              "start": 105,
+              "url": "https://t.co/4Q8VMBXllb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024637442184085967",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023431585958351265",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AnnaTLeigh: TME artists love deploying the Masculinization Ray against real or fictional trans women https://t.co/4Q8VMBXllb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023431374703857664",
+            "3_2023431401899438083"
+          ]
+        },
+        "author_id": "1575864254418149377",
+        "conversation_id": "2023431585958351265",
+        "created_at": "2026-02-16T16:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T17:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023431585958351265"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "TME",
+              "probability": 0.3727,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 49,
+              "normalized_text": "Ray",
+              "probability": 0.4295,
+              "start": 47,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Q8VMBXllb",
+              "end": 112,
+              "expanded_url": "https://x.com/AnnaTLeigh/status/2023431585958351265/photo/1",
+              "media_key": "3_2023431374703857664",
+              "start": 89,
+              "url": "https://t.co/4Q8VMBXllb"
+            },
+            {
+              "display_url": "pic.x.com/4Q8VMBXllb",
+              "end": 112,
+              "expanded_url": "https://x.com/AnnaTLeigh/status/2023431585958351265/photo/1",
+              "media_key": "3_2023431401899438083",
+              "start": 89,
+              "url": "https://t.co/4Q8VMBXllb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023431585958351265",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 11312,
+          "like_count": 510,
+          "quote_count": 10,
+          "reply_count": 10,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "TME artists love deploying the Masculinization Ray against real or fictional trans women https://t.co/4Q8VMBXllb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 133,
+          "like_count": 20650,
+          "listed_count": 0,
+          "media_count": 585,
+          "tweet_count": 5030
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-30T15:05:14.000Z",
+        "description": "Transfem, bisexual, baeddel, Left libertarian",
+        "id": "1575864254418149377",
+        "location": "She/Her",
+        "name": "Anna Leigh (mostly on b sky) 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812813597120057345/EF07y1qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 223,
+          "like_count": 20195,
+          "listed_count": 3,
+          "media_count": 126,
+          "tweet_count": 3418
+        },
+        "username": "AnnaTLeigh",
+        "verified": false
+      }
+    ]
+  }
+}

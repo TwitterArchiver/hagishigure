@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2033677630134730764",
+    "created_at": "2026-03-16T22:51:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T23:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033677630134730764"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/translate_cn/s…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/translate_cn/status/2033547006212493569",
+          "start": 16,
+          "url": "https://t.co/gtx0isBsyQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033677630134730764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033547006212493569",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "用标签分类人是极其愚蠢的行为。 https://t.co/gtx0isBsyQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 798,
+        "media_key": "3_2033546997693886464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDicOF-bMAAKtl6.jpg",
+        "width": 800
+      },
+      {
+        "height": 800,
+        "media_key": "3_2033546999665152000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDicONUaUAAz9JD.jpg",
+        "width": 791
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2033547001984585728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDicOV9aEAAQu7N.jpg",
+        "width": 1003
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2033547004329226240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDicOesacAAJk7Q.jpg",
+        "width": 995
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2033677630134730764",
+        "created_at": "2026-03-16T22:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T23:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033677630134730764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/translate_cn/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/translate_cn/status/2033547006212493569",
+              "start": 16,
+              "url": "https://t.co/gtx0isBsyQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033677630134730764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033547006212493569",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "用标签分类人是极其愚蠢的行为。 https://t.co/gtx0isBsyQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033546997693886464",
+            "3_2033546999665152000",
+            "3_2033547001984585728",
+            "3_2033547004329226240"
+          ]
+        },
+        "author_id": "1354157392959660038",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033547006212493569",
+        "created_at": "2026-03-16T14:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T15:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033547006212493569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "14K likes, 95 comments - queeeerchameleon on February 15, 2026: \"Happy Aro Week Frens!\".",
+              "display_url": "instagram.com/p/DUyVZZjjeSx/",
+              "end": 33,
+              "expanded_url": "https://www.instagram.com/p/DUyVZZjjeSx/",
+              "start": 10,
+              "status": 200,
+              "title": "Queer Chameleon (@queeeerchameleon) • Instagram photos and videos",
+              "unwound_url": "https://www.instagram.com/p/DUyVZZjjeSx/",
+              "url": "https://t.co/39286yDNH2"
+            },
+            {
+              "display_url": "pic.x.com/PTH7FBEgXh",
+              "end": 57,
+              "expanded_url": "https://x.com/translate_cn/status/2033547006212493569/photo/1",
+              "media_key": "3_2033546997693886464",
+              "start": 34,
+              "url": "https://t.co/PTH7FBEgXh"
+            },
+            {
+              "display_url": "pic.x.com/PTH7FBEgXh",
+              "end": 57,
+              "expanded_url": "https://x.com/translate_cn/status/2033547006212493569/photo/1",
+              "media_key": "3_2033546999665152000",
+              "start": 34,
+              "url": "https://t.co/PTH7FBEgXh"
+            },
+            {
+              "display_url": "pic.x.com/PTH7FBEgXh",
+              "end": 57,
+              "expanded_url": "https://x.com/translate_cn/status/2033547006212493569/photo/1",
+              "media_key": "3_2033547001984585728",
+              "start": 34,
+              "url": "https://t.co/PTH7FBEgXh"
+            },
+            {
+              "display_url": "pic.x.com/PTH7FBEgXh",
+              "end": 57,
+              "expanded_url": "https://x.com/translate_cn/status/2033547006212493569/photo/1",
+              "media_key": "3_2033547004329226240",
+              "start": 34,
+              "url": "https://t.co/PTH7FBEgXh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033547006212493569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 376,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "什么是无浪漫吸引\n\nhttps://t.co/39286yDNH2 https://t.co/PTH7FBEgXh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 143,
+          "like_count": 25788,
+          "listed_count": 2,
+          "media_count": 688,
+          "tweet_count": 6152
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-26T20:01:30.000Z",
+        "description": "这边是个人账号哦～ \n\n欢迎关注！欢迎贴贴！\n\n想要看我日常生活推的朋友请私信\n\n有意参与翻译的朋友请留言",
+        "id": "1354157392959660038",
+        "name": "推特翻译",
+        "pinned_tweet_id": "1856026041489498490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1354668835484225540/azcPVoB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16354,
+          "following_count": 881,
+          "like_count": 985,
+          "listed_count": 96,
+          "media_count": 9843,
+          "tweet_count": 10435
+        },
+        "username": "translate_cn",
+        "verified": false
+      }
+    ]
+  }
+}

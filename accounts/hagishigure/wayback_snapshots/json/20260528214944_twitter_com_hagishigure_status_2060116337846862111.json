@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2059749326465925182",
+    "created_at": "2026-05-28T21:49:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T22:49:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060116337846862111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1898849785559580672",
+          "start": 0,
+          "username": "Sakura_RinSaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060116337846862111",
+    "in_reply_to_user_id": "1898849785559580672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059749326465925182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakura_RinSaki 其实是主要想不到别的什么方法了，说要陪ta一起吧，ta不要，说要抱ta吧，ta说ta不配，说要打电话吧，ta又不接,那马上买个飞机票飞过去吧，ta还逼对方退了。\n那你告诉我这种情况下，除了能说这种话之外，还能干什么？😾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2059749326465925182",
+        "created_at": "2026-05-28T21:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T22:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060116337846862111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898849785559580672",
+              "start": 0,
+              "username": "Sakura_RinSaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060116337846862111",
+        "in_reply_to_user_id": "1898849785559580672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059749326465925182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura_RinSaki 其实是主要想不到别的什么方法了，说要陪ta一起吧，ta不要，说要抱ta吧，ta说ta不配，说要打电话吧，ta又不接,那马上买个飞机票飞过去吧，ta还逼对方退了。\n那你告诉我这种情况下，除了能说这种话之外，还能干什么？😾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2059749326465925182",
+        "created_at": "2026-05-27T21:31:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T22:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059749326465925182"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059749326465925182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4152,
+          "like_count": 80,
+          "quote_count": 4,
+          "reply_count": 13,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "為什麼有人勸別人不要自殺的方式是\n”你死我就一起死”\n這是什麼高級的情緒勒索嗎……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 154,
+          "like_count": 30019,
+          "listed_count": 3,
+          "media_count": 781,
+          "tweet_count": 7196
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n@moon_sakiki\n丨tg:SukuMurong\n丨VRC: 吸血喵絨絨\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 31,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 高雄",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2453,
+          "following_count": 111,
+          "like_count": 4574,
+          "listed_count": 8,
+          "media_count": 236,
+          "tweet_count": 4058
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      }
+    ]
+  }
+}

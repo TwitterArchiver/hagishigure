@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976171380740849666"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1976051698662539420",
+    "created_at": "2025-10-09T06:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T07:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976171406502265017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424779836938022913",
+          "start": 0,
+          "username": "amber_toffee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i8JrRggZHN",
+          "end": 37,
+          "expanded_url": "https://x.com/hagishigure/status/1976171406502265017/photo/1",
+          "media_key": "3_1976171380740849666",
+          "start": 14,
+          "url": "https://t.co/i8JrRggZHN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976171406502265017",
+    "in_reply_to_user_id": "1424779836938022913",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976051698662539420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_toffee https://t.co/i8JrRggZHN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976171380740849666",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2zFZoxaAAIG2Dm.jpg",
+        "width": 946
+      },
+      {
+        "height": 1687,
+        "media_key": "3_1976051695625916416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2xYjC-XUAA4hZ5.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976171380740849666"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1976051698662539420",
+        "created_at": "2025-10-09T06:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T07:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976171406502265017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i8JrRggZHN",
+              "end": 37,
+              "expanded_url": "https://x.com/hagishigure/status/1976171406502265017/photo/1",
+              "media_key": "3_1976171380740849666",
+              "start": 14,
+              "url": "https://t.co/i8JrRggZHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976171406502265017",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976051698662539420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee https://t.co/i8JrRggZHN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976051695625916416"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "conversation_id": "1976051698662539420",
+        "created_at": "2025-10-08T22:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T23:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976051698662539420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n2035qj2nZ",
+              "end": 40,
+              "expanded_url": "https://x.com/amber_toffee/status/1976051698662539420/photo/1",
+              "media_key": "3_1976051695625916416",
+              "start": 17,
+              "url": "https://t.co/n2035qj2nZ"
+            },
+            {
+              "display_url": "x.com/sauricat/statu…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/sauricat/status/1976045698899714121",
+              "start": 41,
+              "url": "https://t.co/KDzaTsAkUm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976051698662539420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3081,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976045698899714121",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以你猜我从几天前开始就在干什么 https://t.co/n2035qj2nZ https://t.co/KDzaTsAkUm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 87,
+          "like_count": 2210,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 368
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "ଳ ❤︎ @noaayoyaoaya / ☭ / mtf / intp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber🪼",
+        "pinned_tweet_id": "1946964550160355612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18482,
+          "following_count": 2322,
+          "like_count": 33671,
+          "listed_count": 56,
+          "media_count": 680,
+          "tweet_count": 16571
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

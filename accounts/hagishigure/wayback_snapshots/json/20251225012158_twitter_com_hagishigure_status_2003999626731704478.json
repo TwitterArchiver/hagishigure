@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2003432338345329037",
+    "created_at": "2025-12-25T01:21:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T02:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003999626731704478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1758822764608401408",
+          "start": 0,
+          "username": "jywg123"
+        },
+        {
+          "end": 18,
+          "id": "1370966967444643842",
+          "start": 9,
+          "username": "CCCola13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003999626731704478",
+    "in_reply_to_user_id": "1758822764608401408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003806220994633768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jywg123 @CCCola13 什麼是女性，女性是由什麼劃定的，認為女性經歷具有獨特性，有什麼界定「獨特」，用基於「性別」敘事敘述「獨特」那麼具有獨特性的是「性別」而非「女性群體」，這正是用「獨特」暴力抹除「女性群體他者」，与伊利加雷批判列維納斯的無異，以本質群體符號象徵對抗大他者符號秩序，是對父權邏輯的重複。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2003432338345329037",
+        "created_at": "2025-12-25T01:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T02:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003999626731704478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1758822764608401408",
+              "start": 0,
+              "username": "jywg123"
+            },
+            {
+              "end": 18,
+              "id": "1370966967444643842",
+              "start": 9,
+              "username": "CCCola13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003999626731704478",
+        "in_reply_to_user_id": "1758822764608401408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003806220994633768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jywg123 @CCCola13 什麼是女性，女性是由什麼劃定的，認為女性經歷具有獨特性，有什麼界定「獨特」，用基於「性別」敘事敘述「獨特」那麼具有獨特性的是「性別」而非「女性群體」，這正是用「獨特」暴力抹除「女性群體他者」，与伊利加雷批判列維納斯的無異，以本質群體符號象徵對抗大他者符號秩序，是對父權邏輯的重複。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758822764608401408",
+        "conversation_id": "2003432338345329037",
+        "created_at": "2025-12-24T12:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T13:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003806220994633768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1370966967444643842",
+              "start": 0,
+              "username": "CCCola13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003806220994633768",
+        "in_reply_to_user_id": "1370966967444643842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 323,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003432338345329037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCCola13 女性空间的目的是基于生物性而非性别认同，这不是父权制的符号逻辑，而是承认生理差异以保护女性免受男性潜在威胁。反而认为，混淆性和性别正是父权制试图抹除女性独特经历的方式，这种排除反而是对抗父权制"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 118,
+          "like_count": 13700,
+          "listed_count": 0,
+          "media_count": 390,
+          "tweet_count": 3191
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-17T11:56:46.000Z",
+        "description": "算温和，愿意发声，愿意沟通，输出个人观点，交流观点，无论网络还是现实。思想目前属于不停学习与进步期",
+        "id": "1758822764608401408",
+        "name": "G",
+        "pinned_tweet_id": "1999782586290475288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000554888716247040/lDGPv5wn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 73,
+          "like_count": 739,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 245
+        },
+        "username": "jywg123",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-14T05:16:21.000Z",
+        "description": "親手埋葬\n每一刻一顆",
+        "id": "1370966967444643842",
+        "name": "CCCola",
+        "pinned_tweet_id": "1872180739468570991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739696905209384960/fIErFCgJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1932,
+          "following_count": 435,
+          "like_count": 22114,
+          "listed_count": 4,
+          "media_count": 415,
+          "tweet_count": 7609
+        },
+        "username": "CCCola13",
+        "verified": false
+      }
+    ]
+  }
+}

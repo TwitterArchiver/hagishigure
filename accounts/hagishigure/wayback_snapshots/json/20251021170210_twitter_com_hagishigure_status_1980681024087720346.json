@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1980535389871026394",
+    "created_at": "2025-10-21T17:02:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T18:02:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980681024087720346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1889204408283717632",
+          "start": 0,
+          "username": "jyx14612"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980681024087720346",
+    "in_reply_to_user_id": "1889204408283717632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980587394761134384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jyx14612 打標籤容易被掛上流動小紅旗（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1980535389871026394",
+        "created_at": "2025-10-21T17:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T18:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980681024087720346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1889204408283717632",
+              "start": 0,
+              "username": "jyx14612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980681024087720346",
+        "in_reply_to_user_id": "1889204408283717632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980587394761134384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jyx14612 打標籤容易被掛上流動小紅旗（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889204408283717632",
+        "conversation_id": "1980535389871026394",
+        "created_at": "2025-10-21T10:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T11:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980587394761134384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1583687305193172993",
+              "start": 0,
+              "username": "lmzyuxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980587394761134384",
+        "in_reply_to_user_id": "1583687305193172993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980580310187409804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lmzyuxi 不太了解推的流量机制。似乎不打标签好些"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 97,
+          "like_count": 4698,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 855
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-11T06:47:28.000Z",
+        "description": "19岁大二女生。脾气很好很好沟通，喜欢漂亮的孩子。",
+        "id": "1889204408283717632",
+        "location": "Jiang su",
+        "name": "K.slq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979833039287894016/hLc4_N2S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 67,
+          "like_count": 111,
+          "listed_count": 3,
+          "media_count": 4,
+          "tweet_count": 58
+        },
+        "username": "jyx14612",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1979151610908676473",
+    "created_at": "2025-10-17T12:13:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T13:13:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979158921769042343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1069931275698335744",
+          "start": 0,
+          "username": "TponyS_xiaoma"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/TponyS_xiaoma/…",
+          "end": 38,
+          "expanded_url": "https://x.com/TponyS_xiaoma/status/1979157922975457727",
+          "start": 15,
+          "url": "https://t.co/DuPNmcJ27P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979158921769042343",
+    "in_reply_to_user_id": "1069931275698335744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979157922975457727",
+        "type": "quoted"
+      },
+      {
+        "id": "1979158585335758870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TponyS_xiaoma https://t.co/DuPNmcJ27P\n。沒帶腦子是這樣。要我強調多少次。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1979151610908676473",
+        "created_at": "2025-10-17T12:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T13:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979158921769042343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1069931275698335744",
+              "start": 0,
+              "username": "TponyS_xiaoma"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/TponyS_xiaoma/…",
+              "end": 38,
+              "expanded_url": "https://x.com/TponyS_xiaoma/status/1979157922975457727",
+              "start": 15,
+              "url": "https://t.co/DuPNmcJ27P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979158921769042343",
+        "in_reply_to_user_id": "1069931275698335744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979157922975457727",
+            "type": "quoted"
+          },
+          {
+            "id": "1979158585335758870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TponyS_xiaoma https://t.co/DuPNmcJ27P\n。沒帶腦子是這樣。要我強調多少次。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1069931275698335744",
+        "conversation_id": "1979151610908676473",
+        "created_at": "2025-10-17T12:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T13:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979157922975457727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979157922975457727",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979153556608553006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure 大他者理论又是啥玩意 你是想说精神分析的理论？\n精神分析是解读父权制的工具 ，被你把握成父权制产生了精神分析？\n那反思批判父权制的女权主义也可以说父权制的产物了..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1069931275698335744",
+        "conversation_id": "1979151610908676473",
+        "created_at": "2025-10-17T12:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T13:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979158585335758870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979158585335758870",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979157308409287053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure 你能停止复读 总结下我的观点是啥 再总结下你的观点是啥 然后说说为什么吗？\n你复读齐泽克的话到底在反驳啥你让我举什么论文 ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 92,
+          "like_count": 3905,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 662
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-04T12:27:49.000Z",
+        "description": "",
+        "id": "1069931275698335744",
+        "location": "浙江",
+        "name": "TponyS",
+        "pinned_tweet_id": "1971978210486505664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882716350759788544/hkD4Er1f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15585,
+          "following_count": 346,
+          "like_count": 3641,
+          "listed_count": 118,
+          "media_count": 661,
+          "tweet_count": 5752
+        },
+        "username": "TponyS_xiaoma",
+        "verified": false
+      }
+    ]
+  }
+}

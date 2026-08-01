@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979856481546629120"
+      ],
+      "media_source_tweet_id": [
+        "1979856490078015833"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1980235140262748661",
+    "created_at": "2025-10-20T11:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T12:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980235140262748661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1042070984663162880",
+          "start": 3,
+          "username": "tw111111111111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uoFY8J8K0a",
+          "end": 43,
+          "expanded_url": "https://x.com/tw111111111111/status/1979856490078015833/photo/1",
+          "media_key": "3_1979856481546629120",
+          "start": 20,
+          "url": "https://t.co/uoFY8J8K0a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980235140262748661",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979856490078015833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tw111111111111: https://t.co/uoFY8J8K0a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_1979856481546629120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3nc-vDXcAAFftr.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979856481546629120"
+          ],
+          "media_source_tweet_id": [
+            "1979856490078015833"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1980235140262748661",
+        "created_at": "2025-10-20T11:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T12:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980235140262748661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1042070984663162880",
+              "start": 3,
+              "username": "tw111111111111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uoFY8J8K0a",
+              "end": 43,
+              "expanded_url": "https://x.com/tw111111111111/status/1979856490078015833/photo/1",
+              "media_key": "3_1979856481546629120",
+              "start": 20,
+              "url": "https://t.co/uoFY8J8K0a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980235140262748661",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979856490078015833",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tw111111111111: https://t.co/uoFY8J8K0a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979856481546629120"
+          ]
+        },
+        "author_id": "1042070984663162880",
+        "conversation_id": "1979856490078015833",
+        "created_at": "2025-10-19T10:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T11:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979856490078015833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uoFY8J8K0a",
+              "end": 23,
+              "expanded_url": "https://x.com/tw111111111111/status/1979856490078015833/photo/1",
+              "media_key": "3_1979856481546629120",
+              "start": 0,
+              "url": "https://t.co/uoFY8J8K0a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979856490078015833",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 23328,
+          "like_count": 1496,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uoFY8J8K0a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 95,
+          "like_count": 4506,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 805
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2018-09-18T15:20:58.000Z",
+        "description": "新增：0624防災資訊-網友整理及連結\n\n防災資訊彙整見置頂推文串\n\n0407防災包清單：\nhttps://t.co/nRW7025TdC\n\n防災包清單原則上不會再度更新，如有需要請洽其他資訊來源，祝好。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/zqQMap",
+                "end": 69,
+                "expanded_url": "https://reurl.cc/zqQMap",
+                "start": 46,
+                "url": "https://t.co/nRW7025TdC"
+              }
+            ]
+          }
+        },
+        "id": "1042070984663162880",
+        "name": "🌑",
+        "pinned_tweet_id": "1866626794574712967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937732699034386436/0IFPRP_e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16273,
+          "following_count": 958,
+          "like_count": 245765,
+          "listed_count": 61,
+          "media_count": 41215,
+          "tweet_count": 106541
+        },
+        "username": "tw111111111111",
+        "verified": false
+      }
+    ]
+  }
+}

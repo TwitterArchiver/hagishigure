@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2009046013059952691",
+    "created_at": "2026-01-07T23:34:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T00:34:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009046127237357974"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2009046127237357974",
+    "in_reply_to_user_id": "1965393379224944645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009046013059952691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "當然我是懶得和顛婆說話的，我會直接屏蔽讓對方無法回復我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2009046013059952691",
+        "created_at": "2026-01-07T23:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T00:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009046127237357974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009046127237357974",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009046013059952691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "當然我是懶得和顛婆說話的，我會直接屏蔽讓對方無法回復我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2009046013059952691",
+        "created_at": "2026-01-07T23:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T00:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009046013059952691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mountaincalmpo…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/mountaincalmpo2/status/2008761035285819638",
+              "start": 139,
+              "url": "https://t.co/XjqBATFf0V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009046013059952691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008761035285819638",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "典型的陽具中心主義。當然不是説圖片，而是説你這個腦子就是圍繞一根陽具運行的人。好的，現在請大家看看這個貼子下説男性其實對性玩笑無所謂的都被這個入應激辱駡就知道為什么是陽具中心主義了。\n順便，這個是適合学習科胡特的理論的初學者的分析的典型案例，明顯外化的NPD加失敗的鏡像階段。 https://t.co/XjqBATFf0V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 119,
+          "like_count": 14723,
+          "listed_count": 0,
+          "media_count": 408,
+          "tweet_count": 3427
+        },
+        "username": "hagishigure",
+        "verified": false
+      }
+    ]
+  }
+}

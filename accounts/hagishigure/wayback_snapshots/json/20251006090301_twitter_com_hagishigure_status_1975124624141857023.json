@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1352676864007958528",
+          "name": "Nobel Prize"
+        }
+      }
+    ],
+    "conversation_id": "1975124624141857023",
+    "created_at": "2025-10-06T09:03:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T10:02:53.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975124590822400107",
+      "1975124624141857023"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NobelPrize/sta…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/NobelPrize/status/1972568552289849543",
+          "start": 37,
+          "url": "https://t.co/2ZwV7SNsVl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975124624141857023",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972568552289849543",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "GLP-1…GLP-1…（一味不語衹是循環GLP-1 似乎很疑惑的樣子） https://t.co/2ZwV7SNsVl"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Announcement graphic for the 2025 Nobel Prize in Physiology or Medicine, scheduled for 6 October at 11:30 CEST, displayed on a dark blue background. ",
+        "height": 1080,
+        "media_key": "3_1972568531397902336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1_4oNEWAAAEfAx.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352676864007958528",
+              "name": "Nobel Prize"
+            }
+          }
+        ],
+        "conversation_id": "1975124590822400107",
+        "created_at": "2025-10-06T09:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T10:02:53.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975124590822400107",
+          "1975124624141857023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NobelPrize/sta…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/NobelPrize/status/1972568552289849543",
+              "start": 37,
+              "url": "https://t.co/2ZwV7SNsVl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975124590822400107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972568552289849543",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "GLP-1…GLP-1…（一味不語衹是循環GLP-1 似乎很疑惑的樣子） https://t.co/2ZwV7SNsVl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352676864007958528",
+              "name": "Nobel Prize"
+            }
+          }
+        ],
+        "conversation_id": "1975124624141857023",
+        "created_at": "2025-10-06T09:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T10:02:53.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975124590822400107",
+          "1975124624141857023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NobelPrize/sta…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/NobelPrize/status/1972568552289849543",
+              "start": 37,
+              "url": "https://t.co/2ZwV7SNsVl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975124624141857023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972568552289849543",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "GLP-1…GLP-1…（一味不語衹是循環GLP-1 似乎很疑惑的樣子） https://t.co/2ZwV7SNsVl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972568531397902336"
+          ]
+        },
+        "author_id": "16465385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352676864007958528",
+              "name": "Nobel Prize"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Belarusian civic leader Ales Bialiatski, Russian human rights organization, Memorial, and Ukraine Center for Civil Liberties have been awarded the 2022 Nobel Peace Prize for their \"outstanding effort to document war crimes, human rights abuses and the abuse of power\".",
+              "id": "1578332622379397121",
+              "name": "Ales Bialiatski, Memorial, and Center for Civic Liberties win 2022 Nobel Peace Prize "
+            }
+          }
+        ],
+        "conversation_id": "1972568552289849543",
+        "created_at": "2025-09-29T07:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T08:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972568552289849543"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 249,
+              "normalized_text": "NobelPrize",
+              "probability": 0.9129,
+              "start": 240,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 250,
+              "start": 239,
+              "tag": "NobelPrize"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 212,
+              "id": "16465385",
+              "start": 201,
+              "username": "NobelPrize"
+            }
+          ],
+          "urls": [
+            {
+              "description": "The Nobel Prize rewards science, humanism and peace efforts. This is one of the central concepts in the will of Alfred Nobel, and it also permeates the outreach activities that have been developed for the purpose of engaging, inspiring and spreading knowledge about the Nobel Prize as well as the discoveries and achievements of the laureates.",
+              "display_url": "nobelprize.org",
+              "end": 185,
+              "expanded_url": "http://nobelprize.org",
+              "images": [
+                {
+                  "height": 328,
+                  "url": "https://pbs.twimg.com/news_img/1974454326773870592/t_EX_riZ?format=jpg&name=orig",
+                  "width": 496
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1974454326773870592/t_EX_riZ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 162,
+              "status": 200,
+              "title": "The official website of the Nobel Prize - NobelPrize.org",
+              "unwound_url": "https://www.nobelprize.org/",
+              "url": "https://t.co/3VsHzjF7LK"
+            },
+            {
+              "description": "WATCH LIVE: Join us for the 2025 Nobel Prize in Physiology or Medicine announcement.",
+              "display_url": "x.com/i/broadcasts/1…",
+              "end": 237,
+              "expanded_url": "https://x.com/i/broadcasts/1ypKdqWjovYGW",
+              "images": [
+                {
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/news_img/1972576536092925952/NYag4ajs?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1972576536092925952/NYag4ajs?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 214,
+              "status": 200,
+              "title": "The Nobel Prize",
+              "unwound_url": "https://twitter.com/i/broadcasts/1ypKdqWjovYGW",
+              "url": "https://t.co/M89Xm7KTRU"
+            },
+            {
+              "display_url": "pic.x.com/eX8uPnNXoP",
+              "end": 274,
+              "expanded_url": "https://x.com/NobelPrize/status/1972568552289849543/photo/1",
+              "media_key": "3_1972568531397902336",
+              "start": 251,
+              "url": "https://t.co/eX8uPnNXoP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972568552289849543",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 23983,
+          "like_count": 264,
+          "quote_count": 11,
+          "reply_count": 15,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "Not long until the 2025 medicine laureates are revealed - have you told your friends? Join the excitement here!\n\nWatch the live stream and hear the news first at https://t.co/3VsHzjF7LK and right here @NobelPrize: https://t.co/M89Xm7KTRU\n\n#NobelPrize https://t.co/eX8uPnNXoP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 84,
+          "like_count": 1496,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 257
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2008-09-26T08:47:58.000Z",
+        "description": "The official feed of the Nobel Prize @NobelPrize #NobelPrize",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 49,
+                "tag": "NobelPrize"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "NobelPrize"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nobelprize.org",
+                "end": 23,
+                "expanded_url": "http://nobelprize.org",
+                "start": 0,
+                "url": "https://t.co/m577HIID0a"
+              }
+            ]
+          }
+        },
+        "id": "16465385",
+        "location": "Stockholm, Sweden",
+        "name": "The Nobel Prize",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1029729528548139009/fVPd0EwX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1200581,
+          "following_count": 497,
+          "like_count": 1989,
+          "listed_count": 5761,
+          "media_count": 13123,
+          "tweet_count": 18459
+        },
+        "url": "https://t.co/m577HIID0a",
+        "username": "NobelPrize",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2022225261056717107",
+    "created_at": "2026-02-13T12:22:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T13:22:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022285285858390355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1681842432269512707",
+          "start": 0,
+          "username": "TarsMark2"
+        },
+        {
+          "end": 24,
+          "id": "1863963392912023552",
+          "start": 11,
+          "username": "Harper_Ran86"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022285285858390355",
+    "in_reply_to_user_id": "1681842432269512707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022268970452296152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TarsMark2 @Harper_Ran86 我去不早说。🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2022225261056717107",
+        "created_at": "2026-02-13T12:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T13:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022285285858390355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1681842432269512707",
+              "start": 0,
+              "username": "TarsMark2"
+            },
+            {
+              "end": 24,
+              "id": "1863963392912023552",
+              "start": 11,
+              "username": "Harper_Ran86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022285285858390355",
+        "in_reply_to_user_id": "1681842432269512707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022268970452296152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TarsMark2 @Harper_Ran86 我去不早说。🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1681842432269512707",
+        "conversation_id": "2022225261056717107",
+        "created_at": "2026-02-13T11:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022268970452296152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863963392912023552",
+              "start": 0,
+              "username": "Harper_Ran86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022268970452296152",
+        "in_reply_to_user_id": "1863963392912023552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022225261056717107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Harper_Ran86 给我 我有显卡插槽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 130,
+          "like_count": 19455,
+          "listed_count": 0,
+          "media_count": 559,
+          "tweet_count": 4633
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T01:44:28.000Z",
+        "description": "本账号 NSFW | 主营：露出、犬化、物化、全包| 会一点绳子、摄影 | 欢迎找我拍瑟图 | 表号 @brandon_shia | 刺猬老婆 @Harper_Ran86 刺猬老婆的绳推 @hzshibari 宠物小狗 @kurikawayuyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 51,
+                "username": "brandon_shia"
+              },
+              {
+                "end": 85,
+                "start": 72,
+                "username": "Harper_Ran86"
+              },
+              {
+                "end": 104,
+                "start": 94,
+                "username": "hzshibari"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "kurikawayuyu"
+              }
+            ]
+          }
+        },
+        "id": "1681842432269512707",
+        "location": "距您100m以内",
+        "name": "梓楚 Branka",
+        "pinned_tweet_id": "1992234190780444943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971465515437797376/Dq-rxCs0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28073,
+          "following_count": 1692,
+          "like_count": 122125,
+          "listed_count": 107,
+          "media_count": 381,
+          "tweet_count": 7517
+        },
+        "username": "TarsMark2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-03T15:08:06.000Z",
+        "description": "这里是燃～\n是一只成精的家养刺猬～\n馋嘴吃货～碎碎念～BDSM日常～\n绳缚号: @HzShibari\n莫名奇妙没了的号: @HzShibari86",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 40,
+                "username": "HzShibari"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "HzShibari86"
+              }
+            ]
+          }
+        },
+        "id": "1863963392912023552",
+        "location": "温暖柔软的被窝里",
+        "name": "🦔",
+        "pinned_tweet_id": "1867208561207779329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013893528850702344/XIYwqxe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 58,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 133
+        },
+        "username": "Harper_Ran86",
+        "verified": false
+      }
+    ]
+  }
+}

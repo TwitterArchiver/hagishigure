@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2056754991486906539",
+    "created_at": "2026-05-19T15:12:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056754991486906539"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/luosiling/stat…",
+          "end": 132,
+          "expanded_url": "https://twitter.com/luosiling/status/2056687710786510909",
+          "start": 109,
+          "url": "https://t.co/ydjpjy5DaB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056754991486906539",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056687710786510909",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是不知道为什么中国人会有没经过北美后殖民派系和法国身体哲学派系这两大派系的理论训练的人做关于女权主义相关的内容甚至还能吹狗哨。\n这在欧洲看来非常不可思议，就像一个声称自己是马克思主义者的人并不在乎被殖民者一样离谱。 https://t.co/ydjpjy5DaB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 704,
+        "media_key": "3_2056687654809329664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrShnbXYAADzx0.jpg",
+        "width": 1234
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2056754991486906539",
+        "created_at": "2026-05-19T15:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056754991486906539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luosiling/stat…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/luosiling/status/2056687710786510909",
+              "start": 109,
+              "url": "https://t.co/ydjpjy5DaB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056754991486906539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056687710786510909",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是不知道为什么中国人会有没经过北美后殖民派系和法国身体哲学派系这两大派系的理论训练的人做关于女权主义相关的内容甚至还能吹狗哨。\n这在欧洲看来非常不可思议，就像一个声称自己是马克思主义者的人并不在乎被殖民者一样离谱。 https://t.co/ydjpjy5DaB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056687654809329664"
+          ]
+        },
+        "author_id": "583074864",
+        "conversation_id": "2056687710786510909",
+        "created_at": "2026-05-19T10:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T11:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056687710786510909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uhcifg54Dq",
+              "end": 167,
+              "expanded_url": "https://x.com/luosiling/status/2056687710786510909/photo/1",
+              "media_key": "3_2056687654809329664",
+              "start": 144,
+              "url": "https://t.co/Uhcifg54Dq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056687710786510909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "open.substack.com/pub/bostonrevi…",
+                "end": 509,
+                "expanded_url": "https://open.substack.com/pub/bostonreviewofbooks/p/21d?r=36ei10&utm_campaign=post&utm_medium=web",
+                "start": 486,
+                "url": "https://t.co/UHE4uPgTXm"
+              }
+            ]
+          },
+          "text": "5月，秦晖教授《娜拉出走以后：中国女权的世纪反思》（增订版版，日本読道社）出版，其增订版序言《吞噬“娜拉”的利维坦：女性主义与中国女性之路》在书评刊发后，再次引发对中国女权问题的讨论。经作者授权，书评刊发青年学者陈纯文章《作为一种文化霸权的女权主义》。陈纯文章批判了以“身份政治”和“权力关系”为核心的进步女权主义，认为其在简中网络中已形成一种“文化霸权”。作者指出，进步女权主义通过创造大量话语武器（如“男性凝视”“爹味”“有毒的男性气质”）赋予女性心理和实践上的权力，但也导致双重标准和对男性的不公，尤其在#MeToo运动中，虚假指控和缺乏比例原则的惩罚问题凸显。文章分析了女权主义在媒体、公共空间的广泛影响，及其对自由主义的挤占，同时批评其民粹化趋势和内部“提纯”现象，指出网暴和道德绑架与民粹行为同构。作者担忧进步女权主义的极端化可能导致社会反弹，如年轻男性中的“去责任化”运动，并认为其补偿正义逻辑损害男性人格整全，难以实现真正的性别平等。文章最后倡导更温和的“平权主义”，并警告将不成熟的理论强加于社会可能带来的危险。\n\n陈纯 | 作为一种文化霸权的女权主义 https://t.co/UHE4uPgTXm"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 8301,
+          "like_count": 31,
+          "quote_count": 13,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "5月，秦晖教授《娜拉出走以后：中国女权的世纪反思》（增订版版，日本読道社）出版，其增订版序言《吞噬“娜拉”的利维坦：女性主义与中国女性之路》在书评刊发后，再次引发对中国女权问题的讨论。经作者授权，书评刊发青年学者陈纯文章《作为一种文化霸权的女权主义》。陈纯文章批判了以“身份政治”和“权 https://t.co/Uhcifg54Dq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 149,
+          "like_count": 29110,
+          "listed_count": 3,
+          "media_count": 768,
+          "tweet_count": 6997
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2012-05-17T17:55:59.000Z",
+        "description": "《波士頓書評》：讀嚴肅的書，做有趣的人。\n郵件訂閱《波士頓書評》：boshidunshuping@gmail.com  \nhttps://t.co/SEIYuNJU93",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bostonreviewofbooks.substack.com/about",
+                "end": 84,
+                "expanded_url": "https://bostonreviewofbooks.substack.com/about",
+                "start": 61,
+                "url": "https://t.co/SEIYuNJU93"
+              }
+            ]
+          }
+        },
+        "id": "583074864",
+        "name": "波士頓書評Boston Review of Books",
+        "pinned_tweet_id": "1994715295584256390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007089182112444416/GKKfTMsv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6569,
+          "following_count": 212,
+          "like_count": 5932,
+          "listed_count": 36,
+          "media_count": 925,
+          "tweet_count": 2480
+        },
+        "username": "luosiling",
+        "verified": true
+      }
+    ]
+  }
+}

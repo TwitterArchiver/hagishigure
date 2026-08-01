@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1981417449020149974",
+    "created_at": "2025-10-23T19:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T20:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981441183596630121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "Sanx0n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981441183596630121",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981440824350294432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sanx0n 反正都是🍊語那邊的，我準備Ddos無差別攻擊了🔨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1981417449020149974",
+        "created_at": "2025-10-23T19:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T20:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981441183596630121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "Sanx0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981441183596630121",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981440824350294432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sanx0n 反正都是🍊語那邊的，我準備Ddos無差別攻擊了🔨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "1981417449020149974",
+        "created_at": "2025-10-23T19:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T20:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981440824350294432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981440824350294432",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981440659329626481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure nonono她俩不是一个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 98,
+          "like_count": 5163,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 987
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "14岁初二休学",
+        "id": "1552918719440924672",
+        "name": "Lumi & 猫卷 Co.",
+        "pinned_tweet_id": "1979225533306278000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980941542949810176/4utILqCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1478,
+          "following_count": 741,
+          "like_count": 531,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 1304
+        },
+        "username": "Sanx0n",
+        "verified": true
+      }
+    ]
+  }
+}

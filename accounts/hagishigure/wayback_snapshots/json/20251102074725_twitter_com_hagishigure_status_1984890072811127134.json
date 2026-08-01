@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984890065236213760"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1984679726775242782",
+    "created_at": "2025-11-02T07:47:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T08:47:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984890072811127134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1658664482632253441",
+          "start": 0,
+          "username": "jujube8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EjOjH50cZk",
+          "end": 45,
+          "expanded_url": "https://x.com/hagishigure/status/1984890072811127134/photo/1",
+          "media_key": "3_1984890065236213760",
+          "start": 22,
+          "url": "https://t.co/EjOjH50cZk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984890072811127134",
+    "in_reply_to_user_id": "1658664482632253441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984679726775242782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jujube8964 刚好手裡有紀念品。 https://t.co/EjOjH50cZk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 753,
+        "media_key": "3_1984890065236213760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4u-_3ibQAA3xMf.jpg",
+        "width": 687
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1984679724514492420",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4r_sbSbQAQ_fdg.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984890065236213760"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1984679726775242782",
+        "created_at": "2025-11-02T07:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T08:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984890072811127134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1658664482632253441",
+              "start": 0,
+              "username": "jujube8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EjOjH50cZk",
+              "end": 45,
+              "expanded_url": "https://x.com/hagishigure/status/1984890072811127134/photo/1",
+              "media_key": "3_1984890065236213760",
+              "start": 22,
+              "url": "https://t.co/EjOjH50cZk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984890072811127134",
+        "in_reply_to_user_id": "1658664482632253441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984679726775242782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jujube8964 刚好手裡有紀念品。 https://t.co/EjOjH50cZk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984679724514492420"
+          ]
+        },
+        "author_id": "1658664482632253441",
+        "conversation_id": "1984679726775242782",
+        "created_at": "2025-11-01T17:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T18:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984679726775242782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e3BdUC5lId",
+              "end": 60,
+              "expanded_url": "https://x.com/jujube8964/status/1984679726775242782/photo/1",
+              "media_key": "3_1984679724514492420",
+              "start": 37,
+              "url": "https://t.co/e3BdUC5lId"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984679726775242782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 761,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们看左上角和右上角，看看这是什么😁氢溴酸右美沙芬，白云山，还是OTC https://t.co/e3BdUC5lId"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 102,
+          "like_count": 6929,
+          "listed_count": 0,
+          "media_count": 233,
+          "tweet_count": 1477
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-17T02:43:36.000Z",
+        "description": "深爱着我的爱人，直到永远             \n                我个人阳痿/风湿/前列腺炎/腰间盘突出        回fo私信立马回喵",
+        "id": "1658664482632253441",
+        "location": "爱人的怀抱",
+        "name": "冬枣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984312223637151744/2QZKQVoq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 648,
+          "like_count": 2179,
+          "listed_count": 3,
+          "media_count": 177,
+          "tweet_count": 3899
+        },
+        "username": "jujube8964",
+        "verified": false
+      }
+    ]
+  }
+}

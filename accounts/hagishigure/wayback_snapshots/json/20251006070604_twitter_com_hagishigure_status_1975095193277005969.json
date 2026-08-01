@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1975095193277005969",
+    "created_at": "2025-10-06T07:06:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T08:06:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975095193277005969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CeoImed/status…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/CeoImed/status/1974597899788198250",
+          "start": 2,
+          "url": "https://t.co/BQd1OqMxlX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975095193277005969",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974597899788198250",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😻 https://t.co/BQd1OqMxlX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1848,
+        "media_key": "3_1974124425940512768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2V_tL6bMAAakND.jpg",
+        "width": 1106
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1975095193277005969",
+        "created_at": "2025-10-06T07:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T08:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975095193277005969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CeoImed/status…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/CeoImed/status/1974597899788198250",
+              "start": 2,
+              "url": "https://t.co/BQd1OqMxlX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975095193277005969",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974597899788198250",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😻 https://t.co/BQd1OqMxlX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974124425940512768"
+          ]
+        },
+        "author_id": "1196347295870017536",
+        "conversation_id": "1974597899788198250",
+        "created_at": "2025-10-04T22:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T23:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974597899788198250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "The epigenome is sensitive to metabolic inputs and is crucial for aging. Lysosomes act as a signaling hub to sense metabolic cues and regulate longevity. We found that lysosomal metabolic pathways signal through the epigenome to regulate ...",
+              "display_url": "science.org/doi/10.1126/sc…",
+              "end": 172,
+              "expanded_url": "https://www.science.org/doi/10.1126/science.adn8754",
+              "images": [
+                {
+                  "height": 550,
+                  "url": "https://pbs.twimg.com/news_img/1974597947338940416/m9D_sAHM?format=jpg&name=orig",
+                  "width": 715
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1974597947338940416/m9D_sAHM?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 149,
+              "status": 200,
+              "title": "Lysosomes signal through the epigenome to regulate longevity across generations",
+              "unwound_url": "https://www.science.org/doi/10.1126/science.adn8754",
+              "url": "https://t.co/3Lc9L2PKS2"
+            },
+            {
+              "display_url": "pic.x.com/LMXC7CbhX1",
+              "end": 196,
+              "expanded_url": "https://x.com/CeoImed/status/1974597899788198250/photo/1",
+              "media_key": "3_1974124425940512768",
+              "start": 173,
+              "url": "https://t.co/LMXC7CbhX1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974597899788198250",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 132,
+          "impression_count": 15550,
+          "like_count": 310,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "｢世代を超えた寿命延長を制御する仕組みを解明｣\nScience\n \n･ 飢餓などの代謝シグナル → 腸管リソソームで活性化\n･ ヒストンH発現↑ &amp; K79メチル化↑\n･ 腸から生殖細胞へ移行 → 子孫へ伝達\n･ 複数世代で寿命延長\n･ リソソームは単なる分解工場でなく、寿命の司令塔\n \nhttps://t.co/3Lc9L2PKS2 https://t.co/LMXC7CbhX1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @uranus_chaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "uranus_chaos"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 83,
+          "like_count": 1416,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 242
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2019-11-18T08:40:08.000Z",
+        "description": "脳外科医｜医療AIで起業 ← 脳外科医・MBA ← 京大医・東大理｜数オリ日本代表｜脳血管内手術支援AI｜情報発信：医療AI、起業、スタートアップ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "researchmap.jp/kenichi_kono/p…",
+                "end": 23,
+                "expanded_url": "https://researchmap.jp/kenichi_kono/presentations",
+                "start": 0,
+                "url": "https://t.co/q9HESG3l0S"
+              }
+            ]
+          }
+        },
+        "id": "1196347295870017536",
+        "location": "東京都",
+        "name": "河野健一 Kenichi Kono ｜ 脳外科医 CEO｜AI 医療 MBA｜脳血管内手術支援AI",
+        "pinned_tweet_id": "1612298008754016256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1476549316353609734/InUXqVVP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15663,
+          "following_count": 96,
+          "like_count": 4046,
+          "listed_count": 226,
+          "media_count": 4518,
+          "tweet_count": 10418
+        },
+        "url": "https://t.co/q9HESG3l0S",
+        "username": "CeoImed",
+        "verified": true
+      }
+    ]
+  }
+}

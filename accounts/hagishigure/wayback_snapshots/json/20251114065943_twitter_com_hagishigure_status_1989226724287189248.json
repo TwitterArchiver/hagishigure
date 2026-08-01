@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "1989211386061418706",
+    "created_at": "2025-11-14T06:59:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T07:59:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989226724287189248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1869440990970556416",
+          "start": 0,
+          "username": "SnowfairySerina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989226724287189248",
+    "in_reply_to_user_id": "1869440990970556416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989211386061418706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnowfairySerina 當你認為你沒資格的時候你就已經有資格了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1542,
+        "media_key": "3_1989211239902507008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sZFVmacAAdx5N.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989211240506540032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sZFX2bQAAfG7S.jpg",
+        "width": 1542
+      },
+      {
+        "height": 1542,
+        "media_key": "3_1989211241144066048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sZFaObIAAXa4E.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1542,
+        "media_key": "3_1989211241143992320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5sZFaOaAAA_Xez.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "1989211386061418706",
+        "created_at": "2025-11-14T06:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T07:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989226724287189248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1869440990970556416",
+              "start": 0,
+              "username": "SnowfairySerina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989226724287189248",
+        "in_reply_to_user_id": "1869440990970556416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989211386061418706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowfairySerina 當你認為你沒資格的時候你就已經有資格了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989211239902507008",
+            "3_1989211240506540032",
+            "3_1989211241144066048",
+            "3_1989211241143992320"
+          ]
+        },
+        "author_id": "1869440990970556416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1989211386061418706",
+        "created_at": "2025-11-14T05:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T06:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989211386061418706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SaFsHhLgl8",
+              "end": 77,
+              "expanded_url": "https://x.com/SnowfairySerina/status/1989211386061418706/photo/1",
+              "media_key": "3_1989211239902507008",
+              "start": 54,
+              "url": "https://t.co/SaFsHhLgl8"
+            },
+            {
+              "display_url": "pic.x.com/SaFsHhLgl8",
+              "end": 77,
+              "expanded_url": "https://x.com/SnowfairySerina/status/1989211386061418706/photo/1",
+              "media_key": "3_1989211240506540032",
+              "start": 54,
+              "url": "https://t.co/SaFsHhLgl8"
+            },
+            {
+              "display_url": "pic.x.com/SaFsHhLgl8",
+              "end": 77,
+              "expanded_url": "https://x.com/SnowfairySerina/status/1989211386061418706/photo/1",
+              "media_key": "3_1989211241144066048",
+              "start": 54,
+              "url": "https://t.co/SaFsHhLgl8"
+            },
+            {
+              "display_url": "pic.x.com/SaFsHhLgl8",
+              "end": 77,
+              "expanded_url": "https://x.com/SnowfairySerina/status/1989211386061418706/photo/1",
+              "media_key": "3_1989211241143992320",
+              "start": 54,
+              "url": "https://t.co/SaFsHhLgl8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989211386061418706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来根本没资格消费这等级的饭店...据说一晚上有时候要十万...不过有小可爱让我蹭房住，真是超级感谢... https://t.co/SaFsHhLgl8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 106,
+          "like_count": 8719,
+          "listed_count": 0,
+          "media_count": 292,
+          "tweet_count": 1992
+        },
+        "username": "hagishigure",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-18T17:54:48.000Z",
+        "description": "寄蜉蝣于天地，渺沧海之一粟//星空礼品店的守候者 星空文明的守夜人 书友世界 q 864276653 星光铁路 https://t.co/aBL8EQieV7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Shiohara.moe",
+                "end": 79,
+                "expanded_url": "http://Shiohara.moe",
+                "start": 56,
+                "url": "https://t.co/aBL8EQieV7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/novel/show.php…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/novel/show.php?id=25860609",
+                "start": 0,
+                "url": "https://t.co/3DFuJVs9o5"
+              }
+            ]
+          }
+        },
+        "id": "1869440990970556416",
+        "location": "摄平星系 千载云屏 弥星原畔",
+        "name": "🌈⛩️摇光星辰🏳️‍⚧️✨（云游之星）",
+        "pinned_tweet_id": "1989211386061418706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969068756061323264/fJoUuOUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 845,
+          "like_count": 2578,
+          "listed_count": 4,
+          "media_count": 453,
+          "tweet_count": 3318
+        },
+        "url": "https://t.co/3DFuJVs9o5",
+        "username": "SnowfairySerina",
+        "verified": false
+      }
+    ]
+  }
+}

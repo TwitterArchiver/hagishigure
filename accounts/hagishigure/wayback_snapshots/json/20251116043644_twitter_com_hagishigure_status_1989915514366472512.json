@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989915507445960707",
+        "3_1989915507533996032"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "1989915514366472512",
+    "created_at": "2025-11-16T04:36:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T05:36:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989915514366472512"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BS0jnllorR",
+          "end": 70,
+          "expanded_url": "https://x.com/hagishigure/status/1989915514366472512/photo/1",
+          "media_key": "3_1989915507445960707",
+          "start": 47,
+          "url": "https://t.co/BS0jnllorR"
+        },
+        {
+          "display_url": "pic.x.com/BS0jnllorR",
+          "end": 70,
+          "expanded_url": "https://x.com/hagishigure/status/1989915514366472512/photo/1",
+          "media_key": "3_1989915507533996032",
+          "start": 47,
+          "url": "https://t.co/BS0jnllorR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989915514366472512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1，2：引用歌詞「あなたにとっては遊びでも、\n私は一生背負い続ける。」——《繰り替えし一粒》 https://t.co/BS0jnllorR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1048,
+        "media_key": "3_1989915507445960707",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G52ZnGpbkAMS0NO.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1067,
+        "media_key": "3_1989915507533996032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G52ZnG-a4AAtXxu.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989915507445960707",
+            "3_1989915507533996032"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "1989915514366472512",
+        "created_at": "2025-11-16T04:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T05:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989915514366472512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BS0jnllorR",
+              "end": 70,
+              "expanded_url": "https://x.com/hagishigure/status/1989915514366472512/photo/1",
+              "media_key": "3_1989915507445960707",
+              "start": 47,
+              "url": "https://t.co/BS0jnllorR"
+            },
+            {
+              "display_url": "pic.x.com/BS0jnllorR",
+              "end": 70,
+              "expanded_url": "https://x.com/hagishigure/status/1989915514366472512/photo/1",
+              "media_key": "3_1989915507533996032",
+              "start": 47,
+              "url": "https://t.co/BS0jnllorR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989915514366472512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1，2：引用歌詞「あなたにとっては遊びでも、\n私は一生背負い続ける。」——《繰り替えし一粒》 https://t.co/BS0jnllorR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🍥🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 108,
+          "like_count": 9050,
+          "listed_count": 0,
+          "media_count": 308,
+          "tweet_count": 2056
+        },
+        "username": "hagishigure",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2029430939407847501",
+    "created_at": "2026-03-05T05:36:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T06:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2029430939407847501"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029430939407847501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "荷蘭人在前兩個月伊朗反政府的時候鋪天蓋地的要求荷蘭媒體直播，大部分聲音是：「伊朗在發生前所未有的革命，而你們卻在討論下雪？」，而中國人在伊朗人們被伊朗政府鎮壓之後才敢開始討論，一碰伊朗就開始談女性該不該有權利。\n懶得説。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2029430939407847501",
+        "created_at": "2026-03-05T05:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T06:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029430939407847501"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029430939407847501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "荷蘭人在前兩個月伊朗反政府的時候鋪天蓋地的要求荷蘭媒體直播，大部分聲音是：「伊朗在發生前所未有的革命，而你們卻在討論下雪？」，而中國人在伊朗人們被伊朗政府鎮壓之後才敢開始討論，一碰伊朗就開始談女性該不該有權利。\n懶得説。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 121,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 140,
+          "like_count": 23781,
+          "listed_count": 2,
+          "media_count": 659,
+          "tweet_count": 5765
+        },
+        "username": "hagishigure",
+        "verified": true
+      }
+    ]
+  }
+}

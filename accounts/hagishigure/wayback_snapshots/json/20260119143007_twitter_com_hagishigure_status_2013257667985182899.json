@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2013257667985182899",
+    "created_at": "2026-01-19T14:30:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T15:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013257667985182899"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/brown_25261/st…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/brown_25261/status/2013180706747240467",
+          "start": 22,
+          "url": "https://t.co/egItDJAYl4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013257667985182899",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013180706747240467",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么？不服？不服受着，以我为中心就是进步。 https://t.co/egItDJAYl4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2013257667985182899",
+        "created_at": "2026-01-19T14:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T15:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013257667985182899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/brown_25261/st…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/brown_25261/status/2013180706747240467",
+              "start": 22,
+              "url": "https://t.co/egItDJAYl4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013257667985182899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013180706747240467",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么？不服？不服受着，以我为中心就是进步。 https://t.co/egItDJAYl4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702581699803021312",
+        "conversation_id": "2012934812848316460",
+        "created_at": "2026-01-19T09:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T10:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013180706747240467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1741063508102627328",
+              "start": 0,
+              "username": "kitty068_ly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013180706747240467",
+        "in_reply_to_user_id": "1741063508102627328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013179530450485420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitty068_ly 你有什么资格定义何为进步？\n\n以你为中心就是进步，还是让你得利就是进步？\n\n那么是否任何人都可以声称进步？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 120,
+          "like_count": 15360,
+          "listed_count": 0,
+          "media_count": 419,
+          "tweet_count": 3565
+        },
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-15T07:15:06.000Z",
+        "description": "aptx",
+        "id": "1702581699803021312",
+        "name": "Aptx Smith",
+        "pinned_tweet_id": "1998601161029669284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1702581795298914304/qCECyIUQ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 2363,
+          "like_count": 26675,
+          "listed_count": 4,
+          "media_count": 0,
+          "tweet_count": 35372
+        },
+        "username": "brown_25261",
+        "verified": false
+      }
+    ]
+  }
+}
