@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2085607530948948098",
+    "created_at": "2026-08-07T06:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T07:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085607530948948098"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085607530948948098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说实话，我是不是应该在另外一个小号把一些应该普及的药物知识下放一下。\no圈那些喹硫平下机，罗通定下机，苯海索，噻奈普汀这些东西，全部都是从我以前的身份那里传出去的。\n我挺后悔把噻奈普汀这玩意传出去的还是。毕竟成瘾性很高。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2085607530948948098",
+        "created_at": "2026-08-07T06:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T07:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085607530948948098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085607530948948098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说实话，我是不是应该在另外一个小号把一些应该普及的药物知识下放一下。\no圈那些喹硫平下机，罗通定下机，苯海索，噻奈普汀这些东西，全部都是从我以前的身份那里传出去的。\n我挺后悔把噻奈普汀这玩意传出去的还是。毕竟成瘾性很高。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 153,
+          "like_count": 30843,
+          "listed_count": 3,
+          "media_count": 803,
+          "tweet_count": 7476
+        },
+        "url": "",
+        "username": "hagishigure",
+        "verified": false
+      }
+    ]
+  }
+}

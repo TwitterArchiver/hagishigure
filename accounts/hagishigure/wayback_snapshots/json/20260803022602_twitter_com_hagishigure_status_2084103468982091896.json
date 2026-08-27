@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2084103468982091896",
+    "created_at": "2026-08-03T02:26:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T03:26:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084103468982091896"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Warm_Sakura/st…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/Warm_Sakura/status/2063146239508779280",
+          "start": 37,
+          "url": "https://t.co/GiTQE7DhX7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084103468982091896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063146239508779280",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "（其实你的色图是我拍色图的启蒙人。）\n（偷偷的说了一些话并祈求没人看到） https://t.co/GiTQE7DhX7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2084103468982091896",
+        "created_at": "2026-08-03T02:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084103468982091896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Warm_Sakura/st…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/Warm_Sakura/status/2063146239508779280",
+              "start": 37,
+              "url": "https://t.co/GiTQE7DhX7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084103468982091896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063146239508779280",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（其实你的色图是我拍色图的启蒙人。）\n（偷偷的说了一些话并祈求没人看到） https://t.co/GiTQE7DhX7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1439998109728137218",
+        "conversation_id": "2063146239508779280",
+        "created_at": "2026-06-06T06:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063146239508779280"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063146239508779280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11541,
+          "like_count": 40,
+          "quote_count": 2,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很害怕！\n我现在很害怕，因为我当时直接因为抑郁退圈，然后卸载推特了，有很多人的私信我没来及看，所以有很多完整版没有来得及发送。\n我不知道他们会不会很生我的气，我现在很害怕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 154,
+          "like_count": 30597,
+          "listed_count": 3,
+          "media_count": 794,
+          "tweet_count": 7364
+        },
+        "url": "",
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-20T17:01:39.000Z",
+        "description": "A nerdy little Asian tech trans girl 🏳️‍⚧️ with a naughty feminine side 😏. #Crossdresser #femboy 求关注！！你们的点赞,转发,关注是我更新的动力！\nFollow me you won’t be disappointed.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 88,
+                "start": 75,
+                "tag": "Crossdresser"
+              },
+              {
+                "end": 96,
+                "start": 89,
+                "tag": "femboy"
+              }
+            ]
+          }
+        },
+        "id": "1439998109728137218",
+        "location": "Cardiff, Wales",
+        "name": "暖樱学姐",
+        "pinned_tweet_id": "2075077016614006931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884559463430127616/3jE2I0Rw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53892,
+          "following_count": 200,
+          "like_count": 40,
+          "listed_count": 301,
+          "media_count": 256,
+          "tweet_count": 3513
+        },
+        "url": "",
+        "username": "Warm_Sakura",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

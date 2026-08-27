@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2084910368284115233",
+    "created_at": "2026-08-05T19:08:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T20:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085080577951109285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1542581410762227712",
+          "start": 0,
+          "username": "StepUp25min"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085080577951109285",
+    "in_reply_to_user_id": "1542581410762227712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084910368284115233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StepUp25min 我还是推荐把GABAA正变构一下。NE和DA太黑箱了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2084910368284115233",
+        "created_at": "2026-08-05T19:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T20:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085080577951109285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1542581410762227712",
+              "start": 0,
+              "username": "StepUp25min"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085080577951109285",
+        "in_reply_to_user_id": "1542581410762227712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084910368284115233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StepUp25min 我还是推荐把GABAA正变构一下。NE和DA太黑箱了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1542581410762227712",
+        "conversation_id": "2084910368284115233",
+        "created_at": "2026-08-05T07:52:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:52:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084910368284115233"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084910368284115233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4375,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "求助推友，有没有是ADHD且吃过专注达的，我从小学开始坐不住凳子，初中更甚，成绩一直中等水平，偏科，所幸高中班主任觉得我悟性还不错，特许我可以去教室最后一排边玩边听课做题，勉强上了本科，但大学之后我发现我根本做不到静下心来去学习枯燥事物超过半小时，我只能在榨干自己体力之后才能静下心来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 153,
+          "like_count": 30715,
+          "listed_count": 3,
+          "media_count": 797,
+          "tweet_count": 7424
+        },
+        "url": "",
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-30T18:50:53.000Z",
+        "description": "想用文字为你编织一个梦（本人女同性恋🌈）\n在推除了写性幻想，也会说些不会在墙内说的话，你爱我，我也爱你。你骂我，我就骂你。\nhttps://t.co/khe28WRcj6欢迎匿名留言",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/song50181",
+                "end": 85,
+                "expanded_url": "http://ngl.link/song50181",
+                "start": 62,
+                "url": "https://t.co/khe28WRcj6"
+              }
+            ]
+          }
+        },
+        "id": "1542581410762227712",
+        "location": "一个人待在路边纸壳箱子里",
+        "name": "白首莫离",
+        "pinned_tweet_id": "2074189778829091243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592428269860945920/1jnxiiYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11887,
+          "following_count": 808,
+          "like_count": 15507,
+          "listed_count": 9,
+          "media_count": 162,
+          "tweet_count": 2069
+        },
+        "url": "",
+        "username": "StepUp25min",
+        "verified": false
+      }
+    ]
+  }
+}

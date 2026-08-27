@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2086604732550861080",
+    "created_at": "2026-08-10T08:11:07.000Z",
+    "display_text_range": [
+      23,
+      116
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T09:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086727025708957868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1844769490271371264",
+          "start": 0,
+          "username": "Rflohv2"
+        },
+        {
+          "end": 22,
+          "id": "2041159531657416704",
+          "start": 9,
+          "username": "amber_digit2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086727025708957868",
+    "in_reply_to_user_id": "1844769490271371264",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086651236972110029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rflohv2 @amber_digit2 Aber man kann einen Desktop-810-Laser für 120-150＄ auf dem chinesischen Freizeitfisch kaufen."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1948,
+        "media_key": "3_2086651211453968385",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPVGOKTaMAEk3n5.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2086604732550861080",
+        "created_at": "2026-08-10T08:11:07.000Z",
+        "display_text_range": [
+          23,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T09:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086727025708957868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1844769490271371264",
+              "start": 0,
+              "username": "Rflohv2"
+            },
+            {
+              "end": 22,
+              "id": "2041159531657416704",
+              "start": 9,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086727025708957868",
+        "in_reply_to_user_id": "1844769490271371264",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086651236972110029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rflohv2 @amber_digit2 Aber man kann einen Desktop-810-Laser für 120-150＄ auf dem chinesischen Freizeitfisch kaufen."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086651211453968385"
+          ]
+        },
+        "author_id": "1844769490271371264",
+        "conversation_id": "2086604732550861080",
+        "created_at": "2026-08-10T03:09:57.000Z",
+        "display_text_range": [
+          14,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T04:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086651236972110029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9brOV86zZb",
+              "end": 154,
+              "expanded_url": "https://x.com/Rflohv2/status/2086651236972110029/photo/1",
+              "media_key": "3_2086651211453968385",
+              "start": 131,
+              "url": "https://t.co/9brOV86zZb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086651236972110029",
+        "in_reply_to_user_id": "1844769490271371264",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086651211453968385"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 75,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086616563877327165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 Eg this store sells a budget 808 laser hair remover for that price. For 2x that price they sell a pro grade remover. https://t.co/9brOV86zZb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "is_identity_verified": false,
+        "location": "Wan Chai District, Hong Kong",
+        "most_recent_tweet_id": "2086727025708957868",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965393379224944645/1757425808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 152,
+          "like_count": 31025,
+          "listed_count": 3,
+          "media_count": 806,
+          "tweet_count": 7539
+        },
+        "url": "",
+        "username": "hagishigure",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-11T15:58:36.000Z",
+        "description": "new rfloh. help me find my old moots. Squats are good, deadlifts are better. 她 shitlib anti tankie",
+        "id": "1844769490271371264",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086678388463525964",
+        "name": "Free rfloh, silenced by UK Terfies",
+        "pinned_tweet_id": "2084920415970050400",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844770594056994816/CxnU_5Lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 613,
+          "like_count": 101316,
+          "listed_count": 59,
+          "media_count": 4004,
+          "tweet_count": 81460
+        },
+        "url": "",
+        "username": "Rflohv2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "ᴘʜᴅ@wgsi・ᴘʀɪᴠ@amber_medusozoa・❤︎@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 3,
+                "username": "wgsi"
+              },
+              {
+                "end": 29,
+                "start": 13,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "is_identity_verified": false,
+        "location": "🇨🇦ᴛʀᴛ・🏳️‍⚧️☭・中文/ᴇɴ/ғʀ",
+        "most_recent_tweet_id": "2086698559131271283",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041159531657416704/1784915607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4811,
+          "following_count": 792,
+          "like_count": 2899,
+          "listed_count": 5,
+          "media_count": 190,
+          "tweet_count": 2417
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

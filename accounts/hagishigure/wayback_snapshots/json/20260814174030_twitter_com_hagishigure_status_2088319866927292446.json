@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088319852561723392"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "2088155631970664529",
+    "created_at": "2026-08-14T17:40:30.000Z",
+    "display_text_range": [
+      12,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T18:40:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088319866927292446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "4768803912",
+          "start": 0,
+          "username": "Al1saAl1ce"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/17zeU4jm4e",
+          "end": 82,
+          "expanded_url": "https://x.com/hagishigure/status/2088319866927292446/photo/1",
+          "media_key": "3_2088319852561723392",
+          "start": 59,
+          "url": "https://t.co/17zeU4jm4e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088319866927292446",
+    "in_reply_to_user_id": "4768803912",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088319852561723392"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088313675954168124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Al1saAl1ce 原来你们第一时间思考到的词连我刷到的bdsmer都不如。这么蠢去当puppy都不会有人爱的。 https://t.co/17zeU4jm4e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 782,
+        "media_key": "3_2088319852561723392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsz121WcAA1pG8.jpg",
+        "width": 1167
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088319852561723392"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "2088155631970664529",
+        "created_at": "2026-08-14T17:40:30.000Z",
+        "display_text_range": [
+          12,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T18:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088319866927292446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "4768803912",
+              "start": 0,
+              "username": "Al1saAl1ce"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/17zeU4jm4e",
+              "end": 82,
+              "expanded_url": "https://x.com/hagishigure/status/2088319866927292446/photo/1",
+              "media_key": "3_2088319852561723392",
+              "start": 59,
+              "url": "https://t.co/17zeU4jm4e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088319866927292446",
+        "in_reply_to_user_id": "4768803912",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088319852561723392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088313675954168124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Al1saAl1ce 原来你们第一时间思考到的词连我刷到的bdsmer都不如。这么蠢去当puppy都不会有人爱的。 https://t.co/17zeU4jm4e"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4768803912",
+        "conversation_id": "2088155631970664529",
+        "created_at": "2026-08-14T17:15:53.000Z",
+        "display_text_range": [
+          13,
+          161
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T18:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088313675954168124"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088313675954168124",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088155631970664529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure “主体性”“配得感”“讨好感”“凝视感”“驯化”“矮化” 奥德赛时期  生命是一万次的春和景明  可是妈妈人生是旷野啊世界是个巨大的草台班子取悦自己被狠狠治愈钝感力自我和解课题分离沉没成本不参与重大决策自我觉醒爱自己才是答案长期主义快乐老家在这里拍到了人生照片自己重新养一遍松弛感特种兵生命力祛魅"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "is_identity_verified": false,
+        "location": "Wan Chai District, Hong Kong",
+        "most_recent_tweet_id": "2088319866927292446",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965393379224944645/1757425808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 151,
+          "like_count": 31159,
+          "listed_count": 3,
+          "media_count": 825,
+          "tweet_count": 7698
+        },
+        "url": "",
+        "username": "hagishigure",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-01-16T14:53:30.000Z",
+        "description": "她/She，🏳️‍⚧️🇨🇦| 中文 en_CA | 是兔子，欢迎食用 | BPD/cPTSD｜have complex relationship with high mileage BMWs, incl. bikes | 舟批 | 邦邦人 | War Thunder |\nin memory of: Elihuso",
+        "id": "4768803912",
+        "is_identity_verified": false,
+        "location": "Toronto, Ontario",
+        "most_recent_tweet_id": "2088315597134131519",
+        "name": "AL1ce♥️💙#",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4768803912/1650823251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1374945196480331776/MKlZhZgT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1261,
+          "following_count": 1832,
+          "like_count": 91027,
+          "listed_count": 12,
+          "media_count": 2180,
+          "tweet_count": 62662
+        },
+        "url": "",
+        "username": "Al1saAl1ce",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

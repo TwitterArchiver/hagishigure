@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088937885567266816"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "2088937898905068031",
+    "created_at": "2026-08-16T10:36:20.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T11:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088937898905068031"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AEnf7YiKoe",
+          "end": 33,
+          "expanded_url": "https://x.com/hagishigure/status/2088937898905068031/photo/1",
+          "media_key": "3_2088937885567266816",
+          "start": 10,
+          "url": "https://t.co/AEnf7YiKoe"
+        },
+        {
+          "display_url": "x.com/ss48hao3/statu…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/ss48hao3/status/2088601506433966144",
+          "start": 34,
+          "url": "https://t.co/arCLbD5EAU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088937898905068031",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088937885567266816"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088601506433966144",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "又到了魔法的时间~ https://t.co/AEnf7YiKoe https://t.co/arCLbD5EAU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1713,
+        "media_key": "3_2088937885567266816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1l8HMXsAAz8SX.jpg",
+        "width": 1891
+      },
+      {
+        "height": 2700,
+        "media_key": "3_2088601448124690432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwz84DWsAA8KTD.jpg",
+        "width": 888
+      },
+      {
+        "height": 2700,
+        "media_key": "3_2088601448120467456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwz84CWQAAEWMf.jpg",
+        "width": 888
+      },
+      {
+        "height": 2700,
+        "media_key": "3_2088601448195956736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwz84UWIAAWLLr.jpg",
+        "width": 888
+      },
+      {
+        "height": 2700,
+        "media_key": "3_2088601448141479936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwz84HW4AAk6yG.jpg",
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088937885567266816"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "2088937898905068031",
+        "created_at": "2026-08-16T10:36:20.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088937898905068031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AEnf7YiKoe",
+              "end": 33,
+              "expanded_url": "https://x.com/hagishigure/status/2088937898905068031/photo/1",
+              "media_key": "3_2088937885567266816",
+              "start": 10,
+              "url": "https://t.co/AEnf7YiKoe"
+            },
+            {
+              "display_url": "x.com/ss48hao3/statu…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/ss48hao3/status/2088601506433966144",
+              "start": 34,
+              "url": "https://t.co/arCLbD5EAU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088937898905068031",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088937885567266816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088601506433966144",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又到了魔法的时间~ https://t.co/AEnf7YiKoe https://t.co/arCLbD5EAU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088601448124690432",
+            "3_2088601448120467456",
+            "3_2088601448195956736",
+            "3_2088601448141479936"
+          ]
+        },
+        "author_id": "1980622407556829184",
+        "conversation_id": "2088601506433966144",
+        "created_at": "2026-08-15T12:19:38.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T13:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088601506433966144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1u6rBcC0ik",
+              "end": 112,
+              "expanded_url": "https://x.com/ss48hao3/status/2088601506433966144/photo/1",
+              "media_key": "3_2088601448124690432",
+              "start": 89,
+              "url": "https://t.co/1u6rBcC0ik"
+            },
+            {
+              "display_url": "pic.x.com/1u6rBcC0ik",
+              "end": 112,
+              "expanded_url": "https://x.com/ss48hao3/status/2088601506433966144/photo/1",
+              "media_key": "3_2088601448120467456",
+              "start": 89,
+              "url": "https://t.co/1u6rBcC0ik"
+            },
+            {
+              "display_url": "pic.x.com/1u6rBcC0ik",
+              "end": 112,
+              "expanded_url": "https://x.com/ss48hao3/status/2088601506433966144/photo/1",
+              "media_key": "3_2088601448195956736",
+              "start": 89,
+              "url": "https://t.co/1u6rBcC0ik"
+            },
+            {
+              "display_url": "pic.x.com/1u6rBcC0ik",
+              "end": 112,
+              "expanded_url": "https://x.com/ss48hao3/status/2088601506433966144/photo/1",
+              "media_key": "3_2088601448141479936",
+              "start": 89,
+              "url": "https://t.co/1u6rBcC0ik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088601506433966144",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088601448124690432"
+          },
+          {
+            "media_key": "3_2088601448120467456"
+          },
+          {
+            "media_key": "3_2088601448195956736"
+          },
+          {
+            "media_key": "3_2088601448141479936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "“看着sub变好，是我作为dom唯一的成就感来源。”（投稿）\n\n大家好，我是一个dom，也是一名心理咨询师。这次投稿是想从心理学的角度聊一聊自己对于bdsm这种亲密关系的理解。\n\n其实在心理学的角度，并没有抖s或者抖m这种说法，我们更倾向于将这种亲密关系理解成一种心理防御机制的投射，是大家为了避免生活中的压力，精神上的痛苦、紧张、焦虑等感觉，有意无意间进行的心理调整机制。\n\n我接触过一位sub，她在遇到压力时会非常需要一位“父亲”的角色，自己则会退化成婴儿状态，撒娇、卖萌、被当成小孩子一样管教，这种爱好被叫做ddlg（daddy dom little girl）。\n\n而在心理学上称这种状态为“退行性的逃避性防御机制（Regression/Regressive Emotionality）”。\n\n一些个体遇到挫折无法应付时，放弃成人的行为模式，退回儿童状态。这种状态意味着可以不用努力，不用去应付困难，依靠对别人的依赖来逃避挫折的现状。\n\n大家别担心，短时间、暂时性的“退行”不但是正常的、而且是非常常见的。\n\n人不可能永远能得心应手地处理自己所面对的挫折，所以成年人应当运用一切可行的手段来调节自己的情绪至正常状态。\n\n大部分ddlg的实践者在暂时退行后会获得良好的心理补偿，不但不会影响生活，反而会给生活增添不少情趣与色彩。但也需要注意，有人会迷恋于退行的状态，从而养成一遇到困难就退行的惯性，直至对自己和他人的生活带来痛苦，这种情况则可能会演化成心理疾病。\n\n这其中“少则浅，多则过”的度量把握，其实非常考验sub自身以及扮演“dom角色”之人的分寸，如何积极地引导这种亲密关系，往往决定了双方在相处时的感受和心理状态。\n\n可能是心理咨询师的缘故，我自己觉得舒适的ds关系，是通过引入、压抑、释放、稳固、平衡等过程后，让sub的情绪可以更稳定、更自信、强化其自我补偿、自我肯定机制，使得即便有一天关系结束，两人分开，回想起这段关系也是有益于生活而非给生活带去烦恼的。\n\n在我的理解中，sub想要的“依赖”、“被管教”、甚至“被惩罚”其实都只是一种表象，其背后真正需要dom给予的是“疗愈”。\n\n圈子里有一种说法——“dom和sub在一起后应当引领sub变得更好，而不是满足自己的私欲。”我想这种说法也与我的观点不谋而合。\n\n在2016年～2018年，我当时的partner是一位有着严重心理创伤的sub。她刚经历过性侵，初次见面时是她在征dom，我报名应征，聊天时她能够很大方地谈论法律对于性侵的处置以及自己对性教育的看法，但涉及自己的痛苦经历时，则会刻意选择避而不谈。\n\n我当时便告诉她她的心理状态并不好，处于一种情感隔离（Isolation of affect）的自我防御机制中。这属于一种自骗机制，个体将自己与某种不愉快的经历隔离开来，避免与自己的真实情感接触，从而逃避崩溃。\n\n例如在大地震中，一些人的亲人已经去世，但自己却仍然积极地救人，便是ta将自己与情感进行了隔离。\n\n除此之外还了解到她有一位男性sub，实践时她会想尽办法地折磨他，让他承认自己就应该被折磨，永远低她一等之类。\n\n这在心理学上则是典型的“投射/置换Projection/Transference”，将对性侵者的怨恨、报复转移到了另一个较为安全的对象上，以减轻自己心理上的焦虑。\n\n即便如此，她仍然觉得不够，因此她说自己还需要一位dom，去惩罚她，去羞辱她，告诉她她是个“婊子”“贱货”，这样她心理才能舒服一些。体味到这种扭曲的平衡，我突然就很能共情她。\n\n阿德勒曾经说过，“与了解人类行为，必须掌握两种基本的观念——自卑和补偿。”\n\n一个被同学排斥的学生，想加入黑帮来获得接纳；一个被性侵的受害者，想成为婊子、荡妇来完成身份降级的认同；其实都是“自卑”和“补偿”。\n\n还是上文讲的，她想要的“辱骂”“惩罚”都是表象，她真正需要dom给予的是“疗愈”。\n\n后来我们一起确立了一个目标，她交给我信任，我则试着解开她的心理防御机制，完成“升华”。\n\n这里的升华不是指文学上的华丽词藻，是一个心理学概念——它最早由佛洛依德提出，是指将一些伤害性的本能冲动通过社会认同的积极方式表达出来，从而获得内心的平静与安慰。\n\n通俗地说，当你在学校被坏学生欺负，你可以选择头破血流两败俱伤；也可以励志成为校长来改变现状，重塑校园正义价值观，后者就是升华。\n\n于是在成为她的dom后，我试着为她量身定制一些任务，然后对她的表现进行打分、评价，进而给她表扬、奖励或者惩罚。\n\n例如要求她阅读一些心理学方面的文章，并写读书笔记给我分享；比如带着她去参加一些同是被性侵者举办的分享会，一开始会要求她认真听，后来则鼓励她也去大胆分享自己的故事。\n\n她在心理状态及其低落时，会变成回避性人格，逃避所有的一切，不上班、不吃饭、不玩手机，只是呆呆地躺在床上，连衣服都懒得穿。\n\n这时我还会利用dom的身份为她制定一些社会接触计划，让她出门，与人聊天、交谈，哪怕只是去超市买个东西，与售货员打个招呼。\n\n在一年多的时间里她逐渐变得活泼，自信，接纳自己。有一次在一个活动上，她分享了自己的故事，随后每个人都去给了她一个拥抱，她突然不再像之前一样重复“我没事”，而是放声大哭起来。\n\n这在心理学上可以理解为她开始卸下厚重的防御机制，开始接纳那个不完美的自我。看着sub变好，是我作为dom唯一的成就感来源。后来她的心理偏差逐渐回归正常，对于ds的需求也越来越少，最后我们达成共识，逐渐淡化我的任务和控制行为，使她在没有dom给出指令的时候，也能自如地完成社会生活。\n\n在解除ds关系成为朋友后，我并不会觉得遗憾，我觉得自己在她生命中的使命已经完成了，我们都到达了人生的新阶段，看着她变好了之后离开我，我替她感到由衷地开心。\n\n这其实说起来容易做起来难。许多dom会强行将ds关系停留在“压抑—释放”的阶段，并通过自己的私心将sub原本的情绪问题强化，从而向拿捏住了sub的死穴一样，试图长期地控制对方，以满足自己的私欲。\n\n最常见的情况便是sub需要“奖励”，需要“惩罚”，dom非但不去探究其背后的真正心理原因，还以此作为把柄——“你想要xx的话先要好好服务我哦，我爽了才会考虑给不给你。”\n\n我并不喜欢这种关系模式，从心理咨询的角度看，这样的场景只会让对方的情绪变得更坏而不会更好，因为dom自私地将sub的所有情绪反馈绑定在自己身上，sub想获得正向情绪激励，则必须要去讨好dom，这种情形下一旦dom消失或将其抛弃，sub几乎毫无例外地会面临情绪奔溃、歇斯底里、抑郁等各种心理问题。\n\n当然这篇分享只是浅薄地讲述了我自己对于bdsm的一点理解，不一定是完全适合大家的。\n\n最后的最后，其实写这篇分享的初衷很简单，就是希望大家在ds关系中无论如何实践，心理状态都是随着关系的发展变好而不是变得更坏，是能获得互相的疗愈而不是伤害，如果我们在亲密关系中收获的仅仅是心碎，我想那样也失去了亲密关系开始的初衷。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 137,
+          "impression_count": 43710,
+          "like_count": 380,
+          "quote_count": 7,
+          "reply_count": 68,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "“看着sub变好，是我作为dom唯一的成就感来源。”（投稿）\n\n大家好，我是一个dom，也是一名心理咨询师。这次投稿是想从心理学的角度聊一聊自己对于bdsm这种亲密关系的理解。 https://t.co/1u6rBcC0ik"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "is_identity_verified": false,
+        "location": "Wan Chai District, Hong Kong",
+        "most_recent_tweet_id": "2088937898905068031",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965393379224944645/1757425808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 151,
+          "like_count": 31202,
+          "listed_count": 3,
+          "media_count": 826,
+          "tweet_count": 7728
+        },
+        "url": "",
+        "username": "hagishigure",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T13:09:23.000Z",
+        "description": "#绳师48号 #shibari48\n唯一小号防丢，大号@shibari48 其他的说大号被封的都是假的，别轻信，点进大号去看粉丝量，20w+才是真的。\nbdsm基础知识科普在此号中\n属性测试链接在下面⬇️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "绳师48号"
+              },
+              {
+                "end": 17,
+                "start": 7,
+                "tag": "shibari48"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "shibari48"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "test.48haotest.site",
+                "end": 23,
+                "expanded_url": "https://test.48haotest.site",
+                "start": 0,
+                "url": "https://t.co/parLivjI6d"
+              }
+            ]
+          }
+        },
+        "id": "1980622407556829184",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088601506433966144",
+        "name": "绳师48号",
+        "pinned_tweet_id": "1980630062153232447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980622407556829184/1761052651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980624277498941440/HFLh6ZJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22368,
+          "following_count": 2,
+          "like_count": 5,
+          "listed_count": 14,
+          "media_count": 23,
+          "tweet_count": 26
+        },
+        "url": "https://t.co/parLivjI6d",
+        "username": "ss48hao3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

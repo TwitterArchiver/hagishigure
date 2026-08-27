@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2086344294906863885",
+    "created_at": "2026-08-09T06:50:16.000Z",
+    "display_text_range": [
+      0,
+      82
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T07:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086344294906863885"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ix039/status/2…",
+          "end": 106,
+          "expanded_url": "https://twitter.com/ix039/status/2085121443902402916",
+          "start": 83,
+          "url": "https://t.co/qbx93IJwas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086344294906863885",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085121443902402916",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我对中国人可能产生生理性厌恶的原因应该是网络上都看起来像弱智。\n评论区怎么能连梅洛庞蒂以及Rubin都没读过就开始急着表达自己Gender和Sex都分不清的性幻想。 https://t.co/qbx93IJwas"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 770,
+        "media_key": "3_2085121432825335808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO_W5U0bkAAGNo6.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2086344294906863885",
+        "created_at": "2026-08-09T06:50:16.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T07:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086344294906863885"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ix039/status/2…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/ix039/status/2085121443902402916",
+              "start": 83,
+              "url": "https://t.co/qbx93IJwas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086344294906863885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085121443902402916",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我对中国人可能产生生理性厌恶的原因应该是网络上都看起来像弱智。\n评论区怎么能连梅洛庞蒂以及Rubin都没读过就开始急着表达自己Gender和Sex都分不清的性幻想。 https://t.co/qbx93IJwas"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085121432825335808"
+          ]
+        },
+        "author_id": "1872748744925687808",
+        "conversation_id": "2085121443902402916",
+        "created_at": "2026-08-05T21:51:06.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-05T22:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085121443902402916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P3LJLnuLAl",
+              "end": 23,
+              "expanded_url": "https://x.com/ix039/status/2085121443902402916/photo/1",
+              "media_key": "3_2085121432825335808",
+              "start": 0,
+              "url": "https://t.co/P3LJLnuLAl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085121443902402916",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2085121432825335808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 71488,
+          "like_count": 1136,
+          "quote_count": 14,
+          "reply_count": 22,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/P3LJLnuLAl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "is_identity_verified": false,
+        "location": "Wan Chai District, Hong Kong",
+        "most_recent_tweet_id": "2086344294906863885",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965393379224944645/1757425808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 152,
+          "like_count": 30967,
+          "listed_count": 3,
+          "media_count": 805,
+          "tweet_count": 7512
+        },
+        "url": "",
+        "username": "hagishigure",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-27T20:58:24.000Z",
+        "description": "15 y.o.|🏳️‍⚧️|she/her",
+        "id": "1872748744925687808",
+        "is_identity_verified": false,
+        "location": "Maryland, USA",
+        "most_recent_tweet_id": "2086154309075648712",
+        "name": "れい",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1872748744925687808/1760093815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976602711631056896/nDNPLTjU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 156,
+          "like_count": 503,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 167
+        },
+        "url": "",
+        "username": "ix039",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

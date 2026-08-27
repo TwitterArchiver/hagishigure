@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2084932209644060843",
+    "created_at": "2026-08-05T15:35:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T16:35:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085026799633694972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944737915671924736",
+          "start": 0,
+          "username": "yufun114514"
+        },
+        {
+          "end": 24,
+          "id": "1756909109788753920",
+          "start": 13,
+          "username": "__fanqie__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085026799633694972",
+    "in_reply_to_user_id": "1944737915671924736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085024526967132380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yufun114514 @__fanqie__ 在一个连通图里加入一个新顶点，并至少连一条边到原图的某个顶点，结果一定还是连通的。\n质心通过中线连到三个顶点，连通性更强，实际上会形成一个以质心为中心、三角形为外围的星状结构叠加原三角形边的图，显然连通。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2084932209644060843",
+        "created_at": "2026-08-05T15:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085026799633694972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944737915671924736",
+              "start": 0,
+              "username": "yufun114514"
+            },
+            {
+              "end": 24,
+              "id": "1756909109788753920",
+              "start": 13,
+              "username": "__fanqie__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085026799633694972",
+        "in_reply_to_user_id": "1944737915671924736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085024526967132380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yufun114514 @__fanqie__ 在一个连通图里加入一个新顶点，并至少连一条边到原图的某个顶点，结果一定还是连通的。\n质心通过中线连到三个顶点，连通性更强，实际上会形成一个以质心为中心、三角形为外围的星状结构叠加原三角形边的图，显然连通。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944737915671924736",
+        "conversation_id": "2084932209644060843",
+        "created_at": "2026-08-05T15:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085024526967132380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            },
+            {
+              "end": 24,
+              "id": "1756909109788753920",
+              "start": 13,
+              "username": "__fanqie__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085024526967132380",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085022095143002268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure @__fanqie__ 但是据我所知 这个题目和图论没什么太大关系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 153,
+          "like_count": 30705,
+          "listed_count": 3,
+          "media_count": 796,
+          "tweet_count": 7412
+        },
+        "url": "",
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T12:37:17.000Z",
+        "description": "业余无线电爱好者BI4JER（持有b类操作证）|个人主页https://t.co/DE2y5ryTdx|\n玩vrc |\n 会一点py和c#和c++ |\n平时喜欢捣鼓各种东西 | 不讨论涉政话题| 生产日期2011.07.08| hrt 2026.3.7\n已基本停止使用推特进行社交行为",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yufunyufun.top",
+                "end": 51,
+                "expanded_url": "http://yufunyufun.top",
+                "start": 28,
+                "url": "https://t.co/DE2y5ryTdx"
+              }
+            ]
+          }
+        },
+        "id": "1944737915671924736",
+        "location": "山↑东↓ 济南",
+        "name": "yufun🍥",
+        "pinned_tweet_id": "1986990519793426456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033871896765468677/Nt57VHO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 169,
+          "like_count": 4155,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 1363
+        },
+        "url": "",
+        "username": "yufun114514",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅随机性评论\n不讨论政治/随缘分享\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/baozhefanqie_h…",
+                "end": 23,
+                "expanded_url": "http://telegram.me/baozhefanqie_home",
+                "start": 0,
+                "url": "https://t.co/ndOwWuO2ty"
+              }
+            ]
+          }
+        },
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11884,
+          "following_count": 2782,
+          "like_count": 1610,
+          "listed_count": 25,
+          "media_count": 2515,
+          "tweet_count": 11361
+        },
+        "url": "https://t.co/ndOwWuO2ty",
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

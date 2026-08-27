@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085022076897726464"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "2084932209644060843",
+    "created_at": "2026-08-05T15:16:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T16:16:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085022095143002268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944737915671924736",
+          "start": 0,
+          "username": "yufun114514"
+        },
+        {
+          "end": 24,
+          "id": "1756909109788753920",
+          "start": 13,
+          "username": "__fanqie__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/87JC115Ang",
+          "end": 52,
+          "expanded_url": "https://x.com/hagishigure/status/2085022095143002268/photo/1",
+          "media_key": "3_2085022076897726464",
+          "start": 29,
+          "url": "https://t.co/87JC115Ang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085022095143002268",
+    "in_reply_to_user_id": "1944737915671924736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085021006482325884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yufun114514 @__fanqie__ 句号。 https://t.co/87JC115Ang"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1051,
+        "media_key": "3_2085022076897726464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO98iDJWEAAbiN6.jpg",
+        "width": 1140
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2085021000077631489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO97jXrbYAEdoJL.jpg",
+        "width": 2608
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085022076897726464"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "2084932209644060843",
+        "created_at": "2026-08-05T15:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085022095143002268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944737915671924736",
+              "start": 0,
+              "username": "yufun114514"
+            },
+            {
+              "end": 24,
+              "id": "1756909109788753920",
+              "start": 13,
+              "username": "__fanqie__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/87JC115Ang",
+              "end": 52,
+              "expanded_url": "https://x.com/hagishigure/status/2085022095143002268/photo/1",
+              "media_key": "3_2085022076897726464",
+              "start": 29,
+              "url": "https://t.co/87JC115Ang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085022095143002268",
+        "in_reply_to_user_id": "1944737915671924736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085021006482325884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yufun114514 @__fanqie__ 句号。 https://t.co/87JC115Ang"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085021000077631489"
+          ]
+        },
+        "author_id": "1944737915671924736",
+        "conversation_id": "2084932209644060843",
+        "created_at": "2026-08-05T15:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085021006482325884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1965393379224944645",
+              "start": 0,
+              "username": "hagishigure"
+            },
+            {
+              "end": 24,
+              "id": "1756909109788753920",
+              "start": 13,
+              "username": "__fanqie__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yXjIfRoS37",
+              "end": 55,
+              "expanded_url": "https://x.com/yufun114514/status/2085021006482325884/photo/1",
+              "media_key": "3_2085021000077631489",
+              "start": 32,
+              "url": "https://t.co/yXjIfRoS37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085021006482325884",
+        "in_reply_to_user_id": "1965393379224944645",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085020339868729649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hagishigure @__fanqie__ 证明过程在此 https://t.co/yXjIfRoS37"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 153,
+          "like_count": 30703,
+          "listed_count": 3,
+          "media_count": 796,
+          "tweet_count": 7411
+        },
+        "url": "",
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T12:37:17.000Z",
+        "description": "业余无线电爱好者BI4JER（持有b类操作证）|个人主页https://t.co/DE2y5ryTdx|\n玩vrc |\n 会一点py和c#和c++ |\n平时喜欢捣鼓各种东西 | 不讨论涉政话题| 生产日期2011.07.08| hrt 2026.3.7\n已基本停止使用推特进行社交行为",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yufunyufun.top",
+                "end": 51,
+                "expanded_url": "http://yufunyufun.top",
+                "start": 28,
+                "url": "https://t.co/DE2y5ryTdx"
+              }
+            ]
+          }
+        },
+        "id": "1944737915671924736",
+        "location": "山↑东↓ 济南",
+        "name": "yufun🍥",
+        "pinned_tweet_id": "1986990519793426456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033871896765468677/Nt57VHO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 169,
+          "like_count": 4152,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 1361
+        },
+        "url": "",
+        "username": "yufun114514",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅随机性评论\n不讨论政治/随缘分享\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/baozhefanqie_h…",
+                "end": 23,
+                "expanded_url": "http://telegram.me/baozhefanqie_home",
+                "start": 0,
+                "url": "https://t.co/ndOwWuO2ty"
+              }
+            ]
+          }
+        },
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11875,
+          "following_count": 2782,
+          "like_count": 1610,
+          "listed_count": 25,
+          "media_count": 2515,
+          "tweet_count": 11361
+        },
+        "url": "https://t.co/ndOwWuO2ty",
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

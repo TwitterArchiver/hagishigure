@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1965393379224944645",
+    "conversation_id": "2087191298151268664",
+    "created_at": "2026-08-11T14:55:58.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T15:55:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087191298151268664"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YeChuan1123/st…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/YeChuan1123/status/2087045688245039511",
+          "start": 47,
+          "url": "https://t.co/8Q1lKmaM83"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087191298151268664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087045688245039511",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我知道这很对不起你的悲伤，但是我看到这个我想起来的是雪秋那个宣传片「ta每天要吃三十粒药」。 https://t.co/8Q1lKmaM83"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2087045676513566720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPas_DKbIAA4dGK.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1917,
+        "media_key": "3_2087045676517793793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPas_DLboAE61dV.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1279,
+        "media_key": "3_2087045676526088193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPas_DNaMAEWBX3.jpg",
+        "width": 1597
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2087191298151268664",
+        "created_at": "2026-08-11T14:55:58.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087191298151268664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YeChuan1123/st…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/YeChuan1123/status/2087045688245039511",
+              "start": 47,
+              "url": "https://t.co/8Q1lKmaM83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087191298151268664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087045688245039511",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我知道这很对不起你的悲伤，但是我看到这个我想起来的是雪秋那个宣传片「ta每天要吃三十粒药」。 https://t.co/8Q1lKmaM83"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087045676513566720",
+            "3_2087045676517793793",
+            "3_2087045676526088193"
+          ]
+        },
+        "author_id": "1990582437282525187",
+        "conversation_id": "2087045688245039511",
+        "created_at": "2026-08-11T05:17:22.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T06:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087045688245039511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0CWtHNeFqB",
+              "end": 84,
+              "expanded_url": "https://x.com/YeChuan1123/status/2087045688245039511/photo/1",
+              "media_key": "3_2087045676513566720",
+              "start": 61,
+              "url": "https://t.co/0CWtHNeFqB"
+            },
+            {
+              "display_url": "pic.x.com/0CWtHNeFqB",
+              "end": 84,
+              "expanded_url": "https://x.com/YeChuan1123/status/2087045688245039511/photo/1",
+              "media_key": "3_2087045676517793793",
+              "start": 61,
+              "url": "https://t.co/0CWtHNeFqB"
+            },
+            {
+              "display_url": "pic.x.com/0CWtHNeFqB",
+              "end": 84,
+              "expanded_url": "https://x.com/YeChuan1123/status/2087045688245039511/photo/1",
+              "media_key": "3_2087045676526088193",
+              "start": 61,
+              "url": "https://t.co/0CWtHNeFqB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087045688245039511",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087045676513566720"
+          },
+          {
+            "media_key": "3_2087045676517793793"
+          },
+          {
+            "media_key": "3_2087045676526088193"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 783,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人今天喜提精神分裂症确诊了\n很难想象一个人要每天吃：\n氟西汀 舍曲林 奥氮平 氯硝西泮 思诺思 雌二醇 醋酸环丙孕酮（ https://t.co/0CWtHNeFqB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "is_identity_verified": false,
+        "location": "Wan Chai District, Hong Kong",
+        "most_recent_tweet_id": "2087191298151268664",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965393379224944645/1757425808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 151,
+          "like_count": 31095,
+          "listed_count": 3,
+          "media_count": 808,
+          "tweet_count": 7576
+        },
+        "url": "",
+        "username": "hagishigure",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-18T00:46:58.000Z",
+        "description": "20↑/UoT🇨🇦 同类互fo🏳️‍⚧️MTF 中文/Eng/日本語\n🎀Love mizuki & Sylveon🎀\n超级碎碎念…精神不好/重抑/自毁倾向/精神分裂症/病娇\n*💝此生唯一的挚爱！伴侣: @blingbling712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 101,
+                "username": "blingbling712"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizuki.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://mizuki.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/ebZ9R1hZ2I"
+              }
+            ]
+          }
+        },
+        "id": "1990582437282525187",
+        "is_identity_verified": false,
+        "location": "布林的怀里",
+        "most_recent_tweet_id": "2087126023410442654",
+        "name": "YeChuan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1990582437282525187/1782582424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076302592901001216/YAdpUpUf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 391,
+          "like_count": 1902,
+          "listed_count": 4,
+          "media_count": 80,
+          "tweet_count": 867
+        },
+        "url": "https://t.co/ebZ9R1hZ2I",
+        "username": "YeChuan1123",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

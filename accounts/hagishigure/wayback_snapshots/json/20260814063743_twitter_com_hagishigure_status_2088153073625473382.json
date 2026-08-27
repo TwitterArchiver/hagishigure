@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088153061801820160"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1838998617064878080",
+          "name": "developers"
+        }
+      }
+    ],
+    "conversation_id": "2088153073625473382",
+    "created_at": "2026-08-14T06:37:43.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T07:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088153073625473382"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2Lja7bA0kN",
+          "end": 44,
+          "expanded_url": "https://x.com/hagishigure/status/2088153073625473382/photo/1",
+          "media_key": "3_2088153061801820160",
+          "start": 21,
+          "url": "https://t.co/2Lja7bA0kN"
+        },
+        {
+          "display_url": "x.com/zhi_cheng233/s…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/zhi_cheng233/status/2088026371671093456",
+          "start": 45,
+          "url": "https://t.co/H1kQjThgDJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088153073625473382",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088153061801820160"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088026371671093456",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "死吗蘑菇盆栽说什么信什么你也是闹麻了。💅 https://t.co/2Lja7bA0kN https://t.co/H1kQjThgDJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1802,
+        "media_key": "3_2088153061801820160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqcJW1XgAAf3eV.jpg",
+        "width": 1280
+      },
+      {
+        "height": 373,
+        "media_key": "3_2088026336220598272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPoo49QW0AAOYfI.jpg",
+        "width": 1270
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2088026342361051136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPoo5UIWsAAVMwg.jpg",
+        "width": 1272
+      },
+      {
+        "height": 2653,
+        "media_key": "3_2088026353756930048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPoo5-lWAAANAF-.jpg",
+        "width": 1271
+      },
+      {
+        "height": 1507,
+        "media_key": "3_2088026364767006721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPoo6nmWcAEL3MY.jpg",
+        "width": 426
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088153061801820160"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2088153073625473382",
+        "created_at": "2026-08-14T06:37:43.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T07:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088153073625473382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Lja7bA0kN",
+              "end": 44,
+              "expanded_url": "https://x.com/hagishigure/status/2088153073625473382/photo/1",
+              "media_key": "3_2088153061801820160",
+              "start": 21,
+              "url": "https://t.co/2Lja7bA0kN"
+            },
+            {
+              "display_url": "x.com/zhi_cheng233/s…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/zhi_cheng233/status/2088026371671093456",
+              "start": 45,
+              "url": "https://t.co/H1kQjThgDJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088153073625473382",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088153061801820160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088026371671093456",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "死吗蘑菇盆栽说什么信什么你也是闹麻了。💅 https://t.co/2Lja7bA0kN https://t.co/H1kQjThgDJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088026336220598272",
+            "3_2088026342361051136",
+            "3_2088026353756930048",
+            "3_2088026364767006721"
+          ]
+        },
+        "author_id": "1550811468009963521",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2088026371671093456",
+        "created_at": "2026-08-13T22:14:15.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T23:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088026371671093456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "3.Google",
+              "end": 117,
+              "expanded_url": "https://3.Google",
+              "start": 94,
+              "unwound_url": "https://3.Google",
+              "url": "https://t.co/kRsSWMLKKJ"
+            },
+            {
+              "display_url": "pic.x.com/9XdNkQJyqe",
+              "end": 159,
+              "expanded_url": "https://x.com/zhi_cheng233/status/2088026371671093456/photo/1",
+              "media_key": "3_2088026336220598272",
+              "start": 136,
+              "url": "https://t.co/9XdNkQJyqe"
+            },
+            {
+              "display_url": "pic.x.com/9XdNkQJyqe",
+              "end": 159,
+              "expanded_url": "https://x.com/zhi_cheng233/status/2088026371671093456/photo/1",
+              "media_key": "3_2088026342361051136",
+              "start": 136,
+              "url": "https://t.co/9XdNkQJyqe"
+            },
+            {
+              "display_url": "pic.x.com/9XdNkQJyqe",
+              "end": 159,
+              "expanded_url": "https://x.com/zhi_cheng233/status/2088026371671093456/photo/1",
+              "media_key": "3_2088026353756930048",
+              "start": 136,
+              "url": "https://t.co/9XdNkQJyqe"
+            },
+            {
+              "display_url": "pic.x.com/9XdNkQJyqe",
+              "end": 159,
+              "expanded_url": "https://x.com/zhi_cheng233/status/2088026371671093456/photo/1",
+              "media_key": "3_2088026364767006721",
+              "start": 136,
+              "url": "https://t.co/9XdNkQJyqe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088026371671093456",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088026336220598272"
+          },
+          {
+            "media_key": "3_2088026342361051136"
+          },
+          {
+            "media_key": "3_2088026353756930048"
+          },
+          {
+            "media_key": "3_2088026364767006721"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "3.Google",
+                "end": 117,
+                "expanded_url": "http://3.Google",
+                "start": 94,
+                "url": "https://t.co/fZxeqcYwAw"
+              }
+            ]
+          },
+          "text": "最近上海那件事真的是闹麻了\n传得天花乱坠\n结合咱拿到信源整理一下\n1.视频里施害者与受害者均是trans，非网传trans捅顺直\n2.受害者与施害者朋友（视频拍摄者）均说明受害者没有偷拍\nhttps://t.co/fZxeqcYwAw Developer 袋子是受害者的\n4.施害者是Oder，但没有足够证据证明在事发前8h使用普瑞巴林/加巴喷丁/或其他药物，据受害者描述施害者承认自己喝了酒\n5.据受害者描述在场当事人并非全部看乐子\n6.施害者目前最该担心的是违反药品管理法第115条，售卖列管药品"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 9831,
+          "like_count": 56,
+          "quote_count": 7,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "最近上海那件事真的是闹麻了\n传得天花乱坠\n结合咱拿到信源整理一下\n1.视频里施害者与受害者均是trans，非网传trans捅顺直\n2.受害者与施害者朋友（视频拍摄者）均说明受害者没有偷拍\nhttps://t.co/kRsSWMLKKJ Developer 袋子是受害者的 https://t.co/9XdNkQJyqe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "is_identity_verified": false,
+        "location": "Wan Chai District, Hong Kong",
+        "most_recent_tweet_id": "2088153073625473382",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965393379224944645/1757425808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 152,
+          "like_count": 31221,
+          "listed_count": 3,
+          "media_count": 823,
+          "tweet_count": 7679
+        },
+        "url": "",
+        "username": "hagishigure",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-23T11:54:12.000Z",
+        "description": "🚪88-所有命运的馈赠早已在暗中标注好了价格-/06年🍥/INFP-T/全栈开发者/52KG173CM/意识流发推\n最好的妹妹:@ILikeHappy_uwu\nHRT:24.4.20\n合作请私TG\n频道:https://t.co/1UTMj4Ojzo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "ILikeHappy_uwu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/zhi_cheng233_c…",
+                "end": 125,
+                "expanded_url": "https://t.me/zhi_cheng233_channel",
+                "start": 102,
+                "url": "https://t.co/1UTMj4Ojzo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhicheng233.top",
+                "end": 23,
+                "expanded_url": "https://zhicheng233.top",
+                "start": 0,
+                "url": "https://t.co/t9zy8FktvQ"
+              }
+            ]
+          }
+        },
+        "id": "1550811468009963521",
+        "is_identity_verified": false,
+        "location": "广东 IP归属:CLOUDFLARE",
+        "most_recent_tweet_id": "2088150237395243116",
+        "name": "志成",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1550811468009963521/1684569210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997748573606412288/Brv5JHcH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 925,
+          "like_count": 8850,
+          "listed_count": 5,
+          "media_count": 565,
+          "tweet_count": 3950
+        },
+        "url": "https://t.co/t9zy8FktvQ",
+        "username": "zhi_cheng233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

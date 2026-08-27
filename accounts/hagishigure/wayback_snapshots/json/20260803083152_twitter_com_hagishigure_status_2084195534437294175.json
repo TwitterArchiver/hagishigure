@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084195524861661185"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "2084195534437294175",
+    "created_at": "2026-08-03T08:31:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T09:31:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084195534437294175"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HHfUNVPjOt",
+          "end": 61,
+          "expanded_url": "https://x.com/hagishigure/status/2084195534437294175/photo/1",
+          "media_key": "3_2084195524861661185",
+          "start": 38,
+          "url": "https://t.co/HHfUNVPjOt"
+        },
+        {
+          "display_url": "x.com/Y2D80355/statu…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/Y2D80355/status/1955069504809021685",
+          "start": 62,
+          "url": "https://t.co/miWJuWIWDX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084195534437294175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955069504809021685",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "严肃发表声讨limelight的话并要求limelight把Arts复活。 https://t.co/HHfUNVPjOt https://t.co/miWJuWIWDX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 296,
+        "media_key": "3_2084195524861661185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyMyY3WkAEgyXc.jpg",
+        "width": 707
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084195524861661185"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "2084195534437294175",
+        "created_at": "2026-08-03T08:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084195534437294175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HHfUNVPjOt",
+              "end": 61,
+              "expanded_url": "https://x.com/hagishigure/status/2084195534437294175/photo/1",
+              "media_key": "3_2084195524861661185",
+              "start": 38,
+              "url": "https://t.co/HHfUNVPjOt"
+            },
+            {
+              "display_url": "x.com/Y2D80355/statu…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/Y2D80355/status/1955069504809021685",
+              "start": 62,
+              "url": "https://t.co/miWJuWIWDX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084195534437294175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955069504809021685",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "严肃发表声讨limelight的话并要求limelight把Arts复活。 https://t.co/HHfUNVPjOt https://t.co/miWJuWIWDX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540698144429596673",
+        "conversation_id": "1955069504809021685",
+        "created_at": "2025-08-12T00:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T01:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955069504809021685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Misaka_tsinggi…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/Misaka_tsinggi/status/1955024976421196256",
+              "start": 137,
+              "url": "https://t.co/QJuqj86xUP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955069504809021685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955024976421196256",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "冤有头债有主，自己看看当年的limelight资料去。不去声讨你juan当时ll管理层的那几个知名进步跨畜和意见领袖在这挑上软柿子捏你是这个👍\n为什么不去呢？估计也怕进步跨畜迫害吧😄，看来是知道进步跨畜铁拳有多重结果只能犯贱瞎骂几个日子人，拿小号在这糊弄鬼呢，上大号说话。 https://t.co/QJuqj86xUP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 154,
+          "like_count": 30604,
+          "listed_count": 3,
+          "media_count": 795,
+          "tweet_count": 7366
+        },
+        "url": "",
+        "username": "hagishigure",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T14:07:33.000Z",
+        "description": "",
+        "id": "1540698144429596673",
+        "name": "ˈʏpsilɔn",
+        "pinned_tweet_id": "2083090334536380645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074827288361713664/TdNVdAn8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 898,
+          "like_count": 7806,
+          "listed_count": 2,
+          "media_count": 331,
+          "tweet_count": 6573
+        },
+        "url": "",
+        "username": "Y2D80355",
+        "verified": false
+      }
+    ]
+  }
+}

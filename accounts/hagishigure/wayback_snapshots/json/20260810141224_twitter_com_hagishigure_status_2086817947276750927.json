@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086817936031793152"
+      ]
+    },
+    "author_id": "1965393379224944645",
+    "conversation_id": "2086788597781610684",
+    "created_at": "2026-08-10T14:12:24.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T15:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086817947276750927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1510447851507261445",
+          "start": 0,
+          "username": "LanziiLove"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZpdVigaoAY",
+          "end": 44,
+          "expanded_url": "https://x.com/hagishigure/status/2086817947276750927/photo/1",
+          "media_key": "3_2086817936031793152",
+          "start": 21,
+          "url": "https://t.co/ZpdVigaoAY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086817947276750927",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2086817936031793152"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086788597781610684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@LanziiLove 还是我有眼光。（ https://t.co/ZpdVigaoAY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1225,
+        "media_key": "3_2086817936031793152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXd2zwWwAAdyiU.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1332,
+        "media_key": "3_2086788581666979840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXDKKOaAAAOoSZ.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086817936031793152"
+          ]
+        },
+        "author_id": "1965393379224944645",
+        "conversation_id": "2086788597781610684",
+        "created_at": "2026-08-10T14:12:24.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086817947276750927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZpdVigaoAY",
+              "end": 44,
+              "expanded_url": "https://x.com/hagishigure/status/2086817947276750927/photo/1",
+              "media_key": "3_2086817936031793152",
+              "start": 21,
+              "url": "https://t.co/ZpdVigaoAY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086817947276750927",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086817936031793152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086788597781610684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LanziiLove 还是我有眼光。（ https://t.co/ZpdVigaoAY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086788581666979840"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2086788597781610684",
+        "created_at": "2026-08-10T12:15:47.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086788597781610684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wXspGRMtZn",
+              "end": 68,
+              "expanded_url": "https://x.com/LanziiLove/status/2086788597781610684/photo/1",
+              "media_key": "3_2086788581666979840",
+              "start": 45,
+              "url": "https://t.co/wXspGRMtZn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086788597781610684",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086788581666979840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "首先不论你遭遇过什么我都深表抱歉，同时我从来没有任何觉得“扭转治疗”是值得开玩笑的事情。\n但是我只看到了一个人非要把我和我男友之间开的小玩笑化出的一个单纯玩笑梗扣上一个“拿扭转治疗的苦难开玩笑”的帽子，然后在自己阅读能力不过关的同时说我认为“雄性性欲”=“不专一”，我不知道是不是你们那里并没有顿号这个标点符号导致你产生了这种误解，然后使您如此大张旗鼓地把我的玩笑化扣个高帽子然后挂出来🤯\n\n如果您还看不懂的话，还请您把此语境下的HRT和SRS变成“剁吊”理解。我猜你应该是没有见过大量的不专一的男性是什么样貌的。但是一旦变成雌激素和SRS了在您眼里就变成了拿苦难开玩笑了🤯您那“雄性性欲等于不专一”和“雌性性欲=专一”的神人言论我更是难以置信您是从哪里臆想出来的\n\n光是一个这种玩笑贴能被上升到这么高的程度给我扣个这么高的帽子，我要是发点真的爆的言论，给我扣个多大的帽子我都不敢想🤯\n\n宝宝我建议您还是少用这种思维看人看事，否则我只觉得你的认知配的上你的苦难"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3430,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "首先不论你遭遇过什么我都深表抱歉，同时我从来没有任何觉得“扭转治疗”是值得开玩笑的事情。 https://t.co/wXspGRMtZn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "HK",
+              "full_name": "Tsuen Wan, Hong Kong",
+              "geo": {
+                "coordinates": [
+                  114.10598,
+                  22.37908
+                ],
+                "type": "Point"
+              },
+              "region": "Tsuen Wan"
+            }
+          ]
+        },
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——嫌疑人X|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|好看的@amber_toffee |現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "is_identity_verified": false,
+        "location": "Wan Chai District, Hong Kong",
+        "most_recent_tweet_id": "2086817947276750927",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965393379224944645/1757425808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 153,
+          "like_count": 31050,
+          "listed_count": 3,
+          "media_count": 808,
+          "tweet_count": 7555
+        },
+        "url": "",
+        "username": "hagishigure",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜MtF 跨直女🏳️‍⚧️20岁纯情恋爱脑小女孩｜我的永生挚爱男友@Dexy0306❤️目标是25岁时结婚｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "Dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 135,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 112,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2086801475494359159",
+        "name": "雫丶Shizuku✨🏳️‍⚧️杜澄溪",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29725,
+          "following_count": 1619,
+          "like_count": 3685,
+          "listed_count": 86,
+          "media_count": 517,
+          "tweet_count": 3322
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
